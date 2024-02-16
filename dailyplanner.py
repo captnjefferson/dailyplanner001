@@ -1,9 +1,6 @@
-from openai import OpenAI
+import openai
 
-client = OpenAI(
-	# defaults to os.environ.get("OPENAI_API_KEY")
-	api_key="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",
-)
+client = OpenAI(api_key="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")  # Replace 'YOUR_API_KEY' with your actual key
 
 prompts = [
     "Ask the user to paste what tasks didn't get completed yesterday. Gently interrogate why those tasks weren't able to be completed.",
