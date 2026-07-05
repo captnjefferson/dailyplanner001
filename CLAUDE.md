@@ -13,8 +13,8 @@ This project runs Jefferson Stovall's hiring-manager-direct outreach pipeline. F
 8. **No new tooling** until 8–10 roles have flowed through and friction points are known.
 
 ## Workflow
-- `/brief` — gate-score new Catalyst roles (read Notion via MCP), output briefing table. Read-only; safe to run headless.
-- `/run-role <posting-url-or-catalyst-page>` — full pipeline on one authorized role: spawn the four research subagents IN PARALLEL, intake, synthesize, draft. Output to `runs/YYYY-MM-DD-<org>/`.
+- `/gate` — gate-score new Catalyst roles (read Notion via MCP); outputs the scored table that FEEDS Jefferson's local `/briefing` (Hal9000 morning product — separate repo). The research thumbs-up (human gate #1) happens in that briefing, never here. Renamed from `/brief` 2026-07-05 to avoid colliding with Hal9000's local `/brief` ops command. Read-only; safe to run headless. Module stub for the briefing side: `reference/briefing-module.md`.
+- `/run-role <posting-url-or-catalyst-page>` — full pipeline on one role approved in the briefing: spawn the four research subagents IN PARALLEL, intake, synthesize, draft. Output to `runs/YYYY-MM-DD-<org>/`.
 - `/backtest` — score a role set against the gate without running research.
 
 ## Research subagents (each returns ONLY the dossier template in reference/dossier-template.md)
@@ -30,4 +30,4 @@ This project runs Jefferson Stovall's hiring-manager-direct outreach pipeline. F
 
 ## Catalyst Pipeline (Notion) — verified 2026-07-05
 - Database: https://app.notion.com/p/38f164c1810d817dafddd42ea3cb4157 (data source `collection://38f164c1-810d-8121-9f38-000b5a53dbaf`, inside "Catalyst — Job Application Pipeline")
-- Schema: `Name` (title), `Stage` (Inbox / Sourced / Building / Review / Ready / Applied / Interviewing / Closed), `Tier`, `Detail` (posting URL), `Amount` (comp), `Blocked`. `/brief` queries Stage ∈ {Inbox, Sourced, Review}.
+- Schema: `Name` (title), `Stage` (Inbox / Sourced / Building / Review / Ready / Applied / Interviewing / Closed), `Tier`, `Detail` (posting URL), `Amount` (comp), `Blocked`. `/gate` queries Stage ∈ {Inbox, Sourced, Review}.
