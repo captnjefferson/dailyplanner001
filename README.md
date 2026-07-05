@@ -18,7 +18,8 @@ The Notion MCP server is pre-configured in `.mcp.json` — approve it on first l
 
 ## 5. Briefing integration (the intended wiring)
 Headless run on a schedule (launchd/cron on macOS), before your usual `/briefing` time:
-    claude -p "/gate" > ~/briefings/$(date +%F)-gate.md
+    claude -p "/gate" --permission-mode acceptEdits > ~/briefings/$(date +%F)-gate.md
+(acceptEdits lets the run append `runs/gate-ledger.md`, the already-scored watermark; the feed always opens with a dated headline line — counts or "nothing new" — so a missing/empty file means the cron broke, never a quiet day)
 Then point a Hal9000 `skills/briefing/` module at that file — a paste-ready stub is in `reference/briefing-module.md`. Safe because /gate is read-only. Research approval (in the briefing) and sending stay your two gates.
 
 Note: this repo's gate command is `/gate`, not `/brief` — Hal9000 already owns `/brief` (Daily Ops Brief) and `/briefing` (morning product) locally.

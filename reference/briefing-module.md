@@ -7,8 +7,8 @@ Purpose: surface the overnight Catalyst gate feed; collect Jefferson's research 
 
 Steps:
 1. Read today's feed file: `~/briefings/<YYYY-MM-DD>-gate.md` (today's date). If missing, emit exactly one line — "Catalyst gate: no feed today (cron may not have run)" — and stop.
-2. Render the PASS and NEAR-MISS rows verbatim. The table arrives pre-scored and pre-formatted: do NOT rescore, re-rank, or editorialize. Keep warm-path flags prominent.
-3. End with the approval affordance: "Approve research per role by replying with its `/run-role <url>` line — execute in the hm-outreach project."
+2. Always render the feed's headline line first — quiet days surface one line ("Nothing new in Inbox/Sourced/Review since the last run." / "Nothing passed the gate today."), so cadence stays visible and a missing headline means a broken cron, not a quiet day. Then render PASS and NEAR-MISS rows verbatim when present. The table arrives pre-scored and pre-formatted: do NOT rescore, re-rank, or editorialize. Keep warm-path flags prominent.
+3. When PASS/NEAR-MISS rows exist, end with the approval affordance: "Approve research per role by replying with its `/run-role <url>` line — execute in the hm-outreach project."
 
 Contract notes:
 - The feed is produced by `/gate` in the hm-outreach repo (read-only against Notion; the rubric lives there — this module never rescores).
