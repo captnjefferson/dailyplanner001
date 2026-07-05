@@ -17,3 +17,4 @@
 2026-07-05 | Techolution — AI Adoption & Transformation Mgr | catalyst | FAIL
 2026-07-05 | Higharc — AI Enablement Lead | catalyst | PRE-FILTER(equity)
 2026-07-05 | Juniper Square — AI Enablement Lead | catalyst | PRE-FILTER(eligibility)
+2026-07-05 | enGen (Highmark Health) — VP, AI Strategy & Enablement | https://www.notion.so/394164c1810d814c96c3c2930dd3c05d | FAIL(C1 health rule; application unaffected)
