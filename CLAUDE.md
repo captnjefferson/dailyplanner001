@@ -31,6 +31,3 @@ This project runs Jefferson Stovall's hiring-manager-direct outreach pipeline. F
 ## Catalyst Pipeline (Notion) — verified 2026-07-05
 - Database: https://app.notion.com/p/38f164c1810d817dafddd42ea3cb4157 (data source `collection://38f164c1-810d-8121-9f38-000b5a53dbaf`, inside "Catalyst — Job Application Pipeline")
 - Schema: `Name` (title), `Stage` (Inbox / Sourced / Building / Review / Ready / Applied / Interviewing / Closed), `Tier`, `Detail` (posting URL), `Amount` (comp), `Blocked`. `/brief` queries Stage ∈ {Inbox, Sourced, Review}.
-
-## Repo note
-`dailyplanner.py` and `dailyplannerchatbot` are pre-existing legacy scripts from this repo (unrelated daily-review chatbot). Leave them untouched; they are not part of this pipeline.
