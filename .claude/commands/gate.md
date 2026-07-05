@@ -1,6 +1,15 @@
 Catalyst gate-scoring pass — the FEED for Jefferson's local `/briefing` (Hal9000 morning product). Approval happens in that briefing, not here; this command only scores and reports. (Named /gate to avoid colliding with Hal9000's local /brief ops command.)
 
-1. Query the Catalyst Pipeline Notion database (MCP) for roles in Stage Inbox/Sourced/Review.
+1. Query the Catalyst Pipeline Notion database for roles in Stage Inbox/Sourced/Review — **direct Notion API, not MCP** (deployment adaptation 2026-07-05: headless cron can't complete the hosted-MCP OAuth, and Jefferson's global CLAUDE.md mandates direct API for all Notion ops). Token: `$NOTION_TOKEN` (global CLAUDE.md carries the fallback). Query:
+
+```bash
+TOKEN="${NOTION_TOKEN:-see-global-CLAUDE.md-fallback}"
+curl -s -X POST "https://api.notion.com/v1/databases/38f164c1-810d-817d-afdd-d42ea3cb4157/query" \
+  -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" -H "Notion-Version: 2022-06-28" \
+  -d '{"filter":{"or":[{"property":"Stage","select":{"equals":"Inbox"}},{"property":"Stage","select":{"equals":"Sourced"}},{"property":"Stage","select":{"equals":"Review"}}]},"page_size":100}'
+```
+
+   Pull per row: `Name` (title), `Stage`, `Tier`, `Detail` (posting URL), `Amount` (comp), `Blocked`, plus the first paragraph block when comp/tier context is needed.
 2. Skip roles already in `runs/gate-ledger.md` (the scored-role watermark). Everything remaining is "new."
 3. Apply pre-filters from CLAUDE.md rule 5. Pre-filter hits: list under "Volume machine only" with the tripped filter.
 4. Score survivors per reference/rubric.md: C1 (mandatory) / C2 / C3, graded /6, binary verdict.
