@@ -1,23 +1,24 @@
 # Run status — Razorfish (Publicis Groupe) — VP AI Enablement
 
-**Started:** 2026-07-05
+**Completed:** 2026-07-05 (supersedes the earlier BLOCKED status — web access was live this session)
 **Posting:** https://careers.publicisgroupe.com/razorfish/jobs/152998
-**Gate:** PASS (recorded 2026-07-05 in runs/gate-ledger.md — "Razorfish — VP AI Enablement | catalyst | PASS"). Gate #1 satisfied; run authorized.
+**Comp:** $149,340–$239,148 · New York, NY
+**Gate:** PASS (runs/gate-ledger.md, 2026-07-05)
 
-## State: BLOCKED — no web access in this session
+## State: COMPLETE — ready for Jefferson's review
 
-The full pipeline (four parallel research subagents → intake → synthesis → draft) requires live web research. In this session **every outbound-fetch path was denied at the permission layer**:
-- `WebFetch` — permission not granted (posting URL and retries).
-- `WebSearch` — permission not granted (subagents, all queries).
-- `curl` via Bash — command requires approval / denied (network egress blocked).
+Full pipeline ran: 4 research subagents (org-researcher, posting-archaeologist, person-finder, voice-corpus) → intake + spot-check → synthesis → draft. Two human gates intact: research was authorized via /run-role; **nothing was sent.**
 
-All three launched subagents (org-researcher, posting-archaeologist, person-finder) correctly refused to fabricate and returned empty dossiers with the reason. voice-corpus was not launched (it depends on person-finder naming a target). No sourced findings exist, so no brief.md or note.md was written — per non-negotiable rule 2, a claim without a working URL is deleted, not softened.
+## Deliverables in this folder
+- `posting.md` — captured JD (canonical page is a JS SPA; JD reconstructed from search + mirrors)
+- `dossier-org.md` / `dossier-posting.md` / `dossier-person.md` — Phase 1A/1B/1C dossiers
+- (voice corpus folded into brief.md person layer)
+- `brief.md` — synthesis: Real Problem Hypothesis, One Insight, matched proof, warm-path + channel recs, source ledger, gaps register
+- `note.md` — draft cold note (117 words) + one value-add follow-up + flags + top-2 uncertainties
 
-## Only thing established
-- Warm-path vein (from `background/network.md`, file-sourced, not web): agency-world overlap runs through **Casey (Berthelot) Kincheloe** (Rational 360) and Beekeeper partners **Alex Dickinson** / **Mike Panetta** for possible second-degree intros into Publicis/Razorfish. No connector→named-target edge could be confirmed without LinkedIn access. Do NOT treat as a confirmed path yet.
+## Headline
+Strong fit. The JD is a builder-operator role ("agentic coding environments," "single-prompt vs. deterministic multi-agent pipelines," "suite of agentic apps in production") that maps almost one-to-one onto Jefferson's Adaptiverse orchestrator re-architecture + adoption-via-verification cohort work. Draft addressed to Pete Walker (CTO) as the reachable, register-matched HM hypothesis.
 
-## To unblock (pick one) and re-run `/run-role https://careers.publicisgroupe.com/razorfish/jobs/152998`
-1. Run `/run-role` in an **interactive** Claude Code session where WebFetch/WebSearch prompts can be approved, OR
-2. Pre-approve the tools/domains in settings (WebSearch + WebFetch; domains: careers.publicisgroupe.com, publicisgroupe.com, linkedin.com, web.archive.org, adweek.com, digiday.com, campaignlive.com, thedrum.com), then re-run.
-
-The four subagents can be resumed with their agent IDs, but a clean re-run is simpler once web access is live.
+## Two things a human must resolve before send
+1. Confirm recipient — HM unconfirmed (Walker CTO / Zhang CDAO / Lawrence CSIO). Note written to Walker.
+2. Confirm the live posting actually carries the "agentic apps in production" language (canonical SPA was un-fetchable; note leans on mirror snippets). Optional: 5-min LinkedIn search for a 2nd-degree warm path — none was findable headless.
