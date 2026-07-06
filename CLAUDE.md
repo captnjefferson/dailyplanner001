@@ -17,6 +17,14 @@ This project runs Jefferson Stovall's hiring-manager-direct outreach pipeline. F
 - `/run-role <posting-url-or-catalyst-page>` — full pipeline on one role approved in the briefing: spawn the four research subagents IN PARALLEL, intake, synthesize, draft. Output to `runs/YYYY-MM-DD-<org>/`.
 - `/backtest` — score a role set against the gate without running research.
 
+## Post-research note flow (CANONICAL — Jefferson, 2026-07-05: "if this works, this should become canonical")
+After `/run-role` produces a draft, before anything reaches Jefferson's review table:
+1. **Humantic profile** the target person: app.humantic.ai → Search For Anyone → paste the LinkedIn URL (or Name + Company) → click the result → Download PDF (lands in `~/Downloads/<Name> - Humantic AI Buyer Profile.pdf`). Jefferson's Chrome session is signed in. (The LinkedIn-page extension popup is the faster path when a human drives; it does not inject for automated sessions — use the app.) No person found (e.g. portal-only roles) → skip; the note ships as the application cover note.
+2. **Adjust the note** for the profile's language/tone/structure guidance (salutation, length, bullets-or-not, ask style, superlative tolerance) — anti-slop rules and Jefferson's voice remain BINDING and win any conflict (e.g. Humantic "standard greeting line" loses to substance-first). Adjust register/structure, never mimic the person.
+3. **Publish to Notion**: one child page per role under the role's Catalyst detail page, titled `HM outreach note — <Person> (<Org>) — YYYY-MM-DD`, containing recipient/channel callout, the adjusted note, the single follow-up, what-changed-for-the-profile, and verify-before-send flags.
+4. **Hand off to the apply-side agent** (board name: **Job Apps**) via the Agent Messages board: all note URLs + instruction to include each URL in the review list/table Jefferson gets, one per matching application row. Notes remain Jefferson's to send personally (gate 2).
+Conditional-truth rule: any note claiming "my application is in" ships only after that application actually files.
+
 ## Research subagents (each returns ONLY the dossier template in reference/dossier-template.md)
 - `org-researcher` — Phase 1A: strategy, news, 990s if nonprofit, job-cluster analysis
 - `posting-archaeologist` — Phase 1B: repost history, language diffs, comp verification
