@@ -4,7 +4,7 @@
 
 ---
 
-### The note (cover note / cold note) — 122 words
+### The note (cover note / cold note) — 127 words
 
 The hard part of moving HR from early experimentation to disciplined adoption isn't the tooling — it's building a system that turns scattered pilots into vetted, reused capability instead of leaning on a few champions. That's the work I've been doing.
 
@@ -25,7 +25,7 @@ Worth a short conversation about how you're structuring the adoption loop?
 6. "the fluency-bar shift your posting names" — **ledger-backed** (canonical req verbatim: "generative AI has shifted the fluency bar from technical coding to clear problem reasoning").
 7. CTA — soft question, no ask for a job. Compliant.
 
-**Anti-slop check:** 122 words (in 100–130); no flattery opener; substance-first; ONE proof point (cohort); platform line is insight-framing with no metrics; soft-question CTA; Jefferson's voice (direct, dry, builder). Register-matched to GE Vernova HR's disciplined/anti-hype altitude; no person's style mimicked.
+**Anti-slop check:** 127 words (in 100–130); no flattery opener; substance-first; ONE proof point (cohort); platform line is insight-framing with no metrics; soft-question CTA; Jefferson's voice (direct, dry, builder). Register-matched to GE Vernova HR's disciplined/anti-hype altitude; no person's style mimicked.
 
 ---
 
