@@ -18,3 +18,7 @@
 2026-07-05 | Higharc — AI Enablement Lead | catalyst | PRE-FILTER(equity)
 2026-07-05 | Juniper Square — AI Enablement Lead | catalyst | PRE-FILTER(eligibility)
 2026-07-05 | enGen (Highmark Health) — VP, AI Strategy & Enablement | https://www.notion.so/394164c1810d814c96c3c2930dd3c05d | FAIL(C1 health rule; application unaffected)
+
+## 2026-07-07 (/gate)
+2026-07-07 | ButterflyMX — Head of AI Strategy & Transformation | https://jobs.ashbyhq.com/butterflymx/3839e6f9-6c06-4595-826e-68d8d1dc3dc8/application | PASS
+2026-07-07 | LISC — Program Officer, Lending | https://job-boards.greenhouse.io/lisc/jobs/4704382005 | FAIL(C1 wrong-role; lending not AI/transformation)
