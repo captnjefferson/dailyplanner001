@@ -39,3 +39,9 @@ Conditional-truth rule: any note claiming "my application is in" ships only afte
 ## Catalyst Pipeline (Notion) — verified 2026-07-05
 - Database: https://app.notion.com/p/38f164c1810d817dafddd42ea3cb4157 (data source `collection://38f164c1-810d-8121-9f38-000b5a53dbaf`, inside "Catalyst — Job Application Pipeline")
 - Schema: `Name` (title), `Stage` (Inbox / Sourced / Building / Review / Ready / Applied / Interviewing / Closed), `Tier`, `Detail` (posting URL), `Amount` (comp), `Blocked`. `/gate` queries Stage ∈ {Inbox, Sourced, Review}.
+
+## Jefferson calibrations (2026-07-07, from the ButterflyMX cycle — apply to all future runs)
+- **HM inference at M confidence is sendable.** "Close enough is good enough" — address the best-inferred owner; don't spend a verification pass on HM identity. (Escalation alternates still get listed in the brief.)
+- **Org-fit beats req liveness.** If the org/role type is on-point, outreach proceeds even if the posting looks closed/filled — the warm lane targets orgs and people, not postings. Only the parallel APPLICATION needs a live-status check before filing.
+- **Comp bands that open below the $125K floor are workable when the max clears it** — he negotiates the top third. Keep flagging it in the table; don't treat it as a blocker.
+- **network.md is a living list** — he can add names anytime; resolve (live LinkedIn pull) and append, then the next /gate run picks them up.
