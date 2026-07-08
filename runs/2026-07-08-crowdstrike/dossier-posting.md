@@ -1,0 +1,33 @@
+## DOSSIER: Posting Archaeology
+## ROLE: CrowdStrike — Director, AI Operations & Marketing Transformation
+## COLLECTED: 2026-07-08
+
+### Findings
+
+- Canonical Workday posting is live; JSON API confirms startDate 2026-07-01, "Posted 7 Days Ago," close 08-23-2026, USA-Remote, base $155,000–$240,000 + bonus + equity, no sponsorship/clearance language — https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Director--AI-Operations---Marketing-Transformation--Remote-_R29129 — H
+- No Wayback Machine snapshot exists for the canonical URL (availability API returns has_archived_snapshot=false), consistent with a genuinely new (~7-day-old) posting, not a repost — http://archive.org/wayback/available?url=crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Director--AI-Operations---Marketing-Transformation--Remote-_R29129 — H
+- R29129 does not appear on any aggregator (LinkedIn, Indeed, Glassdoor, Built In, Levels.fyi, ZipRecruiter) under that req ID or title as of collection — no cross-board syndication yet, reinforcing fresh/canonical-only status and giving no evidence of re-leveling — https://www.glassdoor.com/Jobs/CrowdStrike-Jobs-E795976.htm — M
+- Role is greenfield/net-new, not a backfill: JD reads "Greenfield ownership at the intersection of AI, marketing strategy, and organizational change" and "starts as individual contributor (IC) with path to leadership"; no predecessor or prior incumbent located — https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Director--AI-Operations---Marketing-Transformation--Remote-_R29129 — H
+- This is part of a broader AI build-out, not a lone role: sibling reqs sharing AI-transformation language include Technical Program Manager, AI Transformation R29035; Marketing Operations Manager - AI Tools R26390; Sr. Director, Enterprise AI; Sr. Director, AI Program Management — https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Technical-Program-Manager--AI-Transformation--Remote-_R29035 — H
+- CrowdStrike's Built In posting for "Sr. Director, Enterprise AI" explicitly lists "Director, AI Operations & Marketing Transformation" as a related/similar job, tying this role into the Enterprise AI org cluster — https://builtin.com/job/sr-director-enterprise-ai-remote/4408073 — M
+- The Enterprise AI org has been staffing since at least early 2025 (Sr. Director, Enterprise AI posting carried a 05-12-2025 close date), so the internal-AI initiative predates R29129 — R29129 reads as a marketing-specific extension of an existing enterprise program — https://builtin.com/job/sr-director-enterprise-ai-remote/4408073 — M
+- Comp-band context: sibling Sr. Director, AI Program Management posts $210,000–$300,000 and Sr. Director, Enterprise AI posts $210,000–$310,000; the Director role's $155K–$240K base sits one level below, and its $155K floor is low for a CrowdStrike Director — consistent with the "IC-with-path-to-leadership" entry framing — https://www.builtinboston.com/job/sr-director-ai-program-management-remote/9470268 — M
+- Level/structure signal: a Director-level IC (no reports) reporting to a "VP of Marketing Transformation" with an explicit "path to leadership" implies an unproven, early-stage initiative where CrowdStrike hires a builder-operator first and staffs a team under them only if it lands — H
+- Language diff (posting hyper-specific vs. strategy): the JD demands individual-tooling specificity — "Claude Code-level proficiency minimum," "Manage prompt architecture, memory systems, and context strategies," "token usage, model selection, throughput vs. quality tradeoffs" — https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Director--AI-Operations---Marketing-Transformation--Remote-_R29129 — H
+- Language diff (strategy specific vs. posting vague): CrowdStrike's PUBLIC AI strategy is external-product framed — "Charlotte AI AgentWorks Ecosystem," "Agentic SOC as the operating model," "securing the era of enterprise agentic AI" — while the posting is vague on how internal marketing-org transformation connects to that external agentic story; that unstated bridge is the real problem — https://www.forbes.com/sites/stevemcdowell/2026/04/16/crowdstrikes-next-act-securing-the-era-of-enterprise-agentic-ai/ — M
+- CrowdStrike's model-vendor list (Anthropic, NVIDIA, OpenAI in Charlotte AI AgentWorks) makes the JD's "Claude Code-level proficiency" requirement congruent with the company's actual toolchain, not a generic buzzword — https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-agentic-ai-innovations/ — M
+
+### Not Found (mandatory — what was searched for and not located)
+- Any Wayback Machine capture of the canonical URL — searched web.archive.org and the availability API (no snapshot)
+- Any cross-board listing of R29129 for a posting-date/comp discrepancy check — searched LinkedIn, Indeed, Glassdoor, Built In, Levels.fyi, ZipRecruiter by req ID and full title
+- A named/identifiable "VP of Marketing Transformation" (the stated reporting line) — searched CrowdStrike executive pages and LinkedIn; person-finder scope
+- Evidence of a predecessor or prior incumbent (backfill test) — searched LinkedIn and general web; none
+- Director-level (non-engineering) total-comp figures on Levels.fyi/Glassdoor to benchmark the band — Levels.fyi shows engineering only; Glassdoor/6figr returned 403
+- Full sibling-req enumeration via the Workday search JSON API — endpoint returned 400/403; sibling list from search results (may be incomplete)
+- A public CrowdStrike statement tying INTERNAL marketing AI transformation to its external agentic strategy — none found
+
+### Collector Notes (facts only — ambiguities, conflicting sources)
+- Workday search API and Glassdoor/Built In/6figr salary pages consistently block automated fetches (400/403); several sibling-date/comp data points reconstructed from search snippets — lower confidence there.
+- Two sibling postings share ATS tag "#LI-RC1" (Sr. Director, AI Program Management and Sr. Director, Enterprise AI), suggesting a common recruiter/req family in the Enterprise AI org.
+- The Sr. Director, Enterprise AI posting shows a 05-12-2025 close date — the internal AI program is roughly a year-plus old while R29129 is the fresh marketing-facing addition.
+- Comp: floor $155K is below the typical CrowdStrike Director band implied by sibling Sr. Director ranges ($210K+), but the $240K top + equity/bonus clear a Director-IC expectation — the wide spread fits a role scoped to hire either a senior IC or an emerging leader. [Per Jefferson calibration: floor-below-band is workable when the max clears — negotiate the top third.]
