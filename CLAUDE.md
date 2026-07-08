@@ -45,3 +45,17 @@ Conditional-truth rule: any note claiming "my application is in" ships only afte
 - **Org-fit beats req liveness.** If the org/role type is on-point, outreach proceeds even if the posting looks closed/filled — the warm lane targets orgs and people, not postings. Only the parallel APPLICATION needs a live-status check before filing.
 - **Comp bands that open below the $125K floor are workable when the max clears it** — he negotiates the top third. Keep flagging it in the table; don't treat it as a blocker.
 - **network.md is a living list** — he can add names anytime; resolve (live LinkedIn pull) and append, then the next /gate run picks them up.
+
+## Standing order — gate PASSes auto-run (Jefferson, 2026-07-08)
+
+"Continue with the gates and such for whichever jobs qualify. I don't need to
+approve any of that… Run it and pass whatever the results are on to Resumer."
+
+- Gate PASSes no longer wait for per-role research approval. The Fixer runs
+  `/run-role` directly on qualifying PASSes the same morning the feed lands.
+- "Qualifying" = the gate's own caveats still get verified BEFORE running
+  (e.g. 2026-07-08: Adobe verified internal-enablement not sales → ran;
+  USAA verified 4-days-in-office TX/NC → killed, no run).
+- Results (brief.md + note.md) are mailed to **Resumer** as they land.
+- **Gate 2 is untouched:** Jefferson personally edits and sends every note.
+  The system still never sends outreach.
