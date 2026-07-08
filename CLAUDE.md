@@ -108,3 +108,10 @@ this is an obvious call I can trust you to make"). The org-fit>liveness
 calibration is NOT a blanket keep-alive for dead reqs — it fires only when
 Jefferson has HIMSELF named the org as on-point (ButterflyMX precedent). Default
 for zombie reqs: kill silently; he can always resurrect.
+
+### Sending — permanent clarification (Jefferson, 2026-07-08)
+There is NO send mechanism anywhere in this system, and none may ever be built.
+The ⏱️ "SEND TRIGGER" callouts on note pages are timing guidance addressed to
+JEFFERSON — he is always the final and only sender (his LinkedIn, his email,
+his hands). No agent automates, schedules, or fires an outreach message under
+any circumstances. Gate 2 is absolute.
