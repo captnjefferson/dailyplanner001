@@ -100,3 +100,11 @@ Binding rules:
 5. Humantic register still shapes tone/length/structure within these rules.
 6. Draft notes with a "yesterday" placeholder + a tense-check verify item —
    the send date depends on when the app actually files.
+
+### Doctrine clarification (Jefferson, 2026-07-08 — the Crone kill)
+Dead req + no application possible = **KILL the note without asking** ("I don't
+know why we're talking about something that's been dead for over a year...
+this is an obvious call I can trust you to make"). The org-fit>liveness
+calibration is NOT a blanket keep-alive for dead reqs — it fires only when
+Jefferson has HIMSELF named the org as on-point (ButterflyMX precedent). Default
+for zombie reqs: kill silently; he can always resurrect.
