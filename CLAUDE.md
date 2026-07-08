@@ -75,3 +75,28 @@ approve any of that… Run it and pass whatever the results are on to Resumer."
 - Workday CXS search trick: POST {"searchText": q} to
   adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs — clean
   JSON, no browser needed.
+
+## Note doctrine v2 — APP-PAIRED (Jefferson, 2026-07-08 — SUPERSEDES the note-first framing everywhere)
+
+His words: "The sequence is job app goes into the system, within about 24 hours I
+follow up with one of these notes saying, 'Hey, I applied for that role, here's
+why it resonated well enough for me to find your email and get into your
+inbox.' What you've got right now sounds like a pitch — that's noise. I want to
+give these people _signal_."
+
+Binding rules:
+1. **Notes PAIR with applications.** No application → no note. (A no-app
+   exception is Jefferson's explicit per-role call, never the default.)
+2. **Sequence: application SUBMITS → ~24h → note.** Never before the submit.
+   The old conditional-truth rule ("say 'my application is in' only if true")
+   is obsolete — the app-mention is now mandatory and the sequencing makes it
+   always true.
+3. **The note names the application up front** (role + req id) and says why it
+   resonated — the one insight + the one proof point that made him apply. The
+   note's job is to pull the reader toward an application already in their
+   pipeline, not to open a conversation.
+4. **No pitch-CTAs.** Kill meeting asks ("swap notes", "15 minutes",
+   "compare notes"). The close points at the application — signal, not ask.
+5. Humantic register still shapes tone/length/structure within these rules.
+6. Draft notes with a "yesterday" placeholder + a tense-check verify item —
+   the send date depends on when the app actually files.
