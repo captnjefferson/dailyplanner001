@@ -115,3 +115,12 @@ The ⏱️ "SEND TRIGGER" callouts on note pages are timing guidance addressed t
 JEFFERSON — he is always the final and only sender (his LinkedIn, his email,
 his hands). No agent automates, schedules, or fires an outreach message under
 any circumstances. Gate 2 is absolute.
+
+### Doctrine v2.1 — the RESERVED FACT (Jefferson, 2026-07-08)
+When a fresh, high-signal fact exists that is NOT in the filed application
+(embargoed, too new, or negotiation-gated), the note LEADS with it: "I couldn't
+include this in the application because [honest reason], but…" The note must
+carry at least one thing the ATS doesn't have — that's what makes it signal
+instead of a summary. Current reserved fact: the October keynote+workshop for
+1,500 hospital leaders (see profile.md — notes only, never app materials,
+until the contract signs and Jefferson lifts the embargo).

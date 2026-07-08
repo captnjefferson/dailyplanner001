@@ -65,8 +65,15 @@ align with the target org, go mission-forward and assertive, not safe.
 
 ## Proof point — INVITED SPEAKER (added 2026-07-08, Jefferson-verified)
 October 2026: **keynote + hands-on workshop for 1,500 hospital leaders** on AI
-transformation. INVITED, not applied. Use for: executive presence / "hold a
-room" / AI gravitas / enablement-at-scale. Phrase as forward commitment ("in
-October I keynote…") — it has NOT happened yet, so no outcome claims. Event/org
-deliberately unnamed until Jefferson supplies it. State plainly; never inflate
-the number or the audience.
+transformation. INVITED, not applied. Contract NOT yet signed ("all signs are
+go") — which drives the usage rule:
+
+**RESERVED FOR PERSONAL NOTES ONLY (Jefferson, 2026-07-08).** EMBARGOED from
+applications, covers, and resumes. The play: the fact deliberately stays out of
+the filed app so the 24h-later note can lead with it as fresh, exclusive
+signal — "I couldn't include this in the application because we were wrapping
+the negotiation, but…" (his framing: "that sort of humble-braggy note"). Phrase
+as forward commitment ("in October I keynote…"), no outcome claims, event/org
+unnamed until he supplies it, never inflate the number. At send time, confirm
+contract status — the line describes the at-application moment, so it stays
+honest signed or not.
