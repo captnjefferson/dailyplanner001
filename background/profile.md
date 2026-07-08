@@ -62,3 +62,11 @@ AI-transformation/enablement leadership roles, $125K hard floor, cash-comp prior
 Direct, a little dry, builder's vocabulary. No hype adjectives. Numbers where honest —
 and ONLY the numbers above. Reads like ten minutes of thought. When values genuinely
 align with the target org, go mission-forward and assertive, not safe.
+
+## Proof point — INVITED SPEAKER (added 2026-07-08, Jefferson-verified)
+October 2026: **keynote + hands-on workshop for 1,500 hospital leaders** on AI
+transformation. INVITED, not applied. Use for: executive presence / "hold a
+room" / AI gravitas / enablement-at-scale. Phrase as forward commitment ("in
+October I keynote…") — it has NOT happened yet, so no outcome claims. Event/org
+deliberately unnamed until Jefferson supplies it. State plainly; never inflate
+the number or the audience.
