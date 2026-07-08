@@ -59,3 +59,19 @@ approve any of that… Run it and pass whatever the results are on to Resumer."
 - Results (brief.md + note.md) are mailed to **Resumer** as they land.
 - **Gate 2 is untouched:** Jefferson personally edits and sends every note.
   The system still never sends outreach.
+
+## Standing priority — ADOBE (Jefferson, 2026-07-08, window ~through 2026-08-08)
+
+"Adobe apps that I qualify for are high priority for the next month."
+
+- Any Adobe role passing C1 (senior AI-transformation / enablement / adoption /
+  change-management leadership) gets researched + built FIRST, ahead of other
+  queue items. Adobe's enterprise-tech sector does NOT count against it during
+  this window.
+- "Qualify" still means the lane — PM/eng/data-science/sales seats stay FAILs.
+- Full-board sweep 2026-07-08 found the qualifying set (see runs/ + Resumer
+  mail): R164673 (staged), R164546 (bullseye, $165–306K), R168007 (remote-
+  flexible), R169720, R169417, R168989.
+- Workday CXS search trick: POST {"searchText": q} to
+  adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs — clean
+  JSON, no browser needed.
