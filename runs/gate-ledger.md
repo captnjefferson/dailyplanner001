@@ -61,3 +61,7 @@
 2026-07-08 | Guest Services Inc. — Director of Sales, Cheaha State Park | https://guestservices.wd5.myworkdayjobs.com/en-US/GSI/job/Delta-AL/Sales-Manager---Cheaha-State-Park_JR03355 | FAIL(C1 wrong-role; hospitality sales)
 2026-07-08 | SOSi — Director of Delivery | https://jobs.smartrecruiters.com/SOSi1/3743990013779106 | FAIL(C1 wrong-role; delivery ops)
 2026-07-08 | Fannie Mae — Senior Manager, Collateral Policy & Valuations | https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Single-Family---Risk-Management---Senior-Manager_JR2588 | FAIL(C1 wrong-role/level; risk valuations)
+
+## 2026-07-09 (/gate)
+2026-07-09 | Gates Foundation — Deputy Director, AI & Digital Health Evidence and Learning (Seattle) | https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Deputy-Director--Artificial-Intelligence---Digital-Health-Evidence-and-Learning_B021655 | FAIL(C1 health rule; application unaffected)
+2026-07-09 | World Wildlife Fund — Sr Director, Web Experience & Digital Strategy | https://jobs.smartrecruiters.com/WorldWildlifeFundInc1/744000135338765-sr-director-web-experience-and-digital-strategy | PASS
