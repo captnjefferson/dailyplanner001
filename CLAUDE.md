@@ -154,3 +154,9 @@ email. Per the standing no-send doctrine above, agents may READ and STAGE DRAFTS
 through it — but never call a send tool. Jefferson is the final and only sender,
 always. Drafts staged via the Gmail MCP also appear inside Superhuman (same
 underlying account), so either staging path is fine.
+
+UPDATE 2026-07-09 (same day): Superhuman's MCP is ONE account per connection, so
+three named instances now exist, all pointing at the same URL — `superhuman-mail`
+= personal gmail (jefferson.stovall@gmail.com), `superhuman-mail-ct` =
+jeffersons@captaintomorrow.io, `superhuman-mail-adv` = jeffersons@adaptiverseapp.com.
+The no-send rule above covers ALL instances, present and future.
