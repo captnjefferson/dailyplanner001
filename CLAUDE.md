@@ -124,3 +124,12 @@ carry at least one thing the ATS doesn't have — that's what makes it signal
 instead of a summary. Current reserved fact: the October keynote+workshop for
 1,500 hospital leaders (see profile.md — notes only, never app materials,
 until the contract signs and Jefferson lifts the embargo).
+
+### Fit calibration — the 50% rule (Jefferson, 2026-07-08, GE Aerospace kill)
+"Something like 3 out of six qualifications I don't match. One is one thing,
+but 50% is too much." → If Jefferson doesn't substantively match at least half
+of a posting's stated qualifications, it is NOT a fit — regardless of how well
+the title or theme resonates. Gate + research runs must count the qualification
+match explicitly, not just score theme alignment. (Gate had scored GE Aerospace
+4/6 PASS; his gut said no — this is exactly the backtest signal the rubric is
+tuned against.)
