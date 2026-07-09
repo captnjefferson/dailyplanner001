@@ -133,3 +133,16 @@ the title or theme resonates. Gate + research runs must count the qualification
 match explicitly, not just score theme alignment. (Gate had scored GE Aerospace
 4/6 PASS; his gut said no — this is exactly the backtest signal the rubric is
 tuned against.)
+
+### Run behavior on failed caveats (Jefferson, 2026-07-09 — WWF precedent)
+A failed gate-caveat (wrong seat shape, thin AI mandate, etc.) KILLS THE
+APPLICATION FRAME, NOT THE RUN. Complete the org/person research anyway and
+present the warm-lane alternative WITH the research done ("all the other stuff
+should have run"). Only hard pre-filters (comp, eligibility, health-org rule)
+stop a run cold.
+
+### Morning job alerts — AUTO-ACTION standing order (Jefferson, 2026-07-09)
+"When you find jobs in the morning, just start actioning." Alert-lane roles
+(module 45) no longer wait for a 'pull jobs' ask: pull, read the real JDs,
+verdict them (lane fit + 50% qualification rule), route qualifying ones into
+Catalyst/Resumer, and report outcomes — not options — in the briefing.
