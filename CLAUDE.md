@@ -146,3 +146,11 @@ stop a run cold.
 (module 45) no longer wait for a 'pull jobs' ask: pull, read the real JDs,
 verdict them (lane fit + 50% qualification rule), route qualifying ones into
 Catalyst/Resumer, and report outcomes — not options — in the briefing.
+
+### Superhuman Mail MCP — send capability exists, NEVER use it (2026-07-09)
+The `superhuman-mail` MCP server (user-scope, `https://mcp.mail.superhuman.com/mcp`)
+is installed as Jefferson's compose/read surface. Its toolset includes SENDING
+email. Per the standing no-send doctrine above, agents may READ and STAGE DRAFTS
+through it — but never call a send tool. Jefferson is the final and only sender,
+always. Drafts staged via the Gmail MCP also appear inside Superhuman (same
+underlying account), so either staging path is fine.
