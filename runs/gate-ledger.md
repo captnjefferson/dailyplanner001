@@ -65,3 +65,9 @@
 ## 2026-07-09 (/gate)
 2026-07-09 | Gates Foundation — Deputy Director, AI & Digital Health Evidence and Learning (Seattle) | https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Deputy-Director--Artificial-Intelligence---Digital-Health-Evidence-and-Learning_B021655 | FAIL(C1 health rule; application unaffected)
 2026-07-09 | World Wildlife Fund — Sr Director, Web Experience & Digital Strategy | https://jobs.smartrecruiters.com/WorldWildlifeFundInc1/744000135338765-sr-director-web-experience-and-digital-strategy | PASS
+
+## 2026-07-10 (/gate)
+2026-07-10 | Salesforce — Senior Director, Agentic Transformation Lead | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Director--Agentic-Transformation-Lead_JR350160 | PASS
+2026-07-10 | USAA — Director, Decision Science Analytics (Omni Channel & Digital Claims) | https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Decision-Science-Analytics---Omni-Channel---Digital-Claims-Analytics_R0118626 | FAIL(C1 wrong-lane; data-science/analytics, not AI-transformation)
+2026-07-10 | Kellen Company — Senior Account Executive/Membership Manager | https://ats.rippling.com/kellen/jobs/28d04c7e-1728-43c8-8fac-2c6ea3d8797d | FAIL(C1 wrong-role; sales/membership)
+2026-07-10 | charity: water — Water Programs Manager (Remote) | https://jobs.lever.co/charitywater/8e060942-3806-4fb0-a84d-3c8a3282d66e | FAIL(C1 wrong-role; program management)
