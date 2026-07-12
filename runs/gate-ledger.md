@@ -83,3 +83,7 @@
 2026-07-11 | Adobe — Principal AI Strategist (R169720) | https://app.notion.com/p/Principal-AI-Strategist-397164c1810d8175a5f3e9969022c7ad | PASS(backfill — 7/8 full-board sweep, already staged, awaiting Jefferson's review)
 2026-07-11 | Adobe — Senior Manager, Enterprise AI Strategy (R168007) | https://app.notion.com/p/Senior-Manager-Enterprise-AI-Strategy-397164c1810d81f286d2ea18dab6b55e | PASS(backfill — 7/8 full-board sweep, remote-flexible, already staged, awaiting Jefferson's review)
 2026-07-11 | Adobe — Principal Adoption Digital Strategist – AI Transformation (R164546) | https://app.notion.com/p/Principal-Adoption-Digital-Strategist-AI-Transformation-397164c1810d8192a466c808a6785cdd | PASS(backfill — 7/8 full-board sweep, BULLSEYE, already staged, awaiting Jefferson's review)
+
+## 2026-07-12 (/gate)
+2026-07-12 | GHX (Global Healthcare Exchange) — Director, Enterprise AI Enablement & Execution | https://www.theladders.com/job/director-enterprise-ai-enablement-execution-ghx-virtual-travel_87630686 | FAIL(C1 health rule; org is a healthcare supply-chain SaaS co — domain mismatch; AI-enablement lane is a bullseye, only the health-domain org kills it; application unaffected)
+2026-07-12 | Brown & Brown — Org target: AI Enablement program (Arti Deshpande) | https://www.linkedin.com/in/artideshpande-/ | PASS(org-target warm lane, already in flight — 7/12 brief + Arti Deshpande direction-note drafted; C1:1 C2:2 C3:2 = 5/6)
