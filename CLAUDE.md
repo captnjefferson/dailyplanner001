@@ -160,3 +160,43 @@ three named instances now exist, all pointing at the same URL — `superhuman-ma
 = personal gmail (jefferson.stovall@gmail.com), `superhuman-mail-ct` =
 jeffersons@captaintomorrow.io, `superhuman-mail-adv` = jeffersons@adaptiverseapp.com.
 The no-send rule above covers ALL instances, present and future.
+
+## Soften the Beach — the warm-up campaign (Overlord, 2026-07-13)
+
+Named for Operation Overlord: soften the beach before the application lands.
+Owned by the **Overlord** thread (2026-07-13 fork of The Fixer) — job-search
+process, role evaluation/assignment, and this cadence. Seed: Jefferson's 7/12
+brainstorm (claude.ai share 93ae9aff — "search the person everywhere except
+LinkedIn").
+
+**Per target** (each role Jefferson flags for campaign treatment):
+1. **Map the room** — HM + 1–2 flanks (their boss, a team lead, the recruiter)
+   via org announcements, case studies, people-search.
+2. **Trace sweep, everywhere-but-LinkedIn** — podcasts (Listen Notes),
+   YouTube/conference archives, webinars, vendor case studies, trade bylines,
+   earnings calls/IR transcripts, association committee rosters, nonprofit
+   boards/990s (ProPublica). Output: 2–3 ranked hooks per person — the
+   surfaces almost nobody follows up on. (Extends the research subagents:
+   person-finder + voice-corpus absorb the sweep.)
+3. **Touch 1: one low-ask note** in his voice, Humantic register-tuned, built
+   on the best hook — direction-ask (the Arti/Brown&Brown pattern) or
+   trace-reference ("minute 34 of that panel"). Staged under the Catalyst
+   card; Jefferson sends (gate 2, absolute).
+4. **Timed follow-ons** — APP-PAIRED note ~24h post-submit (doctrine v2) →
+   value-add artifact ~1 week later (Punchcard issue or a 2-page teardown,
+   tier-1s only) → closed-loop on outcome. 7–10 day spacing; every touch
+   logged on the card.
+
+**Standing cadence:**
+5. **Monday warm-touch queue** — the briefing surfaces touches due this week
+   with drafts ready; Jefferson approves + sends in one sitting.
+6. **Findability audit** — Google page-one of his name; fill gaps via source
+   requests (Qwoted / Help a B2B Writer). Once, then quarterly.
+7. **Stage lane** (slow burn) — pitch Jefferson as a podcast/webinar guest in
+   the niche (Tim Villegas template); warms whole target lists at once.
+
+Scope note: the one-follow-up rule (#7 at top) remains the default for
+standard gate notes. This multi-touch cadence applies ONLY to targets
+Jefferson explicitly flags for campaign treatment. All other doctrine binds
+unchanged: no send mechanism ever, RESERVED-FACT keynote embargo, org-fit >
+req liveness, zombie reqs killed silently.
