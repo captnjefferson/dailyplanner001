@@ -87,3 +87,6 @@
 ## 2026-07-12 (/gate)
 2026-07-12 | GHX (Global Healthcare Exchange) — Director, Enterprise AI Enablement & Execution | https://www.theladders.com/job/director-enterprise-ai-enablement-execution-ghx-virtual-travel_87630686 | FAIL(C1 health rule; org is a healthcare supply-chain SaaS co — domain mismatch; AI-enablement lane is a bullseye, only the health-domain org kills it; application unaffected)
 2026-07-12 | Brown & Brown — Org target: AI Enablement program (Arti Deshpande) | https://www.linkedin.com/in/artideshpande-/ | PASS(org-target warm lane, already in flight — 7/12 brief + Arti Deshpande direction-note drafted; C1:1 C2:2 C3:2 = 5/6)
+
+## 2026-07-14 (/gate)
+2026-07-14 | Novanta Inc. — AI Strategy Director (Workday R009436) | https://app.notion.com/p/AI-Strategy-Director-39c164c1810d8196985ce2acebefb9d5 | PASS(C1:1 C2:2 C3:2 = 5/6; enterprise-AI-strategy under CIO Sarah Betadam, NOT a health-services org despite medical-market exposure; already in flight — staged 7/13, first Soften-the-Beach run)
