@@ -90,3 +90,7 @@
 
 ## 2026-07-14 (/gate)
 2026-07-14 | Novanta Inc. — AI Strategy Director (Workday R009436) | https://app.notion.com/p/AI-Strategy-Director-39c164c1810d8196985ce2acebefb9d5 | PASS(C1:1 C2:2 C3:2 = 5/6; enterprise-AI-strategy under CIO Sarah Betadam, NOT a health-services org despite medical-market exposure; already in flight — staged 7/13, first Soften-the-Beach run)
+
+## 2026-07-15 (/gate)
+2026-07-15 | Active Minds — Director of Events and Strategic Partnerships | https://activeminds.applytojob.com/apply/jobs/details/QeE5m50klq | FAIL(C1 wrong-role + health-focused org; events/partnerships, not AI/transformation)
+2026-07-15 | LISC — Program Officer, Wealth Building and Workforce Development | https://job-boards.greenhouse.io/lisc/jobs/4710192005 | FAIL(C1 wrong-role; program officer, not AI/transformation)
