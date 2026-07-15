@@ -200,3 +200,22 @@ standard gate notes. This multi-touch cadence applies ONLY to targets
 Jefferson explicitly flags for campaign treatment. All other doctrine binds
 unchanged: no send mechanism ever, RESERVED-FACT keynote embargo, org-fit >
 req liveness, zombie reqs killed silently.
+
+### Tracking (Jefferson, 2026-07-15 — "1 only" + Attio)
+
+- **Catalyst `Play` select** (one value per card, stamped at route/creation):
+  `App only` / `App + HM note` / `App + org notes` / `Org play`. Board views
+  group by it; gate/briefing modules read it. All open Jefferson-lane cards
+  stamped 2026-07-15.
+- **Person-side touch ledger = Attio** (his call: "Attio is available for
+  tracking"). Every SENT touch → a note on the target's Attio person record
+  (create the person if absent: name, title, company, LinkedIn URL). Closed-loop
+  and intermediary touches log the same way, labeled in the note text. The
+  Monday warm-touch queue reads Attio for last-touch recency.
+- **Attio API access (verified 2026-07-15):** token in macOS keychain —
+  `security find-generic-password -a jmos -s ATTIO_TOKEN -w` — then
+  `POST https://api.attio.com/v2/objects/people/records/query` (and the
+  records/notes write endpoints). JMOS `/api/meetings/*` remains the read
+  path for call intelligence.
+- Deliberately NOT built: a Touches DB or in-card comms-log convention —
+  the select + Attio is the whole tracking system unless volume proves more.
