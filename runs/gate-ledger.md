@@ -94,3 +94,6 @@
 ## 2026-07-15 (/gate)
 2026-07-15 | Active Minds — Director of Events and Strategic Partnerships | https://activeminds.applytojob.com/apply/jobs/details/QeE5m50klq | FAIL(C1 wrong-role + health-focused org; events/partnerships, not AI/transformation)
 2026-07-15 | LISC — Program Officer, Wealth Building and Workforce Development | https://job-boards.greenhouse.io/lisc/jobs/4710192005 | FAIL(C1 wrong-role; program officer, not AI/transformation)
+
+## 2026-07-17 (/gate)
+2026-07-17 | Gates Foundation — Deputy Director, Digital Transformation and AI Policy & Advocacy (Climate Resilience, Seattle, B021669-1) | https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Deputy-Director--Digital-Transformation-and-AI-Policy---Advocacy_B021669-1 | PASS(C1:2 C2:1 C3:2 = 5/6; senior digital-transformation + AI leadership at a mission-driven foundation, CLIMATE program — NOT health, so the health rule does not fire; verify seat-shape (transformation leadership vs external policy-advocacy analyst) + Seattle location eligibility before run)
