@@ -97,3 +97,6 @@
 
 ## 2026-07-17 (/gate)
 2026-07-17 | Gates Foundation — Deputy Director, Digital Transformation and AI Policy & Advocacy (Climate Resilience, Seattle, B021669-1) | https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Deputy-Director--Digital-Transformation-and-AI-Policy---Advocacy_B021669-1 | PASS(C1:2 C2:1 C3:2 = 5/6; senior digital-transformation + AI leadership at a mission-driven foundation, CLIMATE program — NOT health, so the health rule does not fire; verify seat-shape (transformation leadership vs external policy-advocacy analyst) + Seattle location eligibility before run)
+
+## 2026-07-18 (/gate)
+2026-07-18 | Tripleseat — R&D AI Transformation Director | https://app.notion.com/p/R-D-AI-Transformation-Director-3a0164c1810d814996a9f3f6c9b076d9 | PASS(C1:2 C2:2 C3:2 = 6/6; senior AI-transformation leadership seat at a hospitality/events SaaS, NOT health — reports SVP Technology, HM findable; already staged 7/17 awaiting review)
