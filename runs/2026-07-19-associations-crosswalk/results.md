@@ -36,3 +36,17 @@
 2. ACCC COO → his fit call first (COO seat = scope stretch; transformation mandate + remote + comp + warm path argue for it).
 3. NAIS / ASHA / Optica → his tier calls.
 4. CTA → his 2-minute click on the ADP JD (or Applier retries later).
+
+
+## Direct-connection scan on the hits (2026-07-19, 1st-degree keyword search per org)
+| Org | 1st-degree connections found | Read |
+|---|---|---|
+| ABA (#1) | ZERO | Cold — HM outreach would be a pure trace-sweep play |
+| ACCC (#2) | **Jason Peller** (past ACCC staff; Potomac MD) — confirmed sole hit | Real warm path for the COO seat |
+| Optica (#3) | zero (keyword noise only) | Cold |
+| ASHA (#4) | zero ASHA staff (one domain-adjacent language-solutions founder, not ASHA) | Cold org, warm DOMAIN (his special-ed story) |
+| NAIS (#5) | zero NAIS staff; **John Boyer**, Dir of Advancement at Porter-Gaud School (NAIS-member school; mutual incl. Francoise Stovall) | Sector door, not org door |
+| CTA (#6) | **three profile matches**: Tina Anthony (Iris Strategies, DC), Kartraice Hooper (Exec Event Planner, Arlington), Jacqui Olkin (consultant, Reston) — all mention CTA in profiles (likely past-staff/vendor ties; exact relationship needs a profile click) | Warmest of the six after ACCC |
+| AMA (watch) | Beekeeper partners **Matthew Zablud + Travis Gianchetta** mention AMA (likely former Beekeeper client) + Matthew Taber (healthcare consultant, Nashville) | Second-degree door via his old firm if a Chicago seat ever flips remote |
+
+Caveat: keyword search matches profile TEXT — staff vs past-staff vs vendor needs a click-through per person before any outreach claims a relationship.
