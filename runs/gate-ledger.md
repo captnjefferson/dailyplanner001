@@ -100,3 +100,7 @@
 
 ## 2026-07-18 (/gate)
 2026-07-18 | Tripleseat — R&D AI Transformation Director | https://app.notion.com/p/R-D-AI-Transformation-Director-3a0164c1810d814996a9f3f6c9b076d9 | PASS(C1:2 C2:2 C3:2 = 6/6; senior AI-transformation leadership seat at a hospitality/events SaaS, NOT health — reports SVP Technology, HM findable; already staged 7/17 awaiting review)
+
+## 2026-07-19 (/gate)
+2026-07-19 | Axon — AI Evangelist, Program Manager | https://app.notion.com/p/AI-Evangelist-Program-Manager-3a1164c1810d816e8ad1fffab021fce7 | PASS(C1:2 C2:1 C3:2 = 5/6; AI-evangelist/enablement leadership at public-safety tech co, NOT health; comp clears floor $147.7–236.3K; already built/staged 7/18 awaiting review — verify remote policy + no-MD location pre-submit)
+2026-07-19 | Senior Project Manager — Motion Recruitment | https://motionrecruitment.com/tech-jobs/charlotte/contract/senior-project-manager/877885 | FAIL(C1 wrong-role; generic contract project-management via tech staffing agency, not AI-transformation lane — decision-maker opaque behind RPO)
