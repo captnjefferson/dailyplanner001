@@ -187,21 +187,35 @@ LinkedIn").
    tier-1s only) → closed-loop on outcome. 7–10 day spacing; every touch
    logged on the card.
 
-**Standing cadence:**
-5. **Monday warm-touch queue** — the briefing surfaces touches due this week
-   with drafts ready; Jefferson approves + sends in one sitting.
-6. **Findability audit** — Google page-one of his name; fill gaps via source
-   requests (Qwoted / Help a B2B Writer). Once, then quarterly.
-7. **Stage lane** (slow burn) — pitch Jefferson as a podcast/webinar guest in
-   the niche (Tim Villegas template); warms whole target lists at once.
-8. **In-person rooms** (added 2026-07-17 via Fixer's GTM-call intel) —
-   symposia/events full of the target ecosystem count as beach-softening
-   venues alongside the digital channels. First two: Viva Creative symposium
-   (~wk of 7/20, immersive/experiential shop — he framed it as networking for
-   the full-time role) and the AI-in-the-arts symposium (Sat 7/18, Hillyer
-   Art Space DC, via Josh — temple connection on the leadership team of an
-   immersive-experience shop, Ford's Theatre background, school-group ties).
-   Post-event: names he meets get logged to Attio like any other touch.
+**The six lanes (Jefferson's taxonomy, 2026-07-19 — USE THESE NAMES):**
+1. **Associations** — activation of his EXISTING association network
+   (his correction, 2026-07-19: "I am deeply connected to a huge number of
+   associations and haven't been taking advantage of that" — this lane is
+   reconnection and activation, NOT cold committee-joining). Execution design
+   in progress; anchors: ASAE Annual Aug 15–18 Indianapolis; Laura Brigandi
+   (Public Affairs Council) as ecosystem super-node; Beekeeper-era
+   association clients; DMAS 2024 keynote audience.
+2. **In-Person Networking Events** — symposia/events in the target ecosystem
+   (first two: Viva Creative symposium ~wk of 7/20; AI-in-the-arts symposium
+   7/18 Hillyer Art Space DC via Josh — temple connection, immersive-
+   experience shop leadership, Ford's Theatre background). Names he meets →
+   Attio, same as any touch.
+3. **Google** — page-one audit of his name; fill gaps via source requests
+   (Qwoted / Help a B2B Writer). Once, then quarterly. Every HM notes get
+   sent to will search him within a day.
+4. **Speaking Engagements** — podcast/webinar/conference guesting AIMED at
+   rooms his target orgs attend (Tim Villegas template; the Oct keynote +
+   IHA breakouts already are this lane — the gap is aiming it).
+5. **Single Shot Apps** — application to a live req, optionally paired with
+   HM outreach (APP-PAIRED doctrine v2 above) or notes to several people at
+   the org. Catalyst `Play` values: App only / App + HM note / App + org notes.
+6. **Org Warm Ups** — multiple messages over time to people in an org with
+   NO specific immediately-open role (the Brown & Brown / Arti pattern).
+   Catalyst `Play` value: Org play. The multi-touch cadence applies here.
+
+Operating rhythm across lanes: the **Monday warm-touch queue** — the briefing
+surfaces touches due this week with drafts ready; Jefferson approves + sends
+in one sitting. (Dormant until 3+ targets have touches in flight.)
 
 Scope note: the one-follow-up rule (#7 at top) remains the default for
 standard gate notes. This multi-touch cadence applies ONLY to targets
