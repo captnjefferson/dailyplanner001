@@ -188,13 +188,16 @@ LinkedIn").
    logged on the card.
 
 **The six lanes (Jefferson's taxonomy, 2026-07-19 — USE THESE NAMES):**
-1. **Associations** — activation of his EXISTING association network
-   (his correction, 2026-07-19: "I am deeply connected to a huge number of
-   associations and haven't been taking advantage of that" — this lane is
-   reconnection and activation, NOT cold committee-joining). Execution design
-   in progress; anchors: ASAE Annual Aug 15–18 Indianapolis; Laura Brigandi
-   (Public Affairs Council) as ecosystem super-node; Beekeeper-era
-   association clients; DMAS 2024 keynote audience.
+1. **Associations** — a SOURCING lane for full-time open roles (Jefferson,
+   2026-07-19: "We're looking specifically for open roles"). He is deeply
+   connected across the association world and hasn't been leveraging it.
+   Execution: (a) LinkedIn 1st-degree skim → `background/associations-map.md`
+   (built 2026-07-19, ~25 orgs w/ current-staff connections); (b) generate
+   the adjacent/related association set from that list; (c) crosswalk the
+   combined list against careers pages using existing sweep infra; (d) hits
+   get normal grounded review, with the 1st-degree connection as the warm
+   path. Speaking engagements that crop up organically are handled one-by-one
+   — this lane does NOT feed the Speaking lane by design.
 2. **In-Person Networking Events** — symposia/events in the target ecosystem
    (first two: Viva Creative symposium ~wk of 7/20; AI-in-the-arts symposium
    7/18 Hillyer Art Space DC via Josh — temple connection, immersive-
