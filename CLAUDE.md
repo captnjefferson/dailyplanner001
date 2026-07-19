@@ -194,6 +194,14 @@ LinkedIn").
    requests (Qwoted / Help a B2B Writer). Once, then quarterly.
 7. **Stage lane** (slow burn) — pitch Jefferson as a podcast/webinar guest in
    the niche (Tim Villegas template); warms whole target lists at once.
+8. **In-person rooms** (added 2026-07-17 via Fixer's GTM-call intel) —
+   symposia/events full of the target ecosystem count as beach-softening
+   venues alongside the digital channels. First two: Viva Creative symposium
+   (~wk of 7/20, immersive/experiential shop — he framed it as networking for
+   the full-time role) and the AI-in-the-arts symposium (Sat 7/18, Hillyer
+   Art Space DC, via Josh — temple connection on the leadership team of an
+   immersive-experience shop, Ford's Theatre background, school-group ties).
+   Post-event: names he meets get logged to Attio like any other touch.
 
 Scope note: the one-follow-up rule (#7 at top) remains the default for
 standard gate notes. This multi-touch cadence applies ONLY to targets
