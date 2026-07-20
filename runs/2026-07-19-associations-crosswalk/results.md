@@ -59,3 +59,5 @@ Caveat: keyword search matches profile TEXT — staff vs past-staff vs vendor ne
 - **ASHA** — NO.
 - ABA — pending: checking with Andy (close friend, past ABA staff) before diving in.
 - CTA — his click pending (ADP JD link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f6281961-94a1-468a-8b53-78b84cc3a14c&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CareerCenter&jobId=588241 — renders blank in automated Chrome, likely fine in his real browser).
+
+- **CTA** — NO. Link dead (Jefferson confirmed 2026-07-20). Killed.
