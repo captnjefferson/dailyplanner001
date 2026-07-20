@@ -65,8 +65,11 @@ align with the target org, go mission-forward and assertive, not safe.
 
 ## Proof point — INVITED SPEAKER (added 2026-07-08, Jefferson-verified)
 October 2026: **keynote + hands-on workshop for 1,500 hospital leaders** on AI
-transformation. INVITED, not applied. Contract NOT yet signed ("all signs are
-go") — which drives the usage rule:
+transformation. INVITED, not applied. **Contract SIGNED (Jefferson confirmed
+2026-07-20.)** The applications/covers/resumes embargo below was conditioned on
+"contract signs AND Jefferson lifts it" — signing is done; the lift is still
+his explicit call, so the fact stays notes-only until he says otherwise. The
+usage rule as originally set:
 
 **RESERVED FOR PERSONAL NOTES ONLY (Jefferson, 2026-07-08).** EMBARGOED from
 applications, covers, and resumes. The play: the fact deliberately stays out of
