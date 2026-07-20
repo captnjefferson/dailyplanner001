@@ -39,3 +39,11 @@ What I'd want to build: the on-ramp that turns chat customers into production-sy
 P.S. This note is a work sample: Claude agents researched and drafted it, a personality model read your public footprint and tuned the register — proof over story, no superlatives — and I edited and sent it. Every layer human-gated.
 
 Jefferson
+
+
+## v2.1 — CORRECTED FINAL (2026-07-20)
+Fact fix per Jefferson: 500+ is USERS (platform is FOR sped teachers; user base broader — never claim 500+ teachers). Also removed my 'into daily AI use' stretch. Corrected opener:
+
+"How I'm building with Claude: I co-founded Adaptiverse — an AI lesson platform for special-education teachers, about the hardest-to-move user population there is — and built it myself on the Claude API, with Claude Code (adaptiverseapp.com). 500+ users, ~4,000 lessons created."
+
+First bullet becomes the under-$0.10 line alone; everything else unchanged from v2. Lesson for future drafts: when REFRAMING a story, re-verify every claim against background/profile.md — the reframe is where numbers drift onto the wrong noun.
