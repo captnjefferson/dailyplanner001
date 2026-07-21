@@ -55,3 +55,7 @@ Lina = Anthropic SMB practice lead (Claude for Small Business). Re-rank: keynote
 
 ## v4 — FINAL FOR SEND (2026-07-20)
 Drift closed (body ~215 -> ~165, Thanks close added, proof-first what-I'd-build, P.S. trimmed); bets kept (clipped opener, I-totally-used-AI, explicit Humantic, no ask). Full text on Notion note page v4 block. Pre-send: Technical Enablement Lead app still pending + Apollo email + his hands.
+
+
+## v5 — HIS SEND VERSION (2026-07-20)
+His final pass: opener adds about-special-projects + buried-in-DMs parenthetical; OpenAI aside cut; several-vs-six flagged (fact file: six); P.S. wording his (absolutely / remains-me). Full text on Notion v5 block. Post-send: Attio note on Lina Ochman person record + follow-up clock (one, 6-8 business days, email).
