@@ -51,3 +51,7 @@ First bullet becomes the under-$0.10 line alone; everything else unchanged from 
 
 ## v3 — SEND CANDIDATE (2026-07-20, post his-voice-pass + SMB context)
 Lina = Anthropic SMB practice lead (Claude for Small Business). Re-rank: keynote OUT, six-SMB Captain Tomorrow cohort IN, what-I'd-build lands on Claude for Small Business. Adaptiverse framed as an SMB running ops alongside Claude agents (her product thesis, his words). Humantic spelled right, $0.10 restored, (lol) dropped (his spice, reversible). Full text on the Notion note page (v3 block).
+
+
+## v4 — FINAL FOR SEND (2026-07-20)
+Drift closed (body ~215 -> ~165, Thanks close added, proof-first what-I'd-build, P.S. trimmed); bets kept (clipped opener, I-totally-used-AI, explicit Humantic, no ask). Full text on Notion note page v4 block. Pre-send: Technical Enablement Lead app still pending + Apollo email + his hands.
