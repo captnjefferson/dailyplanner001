@@ -35,7 +35,9 @@ AI-transformation/enablement leadership roles, $125K hard floor, cash-comp prior
 2. **Captain Tomorrow cohort:** ran a multi-company AI-implementation **cohort serving 6
    small businesses** — structured discovery → roadmap → adoption built on verification
    systems rather than tool training; converted into a reusable client framework.
-   (Scope-framed; no ROI numbers claimed.)
+   (Scope-framed; no ROI numbers claimed.) **In outreach, Jefferson prefers "several"
+   over "six" (2026-07-20, Lina note): he hedges the count because outcome quality
+   varied across the cohort — don't "correct" several back to six in drafts.**
 3. **PromptLab / speaking:** productized prompting practice reaching **~400+ professionals**
    (hard-documented: **DMAS 2024 keynote to 200+** advocacy/public-affairs pros); national
    lobbying firm engagement — trained ~20 staff incl. senior leadership, authored their
