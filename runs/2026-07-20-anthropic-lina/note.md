@@ -47,3 +47,7 @@ Fact fix per Jefferson: 500+ is USERS (platform is FOR sped teachers; user base 
 "How I'm building with Claude: I co-founded Adaptiverse — an AI lesson platform for special-education teachers, about the hardest-to-move user population there is — and built it myself on the Claude API, with Claude Code (adaptiverseapp.com). 500+ users, ~4,000 lessons created."
 
 First bullet becomes the under-$0.10 line alone; everything else unchanged from v2. Lesson for future drafts: when REFRAMING a story, re-verify every claim against background/profile.md — the reframe is where numbers drift onto the wrong noun.
+
+
+## v3 — SEND CANDIDATE (2026-07-20, post his-voice-pass + SMB context)
+Lina = Anthropic SMB practice lead (Claude for Small Business). Re-rank: keynote OUT, six-SMB Captain Tomorrow cohort IN, what-I'd-build lands on Claude for Small Business. Adaptiverse framed as an SMB running ops alongside Claude agents (her product thesis, his words). Humantic spelled right, $0.10 restored, (lol) dropped (his spice, reversible). Full text on the Notion note page (v3 block).
