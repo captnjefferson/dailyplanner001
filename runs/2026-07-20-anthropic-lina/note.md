@@ -59,3 +59,9 @@ Drift closed (body ~215 -> ~165, Thanks close added, proof-first what-I'd-build,
 
 ## v5 — HIS SEND VERSION (2026-07-20)
 His final pass: opener adds about-special-projects + buried-in-DMs parenthetical; OpenAI aside cut; several-vs-six flagged (fact file: six); P.S. wording his (absolutely / remains-me). Full text on Notion v5 block. Post-send: Attio note on Lina Ochman person record + follow-up clock (one, 6-8 business days, email).
+
+
+## Touch log
+- 2026-07-21 am: EMAIL sent (3 addresses: 2 bounced, 1 held).
+- 2026-07-21 pm: DM sent (his hands, with I-emailed-this-earlier parenthetical) -> email OPENED ~1h after the DM. Address validated. Both touches landed.
+- Next: SILENCE. One follow-up max, ~2026-07-30, email (validated address), value-add only, only if no reply. Open != reply (JJ precedent).
