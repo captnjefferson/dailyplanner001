@@ -108,3 +108,6 @@
 ## 2026-07-21 (/gate)
 2026-07-21 | Anthropic — Special Project Roles (GTM generalist, AI-Native) · Lina Ochman sourcing | https://www.linkedin.com/posts/linaochman_im-helping-source-for-a-few-special-project-share-7483150268805586944-xtQY/ | PASS(C1:2 C2:2 C3:2 = 6/6; AI-native GTM generalist at a frontier lab — bullseye lane, named sourcer with a public problem statement; ALREADY IN FLIGHT — runs/2026-07-20-anthropic-lina/, email v5 logged as his send version 7/20. Ledger backfill only; do NOT re-route)
 2026-07-21 | Guest Services Inc. — Director of Skier Services, Giants Ridge (JR04095) | https://guestservices.wd5.myworkdayjobs.com/en-US/GSI/job/Biwabik-MN/Director-of-Skier-Services---Giants-Ridge_JR04095 | FAIL(C1 wrong-role; resort/hospitality operations in Biwabik MN — third Guest Services req to fail the same way, cf. Silver Falls + Cheaha 7/08. Recommend muting this feed source)
+
+## 2026-07-23 (/gate)
+2026-07-23 | Salesforce — Director, AI Learning and Enablement (JR347566) | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Director--AI-Learning-and-Enablement_JR347566 | PRE-FILTER(eligibility — Bangalore, India; on-lane title, off-continent seat)
