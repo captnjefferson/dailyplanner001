@@ -121,3 +121,7 @@
 
 ## 2026-07-25 (/gate)
 2026-07-25 | Pacvue — VP, AI Strategy & Delivery | https://www.linkedin.com/jobs/view/4424014908 | FAIL(C1 lane + 50%-rule; the seat's center of gravity is leading/scaling an AI/ML/Data-Science org — "own the product and technical direction for ML," "lead through senior technical leaders," 10+ yrs AI/ML/DS — which is NOT the enablement/adoption/transformation lane. Qual match <50% on the load-bearing technical requirements; strong only on the customer-facing AI-evangelism dimension. Comp $250–310K+bonus clears; Silver Spring MD local; China-travel flag not quantified >50% so no pre-filter. ALREADY STAGED 7/24 (Fixer flagged "AI/ML/DS org-leadership scope — real gap") — surfacing the C1 gap for Jefferson; customer-facing evangelism slice is genuinely on-lane if he wants a warm-lane frame)
+
+## 2026-07-26 (/gate)
+2026-07-26 | 829 Studios — Partnerships Director | https://jobs.ashbyhq.com/829studios/62f3c783-3bdf-42cf-8213-60b7ea8ae2c5 | FAIL(C1 wrong-role; agency-partnerships/BD revenue seat, not AI/transformation lane — agency sector is C1-favorable but role lane is wrong; sourced under Brianna_Cowell persona)
+2026-07-26 | 829 Studios — Key Account Director | https://jobs.ashbyhq.com/829studios/e3e5f244-dd99-4512-85e5-9fe610599f0d | FAIL(C1 wrong-role; account-management/client-services seat, not AI/transformation lane; sourced under Brianna_Cowell persona)
