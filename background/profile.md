@@ -32,12 +32,21 @@ AI-transformation/enablement leadership roles, $125K hard floor, cash-comp prior
    lesson generation from one long call into **4–12 parallel calls under an orchestrator
    on a cost-optimized model** — a fully-loaded lesson returns for **under $0.10**, faster.
    B Corp; angel/family-office funded against a defined exit thesis.
+   Also permitted: **"zero churn among institutional partners"** — verified bullet in the
+   Experience Library's Adaptiverse 0-to-1 Founder Journey entry, tagged
+   [Jefferson-confirmed qualifier 2026-07-04] (confirmed via Resumer 2026-08-14).
 2. **Captain Tomorrow cohort:** ran a multi-company AI-implementation **cohort serving 6
    small businesses** — structured discovery → roadmap → adoption built on verification
    systems rather than tool training; converted into a reusable client framework.
    (Scope-framed; no ROI numbers claimed.) **In outreach, Jefferson prefers "several"
    over "six" (2026-07-20, Lina note): he hedges the count because outcome quality
    varied across the cohort — don't "correct" several back to six in drafts.**
+   **CT total client count (Library canon, confirmed via Resumer 2026-08-14):** the
+   GLOBAL Positioning Guidelines entry reads verbatim: "Captain Tomorrow: lead with
+   training & PromptLab (consulting secondary). 10+ client orgs across public affairs,
+   healthcare associations, education, professional services; a cohort served 6 small
+   businesses." So **"10+ client orgs" is a permitted, canonical count** (cohort-count
+   hedging above still applies when referencing the cohort specifically).
 3. **PromptLab / speaking:** productized prompting practice reaching **~400+ professionals**
    (hard-documented: **DMAS 2024 keynote to 200+** advocacy/public-affairs pros); national
    lobbying firm engagement — trained ~20 staff incl. senior leadership, authored their
