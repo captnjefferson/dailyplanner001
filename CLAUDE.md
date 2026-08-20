@@ -215,6 +215,12 @@ LinkedIn").
 6. **Org Warm Ups** — multiple messages over time to people in an org with
    NO specific immediately-open role (the Brown & Brown / Arti pattern).
    Catalyst `Play` value: Org play. The multi-touch cadence applies here.
+   **→ The canonical execution procedure is `reference/org-awareness-play.md`**
+   (designed with Jefferson on the Tenex run, 2026-08-20). Six phases —
+   who publishes → match his corpus → cadence → verify the req from primary
+   source → the two output surfaces → the post-research watches. It composes
+   with lane 5 when a live req exists. **Read it before running an org play;
+   it carries the verification discipline that three retractions bought.**
 
 Operating rhythm across lanes: the **Monday warm-touch queue** — the briefing
 surfaces touches due this week with drafts ready; Jefferson approves + sends

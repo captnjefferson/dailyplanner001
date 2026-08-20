@@ -1,0 +1,56 @@
+## DOSSIER: Posting Archaeology
+## ROLE: AHEAD — AI Principal Consultant, AI Services
+## COLLECTED: 2026-08-19
+
+### Findings
+
+**Canonical posting & liveness**
+- Canonical posting is the Lever-hosted page https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f; verified live today via the Lever postings API, which returns the req with matching id/title/salary — https://api.lever.co/v0/postings/thinkahead?mode=json — H
+- Posting attributes on canonical source: workplaceType "remote", country "US", location "United States", team "Artificial Intelligence", department "( Solutions Development )", full-time — https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f (raw JSON saved at runs/2026-08-19-ahead/posting-raw.json) — H
+- Lever `createdAt` = 1764882785579 ms = 2025-12-04 and is unchanged as of today; Lever's createdAt persists per-posting, so this appears to be ONE continuously-open req (~8.5 months), not a close-and-recreate cycle — https://api.lever.co/v0/postings/thinkahead?mode=json — M (continuity can't be independently confirmed; see Not Found)
+
+**Repost / history**
+- Wayback Machine has ZERO captures of the posting URL, so no historical snapshots exist to diff language across versions — https://archive.org/wayback/available?url=jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f (returns empty `archived_snapshots`) — H
+- Wayback holds one 2026-07-27 capture of the company listing page (http://web.archive.org/web/20260727220725/https://jobs.lever.co/thinkahead), confirmed via https://archive.org/wayback/available?url=jobs.lever.co/thinkahead — but web.archive.org is unfetchable from this environment, so its contents (whether the target req was listed on 7/27) could not be read — M
+- The target req is ABSENT from Himalayas' AHEAD company page even though 7 other AHEAD AI-titled reqs are listed there (AI Senior Consultant ~2 mo ago, AI Principal Technical Consultant ~2 mo ago, Principal Consultant Internal AI ~1 mo ago, Senior AI Engineer ~1 mo ago, two ServiceNow-AI reqs ~15 days ago, AI Adoption Lead ~1 mo ago) — https://himalayas.app/companies/ahead/jobs — M
+- An aggregator copy of the target exists at Jobgether — https://jobgether.com/offer/6a11118dbd1a525efbd1d059-ai-principal-consultant-ai-services — existence confirmed via search; page returned HTTP 403 to direct fetch, so no posted-date or comp could be read from it — M
+- Internal title inconsistency in the canonical JD: posting title is "AI Principal Consultant, AI Services" but the body opens "AHEAD is seeking a **Principal Consultant, AI Services**" — the "AI " prefix matches a team-wide naming convention (AI Sales Specialist, AI Senior Consultant, AI Consulting Director), not evidence of re-leveling — https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f — H
+
+**Comp verification**
+- Canonical stated range: $250,000–$300,000 USD per-year, explicitly OTE: "The compensation range indicated in this posting reflects the On-Target Earnings ('OTE') for this role, which includes a base salary and any applicable target bonus amount. This OTE range may vary based on the candidate's relevant experience, qualifications, and geographic location." Base/bonus split is NOT stated — https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f — H
+- Glassdoor's crowd-estimated AHEAD "Principal Consultant" total pay ($149K–$212K; base avg ~$159K + ~$18K additional) sits well BELOW this posting's stated OTE — a title-level discrepancy, not a posting discrepancy — https://www.glassdoor.com/Salary/AHEAD-Principal-Consultant-Salaries-E465122_D_KO6,26.htm — M
+- Sibling comp ladder on the same team (all OTE-framed): AI Principal Technical Consultant $230K–$300K (https://api.lever.co/v0/postings/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b); Principal Consultant, Internal AI $200K–$300K (https://api.lever.co/v0/postings/thinkahead/fc07faa0-5735-45d6-8ae2-fd76ea2bc5ed); AI Consulting Director, AI Services $280K–$325K "Employer provided" (https://builtin.com/job/ai-consulting-director-ai-services/7898922) — M
+
+**Multiple-seat / evergreen signal**
+- AHEAD is hiring an entire AI Services practice ladder concurrently — AI Consultant (https://jobs.lever.co/thinkahead/bdac3e84-3f30-48b3-ac33-e801a310f827), AI Senior Consultant ($210K–$250K per https://remoteleaf.com/company/ahead/ai-senior-consultant-ai-services-united-states/), the target Principal Consultant, AI Principal Technical Consultant (https://jobs.lever.co/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b), Senior AI Engineer (https://jobs.lever.co/thinkahead/1ffb36db-8d38-497e-8eb6-21ad13889464/apply), Senior Technical Consultant – Data and AI (https://jobs.lever.co/thinkahead/9132fb45-a58e-46e3-aec1-3f850bb7f9f6), and AI Consulting Director posted ~2026-08-05 ("14 days ago", https://builtin.com/job/ai-consulting-director-ai-services/7898922) — consistent with a practice build-out rather than a single struggling seat — M
+- Sibling req confirmed live via API: "Principal Consultant, Internal AI" (fc07faa0), createdAt 1783713544062 ms = 2026-07-10, remote/United States, same team+department, $200K–$300K OTE — https://api.lever.co/v0/postings/thinkahead/fc07faa0-5735-45d6-8ae2-fd76ea2bc5ed — H
+- AI Principal Technical Consultant (e9349a95) createdAt 1779482020877 ms ≈ 2026-05-22, corroborated by BeBee syndication "as of May 23, 2026" (https://bebee.com/us/jobs/ai-principal-technical-consultant-ai-services-ahead--theirstack-691361366) — so the AI-team reqs were opened in waves (Dec 2025 → May 2026 → Jul 2026 → Aug 2026), another practice-scaling marker — https://api.lever.co/v0/postings/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b — M
+
+**Language diff: vague posting vs. specific public strategy**
+- Posting says generically "Stay current on enterprise AI trends, including generative AI, agentic AI, AI governance, responsible AI, AI-enabled software delivery, data platforms, and cloud ecosystems" (https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f), while AHEAD's public AI page names concrete assets: "AI Strategy and Planning", "AI Platforms and Architecture", "NVIDIA DGX SuperPOD™ racks", and "AHEAD Foundry" (rapid GenAI prototyping) — https://www.ahead.com/artificial-intelligence/ — M
+- Posting frames the work as "lead complex AI and digital transformation engagements" (https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f), while the sibling Director JD is specific about the engagement type: "accountable for the successful delivery of AHEAD's agentic AI engagements" — https://builtin.com/job/ai-consulting-director-ai-services/7898922 — M
+- AHEAD's public content is heavily agentic-AI-specific (e.g., "Measuring Trust: How Accurate Are Your AI Agents?" https://www.ahead.com/resources/measuring-trust-how-accurate-are-your-ai-agents/; "Building Agentic AI Systems That Stay Aligned & Dependable" https://www.ahead.com/resources/perfectly-prompted-building-agentic-ai-systems-that-stay-aligned-dependable/; dedicated https://www.ahead.com/ai-transformation/ page) while the posting mentions "agentic AI" only in passing trend lists and "agent-assisted ways of working" — M
+
+**Eligibility facts**
+- Remote, US-wide ("workplaceType":"remote", "country":"US", location "United States"); no city/state restriction stated — https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f — H
+- No visa-sponsorship, security-clearance, or certification requirement appears anywhere in the canonical posting text (full raw JSON reviewed) — https://jobs.lever.co/thinkahead/f38b8c11-5009-442d-a504-15d1f4d65e9f — H
+- No travel percentage in this JD; comparator AHEAD client-facing reqs state: ServiceNow Business Process Consultant "an expectation of at least 25% travel" (https://jobs.lever.co/thinkahead/9a4c8f48-991d-494d-a1db-9d3e389e1aba); Associate Consultant LAUNCH program "travel to support client projects... (50+ % of the time)" (https://jobs.lever.co/thinkahead/36b2e4bb-3575-481f-9e45-26c671e6ed2a); network Technical Consultant reqs say "travel occasionally within the United States" (https://jobs.lever.co/thinkahead/5aac4f4e-d1de-4297-8a29-4c5fe37daee1) — travel language is per-req at AHEAD, and its omission here reads as deliberate — M
+- Hiring process uses AI screening with an explicit opt-out route via the General Application (https://jobs.lever.co/thinkahead/123c2c15-b0f7-48a0-8f49-c86d99cfdf72) — stated in the canonical posting — H
+
+### Not Found (mandatory)
+- Wayback captures of the target posting URL — archive.org availability API returned empty; no snapshots exist, so no cross-version language diff is possible
+- Any pre-2025-12-04 appearance of this req under this or a different title — searched Google, Built In, Himalayas, Jobgether, Dice, BeBee, Glassdoor search results; nothing predates the Lever createdAt
+- Base/bonus split behind the $250–300K OTE — not stated on the canonical posting nor on any located aggregator copy
+- Travel percentage for THIS role — absent from the JD and all located copies
+- A LinkedIn/Indeed/Glassdoor listing URL for this specific req — searches surfaced only sibling reqs; the ~2026-08-17 LinkedIn repost (200+ applicants) was provided by intake and could not be independently located/cited
+- Application deadline or close date — Lever posting carries none
+- Contents of the 2026-07-27 Wayback capture of jobs.lever.co/thinkahead — web.archive.org unfetchable in this environment
+- Google cache copies — Google cache is no longer publicly served; not available as a source
+- Total count of open AHEAD reqs / full team list — the Lever list API response truncated during fetch conversion; a fetch-model "6 total postings" figure is unreliable (Glassdoor shows ~180 open positions: https://www.glassdoor.com/Jobs/AHEAD-Jobs-E465122.htm) and was discarded
+
+### Collector Notes (facts only — ambiguities, conflicting sources)
+- Intake facts relied on (verified by parent 2026-08-19 via Lever API, not re-cited here): createdAt 2025-12-04; LinkedIn repost ~2026-08-17 with 200+ applicants.
+- Timestamp conflicts from fetch-model reads: one list-fetch reported e9349a95 createdAt as 1740761829632 (≈2025-02-28); the direct single-posting fetch reported 1779482020877 (≈2026-05-22). The direct fetch is corroborated by BeBee's "May 23, 2026" syndication date and is the one used above. Similarly, one search summary gave Internal AI comp as $240K–$300K vs the direct API's $200K–$300K; the direct API figure is used.
+- An "AI Sales Specialist" ($360K–$400K, hybrid NY) and an "AI Platform Engineer" (India, Field CTO team) also appeared in the list-fetch, but from the truncated/unreliable read — treat as unverified until fetched directly.
+- The removed Built In Chicago "Principal Consultant" ($300K–$350K, hybrid Chicago, removed 2026-05-01, https://www.builtinchicago.org/job/principal-consultant/9217008) is an infrastructure role, NOT an earlier version of this req — confirmed by its description content.
+- jobs.lever.co hosted pages and jobgether.com both return HTTP 403 to direct fetch from this environment; all canonical-content claims rest on the api.lever.co JSON (which serves the identical posting body) and the locally saved raw JSON.
