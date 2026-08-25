@@ -1,8 +1,25 @@
 {
-  "profile_views": [],
+  "profile_views": [
+    {
+      "date": "2026-08-25",
+      "count_90d": 95,
+      "trend_vs_prior_7d": "+20%",
+      "viewers_notable": [],
+      "note": "BASELINE for all three active plays (tenex, one-call, anthropic). No viewers from any target org visible. Recent viewers: Layla Young (1h, colleague), Pooja Patil (10h, Datawise analyst), Shelby Varikatt (4d), unnamed Exec Director DC-Baltimore (6d), DoW IG auditor (6d), London South East Colleges (1wk), + patent-attorney cluster (2wk)."
+    }
+  ],
   "orgs": {
-    "tenex": {"baseline_date": null, "comments": []},
-    "one-call": {"baseline_date": null, "comments": []},
-    "anthropic": {"baseline_date": null, "comments": []}
+    "tenex": {
+      "baseline_date": "2026-08-25",
+      "comments": []
+    },
+    "one-call": {
+      "baseline_date": "2026-08-25",
+      "comments": []
+    },
+    "anthropic": {
+      "baseline_date": "2026-08-25",
+      "comments": []
+    }
   }
 }
