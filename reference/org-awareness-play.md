@@ -49,6 +49,8 @@ Goal: know who to aim at, and where they actually live.
 - **The reply behavior is the most decision-relevant fact you will collect.** Someone who posts constantly but never answers a comment is a visibility surface. Someone with modest reach who answers everyone by name is a door. On the Tenex run, the founder with 217K followers replied to nobody; the enablement manager with 10K replied to almost everyone. The second person was worth ten of the first.
 - **"Nobody publishes" is a valid finding**, not a failed search. Say it, then find where the org's conversation actually happens instead — company page, trade press, conference stages, industry associations, podcasts.
 
+- **Read their CONSUMPTION, not just their publishing (added 2026-08-26, Parexel run — the Layla frame: show up in the media THEY consume).** Three surfaces per person, via his logged-in Chrome: `/recent-activity/reactions/` (what they read and love — the truest feed), `/recent-activity/comments/` (where they talk), `/details/interests/` (Top Voices / newsletters they follow). Capture: whose content they engage (network vs. broadcasters), which third-party surfaces recur, and where a comment would land inside their actual field of vision. Origin: McConnell publishes on the conference circuit but CONSUMES her personal network + exactly one followed voice (Andreas Welsch) — the door into her feed was invisible from her posts alone.
+
 **Never infer cadence or themes from a job title.**
 
 ## PHASE 2 — Match to his existing corpus
