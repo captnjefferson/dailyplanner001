@@ -19,6 +19,32 @@
 5. **Your final message IS the deliverable** — return the OUTPUT CONTRACT as structured data, nothing else. No preamble, no meta-commentary.
 6. **Browser-return guard:** the browser tool blocks returns containing 16+ char alphanumeric runs. Strip URLs and long tokens from anything you return from a browser call, or the call comes back blocked.
 7. **Late ≠ dead, but claimed ≠ done.** Never claim a step ran that you cannot show output for.
+8. **No silent skips — the RUN LEDGER is mandatory.** Every worker output ends with a `run_ledger`: one row per step/sub-layer in your brief, each marked `RAN-FOUND` / `RAN-NULL (count)` / `NOT-RUN (reason)`. A `NOT-RUN` row in a *delivered* result means the run is INCOMPLETE — it is not a finding, it is unfinished work. This exists because a skipped layer is otherwise invisible: "ran it, found nothing" and "never ran it" must never look the same again.
+
+---
+
+## ⛔ RUN LEDGER + COMPLETENESS GATE — model-independent enforcement (READ BEFORE DISPATCHING ANY RUN)
+
+This section exists because the process kept getting run inconsistently — layers silently dropped, outputs buried — and the failure was always "the model didn't choose to be thorough." Thoroughness is now mechanical, not a disposition.
+
+**1. Todos-first (orchestrator, before any dispatch).** Enumerate one tracked todo PER LAYER PER TARGET before work starts (composes with [[follow-the-steps]]). For each person: Layer 1, Layer 2, Layer 3a, Layer 3b, Layer 3c, Layer 4 (if active play), Layer 5/5b. No layer is optional at the "did it run" level — depth/judgment applies to how far you dig, NEVER to whether the layer runs. A run with an un-checked todo is not done.
+
+**2. Every worker returns a `run_ledger`** (universal rule 8). The orchestrator reads it. A `NOT-RUN` row is not accepted as complete — either it re-runs, or it is escalated to the human as an explicit named gap ("Layer 3c not run because X — want it?"), never left silent.
+
+**3. Completeness gate (orchestrator, before writing to Attio/card OR reporting done).** You may not declare a discovery run complete, write the synthesis, or tell the human it's done until: every enumerated todo is checked; every worker ledger shows RAN (found or null-with-count) for every layer; and the REPORT CONTRACT below is filled. If any layer is genuinely un-runnable (walled), it appears in the report as a NAMED gap, not an omission.
+
+## 📤 REPORT CONTRACT — what the human receives, fixed sections, none optional
+
+A discovery run is reported to Jefferson in THESE sections, in this order, every time. A section with nothing in it says so explicitly ("no individual voices followed — itself a finding") — it is never dropped. This is what stops the "I had to ask three times" failure: consumption is a headline, not a footnote buried in the dossier.
+
+1. **Who + what they publish** — cadence, themes, and **REPLY BEHAVIOR (door / billboard)**.
+2. **WHERE they read** — subscriptions/newsletters, communities, platforms. Explicit nulls (no Substack, etc.).
+3. **WHO they read** — individual voices followed (or the finding that they follow none), plus who they engage/react to.
+4. **Circle / inroads** — reachable people, mutuals (real vs brief), orbit direction.
+5. **Openings (5b)** — OCCUPIED / PEER / OPEN / VOID + the corpus-match angles.
+6. **Gaps + coverage bounds** — every NOT-RUN or walled layer named here, never omitted.
+
+Sections 2 and 3 (consumption) are load-bearing and have been dropped before — they are as mandatory as section 1.
 
 ---
 
@@ -108,14 +134,17 @@
 ```
 { target,
   subscriptions: [{source: substack|interests|x_likes, item, url}],
-  followed_voices: [...], followed_newsletters: [...],
-  communities: [{name, url, evidence_they're_in_it}],
+  followed_voices: [...] | "NONE FOLLOWED — finding: no individual thought-leaders",   // REQUIRED: check the Interests → Top Voices tab explicitly; its ABSENCE is a finding (contrast McConnell's one, Braylyan's zero)
+  followed_newsletters: [...],   // REQUIRED: Interests → Newsletters tab, read separately from Companies
+  followed_companies: [...],
+  communities: [{name, url, evidence}] | "NONE FOUND across corpus (checked)",   // REQUIRED: 3c — enumerate every Discord/subreddit/Slack/forum named anywhere in their corpus; a null is a null-WITH-the-check, never a skip
   github_consumption: {stars: N, follows: N} | "null — publishes, never browses",
   comment_proxy: {outward_facing: bool, evidence},
   register_in_the_wild: "how they talk in replies vs how they post",
+  run_ledger: [{step: "3a-substack"|"3a-interests-topvoices"|"3a-interests-newsletters"|"3a-github"|"3c-communities"|..., status: "RAN-FOUND"|"RAN-NULL (n)"|"NOT-RUN (reason)"}],
   coverage_bounds }
 ```
-**SELF-CHECK:** Substack tried with SLUG not id · Interests tab read via innerText slice · GitHub null reported if empty · comment-proxy verdict stated.
+**SELF-CHECK (all must be true before returning):** Substack tried with SLUG not id · Interests read as THREE separate tabs — Top Voices AND Newsletters AND Companies (Top-Voices absence stated as a finding) · 3c communities enumerated or explicit null · GitHub null reported if empty · comment-proxy verdict stated · **run_ledger present with a row for every sub-step, zero NOT-RUN rows** (a NOT-RUN = you are not done).
 
 ---
 
