@@ -11,7 +11,25 @@
   "orgs": {
     "tenex": {
       "baseline_date": "2026-08-25",
-      "comments": []
+      "comments": [
+        {
+          "date": "2026-08-26",
+          "target": "JJ Englert",
+          "post": "SF workshop recap (posted ~25min before sweep)",
+          "type": "reply-comment",
+          "url": "TBD \u2014 capture at next measurement pass",
+          "engagement": null
+        },
+        {
+          "date": "2026-08-26",
+          "target": "Alex Lieberman",
+          "post": "10 most common AI transformation asks (comment-for-DM invite)",
+          "type": "comment",
+          "url": "TBD \u2014 capture at next measurement pass",
+          "engagement": null,
+          "watch": "Lieberman promised a DM to commenters"
+        }
+      ]
     },
     "one-call": {
       "baseline_date": "2026-08-25",
