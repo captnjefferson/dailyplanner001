@@ -38,6 +38,12 @@
     "anthropic": {
       "baseline_date": "2026-08-25",
       "comments": []
+    },
+    "parexel": {
+      "baseline_date": "2026-08-26",
+      "comments": [],
+      "kill_review": "2026-09-16",
+      "note": "org play revived by Jefferson naming 8/26; targets McConnell/Braylyan/Fakhouri"
     }
   }
 }
