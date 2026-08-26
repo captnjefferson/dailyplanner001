@@ -45,3 +45,16 @@ Method: browser-lane (Fixer/Fable) + 2 Sonnet open-web workers (identity+trace, 
 
 ## Coverage bounds
 Off-LinkedIn identity: thorough (509-site Maigret + 25 searches). Citation: corpus LinkedIn-walled, ratio from 5 fetchable pieces only. VOID #2 (accessibility) inferred-absent, not regex-proven, because the primary corpus can't be fetched. DPHARM speaker status unconfirmable (403 wall). Facebook lead unverified by design.
+
+## Layer 3c — Communities (Sonnet worker, added 2026-08-26 to close the skipped-layer gap)
+- **No visible professional community, board, peer network, or alumni participation.** Every check a null-WITH-the-check: SCOPE 2026, DIA 2026, CNS Summit (144 names ×2 yrs), CDO Magazine Boston Roundtable (70+), CDO Magazine Global Community, MIT CDOIQ, RAPS/PDA/ISPE, DAMA/CDMP, Evanta/YPO/Vistage/HMG, Forbes Councils, Pfizer Alumni Network, RPI/UConn alumni chapters, citizen-developer/low-code communities, Reddit/Discord/Slack/X — all not-found.
+- **Only community signal: DPHARM 2026 (Boston, Sept 15-16)** — self-announced REGISTRATION/intent on LinkedIn ("the leading event for clinical innovation"), NOT a standing membership and NOT confirmed past attendance. Consistent with the earlier "probable attendee, not speaker" read.
+- **Two AI-search hallucinations refuted against primary sources** (a World Drug Safety Congress Europe talk; a CNS Summit "team" appearance) — neither exists; the worker fetched the actual event pages and disproved both. Reusable caution: WebSearch synthesis invents conference appearances.
+- **Identity corrections:** BS = UConn (Computer Science & Engineering); RPI-Hartford = the MBA. Legacy Pfizer-era LinkedIn /in/boris-braylyan-191b583/ = same person as current /in/boris-braylyan/. Name-collision cleared: Filipp Braylyan (Soviet-era, b.1901) is NOT him.
+- Coverage bound: LinkedIn Groups/Interests/Volunteering modules login-walled (HTTP 999) — the likeliest place explicit membership would show, unreadable. Gated association rosters (DIA/RAPS/DAMA) not searchable from open web; nulls are "not in what's public." Discord weakly indexed — softer null.
+
+## COMPLETE CONSUMPTION PICTURE (all of Layer 3, report-contract shape)
+- **WHERE he reads:** LinkedIn only. Subscriptions = two CXO trade newsletters (CIOsurge, CXO Spotlight); follows companies (Innovaccer, Harnham, Medasource, KenkoTech, "LinkedIn Guide to Creating" = learning to create). No Substack, no GitHub browsing, no personal site, no external blogs.
+- **WHO he reads:** NO individual thought-leaders — his Interests page has no Top Voices tab at all (contrast McConnell's one, Welsch). Engages/reacts inward: his own Parexel org people + pharma execs. Cites no one in his own writing (0% external sourcing).
+- **Communities:** none visible; DPHARM 2026 registration is the only signal, and it's intent not membership.
+- **The complete read:** an almost entirely closed, inward, employer-channel information world. No individual-voice door (unlike McConnell's Welsch), no community door. The ONLY doors are (a) directly on his posts — where he's a DOOR and replies substantively — and (b) his own commenters (Lance Beloney, Asit Mehra). This SIMPLIFIES the play: comment on him directly.
