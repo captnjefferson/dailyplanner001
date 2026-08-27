@@ -1,6 +1,6 @@
 # Jefferson's territory terms — the Layer 5b search list
 
-**DRAFT 2026-08-26, for Jefferson's review. Not yet wired into the process doc.**
+**ACTIVE — v1.0, 2026-08-26.** Reviewed by Jefferson and wired into the process doc as `paths.territory_terms`. T7 graded STRONG and T9 corrected by him on the same date.
 
 **What this is for.** Layer 5b classifies a target's subjects as OCCUPIED / PEER / OPEN / VOID. That requires searching *their* corpus for the subjects Jefferson has standing on, and counting hits. This is that list.
 
@@ -152,7 +152,7 @@ Standing: grew the team from 1 to 4–5 FTEs with 6+ year retention; directed R&
 ## §2 — Exclusions (never search, never cite)
 
 - **Docent / the museum thesis.** Internal and unbranded. Never appears in a comment, note, or opening. Not a territory.
-- **The October keynote (1,500 hospital leaders).** Standing fact, embargoed from applications, covers, and resumes; notes-only until Jefferson lifts it.
+- *(Removed 2026-08-26 — the IHA engagement is no longer an exclusion. Jefferson lifted the embargo; it is usable in applications, covers, and resumes. Its correct framing is in T7: two ~100-person breakouts, NOT "a keynote for 1,500." This bullet previously contradicted T7 head-on and governed a rank-1 opening.)*
 - **Named Captain Tomorrow clients.** Anonymized descriptors only.
 - **Any ROI or outcome claim on Captain Tomorrow client work.** None exist.
 

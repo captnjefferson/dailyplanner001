@@ -1,0 +1,34 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (3305 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username andreaswelsch on:
+[+] GitHub: https://github.com/andreaswelsch
+[+] Academia.edu: https://independent.academia.edu/andreaswelsch
+[+] Instagram: https://www.instagram.com/andreaswelsch/
+[+] TikTok: https://www.tiktok.com/@andreaswelsch
+[+] Facebook: https://www.facebook.com/andreaswelsch
+[+] Twitter: https://twitter.com/andreaswelsch
+[+] Paypal: https://www.paypal.com/paypalme/andreaswelsch
+[+] YouTube: https://www.youtube.com/@andreaswelsch/about
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=andreaswelsch&btnG=
+[+] Picsart: https://picsart.com/u/andreaswelsch
+[+] Flipboard: https://flipboard.com/@andreaswelsch
+[+] fixya: https://www.fixya.com/users/andreaswelsch
+[+] Championat: https://www.championat.com/user/andreaswelsch
+[+] Smule: https://www.smule.com/andreaswelsch
+[+] joyreactor.cc: https://joyreactor.cc/user/andreaswelsch
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/andreaswelsch
+[+] Pling: https://www.pling.com/u/andreaswelsch/
+[+] GitHubGist [GitHub]: https://gist.github.com/andreaswelsch
+[+] clarity.fm: https://clarity.fm/andreaswelsch
+[!] Too many errors of type "Bot protection" (6.09%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for andreaswelsch saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-08-26-andreas-welsch/maigret/report_andreaswelsch_simple.json
+[*] Short text report:
+Search by username andreaswelsch returned 18 accounts.
+Extended info extracted from 0 accounts.
+Countries: ru, nl
+Interests (tags): social, apps, business, coding, networking, sharing, video, art, photo, design, tech, education, research, messaging, finance, fintech, streaming, news, forum, sport, music, professional

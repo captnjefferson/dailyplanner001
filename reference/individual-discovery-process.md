@@ -30,7 +30,10 @@ options:
 paths:
   jefferson_corpus: "~/Sites/hm-outreach/reference/corpus-inventory-2026-08-26.md"
   territory_terms: "~/Sites/hm-outreach/reference/territory-terms.md"
-  run_dir: "~/Sites/hm-outreach/runs/YYYY-MM-DD-<org-or-person>/"
+  run_dir: "~/Sites/hm-outreach/runs/YYYY-MM-DD-<slug>/"   # person slug for AMBIENT and
+                                                          # FULL_JOB (the person is the unit
+                                                          # of work); org slug only for an
+                                                          # org-wide play
 permitted_touch_types: default   # default = INVISIBLE, ANONYMOUS-HIT, and disclosed
                                  # ATTRIBUTABLE-BY-BYPRODUCT only. Anything above that
                                  # is proposed to Jefferson, never executed.
@@ -52,17 +55,19 @@ If same-priority requirements conflict, name the conflict and continue only wher
 | AMBIENT | 0, 1, 2, 3a, 3b, 3c, 7, 5b, 5 | 4 per auto-promotion below; 6 if live req |
 | SURFACE_SCAN | 0, 1, 2, 7 | none |
 
-The Required column is also the **execution order**, which is deliberately not the order the layers appear below.
+The Required column is also the **execution order**, which is deliberately not the order the layers appear below. **Adversarial verification is a mandatory gate and runs between the last collection layer and 5b** — read the order as `… 7 → adversarial verification → 5b → 5`.
 
 Only this table decides whether a layer runs. Depth may vary within a required layer; the layer may not be silently skipped. Label SURFACE_SCAN output SURFACE SCAN — NOT FULL DISCOVERY.
 
 **Layer 4 auto-promotion.** Layer 4 becomes REQUIRED, regardless of `map_inroads`, the moment either is true: Layer 2 classifies reply behavior as BILLBOARD, or Layer 3's comment proxy is inward-facing. Those are precisely the cases where the only inroad is the target's own commenters and recent hires, so skipping Layer 4 returns a dossier with no way in. The orchestrator re-opens the Layer 4 todo when either condition fires.
 
+⚠️ **And when either trigger is BLOCKED-WALLED, Layer 4 is promoted by default.** Both triggers read from LinkedIn or X, and walled reply behavior is UNKNOWN — never BILLBOARD. Without this line the promotion can never fire in exactly the run that most needs it: a walled run would ship with no inroads at all, which is the failure the rule exists to prevent. Unknown is treated as the adverse case.
+
 **Mode selection.** Jefferson picks the mode. Absent instruction: a named hiring manager or a live req is FULL_JOB; a person on an ambient roster is AMBIENT; a triage pass over several candidates before choosing is SURFACE_SCAN.
 
 ## Completion contract
 
-Before dispatch, create one todo per required or conditional layer **and one per numbered sub-step within it** (each layer below carries a numbered list; the ledger requires exactly one row per numbered item). Final todo states are COMPLETE, BLOCKED-WALLED, or NOT-APPLICABLE. NOT-RUN is never deliverable.
+Before dispatch, create one todo per required or conditional layer **and one per numbered sub-step within it** (every layer below states its own ledger-row count and numbers its sub-steps; the ledger requires exactly that many rows, no fewer — Layer 7 takes one row per surface checked). Final todo states are COMPLETE, BLOCKED-WALLED, or NOT-APPLICABLE. NOT-RUN is never deliverable.
 
 Every layer returns this ledger row per numbered sub-step:
 
@@ -133,7 +138,9 @@ Run open-web tasks in parallel. Run LinkedIn, X, and other authenticated work th
 
 Dispatch: Layer 0 → parallel open-web work plus serial browser work → adversarial verification → Layer 5b and corpus match → final report → optional Attio write.
 
-**Single-agent degradation.** If the run has no dispatcher and one agent plays every role, "independent" verification is unavailable: the same model with the same tools hits the same walls. In that case a verifier must use a **different source set or search strategy** than the original collection pass, and the run records `verification: SINGLE-AGENT-DEGRADED` in the ledger. It does not silently count as independent review.
+**Single-agent degradation.** If the run has no dispatcher and one agent plays every role, "independent" verification is unavailable: the same model with the same tools hits the same walls. In that case a verifier must use a **different source set or search strategy** than the original collection pass, and the run records `verification: SINGLE-AGENT-DEGRADED` in the ledger.
+
+⛔ **A `SINGLE-AGENT-DEGRADED` run sets `load_bearing_claims_verified: FAIL` and therefore ends INCOMPLETE. This is not a judgement call and there is no tag, caveat, or disclosure that converts it to PASS.** Stated flatly because it is the one place the honesty mechanism could otherwise be talked around: the same evidence must never ship as COMPLETE from one run and INCOMPLETE from another. Degraded verification is a real limitation, and the report says so on its face.
 
 **Transport guard.** If the browser tool blocks returns containing raw URLs or long alphanumeric tokens, replace them with source IDs in worker returns and preserve the mapping. Restore full URLs in the final source registry.
 
@@ -182,7 +189,7 @@ Authenticated LinkedIn and X (Ops §A1). Numbered sub-steps — seven ledger row
 4. Quantify the **engagement gradient and state its rule** — the numbers plus the pattern they imply. Worked example of the required shape: *"personal and frontier takes run 200–2,700 reactions; tutorials and recruiting posts sit at a 9–75 floor"* → the rule is that first-person opinion travels and institutional content does not, which sets the register for any touch.
 5. Open 5–10 recent post threads and classify reply behavior as **DOOR** (meaningful replies to people outside their circle), **MIXED**, or **BILLBOARD** (no replies, or circle-only). **Never classify reply behavior without opening actual threads. If threads cannot be opened, reply behavior is UNKNOWN — never BILLBOARD.** This is the single most decision-relevant fact in the run: it decides whether the play is a comment to them or an inversion toward their commenters.
 6. Record format effects (the same person's "guide" going nuclear while their article dies) and appearances.
-7. Record relevant organization channels. "Nobody publishes" is a valid finding → locate where the org's conversation actually happens (company page, trade press, stages, associations).
+7. Record relevant organization channels. **Open-web — this sub-step runs regardless of session state**, so it is never walled with the rest of the layer. "Nobody publishes" is a valid finding → locate where the org's conversation actually happens (company page, trade press, stages, associations).
 
 Output: live and dead platforms, themes, engagement gradient and rule, reply evidence, appearances, org channels, ledger, coverage.
 
@@ -190,27 +197,37 @@ Output: live and dead platforms, themes, engagement gradient and rule, reply evi
 
 Run 3a before 3b and 3c. Consumption is a load-bearing headline in the final report, not a dossier footnote.
 
-### 3a — Exposed subscriptions (five ledger rows)
+### 3a — Exposed subscriptions (six ledger rows)
 
 For every platform below, the identifier comes from Layer 1's verified accounts, a link in the target's own bio, or handle reuse across platforms — never from a bare name guess.
 
 1. **Substack.** Ops §A3. Note the two-object trap: the publication subdomain holds what they *write*; the personal reader profile holds what they *read*. 3a wants the reader profile.
 2. **LinkedIn Interests** — read as three separate tabs: Top Voices, Newsletters, Companies. **The absence of a Top Voices tab is a finding**, not a null: it means they follow no individual voices. Ops §A4.
 3. **Authenticated X following and likes.** The likes tab is a reading log.
-4. **GitHub stars and following.** Ops §A5. Excellent for engineers, usually empty for everyone else — count the null either way; it is a 30-second check.
-5. **Fast checks** for Goodreads, Letterboxd, public Spotify, Reddit — only where Layer 1 surfaced an actual identifier. Ops §A6.
+4. **Bluesky follows.** Public, unauthenticated, INVISIBLE, and readable when X and LinkedIn are walled — often the only consumption data a walled run can get. Ops §A5.
+5. **GitHub stars and following.** Ops §A5. Excellent for engineers, usually empty for everyone else — count the null either way; it is a 30-second check.
+6. **Fast checks** for Goodreads, Letterboxd, public Spotify, Reddit — only where Layer 1 surfaced an actual identifier. Ops §A6.
 
 Do not pursue private podcast follows, YouTube subscriptions, newsletter opens, or email-gated reading behavior. **No OSINT tool reveals what a person reads** — only the platforms above leak subscriptions as a social feature. Knowing that is what stops a run burning twenty calls on a category that does not exist.
 
-### 3b — Corpus mining
+### 3b — Corpus mining (four ledger rows)
 
-Their own words are the strongest evidence. Mine the fetchable first-party corpus into `<run_dir>/corpus/`; state walls and sample bounds. Extract: every outbound link aggregated by domain; every named person classified authority or colleague; publications, podcasts, books, papers, and tools; hidden bibliographies (a reading list in a repo or site); observable uncredited borrowing, explicitly labeled as inference.
+Their own words are the strongest evidence. Sub-steps: **(1)** fetch the corpus and state its size, window, and walls; **(2)** extract and classify outbound links; **(3)** extract named people, works cited, and tools; **(4)** compute and report the two ratios, or the insufficient-sample null. Mine the fetchable first-party corpus into `<run_dir>/corpus/`; state walls and sample bounds. Extract: every outbound link aggregated by domain; every named person classified authority or colleague; publications, podcasts, books, papers, and tools; hidden bibliographies (a reading list in a repo or site); observable uncredited borrowing, explicitly labeled as inference.
 
-**The diagnostic ratio.** Report `source links ÷ classified outbound links` and `vendor-tool-own links ÷ classified outbound links`, with the raw denominator. "Classified" = an outbound link to a distinct third-party domain; same-domain internal links and platform syndication links are excluded from both numerator and denominator, and that exclusion is stated. **Minimum denominator 50 links across ≥5 pages** — below that, report RAN-NULL with `note: insufficient sample` rather than a ratio. The orchestrator interprets; the worker reports raw.
+**The diagnostic ratio.** It measures one thing: whether their outbound links point at evidence or at merchandise.
+
+- **classified link** = an outbound link to a third-party domain, **counted once per document** — not once per instance. Per-item boilerplate (a book link in every episode footer) is one link in that document, not 116 across the feed.
+- **source link** = a link offered as evidence for a claim: research, policy, journalism, data, or an outside practitioner's work.
+- **vendor/tool/own link** = a link to a commercial product, or to any property the target owns or promotes.
+- **Excluded from both numerator and denominator:** same-domain internal links, platform syndication links (Apple, Spotify, YouTube mirrors of their own thing), and **every domain the target owns or promotes** — state the exclusion and the domains.
+
+Report both ratios with the raw denominator. **Minimum denominator 50 classified links across ≥5 distinct first-party documents** (an RSS item counts as one document). Below that, report RAN-NULL with `note: insufficient sample` rather than a ratio. The orchestrator interprets; the worker reports raw.
 
 Citation habits track the author, not the org.
 
-### 3c — Communities
+### 3c — Communities (three ledger rows)
+
+Sub-steps: **(1)** enumerate named communities from the corpus; **(2)** check consumer surfaces explicitly and report that null separately; **(3)** compute the comment proxy.
 
 Communities are often the real media — being in the room beats being in the inbox, and it changes the presence plan. Enumerate every named Discord, subreddit, Slack, forum, association, board, panel, alumni group, and recurring conference circuit appearing anywhere in their corpus. Check professional **and** consumer surfaces; inward-facing professionals skew professional, and the consumer null is itself reportable. If none are found, state the surfaces checked and the count.
 
@@ -218,7 +235,7 @@ Communities are often the real media — being in the room beats being in the in
 
 Output: subscriptions, followed voices (or the finding that they follow none), newsletters, companies, communities, GitHub consumption, diagnostic ratio, comment proxy, register in the wild, ledger, coverage.
 
-## Layer 4 — Circles and inroads
+## Layer 4 — Circles and inroads (six ledger rows)
 
 Runs when required by the mode table or by auto-promotion.
 
@@ -231,7 +248,9 @@ Runs when required by the mode table or by auto-promotion.
 
 Output: answered circle, own commenters, co-occurrence, shared rooms, mutuals, new hires, ledger, coverage.
 
-## Layer 6 — Live requisition verification
+## Layer 6 — Live requisition verification (four ledger rows)
+
+Sub-steps: **(1)** locate the req on the org's own ATS; **(2)** capture the verbatim fields; **(3)** capture every screening question with its full option list; **(4)** diff siblings and score the qualifications.
 
 Runs when `live_req.exists = true`. Verify against the organization's own ATS, never an aggregator. Endpoints in Ops §A7.
 
@@ -239,7 +258,7 @@ Capture verbatim: req ID, title, canonical URL, posting date, location, remote p
 
 Diff sibling reqs (a specialization may exist only in the title; same-day siblings signal a build-out). Label any aggregator-based repost evidence as such. Score each qualification MATCH, NO-MATCH, or UNKNOWN against the candidate profile and show the count and sources.
 
-## Layer 7 — Trace sweep
+## Layer 7 — Trace sweep (one ledger row per surface checked)
 
 Where they exist, and provably do not, off LinkedIn: X, Bluesky, Instagram, Threads, TikTok, Facebook, Substack, Medium, GitHub, personal sites, podcasts, YouTube and conference archives, webinar libraries, trade-press bylines. Apply the two-anchor gate to every hit.
 
@@ -277,13 +296,13 @@ Refuted claims are removed or corrected, not softened. UNCONFIRMABLE claims are 
 
 The actual deliverable. Produce it on every FULL_JOB and AMBIENT run, ranked, from the verified Layer 2–3 corpus.
 
-**Load `paths.territory_terms` and `paths.jefferson_corpus` first.** If either is unreadable, Layer 5b does not run and the acceptance row `corpus_loaded_from_named_path` fails. **Never improvise Jefferson's territory terms or his positioning** — an invented list produces a plausible, ranked, entirely wrong openings analysis, and nothing downstream catches it.
+**Load `paths.territory_terms` and `paths.jefferson_corpus` first, and check both for a DRAFT or provisional banner** — a self-declared draft fails `corpus_loaded_from_named_path`; readability alone is not the test. If either is unreadable, Layer 5b does not run and the acceptance row `corpus_loaded_from_named_path` fails. **Never improvise Jefferson's territory terms or his positioning** — an invented list produces a plausible, ranked, entirely wrong openings analysis, and nothing downstream catches it.
 
 Size both corpora before matching, and report both sizes. Then classify per territory:
 
 - **OCCUPIED** — they lead on it. Name these so he does **not** lead with them; leading on a subject someone owns reads as agreement, not contribution.
 - **PEER** — he is level. Contribute, don't instruct.
-- **OPEN** — recurring (≥3 occurrences in the window) but never developed. The wedge.
+- **OPEN** — recurring **across ≥3 distinct documents** (not ≥3 raw occurrences, which is the noise floor in a large corpus and a theme in a small one) but never developed. The wedge.
 - **VOID** — zero hits across the fetchable corpus on a territory where his standing is STRONG. The sharpest opening.
 
 Per ranked row: rank, class, evidence (their own words, quoted, with a source ID), corpus coverage for that term, Jefferson's backing piece **or an explicit "strong standing, no linkable proof"**, and the suggested interaction type.
@@ -385,6 +404,8 @@ coverage_achieved: ""                # one line: what fraction of planned surfac
 
 Jefferson's logged-in Chrome, driven by the Claude-in-Chrome tools (`mcp__claude-in-chrome__*`; load them with ToolSearch if deferred). He is signed in to LinkedIn and to X as `@jmstovall`. One browser worker, serial, one tab per lane — two agents on one tab collide.
 
+**Operational test for "is a session available" — run this before deciding the run's terminal state.** A connected browser is not a logged-in one. Load `https://www.linkedin.com/feed/` and read the page: a signed-in session renders the feed; a signed-out one renders the marketing or login page. Only the first counts as VERIFIED-AUTHENTICATED. If the browser tools are absent entirely, the answer is no without testing.
+
 **There is no unauthenticated fallback for X or LinkedIn.** LinkedIn is fully walled to agents. x.com is client-dependent and the failure is deceptive: a plain fetcher receives **HTTP 402**, while curl receives **HTTP 200 with a ~223KB JavaScript shell containing zero profile text**. A 200 here does not mean success. Every Nitter mirror is dead. If no authenticated session is available, cap those checks at SEARCH-ONLY and end the run INCOMPLETE.
 
 ## A2. Maigret
@@ -417,7 +438,7 @@ curl -s "https://<PUBLICATION>.substack.com/api/v1/posts"
 curl -s "https://<PUBLICATION>.substack.com/api/v1/archive?sort=new&limit=50"
 ```
 
-Find the personal slug from their own bio links, a Substack post byline, or handle reuse from Layer 1 — not by guessing off their name.
+Find the personal slug from their own bio links, a Substack post byline, or handle reuse from Layer 1 — not by guessing off their name. **If none of those authorized sources yields a candidate, the step is NOT-APPLICABLE, not a null** — with zero candidates there is nothing to confirm an absence against.
 
 ## A4. LinkedIn Interests
 
@@ -433,7 +454,18 @@ Map each captured list by its **rendered tab label**, not by index order. **Extr
 
 Related, same lane: profile feed `https://www.linkedin.com/in/<slug>/` (scroll ~10 ticks, then read page text — the profile feed reads more reliably than `/recent-activity/all/`) and comments `https://www.linkedin.com/in/<slug>/recent-activity/comments/` (scroll with the computer tool, not a long JS loop).
 
-## A5. GitHub
+## A5. Bluesky and GitHub
+
+**Bluesky — free, unauthenticated, INVISIBLE, and it returns a real follows list.** When X and LinkedIn are walled this is frequently the only "who they read" data a run can get, so check it before concluding that section is empty. Verified working 2026-08-26:
+
+```bash
+curl -s "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=<handle>"
+curl -s "https://public.api.bsky.app/xrpc/app.bsky.graph.getFollows?actor=<handle>&limit=100"
+```
+
+Handle is usually `<name>.bsky.social` or a custom domain. `getFollows` returns handles and display names — apply the two-anchor gate to the target's own account, then read the follows as consumption evidence.
+
+**GitHub:**
 
 ```bash
 curl -s "https://api.github.com/users/<login>"
@@ -441,17 +473,19 @@ curl -s "https://api.github.com/users/<login>/starred?per_page=100"
 curl -s "https://api.github.com/users/<login>/following?per_page=100"
 ```
 
-Free, no auth, INVISIBLE. Great for engineers, near-always empty otherwise — report the null with its count.
+Free, no auth, INVISIBLE. Great for engineers, near-always empty otherwise — report the null with its count. ⚠️ A GitHub account matching the name is **not** the target until it clears two anchors; a bare name match here is a common false positive.
 
 ## A6. Fast identity checks
 
 ```bash
-curl -s -A 'research/1.0' "https://www.reddit.com/user/<handle>/about.json"
-curl -s "https://letterboxd.com/<handle>/"
-curl -s "https://www.goodreads.com/search?q=<name>&search_type=people"
+curl -s "https://www.goodreads.com/search?q=<name>&search_type=people"   # HTTP 200 — works
 ```
 
-Only where Layer 1 surfaced an actual identifier. A name-only match is a lead, filed UNVERIFIED.
+⛔ **Reddit and Letterboxd are bot-blocked to plain fetchers — both return HTTP 403 to a request that never reaches the profile.** Verified 2026-08-26 against known-good control accounts (`reddit.com/user/spez/about.json` → 403; `letterboxd.com/dave/` → 403), not just against a target who might genuinely be absent. **A 403 here is BLOCKED-WALLED, never a null** — filing it as absence is exactly the error the evidence contract forbids.
+
+**Rule for any fast check: before recording a null on one of these platforms, run the same request against an account known to exist.** If the control also fails, the platform is walled and the result says so. This costs one call and is the difference between "they are not on Reddit" and "I could not see Reddit."
+
+Only run these where Layer 1 surfaced an actual identifier. A name-only match is a lead, filed UNVERIFIED.
 
 ## A7. ATS endpoints (Layer 6)
 
