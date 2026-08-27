@@ -1,0 +1,113 @@
+TOTAL first-party docs fetched: 139 | rss: 116 | substack: 23
+date range full: 2022-04-21 -> 2026-08-25
+docs in trailing 12mo (2025-08-26..2026-08-26): 50
+BOUND APPLIED: 30 most recent items; 2026-04-14 -> 2026-08-25
+chars in bounded corpus: 44527
+
+--- classified links (unique third-party domain per document) ---
+TOTAL classified link-instances: 20 across 10 documents with any
+   10  aileadershiphandbook.com
+   10  humanagenticaiedge.com
+
+--- sample per-doc ---
+  2026-08-25 substack | The Capability Map Architects Need Before Deploying Agentic  | []
+  2026-08-21 rss | Building Agentic AI-Ready Enterprise Architecture (Grant Eck | ['aileadershiphandbook.com', 'humanagenticaiedge.com']
+  2026-08-18 substack | Who’s Influencing Your Shopping Agents? | []
+  2026-08-11 substack | The Vibecoding Mistakes Costing You More Than You Think | []
+  2026-08-07 rss | Three Agentic AI Success Factors Beyond Technology (Sebastia | ['aileadershiphandbook.com', 'humanagenticaiedge.com']
+  2026-08-04 substack | My AI Agents Created An Online Course End-to-End (And I Appr | []
+  2026-07-28 substack | Your AI Agent Just Agreed to Something. Did You? | []
+  2026-07-24 rss | Why Agentic Commerce Needs Contracts (Nitin Badjatia) | ['aileadershiphandbook.com', 'humanagenticaiedge.com']
+  2026-07-21 substack | A Day In The Life Of A Chief AI Officer—Four Simulations You | []
+  2026-07-14 substack | Why Your Eight-Week Roadmap Is Already Obsolete | []
+  2026-07-10 rss | How AI is Accelerating the Speed of Business (Doug Shannon) | ['aileadershiphandbook.com', 'humanagenticaiedge.com']
+  2026-07-08 substack | Tokenomics: When The Real Cost Of Intelligence Sets In | []
+
+regex lines loaded: 67
+
+--- TERRITORY HITS (bounded corpus, N=30 docs) ---
+
+T1:
+   docs=  5 occ=   5  AI adoption|adoption curve|user adoption
+   docs=  0 occ=   0  AI enablement|enablement program
+   docs=  0 occ=   0  AI rollout|rollout
+   docs=  1 occ=   1  AI transformation|digital transformation
+   docs=  0 occ=   0  change management
+   docs=  0 occ=   0  AI literacy|AI fluency
+   docs=  0 occ=   0  upskilling|reskilling|workforce readiness
+   docs=  0 occ=   0  pilot to production|POC to production|proof of concept
+   docs=  0 occ=   0  prompt library|prompt template
+   docs=  1 occ=   2  internal champion|power user|subject matter expert|SME
+   docs=  0 occ=   0  office hours|enablement session
+   docs=  0 occ=   0  tool training|training program
+
+T2:
+   docs=  0 occ=   0  executive buy-in|leadership buy-in|exec sponsorship
+   docs=  0 occ=   0  resistance|skepticism|pushback
+   docs=  0 occ=   0  imposter|impostor
+   docs=  0 occ=   0  psychological safety
+   docs=  0 occ=   0  middle management|frozen middle
+   docs=  0 occ=   0  return to office|RTO
+   docs=  0 occ=   0  culture change|cultural resistance
+
+T3:
+   docs=  0 occ=   0  vibe coding|vibe-coding
+   docs=  0 occ=   0  non-technical|non-coder|citizen developer
+   docs=  0 occ=   0  internal tools|internal apps
+   docs= 19 occ=  87  agentic|AI agents?|autonomous agents?
+   docs=  0 occ=   0  human in the loop|human-in-the-loop
+   docs=  2 occ=   3  orchestrat
+   docs=  3 occ=   8  multi-agent|agent pipeline
+   docs=  0 occ=   0  build versus buy|build vs\.? buy
+   docs=  0 occ=   0  personal software|software for one
+
+T4:
+   docs=  1 occ=   1  AI governance|model governance
+   docs=  0 occ=   0  model deprecation|model version|version pinning
+   docs=  1 occ=   2  responsible AI|AI ethics
+   docs=  0 occ=   0  AI policy|acceptable use
+   docs=  0 occ=   0  data security|data privacy
+   docs=  0 occ=   0  client disclosure|AI disclosure
+   docs=  1 occ=   1  vendor lock-in|lock-in
+   docs=  0 occ=   0  export control|sanctions
+   docs=  0 occ=   0  audit trail|auditability
+
+T5:
+   docs=  0 occ=   0  special education|special ed\b|IEP\b
+   docs=  0 occ=   0  accessibility|assistive technolog
+   docs=  1 occ=   1  differentiation|differentiated instruction
+   docs=  0 occ=   0  teacher|educator
+   docs=  0 occ=   0  instructional design|curriculum design
+   docs=  0 occ=   0  K-12|K12
+   docs=  0 occ=   0  ed-?tech
+   docs=  0 occ=   0  student outcomes|learning outcomes
+
+T6:
+   docs=  0 occ=   0  cost per|unit economics|token cost|inference cost
+   docs=  0 occ=   0  cost-optimi[sz]ed|model selection|model routing
+   docs=  0 occ=   0  parallel(i[sz]ation)?|parallel calls
+   docs=  0 occ=   0  latency
+   docs=  0 occ=   0  context window|prompt caching
+
+T7:
+   docs=  0 occ=   0  association|membership organi[sz]ation
+   docs=  0 occ=   0  public affairs|advocacy|government relations
+   docs=  0 occ=   0  hospital|health system|clinical
+   docs=  0 occ=   0  credentialing|continuing education|\bCE\b
+   docs=  0 occ=   0  member engagement|member value
+   docs=  0 occ=   0  regulated industr
+
+T8:
+   docs=  0 occ=   0  sales enablement
+   docs=  0 occ=   0  go-to-market|GTM
+   docs=  0 occ=   0  prospecting|outbound
+   docs=  0 occ=   0  personali[sz]ation at scale
+
+T9:
+   docs=  1 occ=   1  engineering leadership|technical leadership|technology leader
+   docs=  0 occ=   0  first technical hire|building a team|team building
+   docs=  0 occ=   0  retention|attrition|turnover
+   docs=  0 occ=   0  team topology|org design|reporting structure
+   docs=  0 occ=   0  managing engineers|leading engineers|player-coach
+   docs=  0 occ=   0  R&D|research and development
+   docs=  0 occ=   0  scaling a team|headcount
