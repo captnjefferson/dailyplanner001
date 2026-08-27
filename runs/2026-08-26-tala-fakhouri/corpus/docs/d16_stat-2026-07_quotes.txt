@@ -1,0 +1,12 @@
+TITLE: A former AI regulator, now in industry, says biopharma is reading FDA's guidance wrong
+BYLINE: Brittany Trang, STAT News, July 2, 2026 (San Diego)
+SOURCE: statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/
+STATUS: STAT+ PAYWALLED — only the lede paragraph (free preview) is fetchable; full text (and presumably her direct quoted answers) sits behind the subscriber wall. No direct quotation marks appear in the free excerpt below — her words are PARAPHRASED by the reporter, not quoted verbatim, in the portion available. This is quotes-within-secondary in intent but the fetchable portion contains no verbatim first-person quote to extract.
+
+FREE EXCERPT (full text of what is fetchable, verbatim):
+Tala Fakhouri, a former FDA official, is chief AI and regulatory strategy officer at Parexel.
+SAN DIEGO — Two years ago, Tala Fakhouri was writing AI policy at the Food and Drug Administration. Now, after leaving the FDA last summer, she's getting a firsthand look at how the industry is implementing the policies she wrote as chief AI and regulatory strategy officer at Parexel, a contract research organization.
+What she sees distresses her. The FDA's intent to be flexible is getting lost in translation, she said, and she's seeing the industry interpreting that guidance in the most conservative way possible in order to avoid risk.
+[PAYWALL — remainder of article, including any direct Q&A quotes, not accessible]
+
+WALL: STAT+ subscriber paywall confirmed on direct fetch 2026-08-27; Wayback Machine (web.archive.org) was unreachable from this environment (connection timeout on both port 80 and 443, tested with two different snapshots) so no archived unlocked copy could be attempted.

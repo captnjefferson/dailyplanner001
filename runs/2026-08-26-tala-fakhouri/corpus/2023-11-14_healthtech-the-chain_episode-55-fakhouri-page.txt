@@ -1,0 +1,30 @@
+TITLE: Episode 55 - Tala Fakhouri Discusses AI/ML for Biologics Drug Discovery & Development (show-notes page)
+SOURCE: healthtech.com/the-chain/tala-fakhouri-discusses-ai-ml-for-biologics-drug-discovery-development (Cambridge Innovation Institute / Cambridge Healthtech Institute)
+PODCAST: "The Chain" — RSS pubDate confirmed 2023-11-14
+
+BODY:
+In this episode of The Chain, Richard Bonneau, PhD, and Marcel Hop, PhD, of Genentech interview Tala Fakhouri, PhD, of the FDA on her thoughts on the discussion paper, "Using Artificial Intelligence & Machine Learning in the Development of Drug & Biologic Products" and the evolving role of AI/ML to create models and inform decisions in biopharmaceutical development and regulatory submissions. Dr. Fakhouri also discusses the impact AI/ML models could have on clinical trial conduct, patient enrollment, patient selection, and data interpretation. She also talks about the next steps to get the right processes in place and why transparency is important to establish trust with patients about AI/ML tools.
+
+GUEST BIO
+Tala Fakhouri, PhD, MPH, Associate Director for Policy Analysis, CDER, Office of Medical Policy, FDA
+
+Tala H. Fakhouri PhD MPH is the Associate Director for Policy Analysis in the Office of Medical Policy Initiatives (OMPI), Center for Drug Evaluation and Research (CDER), Food and Drug Administration (FDA). Dr. Fakhouri manages a team tasked with developing, coordinating, and implementing medical policy with a focus on the use of Artificial Intelligence (AI) and Machine Learning (ML) in drug development. These efforts include overseeing an AI policy group, as well as engaging external stakeholders and advancing the development of regulatory science around the use of AI in drug development. Recently, she led the development and publication of a Discussion Paper; titled: "Using Artificial Intelligence and Machine Learning in the Development of Drug and Biological Products". She also contributes to the development of medical policy related to real-world evidence (RWE) and the use of digital health technologies for medical product development.
+
+In 2023, Dr. Fakhouri was selected by the Office of Management and Budget (OMB) to serve on the Federal Committee for Statistical Methodology (FCSM) for her expertise in statistical methods.
+
+Prior to joining FDA, Dr. Fakhouri served as a Senior Health Scientist and Chief Statistician for the CDC's flagship population survey, the National Health and Nutrition Examination Survey (NHANES). The NHANES program, which is conducted by the CDC's National Center for Health Statistics (NCHS), is recognized as the premier source of nationally representative data on the health of the nation. In her role at NHANES, Dr. Fakhouri advised and provided guidance to NHANES within CDC and with external stakeholders, with special emphasis on issues related to selection bias, data linkage, and data quality. She was also responsible for designing strategies to increase survey cooperation rates including changes to recruitment protocol and procedures, changes to survey sampling and design, and developing targeted outreach materials to increase survey representativeness.
+
+In addition, Dr. Fakhouri served on the NCHS Disclosure Review Board, the Cancer Moonshot Data Science Workgroup, and co-led the FCSM Nonresponse Bias Subcommittee, which was tasked with identifying gaps in issues related to survey nonresponse and selection bias, and with providing recommendations to OMB on Federal survey standards and guidelines.
+
+Prior to joining NHANES, she served as an Epidemic Intelligence Service Officer with the CDC, and deputy lead for health surveys at ICF-Macro International. Dr. Fakhouri published over 30 government reports, peer-reviewed papers, and book chapters on chronic disease epidemiology and on methodological issues related to nonresponse bias and data quality.
+
+Dr. Fakhouri earned a Ph.D. in Oncological Sciences from The Huntsman Cancer Institute at the University of Utah, an MPH in Epidemiologic and Biostatistical Methods from the Johns Hopkins University School of Public Health, and a postdoctoral fellowship in molecular biology and genetics from Harvard University, and holds a BSc Medical Technology from the Jordan University of Science and Technology.
+
+MODERATOR BIO
+Richard A. Bonneau, PhD, Vice President, Drug Discovery, Prescient Design, Genentech — computational biologist; leads Computational Drug Discovery, Computational Sciences division, Genentech; PhD University of Washington (under David Baker); postdoc Institute for Systems Biology (with Leroy Hood); professor at NYU (Computer Science + Biology); founding member/co-founder of RosettaCommons, NYU Center for Data Science, Simons Center for Data Analysis (became the Flatiron Institute); co-founded Prescient Design (acquired by Genentech).
+
+Marcel Hop, PhD, Vice President, Drug Metabolism & Pharmacokinetics, Genentech — manages DMPK department (~90 scientists); previously Senior Director at Pfizer, Senior Research Fellow at Merck; authored 190+ publications; co-authored "Drug Metabolism and Pharmacokinetics Quick Guide" and "Discovery DMPK Quick Guide"; served on committees for ISSX, the IQ Consortium, and the Tuberculosis Drug Accelerator.
+
+CONTACT: Cambridge Innovation Institute (CHI), 250 First Avenue, Suite 300, Needham, MA 02494.
+
+IN-BODY LINKS: none rendered as anchors in the stripped fetch (page uses internal CHI nav links only, not counted per exclusion rule — same-domain internal site navigation).

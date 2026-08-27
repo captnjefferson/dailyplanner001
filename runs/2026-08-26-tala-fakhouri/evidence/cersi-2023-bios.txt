@@ -1,0 +1,319 @@
+Application of Artificial Intelligence and Machine Learning for Precision Medicine
+University of Maryland Center of Excellence in Regulatory Science and Innovation
+Food and Drug Administration
+Public Workshop
+February 17, 2023 | 10:00 AM – 4:15 PM Eastern Time
+
+Biographies
+
+Eric Topol, M.D.
+Founder and Director, Scripps Research Translational Institute
+Professor Molecular Medicine
+Executive Vice-President, Scripps Research
+Dr. Eric Topol is the Founder and Director of the Scripps Research
+Translational Institute, Professor, Molecular Medicine, and Executive VicePresident of Scripps Research. He has published over 1,200 peer-reviewed
+articles, with more than 310,000 citations, elected to the National Academy of
+Medicine, and is one of the top 10 most cited researchers in medicine. His
+principal scientific focus has been on individualized medicine using genomic,
+digital, and A.I. tools.
+He authored three bestseller books on the future of medicine: The Creative Destruction of Medicine,
+The Patient Will See You Now, and Deep Medicine: How Artificial Intelligence Can Make Healthcare Human
+Again. Dr. Topol is the principal investigator for two large NIH grants, the All of Us Research Program that
+supports precision medicine and a Clinical and Translational Science (CTSA) Award that promotes
+innovation in medicine. He was the founder of a new medical school at Cleveland Clinic (Lerner College of
+Medicine), was commissioned by the UK to lead a review of their National Health Service, and is active
+clinically as a cardiologist. Additionally, Dr. Topol is Editor-in-Chief of Medscape, publishes the Substack
+newsletter “Ground Truths, “and maintains a strong presence on social media on Twitter (@erictopol) with
+over 675,000 followers.
+
+Alan Edelman Ph.D.
+Professor of Applied Mathematics
+Computer Science & AI Laboratory
+MIT
+Chief Scientist
+JuliaHub Inc.
+Prof. Alan Edelman considers himself to be a pure mathematician and an
+applied computer scientist. He has consulted for Pixar, IBM, Microsoft, &
+Thinking Machines, and has cofounded JuliaHub and Interactive
+Supercomputing. He has won many prestigious prizes including a Gordan
+Bell Prize, Householder Award, IEEE Fernbach Award, Charles Babbage
+Award, and was tenth in the nation in the USA Math Olympiad when he was in high school. He is a fellow
+of ACM, SIAM, IEEE, and the AMS. Most of all he loves the interaction of mathematics and computation.
+
+James Lu, Ph.D.
+Distinguished AI Scientist in Clinical Pharmacology
+Genentech
+Dr. James Lu is a Distinguished AI Scientist in Clinical Pharmacology at
+Genentech, where he currently leads a team of AI/ML scientists. His
+background is Applied Mathematics and holds a Ph.D. in Computational Fluid
+Dynamics from MIT, followed by postdoctoral research in mathematical &
+systems biology and took on modeling roles in the pharma industry. Dr. Lu
+co-chairs the Innovation & Quality (IQ) Consortium Working Group on AI/ML.
+
+Nadia Terranova, Ph.D.
+Head of Advanced Data Analytics in Quantitative Pharmacology
+Merck KGaA, Darmstadt
+Dr. Nadia Terranova is a Biomedical engineer by training with a Ph.D. in
+Bioengineering and Bioinformatics, currently serving as the Head of Advanced
+Data Analytics in Quantitative Pharmacology at Merck KGaA, Darmstadt (EMD
+Serono, US), which she joined in 2013. Her contributions to the scientific
+community and to Merck’s R&D organization range from impactful systems
+pharmacology modeling, Pharmacometrics, applications of advanced Machine
+Learning techniques to complex and multivariate drug development problems,
+across oncology, immuno-oncology, and multiple sclerosis programs. Dr. Terranova is the leading author
+of several papers in selected journals and in international conference proceedings. Nadia is PAGE Lewis
+Sheiner Awardee, and a member of the CPT Editorial Board, JPKPD Editorial Advisory Board, and ASCPT
+Pharmacometrics & Pharmacokinetics Steering Committee.
+
+Niklas Korsbo, Ph.D.
+Lead Developer and Scientist
+DeepPumas
+Dr. Niklas Korsbo joined Pumas-AI as a senior product engineer after a Master's
+in Theoretical Physics and a Ph.D. in Systems Biology at Cambridge University.
+He is now the lead developer and scientist of DeepPumas, a role in which he
+develops and uses innovative modeling methods that seamlessly combines AI
+with traditional modeling techniques to best inform critical decision-making in
+the healthcare space. To balance out the theoretical nature of his work, Dr.
+Korsbo keeps his hands busy with three toddlers and a house under renovation.
+
+Rahul Goyal, M.S.
+Pharmaceutical Sciences PhD student
+Center for Translational Medicine, University of Maryland School of Pharmacy
+Rahul Goyal is a Pharmaceutical Sciences Ph.D. student at the Center for
+Translational Medicine at the University of Maryland School of Pharmacy. His
+research is focused on utilizing machine learning and domain models for
+innovating applications in healthcare, primarily in two areas – medical counter
+measure development and precision medicine in tuberculosis.
+He is also working as a fellow with the US-FDA for developing a guidance on
+designing pediatric major depressive disorder trials. Before joining the Ph.D.
+program, Rahul pursued his M.S. in Business Analytics from the University of
+Texas at Dallas. Through the program, he equipped himself with essential skills in Data Science field such
+as machine learning, statistics, computer programming, and technical communication. After the M.S.
+degree, he worked in financial companies as a Data Scientist and Data Engineer. Using his professional
+training and work experience, Rahul has been working on developing useful artificial intelligence solutions,
+such as development of a compound screening tool for hematopoietic acute radiation syndrome and
+antibiotic dose optimization in lung tuberculosis with radiomics applied on computed tomography and
+positron emission tomography images. He also holds a B.S. in Mechanical Engineering from the National
+Institute of Technology in India.
+
+Hao Zhu, Ph.D., MStat
+Director, Pharmacometrics Division
+OCP | OTS | CDER | FDA
+Dr. Hao Zhu is the director of the Division of Pharmacometrics, Office of Clinical
+Pharmacology, Office of Translational Science, Center of Drug Evaluation and
+Research, U.S. Food and Drug Administration. Dr. Zhu received his Ph.D. in
+Pharmaceutical Sciences and Master in Statistics from the University of Florida.
+He started his career in modeling and simulation teams in Johnson & Johnson and
+Bristol-Myers-Squibb. He joined FDA as a pharmacometrics reviewer more than
+16 years ago. Dr. Zhu has been a clinical pharmacology team leader for more than
+six years and a QT-IRT scientific lead for two years. Then he became the deputy
+director at the Division of Pharmacometrics. His division reviews the
+pharmacometrics related submissions and supports pharmacometrics-related policy development.
+
+Michael A. Pacanowski, Pharm.D., M.P.H.
+Director, Division of Translational and Precision Medicine
+OCP | OTS | CDER | FDA
+Dr. Michael Pacanowski is the Director of the Division of Translational and
+Precision Medicine in FDA’s Office of Clinical Pharmacology. He oversees a
+multidisciplinary team of clinical scientists who lead the Office’s regulatory review,
+research, and policy activities related to pharmacogenomics, biomarkers, targeted
+therapies, and drugs for rare diseases.
+He received his Pharm.D. from the Philadelphia College of Pharmacy and his
+M.P.H. from the University of Florida. Dr. Pacanowski completed a residency in
+clinical pharmacology at Bassett Healthcare in Cooperstown, NY, and a clinical
+research fellowship in cardiovascular pharmacogenomics at the University of
+Florida.
+
+Luca Foschini, Ph.D.
+President and CEO
+Sage Bionetworks
+Dr. Luca Foschini is the President and CEO of Sage Bionetworks. Prior to
+this role, he co-founded and served as Chief Data Scientist at Evidation for
+10 years. During his time at Evidation, Dr. Foschini led a team of over 50
+health data scientists and shaped the role and requirements for the health
+data scientist profession. He also led Evidation’s research and development
+efforts and worked on projects funded by organizations such as NIH, DARPA,
+and BARDA. Dr. Foschini collaborated with top biopharma companies to
+provide technology and methodology for collecting and analyzing person-generated health data (PGHD)
+from sources such as smartphones and wearables in order to measure human health.
+Dr. Foschini’s research in the past decade has focused on the emerging field of digital medicine,
+particularly in the areas of data collection and analysis methodology. He has co-authored more than 70
+peer-reviewed articles and given talks at the FDA, NIH, and the National Academies of Sciences,
+Engineering, and Medicine on topics including machine learning in healthcare, continuous health
+monitoring, and privacy in high-dimensional data.
+Dr. Foschini holds a PhD in Computer Science from the University of California, Santa Barbara and
+a Master’s degree in Computer Engineering from the Sant’Anna School of Pisa. He has also conducted
+theoretical computer science and cybersecurity research in academia and industry, including research
+positions at Google and Ask.com.
+Dr. Foschini is a retired competitive programmer who represented Italy in the International
+Olympiads in Informatics and later coached the Italian national team.
+
+Elham Tabassi
+Senior Research Scientist
+NIST
+Elham Tabassi is a Senior Research Scientist at the National Institute of
+Standards and Technology (NIST). She leads NIST Trustworthy and Responsible
+AI program that aims to cultivate trust in the design, development, and use of AI
+technologies by improving measurement science, standards, and related tools in
+ways that enhance economic security and improve quality of life. She has been
+working on various machine learning and computer vision research projects with
+applications in biometrics evaluation and standards since she joined NIST in
+1999. Elham Tabassi is a member of the National AI Resource Research Task Force, a senior member of
+IEEE, and a fellow of Washington Academy of Sciences.
+
+Joseph Lehar, Ph.D.
+Senior Vice President of Strategy
+Owkin
+Dr. Joseph Lehár is SVP of Strategy at Owkin, and also advises
+multiple biotechs, incubators, and venture funds. Before his current activities,
+Dr. Lehar led cross-functional teams and drove scientific projects at
+J&J/Janssen, Google/Verily, Novartis, and CombinatoRx. His first career
+in astrophysics focused on gravitational lensing; at Harvard, Cambridge Univ,
+and
+MIT.
+For
+more
+information,
+see
+Dr.
+Lehar’s LinkedIn and gScholar profiles.
+
+Tala Fakhouri, B.Sc., Ph.D., M.P.H.
+Associate Director for Policy Analysis
+OMP | CDER | FDA
+Dr. Tala Fakhouri is the Associate Director for Policy Analysis in the Office of
+Medical Policy (OMP), Center for Drug Evaluation and Research (CDER), FDA.
+Her responsibilities are focused on developing policies for drug development
+and regulatory decision making with emphasis on data science, artificial
+intelligence (AI) and machine learning (ML), real-world data and real-world
+evidence (RWD/RWE), and digital health technologies.
+Prior to joining FDA in October of 2020, Dr. Fakhouri served as a Senior
+Health Scientist and Chief Statistician for the CDC’s flagship population survey, the National Health and
+Nutrition Examination Survey (NHANES). Additionally, she served on the CDC’s National Center for Health
+Statistics Disclosure Review Board, the Cancer Moonshot Data Science Workgroup, and co-led the Federal
+Committee for Statistical Methodology (FCSM) Nonresponse Bias Subcommittee. Prior to joining NHANES,
+Dr. Fakhouri served as an Epidemic Intelligence Service Officer with the CDC. She earned a Ph.D. in
+Oncological Sciences from The Huntsman Cancer Institute at the University of Utah, an MPH in
+Epidemiologic and Biostatistical Methods from the Johns Hopkins University School of Public Health, a
+postdoctoral fellowship in molecular biology and genetics from Harvard University, and holds a BSc Medical
+Technology from the Jordan University of Science and Technology.
+
+Paul Schuette, Ph.D.
+Scientific Computing Coordinator
+OB | CDER | FDA
+Dr. Paul Schuette is the Scientific Computing Coordinator for the Office of
+Biostatistics in the Center for Drug Evaluation and Research at the FDA and is
+a member of OB’s Division of Analytics and Informatics. He joined the FDA
+in 2008 after previously working in academia and as a government contractor.
+Dr. Schuette is the PI for a Cooperative Research and Development
+Agreement (CRADA) for detecting data anomalies in clinical trial data using
+unsupervised machine learning, and is a member of FDA's Scientific
+Computing Board, the High Performance Computing Governing Advisory Board, FDA's Modeling and
+Simulation working group, and CDER’s AI working group. He received his Ph.D. and Master’s degrees
+from the University of Wisconsin-Madison, with a specialization in probability theory, and his undergraduate
+degree in Mathematics from Kansas State University.
+Matthew Diamond, M.D., Ph.D.
+Chief Medical Officer for Digital Health Center of Excellence
+CDRH | CDER | FDA
+Dr. Matthew Diamond is the Chief Medical Officer at FDA's Digital Health
+Center of Excellence. Serving as the senior clinical expert for digital health
+medical devices at FDA’s Center for Devices and Radiological Health
+(CDRH), Dr. Diamond provides clinical leadership for digital health policy
+development for emerging technologies including artificial intelligence. Dr.
+Diamond represents FDA for national and international digital health
+initiatives including the International Medical Device Regulators Forum
+(IMDRF) Artificial Intelligence Working Group. Prior to joining the Agency, Dr. Diamond served on
+leadership teams of large and small technology companies, including as Chief Medical Officer at Nokia,
+and as Medical Director at Fossil Group and the startup Misfit Wearables. Dr. Diamond served on numerous
+advisory boards including at the Center for Personalized Health Monitoring at UMass Amherst and for the
+venture firm NGP Capital. As Vice Chair of the Consumer Technology Association (CTA) Health & Fitness
+Technology Board of Directors, he promoted public health applications of mobile technology and
+established an ANSI-accredited standardization committee to develop standards in digital health for
+wellness-related hardware and mobile applications. Dr. Diamond earned his MD and PhD (biophysics) from
+the Mount Sinai School of Medicine, and he is board certified in rehabilitation medicine and certified in
+medical acupuncture. A faculty member at NYU, Dr. Diamond is passionate about helping people improve
+their mobility and performance through a holistic approach to rehabilitation and technology that promotes
+wellness.
+
+Qi Liu, Ph.D., MStat., FCP
+Associate Director for Innovation and Partnership
+OCP | OTS | CDER | FDA
+Dr. Qi Liu is currently the Associate Director for Innovation & Partnership in the
+Office of Clinical Pharmacology (OCP) at the U.S. FDA. She leads OCP’s
+innovative initiatives through strategic partnership. She helped develop OCP’s
+capacity/portfolio on machine learning/artificial intelligence, real world evidence
+and digital health technologies, collaborating with internal and external experts
+to help keep the office stay abreast of current trends in innovative approaches.
+Dr. Liu leads OCP’s Innovative Data Analytics program and Machine Learning Review Team. During her
+career at the FDA, she also contributed to over 200 NDA/sNDA reviews, 20 BLA/sBLA reviews, and
+numerous IND reviews to support drug development. She co-authored over 50 manuscripts and presented
+on many topics at FDA Advisory Committee meetings and scientific conferences. Dr. Liu worked on several
+working groups for FDA guidance documents and Manual of Policies & Procedures development. She had
+experience leading/co-leading OCP’s Physiological Based Pharmacokinetic Modeling and Simulation
+Oversight Board and Biologics Oversight Board. She was a co-lead of the Real-Time Oncology Review and
+Assessment Aid Pilot Programs.
+Dr. Liu is a Fellow of the American College of Clinical Pharmacology. She is on the editorial board of
+the American Association of Pharmaceutical Scientists Journal, Clinical Pharmacology and Therapeutics,
+Clinical and Translational Science: Pharmacometrics and Systems Pharmacology, and Clinical and
+Translational Science.
+Before joining the FDA, Dr. Liu was a senior pharmacokineticist at Merck & Co. Inc. She obtained her
+Ph.D. degree in Pharmaceutics and a concurrent Master's degree in Statistics from the University of Florida
+in 2004. In addition, she has a Master's degree in Pharmaceutics and a Bachelors’ degree in Clinical
+Pharmacy from West China University of Medical Sciences.
+
+Joga Gobburu, Ph.D.
+Professor, School of Pharmacy and School of Medicine
+Director, Center for Translational Medicine
+University of Maryland
+Dr. Joga Gobburu is Professor with the School of Pharmacy and the School of
+Medicine, University of Maryland, Baltimore, MD, USA. He held various
+positions at the U.S. FDA between 1998 and 2011. He has experience with
+overseeing the review of 1000s of Investigational New Drug Applications
+(INDs), over 250 New Drug and Biological Licensing Applications, numerous
+FDA Guidances, and policies pertaining to drug approval and labeling. At the
+FDA, he was part of the committee responsible for 21st Review Process and
+provided input into PDUFA planning.
+He received numerous FDA awards such as the Outstanding Achievement Award and was
+recognized with the Senior Biomedical Research Scientist appointment. He also received the
+Outstanding Leadership Award from the American Conference on Pharmacometrics (2008), the Tanabe’s
+Young Investigator Award from the American College of Clinical Pharmacology (2008), and Sheiner-Beal
+Pharmacometrics Award from the American Society of Clinical Pharmacology and Therapeutics (2019).
+He is also a Fellow of AAPS and ACCP. Dr. Gobburu is on the Editorial Boards of several journals. He
+has published over 100 papers and book chapters.
+
+Kunal Naik, Pharm.D.
+Pharmacist
+OCP |OTS | CDER | FDA
+Dr. Kunal Naik is part of the Executive Program and Project Management team
+within the Office of Clinical Pharmacology at FDA. He graduated from
+pharmacy school at Northeastern University. Dr. Naik worked in drug safety
+and pharmacovigilance before joining FDA in 2018.
+
+Neha Mehta, M.S.
+Regulatory Health Project Manager
+OCP | OTS | CDER | FDA
+Neha Mehta graduated from the University of Maryland with a BA in Anthropology
+and the University of Maryland, Baltimore with an MS in Pharmacometrics. She
+currently is a Project Manager within the Office of Clinical Pharmacology at the
+FDA.
+
+James Polli, Ph.D.
+Professor and Ralph F. Shangraw/Noxell Endowed Chair in Industrial Pharmacy
+and Pharmaceutics, University of Maryland School of Pharmacy
+James Polli is Professor of Pharmaceutical Sciences and Ralph F.
+Shangraw/Noxell Endowed Professor in Industrial Pharmacy and Pharmaceutics
+at University of Maryland. His research interest is oral drug absorption. His two
+main research interests are 1) maximizing oral bioavailability through formulation
+and chemical approaches and 2) developing public quality standards for oral
+dosage forms. He has served as advisor to 24 Ph.D. graduates. He is co-Director
+of the University of Maryland Center of Excellence in Regulatory Science and
+Innovation (M-CERSI; www.cersi.umd.edu) and the Center for Research on
+Complex Generics (CRCG; www.complexgenerics.org), each an FDA-funded collaborative agreement with
+the Agency. He is Director of the online M.S. in Regulatory Science program
+(www.pharmacy.umaryland.edu/regulatoryscience).
+He is a fellow of the American Association for Pharmaceutical Scientists and until recently served
+as an editor of its flagship journal Pharmaceutical Research for 12 years. He is a member of the University
+of Maryland General Clinical Research Center Advisory Committee and the University of Maryland
+institutional review board (IRB). He is a member of the Scientific Advisory Board of Simulations Plus.
+
+

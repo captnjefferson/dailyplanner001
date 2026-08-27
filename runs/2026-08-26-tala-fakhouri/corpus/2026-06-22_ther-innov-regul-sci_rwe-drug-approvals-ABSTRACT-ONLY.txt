@@ -1,0 +1,13 @@
+TITLE: Real-World Evidence for Drug Approvals: Moving Toward Greater Regulatory Clarity
+AUTHORS: Tala H. Fakhouri (Parexel International, Maryland, USA; equal-contrib first author), Rasika Kalamegham (Genentech, equal-contrib), Nicole Mahoney (Novartis), Ros Purcell, M. D'Ambrosio
+JOURNAL: Therapeutic Innovation & Regulatory Science (Ther Innov Regul Sci)
+PUBDATE: 2026-06-22 (epub); accepted 2026-06-10; received 2026-02-26
+PUBTYPE: Letter/Perspective
+PMID: 42329566
+DOI: 10.1007/s43441-026-01000-3
+STATUS: FULL TEXT PAYWALLED — Springer/publisher site returned only a stub page (~3KB, no body text) on fetch attempt (2026-08-27); no PMC deposit exists for this PMID per NCBI id-converter lookup. Only the PubMed abstract (below) is fetchable.
+
+ABSTRACT (verbatim from PubMed):
+Despite a decade of investments and regulatory enthusiasm, real-world evidence (RWE) generated from real-world data (RWD) remains underutilized in drug approvals. Beyond the fundamental need for relevant and reliable RWD, three interdependent operational barriers constrain otherwise fit-for-use RWD: (1) FDA submission requirements and data standards policies are centered on CDISC and optimized for traditional trials rather than heterogeneous RWD sources; (2) expectations about when patient-level datasets must be submitted to FDA and how and when FDA may access or inspect source records are unclear; and (3) uncertainty remains regarding the application of 21 CFR Parts 50/56 to non-interventional studies. On one hand, the resulting regulatory ambiguity around these issues may lead sponsors and data providers to expend resources on RWE that is ultimately unfit for regulatory purposes. On the other, potentially suitable RWD may be ignored. In either case, patient access to effective therapies may be delayed. In this perspective, we offer targeted, actionable recommendations in each category to inform FDA's current efforts to better leverage RWE in regulatory submissions.
+
+NOTE: Reference list and any in-body links are NOT available due to the paywall. Word count below reflects abstract only, not full article.

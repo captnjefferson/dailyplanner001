@@ -1,0 +1,15 @@
+TITLE: Q&A: How the FDA is approaching AI in clinical trials and drug development
+SUBHEAD: FDA's Tala Fakhouri says the agency has so far received over 500 submissions with AI components
+BYLINE: Katie Palmer, STAT News, Oct. 9, 2024
+SOURCE: statnews.com/2024/10/09/fda-regulation-ai-clinical-trials-drug-discovery-tala-fakhouri/
+STATUS: STAT+ PAYWALLED — only lede/setup paragraphs (free preview) fetchable; the actual Q&A exchange (her direct quoted answers) sits behind the subscriber wall and was not retrievable. No direct quotation from her appears in the free excerpt below.
+
+FREE EXCERPT (full text of what is fetchable, verbatim):
+In the last year, pharma incumbents have leaned into partnerships with AI-driven startups to supercharge drug discovery efforts. High-powered models of protein structure and molecule binding can help identify new disease targets, and even help design new drugs. But AI-derived or not, a new drug candidate still has to wind its way through the painstaking clinical trial process. That is why the pharma industry is also leaning into AI as a tool to make its clinical research more efficient — and the Food and Drug Administration is taking steps to clarify its regulatory approach to those trials.
+AI models can predict which kinds of patients will respond the best to a drug, helping to design evidence-based inclusion criteria or optimize doses. AI-derived biomarkers are increasingly proposed as endpoints in human studies. And some groups are supplementing placebo groups with simulations, using models to predict what would happen to participants receiving an experimental drug if they had received the control instead.
+Those applications and more appeared in a recent analysis of AI in FDA drug and biologic submissions through 2021. The report was co-authored by Tala Fakhouri, who now co-leads an AI Council that FDA's Center for Drug Evaluation and Research established in late August.
+[PAYWALL — remainder of Q&A, including her direct quoted answers, not accessible]
+
+NOTE: This paragraph is independent secondary corroboration (not her own bio, not a Parexel/Weave press release) that CDER's AI Council exists and that she co-leads it, dated Oct 2024 — corroborates but does not itself verify the "established" claim made in her own bio/the Weave Bio press release.
+
+WALL: STAT+ subscriber paywall confirmed on direct fetch 2026-08-27; Wayback Machine unreachable from this environment (see companion 2026 STAT file for the same connectivity failure, tested same session).

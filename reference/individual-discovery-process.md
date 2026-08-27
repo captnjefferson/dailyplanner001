@@ -389,6 +389,14 @@ Sections 2 and 3 are load-bearing headlines. They are the reason the process exi
 
 A SURFACE_SCAN uses headings 1, 7, 8, 9, and 10.
 
+### The actioning map — where the run's output lands (Jefferson's ruling, 2026-08-27)
+
+The per-person report is the evidence; **the actioning map is the deliverable Jefferson actually works from.** After the report ships (COMPLETE runs only), update the target's org section on the current weekly note's child page "Catalyst actioning map — orgs, people, doors, schedule" — creating the week's copy from the prior week's if needed. The format is fixed:
+
+Per org: **the outcome we're driving** (live req / ambient warm-up / thought-leadership), then a table of **Person · Why them · The door · Status**, then the **dated schedule** of touches. "The door" is the run's core synthesis in one cell: their own posts (a DOOR), an orbit node someone else's threads (the McConnell→Welsch pattern), or the commenter inversion (the Fakhouri→Goodwin pattern). "Why them" answers the question Jefferson will actually ask: *why do I care about this person, in one line.*
+
+The map also carries a "Remains to be run" list. A run that ships a report but does not update the map has not finished — the map is heading 11 in spirit.
+
 An INCOMPLETE run uses the same headings, titled `INCOMPLETE — <run name>`, with the failing acceptance rows and their unblocks stated above heading 1.
 
 Before finalizing, return this block. Do not claim COMPLETE if any applicable row fails — ship INCOMPLETE instead.

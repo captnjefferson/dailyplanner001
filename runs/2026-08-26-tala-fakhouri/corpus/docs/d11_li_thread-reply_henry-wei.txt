@@ -1,0 +1,1 @@
+Henry Wei agree. And that's one reason why RWD analysis is generally complex regardless of the standard. In certain situations, triangulation of multiple sources of data may be needed to address missing data issues. Like claims linked to NDI data or EHR linked to claims data etc.

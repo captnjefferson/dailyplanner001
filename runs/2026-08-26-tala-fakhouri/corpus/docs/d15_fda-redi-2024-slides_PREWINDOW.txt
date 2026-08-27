@@ -1,0 +1,262 @@
+Responsive Regulation of Artificial
+Intelligence in Drug Development
+              Tala H Fakhouri
+      Associate Director for Policy Analysis
+            Office of Medical Policy
+                CDER | US FDA
+               REdI – May 29th, 2024
+Learning Objectives
+
+• Learn about AI use across the drug development process
+• Learn about FDA’s experience with AI in regulatory submissions
+• Learn about FDA’s Center for Drug Evaluation and Research
+  (CDER’s) policy milestone for AI
+• Learn about CDER’s work to address Executive Order 14110 on
+  Safe, Secure, and Trustworthy Development and Use of AI
+• Future Direction
+
+
+
+fda.gov/cdersbia                                                   2
+ PubMed Search Query Results for: AI,
+ Generative AI, or LLMs from 2016 to 2022
+
+
+
+
+REFERENCE: Naik K, Goyal RK, Foschini L, et al. Current Status and Future Directions: The Application of Artificial Intelligence/Machine
+ fda.gov/cdersbia
+Learning for Precision Medicine. Clin Pharmacol Ther. 2024;115(4):673-686. doi:10.1002/cpt.3152                                            3
+AI Across the Drug Development Process
+
+
+
+
+fda.gov/cdersbia                         4
+ FDA’s CDER has Received Over 300
+ Submissions with AI Components
+
+
+
+
+REFERENCE: Liu Q, Huang R, Hsieh J, et al. Landscape Analysis of the Application of Artificial Intelligence and Machine Learning in
+ fda.gov/cdersbia
+Regulatory Submissions for Drug Development From 2016 to 2021. Clin Pharmacol Ther. 2023;113(4):771-774. doi:10.1002/cpt.2668         5
+ FDA’s CDER has Received Over 300
+ Submissions with AI Components
+                       Regulatory submissions with key terms ML or AI by Therapeutic Area
+
+                                             Oncology                                                            42
+                                            Psychiatry                                      24
+                                  Gastroenterology                                    19
+                                            Neurology                               17
+                                   Medical Imaging                        9
+    Pain management and Alcohol Abuse                                     9
+                               Infectious Diseases                       8
+                                                  Other*                                           30
+
+                                                             0          10         20   30                 40          50
+                                                                                    Count
+
+
+REFERENCE: Liu Q, Huang R, Hsieh J, et al. Landscape Analysis of the Application of Artificial Intelligence and Machine Learning in
+ fda.gov/cdersbia
+Regulatory Submissions for Drug Development From 2016 to 2021. Clin Pharmacol Ther. 2023;113(4):771-774. doi:10.1002/cpt.2668         6
+FDA is Advancing AI Regulatory Science
+
+
+
+
+fda.gov/cdersbia
+Source: : https://www.nature.com/articles/s41746-022-00721-7   7
+CDER AI Policy Milestones
+
+
+
+
+fda.gov/cdersbia            8
+ EO 14110 on Safe, Secure, and Trustworthy
+ Development and Use of AI
+ • Government-wide effort to guide responsible AI development and
+   deployment through federal agency leadership, regulation of
+   industry, and engagement with international partners
+ • Includes 150 requirements* with 8 requirements for HHS
+ • Includes specific language related to drugs and devices
+   regulations, including: “define the objectives, goals, and high-level
+   principles required for appropriate regulation throughout each
+   phase of drug development”
+
+
+
+ fda.gov/cdersbia
+*For more EO by the numbers, see https://hai.stanford.edu/news/numbers-tracking-ai-executive-order
+                                                                                                     9
+  Four Areas of Focus to Advance Regulatory
+  Science for AI
+
+                                                               Advance the Development of
+        Foster Collaboration to
+                                                               Regulatory Approaches that
+        Safeguard Public Health
+                                                                   Support Innovation
+
+
+
+
+                                                    Areas of Focus
+
+
+
+    Promote the Development of
+                                                                Support Research Related to
+      Harmonized Standards,
+                                                               the Evaluation and Monitoring
+     Guidelines, Best Practices,
+                                                                     of AI Performance
+             and Tools
+
+
+
+
+  fda.gov/cdersbia
+SOURCE: https://www.fda.gov/media/177030/download?attachment
+                                                                                               10
+  Considerations for AI Use in Regulatory
+  Decision Making
+  • Guidance to be published in 2024
+  • AI used to produce data or
+    information to support regulatory
+    decision making
+  • Informed by:
+               – FDA’s experience with reviewing over
+                 300 submissions with AI
+               – Over 800 comments received on the
+                 2023 discussion papers
+               – Current regulatory science research
+
+  fda.gov/cdersbia
+SOURCE: https://www.fda.gov/media/134778/download
+                                                        11
+  Considerations for AI Use in Regulatory
+  Decision Making
+  • Provides a risk-based framework for
+    establishing and evaluating the
+    credibility of AI use in regulatory
+    decision making
+  • Help ensure that AI models used to
+    answer regulatory questions are
+    sufficiently credible for a particular
+    context of use and are supported
+    with the appropriate level of
+    evidence
+
+  fda.gov/cdersbia
+SOURCE: https://www.fda.gov/media/134778/download
+                                                    12
+  Considerations for AI Use in Regulatory
+  Decision Making
+  • Discussion Paper Published May
+    11th, 2023
+  • Collaboration between CDER,
+    CBER, CDRH/DHCoE
+  • Comments closed August 9th, 2023
+  • 65 entities responded with over 800
+    comments
+
+
+
+
+  fda.gov/cdersbia
+SOURCE: https://www.fda.gov/media/167973/download
+                                                    13
+  Considerations for AI Use in Regulatory
+  Decision Making
+  • Goal is to promote mutual learning
+    around three main core issues:
+               – Human-led governance, accountability,
+                 and transparency
+               – Quality, reliability, and
+                 representativeness of data
+               – Model development, performance,
+                 monitoring, and validation
+
+
+
+
+  fda.gov/cdersbia
+SOURCE: https://www.fda.gov/media/167973/download
+                                                         14
+Responses to the 2023 Discussion Paper Inform
+Guidance Content
+• Clarity on what falls within/outside the scope of FDA’s oversight
+• Clarity on how to operationalize a risk-based approach
+• Clarity on “transparency” and the level of detail and
+  documentation required
+• Calls for harmonization globally, and alignment with medical
+  devices
+• Calls for the establishment of partnerships to advance the
+  creation/sharing of machine-readable data sets for drug
+  development
+
+fda.gov/cdersbia                                                      15
+What’s Next?
+Short Term Goals
+•    Once the guidance is published, we hope to get critical feedback on the
+     proposed approach
+       –   Update to the guidance
+       –   Inform future guidance development
+•    Develop best practices that can be shared with all interested parties (i.e.,
+     GMLP)
+•    Continue to help develop consistent terminology that can facilitate the work
+     of multidisciplinary teams
+•    Continue to engage with all interested parties to remain responsive to the
+     changing technological landscape
+•    FDA CTTI Workshop August 6th, 2024
+
+
+fda.gov/cdersbia                                                                    16
+What’s Next?
+Long Term Goals
+•    Continue our responsive risk-based regulation approach
+       – An iterative approach that keeps the pace with this rapidly evolving technology
+
+•    Continue advancing regulatory science in this area
+       – Monitor and evaluate trends and emerging issues to detect gaps and opportunities
+
+       – Support regulatory science for evaluating AI models and ensuring the development
+         of robust AI technologies
+
+•    Continue our collaborative approach
+       – Continue engaging all parties across the AI ecosystem (i.e., academia, industry,
+         biotech, international regulators, etc.)
+
+
+fda.gov/cdersbia                                                                            17
+Poll Question #1
+Evaluation of machine learning model performance requires an
+evaluation of the data used to develop the model because these
+models are data-driven.
+
+A.      True
+
+B.      False
+
+
+
+
+fda.gov/cdersbia                                                 18
+Poll Question #2
+A risk-based credibility assessment framework means that the
+level of oversight, the rigor of the assessments and the
+acceptance criteria for an AI model, and the amount of
+documentation will depend on AI model risk.
+
+A. True
+
+B. False
+
+
+
+
+fda.gov/cdersbia                                               19
+
