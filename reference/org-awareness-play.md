@@ -51,7 +51,11 @@ Goal: know who to aim at, and where they actually live.
 
 ### ⚠️ Phase 1's person research IS the Individual Discovery process — read it before running (wired 2026-08-26)
 
-**Canonical, LIVING doc:** [Individual Discovery & Ambient Positioning — Process](https://app.notion.com/p/Individual-Discovery-Ambient-Positioning-Process-3c7164c1810d8118ab1fcf3cd5c9e38d) (Notion, under the Thought Leadership hub; v0.2+ — fetch it fresh, it is iterated in place; block-dump via API, page id `3c7164c1-810d-8118-ab1f-cf3cd5c9e38d`). Memory pointer: `reference_individual_discovery_process.md`.
+**Canonical doc (v1.0, rebuilt 2026-08-26 after a full red team):** [Individual Discovery and Ambient Positioning](https://www.notion.so/3c8164c1810d804d8e9bd4de60c4ddca) — Notion page id `3c8164c1-810d-804d-8e9b-d4de60c4ddca`. Version-controlled mirror: `~/Sites/hm-outreach/reference/individual-discovery-process.md` (edit there, push to Notion). It is **self-contained** — every recipe it needs is in its own Ops appendix; it needs no companion files.
+
+⚠️ The old page `3c7164c1-810d-8118-ab1f-cf3cd5c9e38d` is DEPRECATED and kept only for run history. Do not run from it — its layer definitions are pre-v1.0.
+
+Its two inputs live on disk and are named in its run-input block: `reference/corpus-inventory-2026-08-26.md` (Jefferson's themes and backing pieces) and `reference/territory-terms.md` (the Layer 5b search list). Memory pointer: `reference_individual_discovery_process.md`.
 
 Designed with Jefferson 2026-08-25, proven end-to-end on Tenex the same day. The bullets above are the SUBSET that fit this file; the canonical doc is the process. Per person on an org play: **Layers 1–3 for everyone on the roster** (identity resolution → publishing map → consumption + register), **Layer 4 (circles/orbit) once promoted to an active play**, **Layer 5/5b synthesis to Attio incl. the openings analysis (OCCUPIED / PEER / OPEN / VOID) — the actual deliverable.** Its tooling reference (Substack profile API, Interests-tab extraction, citation mining + the diagnostic ratio, Maigret — permanent install at `tools/venv-maigret/`), ethics/detectability ladder, reach-per-follower rule, and touch catalogue all bind here.
 

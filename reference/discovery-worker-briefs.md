@@ -1,6 +1,10 @@
 # Discovery worker briefs — the dispatchable execution layer
 
-**What this is.** The [Individual Discovery & Ambient Positioning — Process](https://app.notion.com/p/Individual-Discovery-Ambient-Positioning-Process-3c7164c1810d8118ab1fcf3cd5c9e38d) doc is the *method*. This file is the *dispatch layer*: each layer converted into a self-contained subagent brief with a strict input/output contract, exact tool recipes, a stop-rule, and a self-check — copy-pasteable near-verbatim as a subagent prompt. Built 2026-08-26 so most of a run can go down-model to Sonnet.
+> ## ⛔ SUPERSEDED 2026-08-26 — do not run from this file
+>
+> The canonical process is now **[Individual Discovery and Ambient Positioning](https://www.notion.so/3c8164c1810d804d8e9bd4de60c4ddca)** (v1.0), mirrored at `~/Sites/hm-outreach/reference/individual-discovery-process.md`. It is self-contained: each layer carries its own numbered sub-steps, output contract, and recipes, so the orchestrator dispatches a worker by handing it that layer's section verbatim. There is no separate dispatch layer any more.
+>
+> This file is kept for the model-split rationale below and for historical reference. **Everything operational in it is pre-v1.0 and may contradict the canonical doc** — notably the ledger schema, the Maigret command (which lacked `--no-recursion` and scattered reports into the repo), and the absence of an INCOMPLETE run state. Two documents that can drift is the exact failure this consolidation was built to end.
 
 **Model policy (the honest split):**
 - **Sonnet-ready workers (this file):** Layers 1, 2, 3a, 3b-mechanics, 3c, 4-enumeration, Phase-4 req verification, trace sweep. These are recipes + counting + structured extraction. Dispatch with `model: "sonnet"`.

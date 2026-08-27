@@ -74,20 +74,32 @@ Direct, a little dry, builder's vocabulary. No hype adjectives. Numbers where ho
 and ONLY the numbers above. Reads like ten minutes of thought. When values genuinely
 align with the target org, go mission-forward and assertive, not safe.
 
-## Proof point — INVITED SPEAKER (added 2026-07-08, Jefferson-verified)
-October 2026: **keynote + hands-on workshop for 1,500 hospital leaders** on AI
-transformation. INVITED, not applied. **Contract SIGNED (Jefferson confirmed
-2026-07-20.)** The applications/covers/resumes embargo below was conditioned on
-"contract signs AND Jefferson lifts it" — signing is done; the lift is still
-his explicit call, so the fact stays notes-only until he says otherwise. The
-usage rule as originally set:
+## Proof point — INVITED SPEAKER (added 2026-07-08; framing corrected + embargo LIFTED 2026-08-26)
 
-**RESERVED FOR PERSONAL NOTES ONLY (Jefferson, 2026-07-08).** EMBARGOED from
-applications, covers, and resumes. The play: the fact deliberately stays out of
-the filed app so the 24h-later note can lead with it as fresh, exclusive
-signal — "I couldn't include this in the application because we were wrapping
-the negotiation, but…" (his framing: "that sort of humble-braggy note"). Phrase
-as forward commitment ("in October I keynote…"), no outcome claims, event/org
-unnamed until he supplies it, never inflate the number. At send time, confirm
-contract status — the line describes the at-application moment, so it stays
-honest signed or not.
+**Two breakout sessions at the Iowa Hospital Association Annual Meeting, Oct 6
+2026, Des Moines** — classroom-style rooms of ~100 hospital leaders each (80–120
+cap, 5–6 concurrent tracks) at a conference drawing 1,000–1,500 attendees over
+2.5 days. Topics: AI leadership and organizational readiness. **INVITED, not
+applied** — inbound off his published AI-adoption writing, which is the point:
+third-party validation that his material converts with regulated-healthcare
+leadership. Contract SIGNED 2026-07-20.
+
+⚠️ **FRAMING — this corrects a persistent error.** It is **two ~100-person
+breakouts, NOT "a keynote for 1,500."** The 1,000–1,500 figure is total
+conference attendance across 2.5 days and must never be attached to his rooms.
+Never inflate the number. Forward commitment only ("in October I'm running two
+sessions for hospital leaders on…"), no outcome claims — the event hasn't
+happened.
+
+✅ **EMBARGO LIFTED (Jefferson, 2026-08-26).** Usable in applications, cover
+letters, and resumes, and admissible to the Experience Library's usable pool.
+The original embargo was conditioned on "contract signs AND Jefferson lifts it";
+both are now done.
+
+⚠️ **Consequence — the reserved fact is spent.** Outreach doctrine v2.1 requires
+every 24h post-application note to carry something the ATS does not have. This
+engagement was that thing, and the honest excuse for withholding it ("we were
+wrapping the negotiation") stopped being true on 7/20. **A new reserved fact has
+not been designated.** Until one is, note-writing must source its exclusive
+signal elsewhere — a fresh build, a current result, something genuinely not in
+the filed application.

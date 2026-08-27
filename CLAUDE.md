@@ -121,9 +121,14 @@ When a fresh, high-signal fact exists that is NOT in the filed application
 (embargoed, too new, or negotiation-gated), the note LEADS with it: "I couldn't
 include this in the application because [honest reason], but…" The note must
 carry at least one thing the ATS doesn't have — that's what makes it signal
-instead of a summary. Current reserved fact: the October keynote+workshop for
-1,500 hospital leaders (see profile.md — notes only, never app materials,
-until the contract signs and Jefferson lifts the embargo).
+instead of a summary. ⚠️ **Current reserved fact: NONE — one needs designating.**
+The IHA engagement held this slot until 2026-08-26, when Jefferson lifted its
+embargo; it is now usable in applications, so it can no longer serve as the
+thing the ATS doesn't have. Until a new reserved fact is named, source the
+note's exclusive signal elsewhere (a fresh build, a current result). See
+profile.md — and note the framing correction there: it is two ~100-person
+breakouts at the Iowa Hospital Association Annual Meeting, NOT a keynote for
+1,500.
 
 ### Fit calibration — the 50% rule (Jefferson, 2026-07-08, GE Aerospace kill)
 "Something like 3 out of six qualifications I don't match. One is one thing,
@@ -229,7 +234,7 @@ in one sitting. (Dormant until 3+ targets have touches in flight.)
 Scope note: the one-follow-up rule (#7 at top) remains the default for
 standard gate notes. This multi-touch cadence applies ONLY to targets
 Jefferson explicitly flags for campaign treatment. All other doctrine binds
-unchanged: no send mechanism ever, RESERVED-FACT keynote embargo, org-fit >
+unchanged: no send mechanism ever, org-fit >
 req liveness, zombie reqs killed silently.
 
 ### Tracking (Jefferson, 2026-07-15 — "1 only" + Attio)
