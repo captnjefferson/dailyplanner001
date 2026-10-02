@@ -1,0 +1,95 @@
+# Lane: browser — Lindsay Keast — run 2026-10-01 — social window 2026-07-03 -> 2026-10-01
+# Session test 2026-10-01: LinkedIn feed rendered signed in as Jefferson Stovall; x.com/jmstovall rendered signed in (Edit profile visible).
+# Detectability: LinkedIn profile + activity + Interests views = ATTRIBUTABLE-BY-BYPRODUCT (Jefferson's profile appears in Lindsay's viewers). X reads = ANONYMOUS-HIT.
+ledger:
+  - step: "L2.1 Inspect current channels"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: platforms
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B2, B3, B5, B12, B13]
+    note: "LinkedIn live but low-output: 0 original posts; only feed item is a repost (AMM post of 2025-11-12); comments still active (most recent on a 2026-07-08 post, 'Huge congratulations! So incredible, David'); reactions ~1w ago (~2026-09-24). 531 followers, 500+ connections, Jefferson = 3rd degree. X: no account for her located (the exact-handle hit @lindsaykeast is a Toronto cat-mom account, rejected). No dead-channel graveyard found."
+  - step: "L2.2 Count posts over absolute window"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "Checked 1 item (the whole All-activity feed, 'Loaded 1 Posts post') over 2026-07-03 -> 2026-10-01; no original posts or reposts in window. Sole item is a repost of an Association of Midwest Museums post dated 2025-11-12 (URN-decoded). CAVEAT: LinkedIn shows the ORIGINAL post's age, not when she reposted it, so the repost's own date is not exposed (it is >= 2025-11-12); an in-window repost cannot be strictly excluded, though it is her only item ever and the AMM comment on it is labeled 11mo."
+  - step: "L2.3 Dated themes with example and URL"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2, B7, B3]
+    note: "No original posts to theme. Only own-feed content: repost of AMM post 2025-11-12 about SHSI accessibility work for blind and low-vision audiences (recording https://lnkd.in/g4k_dD4V). Her comment themes (B3) = colleague/friend congratulations and welcomes (SHSI hires, Iowa State museum people), one on a NaviLens/autism-friendly museum post (2025-03-31)."
+  - step: "L2.4 Engagement gradient and rule"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: posts
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2, B7]
+    note: "0 original posts in 2026-07-03 -> 2026-10-01, so no gradient or rate computable. Inputs: 531 followers; only item (repost of AMM) 19 reactions / 1 comment / 3 reposts — AMM's reach (4,875 followers), not hers. No fabricated comparison."
+  - step: "L2.5 Open 5-10 threads, classify reply behavior"
+    status: RAN-NULL
+    checked_count: 6
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B6, B7, B8, B9, B10, B11]
+    note: "REPLY BEHAVIOR = UNKNOWN (not BILLBOARD): she has no own post thread in the window to classify. Opened 6 threads instead: the AMM repost thread (1 comment, from AMM's Executive Director Charity Counts) and 5 threads where Lindsay is a commenter. What those show: authors answer her (Nickole Swensen x3 across her threads; Piper Hart's thread has 6 replies on her one-line comment) — reciprocal, collegial, short. Layer 4 is promoted per the UNKNOWN rule."
+  - step: "L2.6 Format effects and appearances"
+    status: RAN-FOUND
+    checked_count: 1
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B7, B1]
+    note: "Appearance/event: Association of Midwest Museums event/program celebrating SHSI's access work for blind and low-vision audiences (AMM post 2025-11-12, 'deep and wide their accessibility transformation... from their website and social media to exhibits and programs'; recording https://lnkd.in/g4k_dD4V); Lindsay reposted it. The post does not say what role she played — role unverified. AMM ED Charity Counts commented 'This program got me thinking differently about a lot of things!'. No format effects computable (0 posts)."
+  - step: "L3a.2 LinkedIn Interests (every rendered tab)"
+    status: RAN-FOUND
+    checked_count: 3
+    checked_unit: tabs
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B4]
+    note: "Tab bar rendered: Companies, Groups, Newsletters — all three clicked and read. NO Top Voices tab (means no badged Top Voices only; individual follows UNKNOWN) and NO Schools tab. Companies (10): The British Museum; Museums Association; USICD (U.S. International Council on Disabilities); West Des Moines Historical Society; IowaWORKS; AsIAm - Ireland's Autism Charity; Deaf Services Unlimited; ADi Group; Iowa Economic Development Authority; Backlog. Groups (2): MUSEUM & ART GALLERY NETWORK; Museum and Art Gallery Exhibitions & Events. Newsletters (3): Museum Job Monday (Alli Schell), Placemaking (Iowa Economic Development Authority), Museum Minute (American Alliance of Museums)."
+  - step: "L3a.3 Authenticated X following and likes"
+    status: NOT-APPLICABLE
+    checked_count: 1
+    checked_unit: handles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B12, B13, B14, B15]
+    note: "No X account clears the two-anchor gate. The one exact-name handle (@lindsaykeast) is Toronto, Ontario, 'PROUD cat mom', joined June 2012 — rejected on 0 of 2 anchors. Third-party 2020 X posts by @IowaArtsCouncil and @DSMpartnership confirm her Iowa Arts Council role but tag no handle for her."
+  - step: "L3c.3 Comment proxy"
+    status: RAN-FOUND
+    checked_count: 10
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3, B5]
+    note: "10 comment threads rendered (page counter said 18 loaded; thread numbers 6-13 never rendered despite full scroll and a Show-more click — disclosed gap). 10 of 10 are on OTHER people's posts, 0 on her own (she has no own posts). NOT inward-facing in the doc's sense; the signal is 'no posts at all' — no commenter population of her own to invert. 1 of 10 in window (2026-07-08 David Schmitz post). Reactions sample (5 of 20 rendered): friends' and colleagues' posts (Nickole Swensen x3, a graphic designer, a new-job post by an insurance auditor turned substitute teacher)."
+  - step: "L4.1 Answered circle from threads"
+    status: RAN-FOUND
+    checked_count: 6
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B6, B7, B8, B9, B10, B11, B3]
+    note: "Recurring: Nickole Swensen (Heritage Textile Conservation; SHSI Museum Technician from 2024-12; Lindsay commented on 3 of her posts and she replied each time; Lindsay also liked 3 of her posts ~2026-09-24). Piper Hart (2nd degree to Jefferson; 'Neuroaesthetics Researcher | Arts & Health Strategist | Museum Accessibility & Cultural Inclusion'; the NaviLens/sensory post thread). SHSI colleagues: Christopher S. (Communications Manager), Jessica Murtaugh (Communications Specialist, joined 2025-02). Iowa State museum people: David Schmitz (new Director/Chief Curator University Museums, 2026-07-08), Brittany Puhrmann (Curator, Textiles and Clothing Museum). Others: Lucy Cade (ex-Iowa Economic Development Authority), Thomas Kutz (Blank Park Zoo), Deaf Services Unlimited (org). Circle = in-state museum and arts colleagues, plus one accessibility voice."
+  - step: "L4.2 Commenter inversion"
+    status: NOT-APPLICABLE
+    checked_count: 1
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B7, B3]
+    note: "Not applicable: comment proxy is outward-facing and she has 0 original posts, so there is no own-commenter population. Only own-feed item (AMM repost) has 1 commenter: Charity Counts, Executive Director, Association of Midwest Museums. People who reply to HER comments are listed in L4.1."
+  - step: "L4.5 Mutuals with Jefferson (this target)"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1]
+    note: "Profile shows Jefferson-to-Lindsay degree '3rd' and no mutual-connections line; a 3rd-degree profile has no shared 1st-degree connection by LinkedIn's definition. Zero REAL mutuals. Adjacent lead only (UNKNOWN, not a mutual of hers): Piper Hart and David Whitemyer (Director of Partnerships: Museums & Culture, Electrosonic) are 2nd degree to Jefferson and appear in her comment threads (B6, B11); no evidence either knows her beyond a thread."
+  - step: "L7.1 Surface X"
+    status: RAN-NULL
+    checked_count: 5
+    checked_unit: searches
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B12, B13, B14, B15]
+    note: "Layer 7 status VERIFIED-NOT-FOUND via authenticated X search index (People x2, Latest x4 incl. 'Lindsay Keast' Iowa and Keast + SHSI/Iowa Arts Council terms) over all dates; the only name-hit @lindsaykeast is Toronto and is NOT-DISTINGUISHABLE/rejected. Residual: an account with a non-name display and handle would not surface in name search."

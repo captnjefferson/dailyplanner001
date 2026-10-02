@@ -1,0 +1,102 @@
+# Lane: browser — Kelsey Burr — run 2026-10-01 — social window 2026-07-03 -> 2026-10-01
+# Session test 2026-10-01: LinkedIn feed signed in as Jefferson Stovall; x.com/jmstovall signed in.
+# Detectability: LinkedIn profile/activity/Interests views = ATTRIBUTABLE-BY-BYPRODUCT (disclosed; note the profile page showed a Connect button — NOT clicked). X reads = ANONYMOUS-HIT.
+ledger:
+  - step: "1-handoff: LinkedIn kelsey-kleinow verification"
+    status: RAN-FOUND
+    checked_count: 6
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B2, B5]
+    note: "The handoff slug /in/kelsey-kleinow-3a127613b/ is DEAD (LinkedIn 404 in the signed-in session, with and without trailing slash). The live profile is https://www.linkedin.com/in/kelsey-burr-3a127613b/ — same ID suffix 3a127613b, vanity prefix renamed kelsey-kleinow -> kelsey-burr after the surname change. Found via authenticated search 'Kelsey Burr Iowa'. ANCHORS CLEARED (3+ distinctive): (1) ID suffix identical to the slug on Momentum's own staff bio card (first-party link); (2) headline Momentum Program Coordinator / employer Community Support Advocates (Oct 2020-present) = the Momentum Art Studio role; (3) prior employers Children & Families of Iowa (Career Planner, Apr 2019-Oct 2020), Boys & Girls Club of Central Iowa (Program Specialist, Nov 2017-Apr 2019), Mid-Iowa Family Therapy Clinic (FSRP Family Consultant, Aug 2015-Oct 2017) = the same career the Art Center release lists for Burr (open-web W9) and ZoomInfo's Kleinow snippet; (4) University of Iowa badge; Des Moines metro. NOT cleared: Des Moines Art Center and B.A. Studio Arts & Psychology do not appear on the profile (Education sub-page empty; LinkedIn is stale vs. the 2025-04-24 Art Center move). Excluded: 4 other Kelsey Burr profiles (San Rafael CA; Greater Indianapolis communications manager; Chicago Fed; Monroe LA) and Kelsi Kleinow (Pleasanton CA). 6 profiles checked."
+  - step: "L2.1 Inspect current channels"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: platforms
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2, B3, B7, B8, B9]
+    note: "LinkedIn: profile exists but is a DORMANT, stale shell — 18 connections, 19 followers, 'Kelsey has no recent posts', headline still 'Momentum Program Coordinator' at Community Support Advocates 'Present' (6 yrs 1 mo as of 2026-10-01); Art Center role absent. Last activity date unknowable: the activity tabs are empty. X: no account located (see L7.1)."
+  - step: "L2.2 Count posts over absolute window"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "Checked 3 activity pages (All activity, Comments, Reactions) over 2026-07-03 -> 2026-10-01; none present — each reads 'Nothing to see for now'. Zero items ever visible, not just in-window."
+  - step: "L2.3 Dated themes with example and URL"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "Checked 3 activity pages over 2026-07-03 -> 2026-10-01; no content to theme. Her public voice lives off-LinkedIn (Momentum/press pieces — open-web lane)."
+  - step: "L2.4 Engagement gradient and rule"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: posts
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3, B2]
+    note: "0 posts, so no gradient or rate. Inputs: 19 followers, 18 connections."
+  - step: "L2.5 Open 5-10 threads, classify reply behavior"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "REPLY BEHAVIOR = UNKNOWN (never BILLBOARD): she has no posts, comments or reactions to open. 0 threads openable. Layer 4 promoted by the UNKNOWN rule — but its inputs are empty here (see L4 rows)."
+  - step: "L2.6 Format effects and appearances"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3, B9]
+    note: "No LinkedIn items to compare; no appearances on LinkedIn. X: only a 2018-04-27 @MuseumDirectors post about the Art Center's Art Spectrums program (names no person). Press/appearances are the open-web lane's."
+  - step: "L3a.2 LinkedIn Interests (every rendered tab)"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: tabs
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B4]
+    note: "Tab bar rendered: Companies, Schools — both clicked. Companies (2): Community Support Advocates (605 followers), University of Iowa. Schools (1): University of Iowa. NO Top Voices, Groups, or Newsletters tab (Top Voices absent = no badged voices only; individual follows UNKNOWN). Consumption signal is essentially nil."
+  - step: "L3a.3 Authenticated X following and likes"
+    status: NOT-APPLICABLE
+    checked_count: 0
+    checked_unit: handles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B7, B8, B9]
+    note: "No X account clears the two-anchor gate (see L7.1), so there is nothing to read following/likes from. Lookalikes @KelseyBurr (MCPHS '18) and @kelcblair (Nashville per open-web W49) excluded."
+  - step: "L3c.3 Comment proxy"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "Checked the Comments page over all dates (window 2026-07-03 -> 2026-10-01): 'Nothing to see for now' — 0 comments on own or others' posts. No proxy computable; not inward-facing (no activity at all)."
+  - step: "L4.1 Answered circle from threads"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "No threads exist to mine (0 posts, comments, reactions). Layer 4 promoted but this sub-step has no input. Circle must come from other sources (Momentum/Art Center co-staff via open-web lane)."
+  - step: "L4.2 Commenter inversion"
+    status: NOT-APPLICABLE
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "She has no posts, so no commenter population to invert and no recent-hire posts to read."
+  - step: "L4.5 Mutuals with Jefferson (this target)"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B5, B2, B6]
+    note: "Degree '3rd+' to Jefferson in the search listing; 18 connections total; no mutual-connections line. Zero REAL mutuals. Context only (relation to Kelsey UNKNOWN): Jefferson has 2nd-degree connections who list the Art Center — Lori Ristau (Grants Manager, Art Center; mutual Abhay Nadipuram), Elizabeth Gollnick (Associate Curator, Art Center; mutual Ashley Mancheni), Eric Heininger (fundraising; mutuals Shawn N. Olds and Patrick Frank) — see B6. Art Center colleague Merlyn Penado-Lopez (Community Access Program Coordinator, 3rd) is on LinkedIn; Kelsey is not on the Art Center's associated-members list (B5)."
+  - step: "L7.1 Surface X"
+    status: RAN-NULL
+    checked_count: 7
+    checked_unit: searches
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B7, B8, B9]
+    note: "Layer 7 status VERIFIED-NOT-FOUND via the authenticated X search index: People 'Kelsey Burr' (12+ profiles), People 'Kelsey Kleinow' (12+), Latest 'Kelsey Kleinow' (none), Latest 'Kelsey Burr' + Des Moines/Iowa/Art Center/Momentum (none), Latest 'Art Spectrums' 'Des Moines' (1 org post, no person), Latest 'Momentum' 'Community Support Advocates' (none). Exact-name hit @KelseyBurr is a pharmacy-school alum (MCPHS '18) with no anchors — excluded. Residual: an account under a non-name handle would not surface."

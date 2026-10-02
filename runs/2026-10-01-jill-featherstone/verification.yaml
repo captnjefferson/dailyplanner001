@@ -1,0 +1,29 @@
+# Adversarial verification — orchestrator file. One independent sonnet verifier per claim, given only the claim + source IDs.
+verification: INDEPENDENT (separate agent per claim; not SINGLE-AGENT-DEGRADED)
+verifiers: 5   # minimum 3, at least one null — met (V5)
+results:
+  - id: V1
+    claim: "Her email is the Art Center's published contact for ASL and accommodation requests (accessibility page + 2026-02-14 event page)."
+    verdict: CONFIRMED
+    finding: "W9: 'ASL and other accommodation requests can be made by emailing jfeatherstone@desmoinesartcenter.org. Please allow two weeks notice to schedule an interpreter.' W10 repeats it and names her as gallery-talk speaker. Name-to-address via staff page."
+    source_ids: [W9, W10]
+  - id: V2
+    claim: "She personally led a sensory museum visit for the Barefoot Autism Challenge on 2026-04-19 with Tyler Leech."
+    verdict: REFUTED
+    finding: "W11 is a pre-event announcement (captured 2026-04-13): 'enjoy a guided visit through the museum with Tyler and Jill Featherstone'. 'With', not 'led'; no post-event source shows it happened. Corrected in report: announced, not shown to have happened."
+    source_ids: [W11]
+  - id: V3
+    claim: "NEWS: Art for Brunch 'intentionally offline' (May–Aug 2026); Sep–Dec 2026 column 'Virtual Art Access…'; Baum: 'broader institution-wide initiative to improve access across our facilities, programs, and digital platforms'."
+    verdict: CONFIRMED
+    finding: "All verbatim. Art for Brunch: 'It's engaging, social, and intentionally offline—perfect for anyone craving meaningful connection and curiosity-driven learning.' Baum quote from the 2025-12-05 EMC release ($25,000, sculpture park access)."
+    source_ids: [W38, W40]
+  - id: V4
+    claim: "Art Center + SHSI 'Archives and Art' on 2026-02-22 with Andrew Klumpp."
+    verdict: CONFIRMED
+    finding: "Art Center 'presented \"Archives and Art,\" in collaboration with the State Historical Society of Iowa'; recorded Sun 2026-02-22 at the Art Center; single talk."
+    source_ids: [W32]
+  - id: V5
+    claim: "NULL — 0 documents authored by or quoting her 2025-10-01..2026-10-01; latest quote 2025-08-12."
+    verdict: REFUTED (authored half) / CONFIRMED (no verbatim quote after 2025-08-12)
+    finding: "Counter-example re-fetched by orchestrator 2026-10-01: AAM Museum Junction Open Forum, 'Allowable materials in your art museum galleries', posted 12-16-2025 10:37 AM by Jill Featherstone (title + employer + city in signature): 'Hi fellow educators, I'm reaching out today to ask what kinds of materials are allowable in your art museum galleries… Do the kinds of materials stretch when an activity is facilitated vs. autonomous? If your museum has a list, I'd love to see it!' Earlier threads by her on the same forum: 'Docent Appreciation Speeches' (2016-05-06), 'Internal Communication'. Also in window: Change Course (Des Moines nonprofit) Facebook post 2026-03-12 reports she spoke to their class on 'the cognitive and emotional benefits of creating and experiencing art' (paraphrase; new partnership); BUREAU Instagram 2026-04-12 names her. Layer 3c missed AAM Museum Junction as a community; corrected in report."
+    source_ids: ["https://community.aam-us.org/discussion/allowable-materials-in-your-art-museum-galleries-1", "https://www.facebook.com/changecourseiowa/posts/jill-featherstone-senior-director-of-museum-learning-engagement-and-community-ac/913932714734480/", "https://www.instagram.com/p/DXCvfq8mSSK/"]

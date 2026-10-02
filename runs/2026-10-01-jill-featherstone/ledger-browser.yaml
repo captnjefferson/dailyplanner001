@@ -1,0 +1,95 @@
+# Lane: browser — Jill Featherstone — run 2026-10-01 — social window 2026-07-03 -> 2026-10-01
+# Session test 2026-10-01: LinkedIn feed signed in as Jefferson Stovall; x.com/jmstovall signed in.
+# Detectability: LinkedIn profile/activity/Interests views = ATTRIBUTABLE-BY-BYPRODUCT (disclosed; a Connect button was present on the page — NOT clicked). X reads = ANONYMOUS-HIT.
+ledger:
+  - step: "L2.1 Inspect current channels"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: platforms
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B2, B4]
+    note: "LinkedIn: profile exists but is a DORMANT shell — 19 connections, 26 followers, 'Jill has no recent posts', one experience entry (Museum Education Director, Des Moines Art Center, Aug 1999 - present, 27 yrs 3 mos), headline stale vs. her current title. Last visible activity: a 'like' dated 2021-06-24 (graveyard: no posts ever visible, no comments ever visible, 4 reactions Feb-Jun 2021). X: no account located (L7.1)."
+  - step: "L2.2 Count posts over absolute window"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "Checked 3 activity pages (All activity, Comments, Reactions) over 2026-07-03 -> 2026-10-01; none present. All activity and Comments read 'Nothing to see for now'; Reactions shows 4 items, newest 2021-06-24."
+  - step: "L2.3 Dated themes with example and URL"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "No own content to theme. The 4 reactions (2021) are to an insurtech-strategy exec's job post, two WesleyLife (senior living) posts and a Female Lead reshare — nothing museum-related."
+  - step: "L2.4 Engagement gradient and rule"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: posts
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B2]
+    note: "0 posts; no gradient or rate. Inputs: 26 followers, 19 connections."
+  - step: "L2.5 Open 5-10 threads, classify reply behavior"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "REPLY BEHAVIOR = UNKNOWN (never BILLBOARD): she has no posts or comments to open. Layer 4 promoted by the UNKNOWN rule, but its inputs are empty (see L4 rows)."
+  - step: "L2.6 Format effects and appearances"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2, B6]
+    note: "Nothing on LinkedIn; no X presence. Press and grant coverage (Every Page Foundation, Iowa Arts Council, Women in Arts) is the open-web lane's."
+  - step: "L3a.2 LinkedIn Interests (every rendered tab)"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: tabs
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3]
+    note: "Tab bar rendered: Companies, Schools — both clicked. Companies (3): Michigan State University, University of the Arts, Des Moines Art Center. Schools (2): Michigan State University, University of the Arts. NO Top Voices, Groups or Newsletters tab (no badged voices only; individual follows UNKNOWN). Schools carry the education anchors (University of the Arts; Michigan State). Consumption signal otherwise nil."
+  - step: "L3a.3 Authenticated X following and likes"
+    status: NOT-APPLICABLE
+    checked_count: 6
+    checked_unit: handles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B4, B5, B6]
+    note: "No X account clears the two-anchor gate, so no following/likes to read. 6 'Jill Featherstone' candidates examined and rejected (UK NHS nurse @JillFeatherston; Manitoba Cree/Ojibway author @JillFeathersto2; empty shells @jill_jfthrstn and @JillFeathe1969; @jill_thetagrace 'Featherston' educator and light worker; @jill_atherstone)."
+  - step: "L3c.3 Comment proxy"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "Checked the Comments page over all dates (window 2026-07-03 -> 2026-10-01): 'Nothing to see for now' — 0 comments anywhere. No proxy computable; not inward-facing (no activity at all)."
+  - step: "L4.1 Answered circle from threads"
+    status: RAN-NULL
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "No threads to mine (0 posts, 0 comments; the only 4 reactions are 5 years old and are not exchanges). Layer 4 promoted but this sub-step has no input; the circle must come from the open-web lane (grant partners, Women in Arts co-leads, Art Center colleagues)."
+  - step: "L4.2 Commenter inversion"
+    status: NOT-APPLICABLE
+    checked_count: 0
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2]
+    note: "She has no posts, hence no commenters to invert and no hire announcements to read."
+  - step: "L4.5 Mutuals with Jefferson (this target)"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B7]
+    note: "Degree '3rd' to Jefferson on her profile; 19 connections total; no mutual-connections line. Zero REAL mutuals. Context only (relation to Jill UNKNOWN): 2nd-degree connections who list the Art Center — Lori Ristau (Grants Manager, Art Center; mutual Abhay Nadipuram), Elizabeth Gollnick (Associate Curator, Art Center; mutual Ashley Mancheni), Eric Heininger (fundraising; mutuals Shawn N. Olds and Patrick Frank) — see B7. Lori Ristau is the grants-side colleague; nothing shows she or the others know Jill beyond sharing an employer."
+  - step: "L7.1 Surface X"
+    status: RAN-NULL
+    checked_count: 6
+    checked_unit: handles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B4, B5, B6]
+    note: "Layer 7 status VERIFIED-NOT-FOUND via the authenticated X search index: People 'Jill Featherstone' (6 profiles, 4 read in full), Latest 'Jill Featherstone' (only the UK nurse's posts), Latest Featherstone + Des Moines Art Center variants (no results). No account carries a Des Moines/Iowa/museum/Art Center anchor. Residual: an account under a non-name handle would not surface."

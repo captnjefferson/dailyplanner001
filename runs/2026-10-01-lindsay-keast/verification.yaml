@@ -1,0 +1,24 @@
+# Adversarial verification — orchestrator file. One independent sonnet verifier per claim, given only the claim + source IDs.
+verification: INDEPENDENT (separate agent per claim; not SINGLE-AGENT-DEGRADED)
+verifiers: 4   # minimum 3, at least one null — met (V4)
+results:
+  - id: V1
+    claim: "Lindsay Keast (SHSI Museum Specialist & Accessibility Coordinator) is the same person who was Program Manager, Arts and Creativity & Accessibility Coordinator at the Iowa Arts Council in 2022; same phone 515-281-8352."
+    verdict: CONFIRMED
+    finding: "Four anchors: full name, identical phone, email local-part (lindsay.keast@iowa.gov -> @das.iowa.gov), Accessibility Coordinator role. Exact 2022 title per NASAA roster p.15. No source states the move in words; no second Lindsay Keast found."
+    source_ids: [W7, W8, W13, W30]
+  - id: V2
+    claim: "SHSI 2025-02-04 release quotes Keast ('among the first museums in the U.S. to introduce NaviLens'); KCRG says the idea came from a cereal-box code in her kitchen; license is a yearly subscription; museum page asks $3,100."
+    verdict: CONFIRMED
+    finding: "Verbatim: 'We're proud to be among the first museums in the U.S. to introduce NaviLens' (Keast, Title II Accessibility Coordinator). KCRG: 'The idea of NaviLens started in Lindsay Keast's kitchen when she saw a colorful code on a cereal box.' Correction in place: the $3,100 ask covers 'the annual NaviLens license and continual exhibit improvements', tied to GAAD Thu 2026-05-21 (passed)."
+    source_ids: [W9, W10, W32]
+  - id: V3
+    claim: "SHSI received AMM's 2025 Groundbreakers Award for blind/low-vision access work; Keast not named."
+    verdict: CONFIRMED
+    finding: "AMM page dated 2025-07-21; partners named are ICUB, Iowa Department for the Blind, Prairie Meadows grant. Keast named nowhere on AMM pages."
+    source_ids: [W66]
+  - id: V4
+    claim: "NULL — Keast authored no published documents 2025-10-01..2026-10-01."
+    verdict: CONFIRMED
+    finding: "~25 searches plus SHSI news/newsletters, March 2026 Register essay series, IMA/AMM programs and IMAges, ICUB bulletins: only contact/panelist/quote appearances. Authored pieces exist only before the window (DMMC c.2016-17; Iowa Arts Council Medium 2020; Iowa Arts Summit post 2022-06-10). Residual risk: unbylined Iowa Historian items; only 2 of ~12 issues public."
+    source_ids: []

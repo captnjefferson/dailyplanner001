@@ -1,0 +1,529 @@
+lane: web
+target: Rachel Hansen (K-12 Education Coordinator, State Historical Society of Iowa)
+run_dir: /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-01-rachel-hansen
+date: '2026-10-01'
+step0:
+  attio_person_record:
+    status: EXISTS but sparse
+    record_id: ca0aa597-7372-425e-bc87-f9dae98a4591
+    source_ids:
+    - W1
+    detail: Created 2026-09-24 by the system from an email interaction with rachel.hansen@das.iowa.gov. Name, job title, LinkedIn, description and personality fields are empty. Company record is "Iowa" (das.iowa.gov). First
+      email 2026-09-24, last email 2026-09-30 (workspace member da554e3a...), next calendar interaction 2026-10-05T19:30Z = 2:30 pm CT.
+  attio_notes:
+    status: 'NULL'
+    count: 0
+    source_ids:
+    - W2
+  meeting_transcripts:
+    status: 'NULL'
+    source_ids:
+    - W2
+    - W3
+    - W4
+    detail: 'JMOS /api/health unreachable (HTTP 000), so the Attio meetings API was scanned directly: 8,200 meetings over 41 pages, searching participants/titles for hansen, das.iowa.gov, history.iowa; the only hit was an
+      unrelated 2024-05-08 Montgomery County MD meeting (Warren Hansen). Notion API search (3 queries) found no meeting-notes page. Expected: first contact is 2026-10-05, nothing recorded yet.'
+  venue_research_input:
+    source_ids:
+    - W5
+    detail: Both files read; every Humantic lead about her was independently confirmed from primary pages except the personality-type label (not re-verified, not used).
+run_notes:
+- 'Verification state: this lane collects only; no adversarial verifier ran.'
+- Writes confined to the Rachel Hansen run dir. No credential printed or written. Nothing sent, followed, joined, or submitted. No account created.
+- The internal product is not named or described in any file written by this lane.
+- 'Handoff to browser lane (no row written here): X @ms_hansen is the self-linked X handle (logged-out text in W32 is a lead only); Instagram @bighistoryteacher bio/last post; LinkedIn https://www.linkedin.com/in/rachel-hansen-97694765/
+  should confirm the Muscatine-to-SHSI bridge and give Interests/Groups.'
+- 'Reply-behavior input for Layer 4 auto-promotion: nothing here reads reply behavior (X and LinkedIn are the browser lane). Her only retrievable personal feed (Bluesky) has 2 posts. If the browser lane returns UNKNOWN, Layer
+  4 promotes by default.'
+rows:
+- step: 1.1 Published or self-owned email search
+  status: RAN-FOUND
+  checked_count: 18
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W1
+  - W5
+  - W6
+  - W7
+  - W8
+  - W9
+  - W19
+  - W20
+  - W21
+  note: 'Four addresses, all read from pages, none guessed. (a) rachel.hansen@das.iowa.gov: SHSI staff table, six SHSI event pages, and the Iowa Youth Symposium contact line (current, employer-published). (b) rachel.hansen@iowa.gov:
+    her SHSI address in every Wayback snapshot 2024-12-23 to 2026-03-01; SHSI notice says @iowa.gov was retired 2026-05-04. (c) rachel.hansen@mcsdonline.org: Muscatine district address printed on her own the-human-story.com
+    (stale prior-employer address). (d) rachelannhansen@gmail.com: itunes:email in the Locally Global podcast RSS (self-owned personal address in a public contact field; Locally Global is tied to her by the NatGeo video page
+    W22). Phone 515-281-8747 (SHSI). (d) is a personal inbox: do not use for the venue conversation; the das.iowa.gov address is the one already warm (Attio W1). Middle name ''Ann'' is an inference from (d), not stated anywhere.'
+- step: 1.2 Bounded Maigret handle sweep
+  status: RAN-FOUND
+  checked_count: 6
+  checked_unit: handles
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W37
+  - W20
+  - W38
+  note: 'Six variants, each --top-sites 500 (509 sites searched), --no-recursion --no-extracting, output in maigret/. Handles: ms_hansen, bighistoryteacher (both taken from her own site''s links, not guessed), plus generated
+    rachelannhansen, rachelahansen (first+middle-initial+last), rachelhansen, rachel.hansen. Raw claimed accounts: ms_hansen 19, bighistoryteacher 9, rachelannhansen 8, rachelahansen 8, rachelhansen 76, rachel.hansen 28. Bot-protection
+    errors 7.47% to 8.25% per run (partial coverage by design); rachel.hansen also 10.22% unsupported-username-format. Handle-only claims are not identity: Maigret claimed TikTok @ms_hansen, which belongs to a different person
+    (''maya''). Only ms_hansen and bighistoryteacher cleared anchors (via the self-link on W20 and content on Linktree/Flipboard W31). ''flast'' (rhansen) was not run: the cap is 6 and it is unanchorable among thousands of
+    Hansens. Reverse-image search remains a named manual gap (agents cannot upload).'
+- step: 1.3 Quoted distinctive-bio search
+  status: RAN-FOUND
+  checked_count: 4
+  checked_unit: quoted bio strings
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W32
+  - W34
+  - W36
+  - W31
+  - W42
+  note: 'Strings searched: her bio line (''I teach a little-learn a lot. Fridays are for flannels.''), her Flipboard line (''Teacher. Learner. Spelunker.''), her Bluesky first post, and the NatGeo/OER bio sentences. The bio
+    line is reused verbatim on X @ms_hansen (Muscatine, IA; the-human-story.com), Bluesky @rachelhansen.bsky.social and Threads @bighistoryteacher. X is a lead for the browser lane only (logged-out never VERIFIED); Bluesky
+    and Threads were fetched directly.'
+- step: 1.4 Show-notes and speaker-bio bridge
+  status: RAN-FOUND
+  checked_count: 41
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W8
+  - W9
+  - W11
+  - W13
+  - W15
+  - W16
+  - W17
+  - W19
+  - W20
+  - W21
+  - W22
+  - W23
+  - W24
+  - W25
+  - W26
+  - W27
+  - W28
+  - W29
+  - W30
+  - W31
+  note: 'Highest-yield step. IDENTITY BRIDGE CLEARED from open web (the Muscatine / National Geographic / UNI Rachel Hansen is the SHSI K-12 Education Coordinator): anchor 1 = the Iowa Youth Symposium, a Model UN conference
+    run by Iowa high-school advisors, lists ''Contact for IYS: Rachel Hansen'' with the same das.iowa.gov address as the SHSI staff table (W19, W6), and Muscatine HS Model UN is the author of her Locally Global podcast (W21,
+    W22); anchor 2 = her ICSS 2025 session as SHSI is built on Muscatine history (W16), the Aurorean (Feb 2025) calls her ''a former Muscatine advisor'' who co-planned a Muscatine Model UN summit (W30, name misspelled), and
+    her handle-linked Linktree lists the Iowa Youth Symposium next to her AP Human Geography and Big History links (W31). Chain to the credentials: UNI MA thesis (chair Alex Oberle) + insideUNI 2021 (taught 13 years, assistantship
+    covering Muscatine) + Muscatine Journal (NCGE award, nominators Oberle and Kim Young) + NCGE page (Rachel Hansen, IA, 2021) (W26-W29). No single page says ''Muscatine teacher joined SHSI''; the authenticated LinkedIn read
+    (browser lane) should give the direct sentence. SPEAKER / SHOW-NOTE FINDS: ICSS 2025 Breakout 5 ''History Happens Here'' (2025-10-20, Ankeny); ICSS 2026 Breakout 5 ''History Mystery'' (2026-10-19, Ames, upcoming); Iowa
+    Youth Symposium 2026-10-28/29 (she is the named contact; Day 1 advisor option is a Museum Collections Tour at the State Historical Museum); six SHSI teacher PD workshops 2025-06 and 2026-06 where she is instructor/contact;
+    State Fair Historical Walking Tour 2025 and 2026 (co-leader with Curator Hanna Howard); College Day panel 2025-04-15; NatGeo Education video ''Audio Storytelling in the Classroom'' (her own transcript); OER Project AMA
+    Nov 2023. Podcast RSS contact field gave the personal gmail (1.1). Rejected leads are in evidence/w-control-and-collision-checks.yaml (Radio Iowa / Mireya Mayor, Kim Young''s NatGeo blog, The Geography Teacher authors).'
+- step: 1.5 Separate work-only account sweep
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: platforms/surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W6
+  - W19
+  - W16
+  - W17
+  - W20
+  - W31
+  - W33
+  - W36
+  - W39
+  note: 'Two identities, not split by platform but by era. CREATOR/CLASSROOM persona (all on Muscatine-era handles): X @ms_hansen, Instagram + Threads + TikTok @bighistoryteacher, Bluesky @rachelhansen, Flipboard + Linktree
+    @ms_hansen, the-human-story.com. WORK persona: no personal work social handle found; her SHSI presence is institutional (staff page, event pages, ICSS/IYS programs, SHSI org accounts: Instagram @iowahistory 4,146 followers,
+    Facebook museum page 2,680, YouTube @IowaHistory). The work identity is the more decision-relevant one and lives on pages, not feeds. LinkedIn (browser lane) not covered here.'
+- step: 1.6 Bio-drift comparison
+  status: RAN-FOUND
+  checked_count: 12
+  checked_unit: bios/titles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W7
+  - W6
+  - W12
+  - W13
+  - W22
+  - W24
+  - W26
+  - W29
+  - W32
+  - W20
+  - W16
+  note: 'Title ladder at SHSI: ''History Education Specialist'' (Wayback 2024-12-23 through 2025-07-02; College Day 2025-04-15) -> ''K-12 Education Coordinator'' (from the 2025-08-03 snapshot; ''Education Coordinator'' on
+    the 2025 State Fair page). The title change fell between 2025-07-02 and 2025-08-03. Classroom exit is bounded to after 2023-05 (UNI thesis, still described as a teacher in the OER AMA of Nov 2023) and no later than 2024-12-23
+    (first SHSI snapshot); the Aurorean of 2025-02-28 calls her ''a former Muscatine advisor''. STALE BIOS still naming Muscatine: X location ''Muscatine, IA''; the NatGeo Education video page (''Last Updated September 15,
+    2026'') still says she teaches at Muscatine High School; the-human-story.com and the 2020 podcast feed likewise. Her SHSI bio is not written anywhere she controls that we could find. Humantic''s list (MA Geography, NCGE,
+    NatGeo Explorer, audio + mapmaking) matches the stale classroom-era material.'
+- step: 2.7 Organization channels (SHSI education)
+  status: RAN-FOUND
+  checked_count: 12
+  checked_unit: channels
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W6
+  - W10
+  - W14
+  - W15
+  - W17
+  - W19
+  - W39
+  - W16
+  note: 'Open-web, ran regardless of session state. Where SHSI education conversation actually happens: (1) SHSI web pages and event calendar (history.iowa.gov); (2) monthly educator newsletter The Goldfinch Dispatch (first
+    Wednesday) and Goldie''s Kids Club newsletter; (3) YouTube @IowaHistory (live: latest upload 2026-09-11; series Iowa History 101 monthly and Think Like a Historian 2025-12-02); (4) Instagram @iowahistory (4,146 followers,
+    1,388 posts); (5) Facebook museum page (2,680 followers); (6) PD request form (district visits, half or full day); (7) teacher summer PD each June (six dated workshops); (8) History Pod-Camp for students (2025-07, 2026-07;
+    no instructor named); (9) State Fair Historical Walking Tour (annual, August); (10) Iowa Council for the Social Studies conference (SHSI exhibits; she presents 2025 and 2026); (11) Iowa Youth Symposium (Capitol, with museum
+    tour); (12) NCGE annual conference (SHSI promotes it; she is not named in the listing). Nobody at SHSI publishes personally: her work shows up as an instructor/contact line, not a feed.'
+- step: 3a.1 Substack (reader profile)
+  status: RAN-NULL
+  checked_count: 3
+  checked_unit: candidate slugs
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W38
+  note: 'Candidates came only from handle reuse (rachelhansen from Bluesky; ms_hansen and bighistoryteacher from her own site links); no Substack link appears in any bio or page. substack.com/@rachelhansen exists but FAILS
+    the identity gate (empty bio, no photo, five unrelated lifestyle subscriptions, no Iowa/education anchor) so nothing from it is attributed to her and the subscription list is not recorded. ms_hansen and bighistoryteacher
+    returned 404. SOFT null: three slugs checked, 2026-10-01; control profile (heathercoxrichardson) returned 200.'
+- step: 3a.4 Bluesky follows
+  status: RAN-FOUND
+  checked_count: 73
+  checked_unit: follows
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W36
+  note: 'Account @rachelhansen.bsky.social (did:plc:mntnkkdmgpdkhbjpzks2e2if), created 2023-09-23, display name Rachel Hansen, same bio line as X/Threads. Identity: reused distinctive bio line + Paul Salopek (the Out of Eden
+    Walk, the named project of her NatGeo grant) among her 56 returned followers. DORMANT: 2 posts, last 2023-10-06 (''Thanks for coming to Iowa!'', 1 reply); first post says she teaches and likes making maps. Follows reported
+    76, 73 returned (no cursor; 3 probably deleted). Reading list = K-12 educator and teacher-author voices (Cornelius Minor, Larry Ferlazzo, Jose Vilson, Tricia Ebarvia, Christopher Lehman / The Educator Collaborative, Pernille
+    Ripp, Jess Lifshitz, Marcus Luther, Shana White and others), social-studies/history voices (Tim Smyth, Nick Covington - an Iowan former HS social studies teacher, Christie Nold, SocialStudiesTx, Noreen Rodriguez), NatGeo
+    Explorers and science communicators (Shah Selbe, Christine Wilkinson, Gabriel-Philip Santos of PBS Eons, Sarah Parcak), education-policy voices (Jennifer Berkshire, Jack Schneider, Dominique Baker), authors/public figures
+    (Clint Smith, Eve Ewing, Samira Ahmed, Alice Wong, Debbie Reese, AOC, Hank Green), plus NWS and Alt NPS. ZERO museum, SHSI, or Iowa-institution accounts among the follows. Followers worth noting: Paul Salopek, Jason Sawle
+    (Esri global schools), Joe Schmidt (NCSS), Kathleen Wilson (NatGeo Certified Educator), TEACH Mag; one ''janetkwills'' follower (empty bio) is only a LEAD for ICSS president Janet Wills.'
+- step: 3a.5 GitHub stars and following
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: logins/queries
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W38
+  note: 'ms_hansen and bighistoryteacher: 404. api.github.com/search/users ''Rachel Hansen'' fullname + location Iowa: 0 results. github.com/RachelHansen exists but fails the gate (created 2021-05-04, 3 repos, 0 followers/following,
+    no name/bio/location/blog) so it is not hers. SOFT null: four lookups, 2026-10-01; expected null for a non-engineer.'
+- step: 3a.6 Fast checks (Goodreads, Letterboxd, Spotify, Reddit)
+  status: BLOCKED-WALLED
+  checked_count: 3
+  checked_unit: platforms attempted
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W38
+  note: 'Reddit: control spez/about.json 403 and target 403 (walled). Letterboxd: control /dave/ 403 (walled). Goodreads: control search returned 200 (88 people) but the target name search returned HTTP 202 with x-amzn-waf-action:
+    challenge, twice (walled). Spotify: not queried, no Layer-1 Spotify identifier exists (A6 says only run on an actual identifier). None of these is a null. Side find from Maigret, outside the four named platforms: Flipboard
+    @ms_hansen (472 flips, 16 magazines: AP Human Geography units 1-7, Big History Project, Design Thinking; sources include National Geographic, Washington Post, Reuters; visible flips ~2017) is hers (handle + AP Human Geography
+    content) but stale.'
+- step: 3b.1 Fetch corpus; size, window, walls
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: documents
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W16
+  - W17
+  - W9
+  - W11
+  - W19
+  - W20
+  - W22
+  - W23
+  - W26
+  - W28
+  - W29
+  note: 'WINDOW 2025-10-01 to 2026-10-01, cap 30: 9 items found (below cap) = 4,256 words, all ATTRIBUTED rather than proven self-written: two ICSS session abstracts (100 + 64 words, most likely her own text), three 2026 SHSI
+    PD event pages (933 + 816 + 646), the 2026 State Fair tour page (363), and the Iowa Youth Symposium home/schedule/overview (216 + 569 + 549; she is the contact). No personal long-form (blog, newsletter, post) exists in
+    the window. OUT-OF-WINDOW own-voice corpus kept separately in corpus/ and read for register: NatGeo video transcript (857 words, her spoken words), the-human-story.com (579), insideUNI 2021 profile (577, mixed quote/prose),
+    Muscatine Journal 2021-22 piece (409, mixed), thesis abstract (243). WALLS: UNI thesis full text (Cloudflare 403; 253 pages unread), Discover Muscatine (403), X/Instagram/Facebook content (login), NatGeo Explorer directory
+    profile (client-rendered, empty to every fetcher). Corpus files are in corpus/ (w-*.txt with raw HTML alongside).'
+- step: 3b.2 Extract and classify outbound links
+  status: RAN-FOUND
+  checked_count: 3
+  checked_unit: classified links
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W9
+  - W11
+  - W16
+  - W17
+  - W19
+  - W8
+  note: 'Extracted from the attributed documents (11 docs: 8 in-window plus the three June-2025 SHSI pages; the three June-2025 pages added 0 third-party links). Counted once per document. Third-party links: iowastatefair.org
+    and iowahealthieststate.com (partner event sites, State Fair page), korematsuinstitute.org (keynote speaker''s organization, IYS schedule). Excluded as own/employer or event tooling: history.iowa.gov, iowa.gov, das.iowa.gov,
+    iowaculture.wufoo.com, docs.google.com, drive.google.com, web.cvent.com. None of the three is a source link or a vendor link in the ratio sense. Raw table: evidence/w-3b-link-extraction.json.'
+- step: 3b.3 Named people, works cited, tools
+  status: RAN-FOUND
+  checked_count: 34
+  checked_unit: named items
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W22
+  - W24
+  - W26
+  - W29
+  - W9
+  - W16
+  - W17
+  - W19
+  - W30
+  note: 'AUTHORITY / MENTOR: Alex Oberle (UNI geography; thesis chair, assistantship architect, NCGE nominator, Geography Alliance of Iowa), Paul Salopek (Out of Eden Walk, the spine of her NatGeo-funded podcast project),
+    Mark Cady (then Iowa Supreme Court Chief Justice, interviewed by her students), Jeff Bremer (ISU, Iowa History Institute 2026, ''A New History of Iowa''). COLLEAGUES / COLLABORATORS: Kim Young (Weston HS, Boston; NatGeo
+    Explorer; NCGE nominator), KM Reyes (Palawan conservationist; deforestation mapping project), Katie Thorton and ''Gena'' (audio professionals brought into her classroom), Dan Clark (local historian), Hanna Howard, Matthew
+    Jayne, Ethan Atwell, Andrew Klumpp, Jake Wager, Patrick Snyder (SHSI), Krista Regennitter (Stanley Center), Valerie Van Kooten (SHSI administrator). KEYNOTES she shares a bill with: Karen Korematsu (ICSS 2025, IYS 2026),
+    Ryan Wise (ICSS 2026). WORKS / TOOLS she names or teaches: Out of Eden Learn platform, The Human Story and Locally Global podcasts, NatGeo MapMaker, Esri GeoInquiries, ArcGIS Online, Our Spatial Brains, DocsTeach Mapping
+    History, Library of Congress map collections (per OER staff, ''Rachel recommends''), Khan Academy Big History Project, Question Formulation Technique and bellringer/gallery-walk strategies (on the SHSI K-6 workshop page),
+    the Iowa History Institute reading, the History Mystery object protocol, Iowa Geographic Map Server is in the same ICSS 2026 program (another presenter''s session, not hers). No borrowing inference attempted: sample too
+    thin. RAW TERM SCAN (collection only, not a territory ruling): across 12 documents (5,745 words: her NatGeo transcript, her site, Muscatine Journal, insideUNI, thesis abstract, both ICSS abstracts, three 2026 SHSI PD pages,
+    IYS 2026 doc, OER AMA intro) the words accessibility, disability, inclusion/inclusive, sensory, autism, neurodiversity, special education, assistive, universal design and differentiation appear ZERO times in her own or
+    attributed text. The only adjacent phrase is her former principal''s line about meeting the ''individual needs of all her students'' (W26). Her recurring vocabulary is student voice, storytelling, inquiry, primary sources,
+    maps, local-to-global action. See evidence/w-3b-term-scan.txt.'
+- step: 3b.4 Diagnostic ratios
+  status: RAN-NULL
+  checked_count: 3
+  checked_unit: classified links
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W9
+  - W11
+  - W16
+  - W17
+  - W19
+  note: Insufficient sample. Minimum is 50 classified links across at least 5 first-party documents; found 3 classified links across 11 attributed documents (the document minimum is met, the link minimum is not). Source-link
+    ratio and vendor-link ratio are therefore NOT reported. Window 2025-10-01 to 2026-10-01 plus three June-2025 pages. Her real writing is spoken or quoted, not link-bearing. The orchestrator should not infer anything about
+    evidence-versus-merchandise habits.
+- step: 3c.1 Enumerate named communities
+  status: RAN-FOUND
+  checked_count: 14
+  checked_unit: communities
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W16
+  - W17
+  - W18
+  - W19
+  - W22
+  - W24
+  - W25
+  - W26
+  - W27
+  - W28
+  - W29
+  - W30
+  - W31
+  - W36
+  note: 'Professional rooms found in her own materials or around her: (1) Iowa Council for the Social Studies (presenter 2025 and 2026; SHSI exhibits); (2) Iowa Youth Symposium / Iowa Model UN advisor circle (named contact;
+    hosted by high-school advisors at the Capitol; training via All-American Model UN; procedure per UNA-USA); (3) National Council for Geographic Education (AP Human Geography Distinguished Teaching Award, IA, 2021); (4)
+    Geography Alliance of Iowa and UNI Geography (Oberle; MA; assistantship); (5) National Geographic Explorer / Certified Educator / Grosvenor-fellow network (Explorer; Kim Young; Amy King follows her); (6) Out of Eden Learn
+    (Paul Salopek) pen-pal classrooms; (7) OER Project Big History teacher community (AMA Nov 2023); (8) Esri / GIS-in-schools (Jason Sawle follows her; she recommends GeoInquiries); (9) Muscatine Model UN advisors and the
+    Stanley Center for Peace and Security (Muscatine Future Leaders Model UN Summit 2025); (10) SHSI Museum Education team and Iowa History Institute cohorts; (11) Iowa State Fair / Healthiest State Initiative partnership;
+    (12) ICSS leadership circle (Janet Wills, Dan Jones of Living History Farms, Catherine Mein, Todd Hospodarsky, EunJung Kim); (13) Educator Bluesky/''EduSky'' circle (she follows 73, mostly K-12 teachers); (14) Model UN
+    delegates and advisors statewide. Discord/Slack/subreddit/forum membership: none found.'
+- step: 3c.2 Consumer surfaces (reported separately)
+  status: RAN-NULL
+  checked_count: 6
+  checked_unit: consumer surfaces
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W38
+  - W31
+  - W35
+  - W33
+  - W34
+  note: 'Consumer null, reported on its own. Reddit and Letterboxd: walled (controls failed). Goodreads: walled (AWS WAF challenge). Spotify: no identifier. Pinterest (rachelannhansen, rachelhansen), Mastodon, Vimeo, SoundCloud,
+    Flickr, Tumblr: bare-name or JS-shell profiles with no anchors (not hers). Flipboard is hers but is professional curation (AP Human Geography units) and stale. Public lifestyle surfaces that ARE hers (Instagram 1,043 followers/180
+    posts, Threads 255 followers/5 threads, TikTok private) expose no visible content logged-out, so nothing about consumer taste can be read. SOFT null on any consumer-interest claim, window none (no dated consumer activity
+    retrievable).'
+- step: 4.3 Co-occurrence (co-speakers, co-instructors, panels)
+  status: RAN-FOUND
+  checked_count: 24
+  checked_unit: named co-occurring people
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W8
+  - W11
+  - W12
+  - W13
+  - W16
+  - W17
+  - W19
+  - W26
+  - W30
+  - W28
+  note: 'Read from page text (Google Docs exports, SHSI Drupal pages, ROT47-decoded Muscatine Journal payload; no richer page JSON existed). SHSI: co-instructors Jake Wager (2025-06-23/24 secondary workshop) and Patrick Snyder
+    (2025-06-16/17 elementary); Hanna Howard (Curator) co-leads the State Fair Historical Walking Tour 2025 and 2026; College Day panel 2025-04-15 with Ethan Atwell and Matthew Jayne (moderator Andrew Klumpp). ICSS 2025 Breakout
+    5 same slot: Annie Jenson (Thinking Nation), Josh Dyer (Southeast Valley HS), Kassidy Blum (Institute for Curriculum Services), Catherine Mein (Ballard HS, ICSS past president), Jeff Firsching (Lawton-Bronson). ICSS 2026
+    Breakout 5 same slot: Allyn Locker (Waukee), Betty Nordengren (Sphere Education Initiatives), Catherine Mein, Tyler Adams (DBQ Project), Todd Hospodarsky (ICSS treasurer, facilitator), EunJung Kim (UI, facilitator); keynote
+    Ryan Wise. IYS: keynote Karen Korematsu (also ICSS 2025 keynote). Muscatine summit 2025-01-29/30: Krista Regennitter (Stanley Center) and the Muscatine MUN advisors. NatGeo-era: Kim Young, KM Reyes, Alex Oberle. No moderator
+    or role flags beyond what the text states.'
+- step: 4.4 Shared rooms with Jefferson
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: background files checked against ~25 names/terms
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W44
+  - W19
+  - W16
+  - W17
+  note: 'No verified shared community. Jefferson''s warm graph, network list, associations map and profile contain none of her collaborators (Oberle, Kim Young, Salopek, KM Reyes, SHSI staff, ICSS officers, Korematsu, Ryan
+    Wise) and no Iowa education/social-studies/geography/Model UN org; the only Hansens in the warm graph are unrelated (Warren, Marjorie, Tyler). Shared physical presence only: Des Moines 2026-10-05 to 10-07 (their meeting
+    2026-10-05 2:30 pm CT; his IHA session 2026-10-06). Candidate rooms he is NOT in but could be invited to: ICSS conference 2026-10-19 (Ames), Iowa Youth Symposium 2026-10-28/29 (Capitol), both after the visit. Mutuals via
+    LinkedIn belong to the browser lane.'
+- step: 4.6 New-hire announcements
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: sources (2 roster snapshots, 3 news pages, 1 search)
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W6
+  - W7
+  - W10
+  note: 'No new hires in the SHSI Museum Education or Collections tables between the 2024-12-23 snapshot and 2026-10-01; no hire announcements on SHSI news pages 1-3 or in search. ROSTER CHANGES instead (a shrinking, rotating
+    team): Education team went from 6 to 4 (Kenedy LH Reichert, Formal & Digital Education Coordinator, is gone; Hanna Howard moved from National History Day Coordinator to State Curator; Ethan Atwell moved from Special Projects/Outreach
+    to National History Day Coordinator; Andrew Klumpp is now Education and Outreach Team Manager; Rachel Hansen''s title rose to K-12 Education Coordinator in July 2025). INFERENCE: she now carries the K-12 portfolio on a
+    four-person team. Also gone from the lists: State Curator Leo Landis, Preservation Specialist Delpha Musgrave, Iowa City archivist Allison Johnson.'
+- step: 7.2 Bluesky
+  status: RAN-FOUND
+  checked_count: 1
+  checked_unit: surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W36
+  note: 'FOUND. @rachelhansen.bsky.social, anchors: reused distinctive bio line + Paul Salopek among followers. Dormant since 2023-10-06 (2 posts). See 3a.4.'
+- step: 7.3 Instagram
+  status: RAN-FOUND
+  checked_count: 1
+  checked_unit: surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W33
+  - W20
+  note: FOUND (content walled). @bighistoryteacher, display name Rachel Hansen, linked from her own site; 1,043 followers, 961 following, 180 posts (public og meta). Bio and captions not readable logged-out; last-post date
+    unknown (browser lane could read it with Jefferson's session, if it chooses).
+- step: 7.4 Threads
+  status: RAN-FOUND
+  checked_count: 1
+  checked_unit: surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W34
+  - W33
+  note: 'FOUND. @bighistoryteacher: 255 followers, 5 threads, bio is her reused line. Control @zuck rendered.'
+- step: 7.5 TikTok
+  status: RAN-FOUND
+  checked_count: 2
+  checked_unit: handles
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W35
+  - W38
+  note: '@bighistoryteacher exists as display name Rachel Hansen but PRIVATE (statusCode 10222): identity is handle reuse of a handle her own site links on Instagram plus the exact display name; no bio or content visible,
+    so CORROBORATED, not VERIFIED. @ms_hansen on TikTok is a different person (nickname maya). Control @nasa rendered.'
+- step: 7.6 Facebook
+  status: BLOCKED-WALLED
+  checked_count: 3
+  checked_unit: profiles
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W38
+  note: Public pages return only a login shell for personal profiles. facebook.com/rachel.eli.hansen exists as a bare-name profile with no anchors (and a middle-name token that does not match the 'ann' in the podcast email);
+    facebook.com/rachel.hansen was a Maigret claim, not opened further. Nothing attributable to her. SHSI museum Facebook page (2,680 followers) is org-level. Not a null.
+- step: 7.7 Substack
+  status: RAN-NULL
+  checked_count: 3
+  checked_unit: slugs
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W38
+  note: NOT-DISTINGUISHABLE. substack.com/@rachelhansen exists with no identifying anchors (rejected, see 3a.1); no publication authored by her found. Soft null.
+- step: 7.8 Medium
+  status: BLOCKED-WALLED
+  checked_count: 3
+  checked_unit: handles
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W37
+  - W38
+  note: WALLED. medium.com/@ms_hansen, /@bighistoryteacher and Maigret's /@rachelhansen all return Cloudflare 403; control /@ev also 403. Not a null.
+- step: 7.9 GitHub
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: lookups
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W38
+  note: NOT-DISTINGUISHABLE. One bare-name account (RachelHansen) exists with no anchors; ms_hansen and bighistoryteacher 404; Iowa fullname search 0. Soft null.
+- step: 7.10 Personal site
+  status: RAN-FOUND
+  checked_count: 6
+  checked_unit: sites
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W20
+  - W31
+  note: 'FOUND. the-human-story.com (Weebly, self-owned, live: first-person page naming her, Muscatine HS, the NatGeo grant, the Out of Eden pen-pal classrooms; student podcast pages; stale since the classroom years). Her
+    Linktree lists four other properties and all are dead: aphug-hansen.weebly.com (404), the-human-journey.org (no DNS), community-gallery.org (Wix connect error), plus bighistoryteacher.com (no DNS). rachelhansen.com is
+    somebody else (redirects to a LinkedIn /in/rachelviolethansen).'
+- step: 7.11 Podcasts
+  status: RAN-FOUND
+  checked_count: 5
+  checked_unit: feeds/searches
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W21
+  - W20
+  - W22
+  - W40
+  note: 'FOUND, DEAD. Locally Global (Muscatine HS Model UN; 18 items, S1E0 2020-01-01 to S1E17 2020-04-29; nothing since; the NatGeo video mentions a second season that is not in the feed) and The Human Story (student podcasts,
+    spring 2019, on her site). Contact field: itunes:email (see 1.1). Guest appearances: none found across three iTunes queries and a podcast-focused web search (soft null on guest spots).'
+- step: 7.12 YouTube
+  status: RAN-NULL
+  checked_count: 3
+  checked_unit: channels/feeds
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W38
+  - W39
+  - W22
+  note: 'NOT-DISTINGUISHABLE. youtube.com/@RachelHansen exists but has no description and no public uploads (empty channel RSS); no anchors. SHSI @IowaHistory: 15 latest videos (2025-12-02 to 2026-09-11) mention no Hansen
+    (feed shows only the latest 15; soft). Her NatGeo video is hosted on education.nationalgeographic.org, not YouTube.'
+- step: 7.13 Conference and webinar archives
+  status: RAN-FOUND
+  checked_count: 14
+  checked_unit: archives/programs
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W16
+  - W17
+  - W19
+  - W8
+  - W9
+  - W13
+  - W22
+  - W24
+  - W27
+  - W20
+  - W15
+  note: 'FOUND. ICSS 2025 program (2025-10-20) and ICSS 2026 preview (2026-10-19) list her as presenter; IYS 2026 lists her as contact; NCGE awards list (2021); NatGeo Explorers Festival June 2019 (photo credit on her site);
+    OER Project AMA (Nov 2023); six SHSI teacher workshops; SHSI College Day panel (2025-04-15). Not found: NCGE 2025/2026 conference programs (listing pages only, no program PDF reachable) and the ICSS 2024 program (PDF corrupt,
+    not extractable), so absence there is soft.'
+- step: 7.14 Trade-press bylines
+  status: RAN-NULL
+  checked_count: 6
+  checked_unit: venues
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W41
+  - W42
+  - W43
+  - W12
+  - W26
+  note: 'No bylines found (Crossref for The Geography Teacher 2019: authors are Oberle et al., not her; Annals of Iowa / ICSS journal / education press searches: none). She is QUOTED, not bylined: Muscatine Journal (NCGE award),
+    UNI insideUNI profile, KIMT State Fair coverage. Discover Muscatine pieces (NCGE award; NatGeo Instagram takeover, March 31 of an unclear year) are WALLED to every fetcher and stay snippet-only. Soft null.'

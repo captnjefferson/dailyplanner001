@@ -1,0 +1,402 @@
+sources:
+  W1:
+    url_or_tool_call: Attio POST /v2/objects/people/records/query filter email_addresses=kburr@desmoinesartcenter.org (evidence/attio-email-query.json)
+    type: authenticated-platform
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - email kburr@desmoinesartcenter.org
+    - company Des Moines Art Center
+    note: Record fa96d49f-af4c-4a80-8a49-52dfa02a0111, name 'K. Burr' (auto-created from email 2026-09-24), no title/LinkedIn, next calendar meeting 2026-10-07T18:30Z, connection strength Weak. Also name-contains-Burr
+      and domain-contains queries returned the same single record.
+  W2:
+    url_or_tool_call: Attio GET /v2/notes?parent_object=people&parent_record_id=fa96d49f-... (evidence/attio-notes-kburr.json)
+    type: authenticated-platform
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 0 notes on the record.
+  W3:
+    url_or_tool_call: Attio GET /v2/meetings paginated, 8000 meetings scanned for 'burr' / 'desmoinesartcenter' / 'art center' (evidence/attio-meetings-scan.json)
+    type: authenticated-platform
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: '0 meetings with Kelsey Burr or the Des Moines Art Center among the 8000 scanned (the scan hit its own 40-page x 200 cap, so later-dated meetings, including the upcoming 2026-10-07 one, may not
+      be covered; no past call with her is expected). One substring false positive: ''HEART Center + Adaptiverse'' 2026-01-29 (unrelated org).'
+  W4:
+    url_or_tool_call: curl http://127.0.0.1:8888/api/health
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'JMOS connection refused (down). Not started: starting it writes outside the run dir. Attio meetings API (W3) used instead.'
+  W5:
+    url_or_tool_call: Notion MCP notion-search 'Kelsey Burr Des Moines Art Center' and 'Art Spectrums'
+    type: authenticated-platform
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'No transcript or meeting-note page. Only: Notion Calendar event ''Kelsey Burr - Des Moines Art Center (Art Spectrums), in person'' Wed 2026-10-07 18:30-19:15 UTC (1:30 CT) at 4700 Grand Ave,
+      and the 9/24 Scout agent-message page.'
+  W6:
+    url_or_tool_call: https://desmoinesartcenter.org/about/staff/ (evidence/dmac_about_staff_.html)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Community Access Program Manager
+    - Des Moines Art Center
+    note: Listed under 'Museum Learning, Engagement, and Community Access' with Jill Featherstone, Mia Buch, Amenda Tate, Merlyn Penado-Lopez (Community Access Program Coordinator). No bio, no photo, no
+      social links.
+  W7:
+    url_or_tool_call: https://desmoinesartcenter.org/classes/community-access-program/ (evidence/dmac_classes_community-access-program_.html)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - kburr@desmoinesartcenter.org
+    - Community Access Program
+    note: '''For the program schedule, sign up for the CAP newsletter by emailing kburr@desmoinesartcenter.org''. CAP est. 2000, nearly 40 partners; Art Spectrums, Deaf & Hard of Hearing gatherings, LGBTQIA+
+      gatherings, veterans; UnityPoint Health Bereavement ''Art of Mortality'' with teaching artist Sage Love; Woodward Academy/Siricasso Garcia; The Beacon; North High School Creative Careers.'
+  W8:
+    url_or_tool_call: https://desmoinesartcenter.org/visit/accessibility/ (evidence/dmac_visit_accessibility_.html)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Community Access Program Manager
+    note: '''For more information about accessible art making at the Art Center, please reach out to our Community Access Program Manager Kelsey Burr at kburr@desmoinesartcenter.org.'' Adaptive supplies
+      via Iowa Easter Seals lending library; resource cart; Social Story Narrative.'
+  W9:
+    url_or_tool_call: https://desmoinesartcenter.org/news/des-moines-art-center-announces-kelsey-burr-as-the-manager-of-community-access-programs/ (published 2025-04-16; corpus/C7)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Des Moines Art Center
+    - Momentum Program Coordinator since 2020
+    - University of Iowa B.A. Studio Arts and Psychology
+    - Career Planner Connect 2 Careers at Children and Families of Iowa
+    - Program Specialist Boys & Girls Club of Central Iowa
+    - Family Consultant Mid Iowa Family Therapy Clinic
+    - start date 2025-04-24
+    note: The identity anchor. Contains her quote and the full prior-career list.
+  W10:
+    url_or_tool_call: https://www.businessrecord.com/des-moines-art-center-announces-new-community-programs-manager/ (2025-04-21; corpus/C7b)
+    type: secondary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Des Moines Art Center
+    - effective April 24
+    note: Independent outlet repeating the release; same quote.
+  W11:
+    url_or_tool_call: http://momentumartistcollective.org/gallery-2 'Meet the Artists' (published 2023-11-01, modified 2024-10-11; corpus/C2)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum Program Coordinator
+    - Des Moines
+    - Mainframe Studios
+    note: Bio card text; the card's icon links are phone 515-669-4821, email kelseyb@teamcsa.org, and LinkedIn https://www.linkedin.com/in/kelsey-kleinow-3a127613b/ (read from the page HTML). This is the
+      bridge from Burr to the prior surname Kleinow.
+  W12:
+    url_or_tool_call: https://littlevillagemag.com/contact-buzz-momentum-art-studio/ (published 2022-05-12; corpus/C1)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Kleinow
+    - Momentum program coordinator
+    - Community Support Advocates
+    - Mainframe Studios
+    - Des Moines
+    note: Names the Momentum program coordinator as Kelsey Kleinow with direct quotes. Same role, same studio, same employer as Burr in 2023-2024 sources.
+  W13:
+    url_or_tool_call: https://boldjourney.com/meet-kelsey-burr/ (2024-02-20; corpus/C3)
+    type: secondary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum
+    - Mainframe Studios Des Moines
+    - University of Iowa psychology and art
+    note: First-person Q&A (~650 words). Names Instagram momentum.csa and Facebook 'Momentum Art Studio' as the program's accounts. Mentions family members; deliberately not recorded here.
+  W14:
+    url_or_tool_call: 'https://www.dsmpartnership.com/downtowndsmusa/news-blog/blog/discovering-the-power-of-art-with-the-momentum-art-program (2024-07-22, ''By: Kelsey Burr''; corpus/C4) and author bio
+      https://www.dsmpartnership.com/downtowndsmusa/author-bio?id=024707ed-5390-4d4b-9e4f-9a2d05f14ef7&name=Kelsey+Burr'
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum Art Program Coordinator
+    - Mainframe Studios
+    - Downtown Des Moines
+    note: 'Bylined blog by her (~760+ words). Author bio: ''Kelsey Burr, Momentum Art Program Coordinator, is dedicated to empowering individuals with disabilities and mental health conditions through art.
+      With a background in social work and art...'''
+  W15:
+    url_or_tool_call: https://kdsm17.com/news/local/des-moines-art-studio-helping-those-with-mental-health-issues-disabilities-flourish (2024-11-14, WHO13 feature; mirror https://teamcsa.org/2024/11/14/who13-...
+      ; corpus/C5)
+    type: secondary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum Program Director
+    - Des Moines
+    note: Direct quotes; title given as 'Momentum Program Director'. WHO13 original returns 403.
+  W16:
+    url_or_tool_call: https://dsmmagazine.com/2024/12/19/building-momentum/ (2024-12-19; corpus/C6)
+    type: secondary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum's program coordinator
+    - Community Support Advocates
+    - Mainframe Studios
+    note: Direct quotes including 'disabled artists' / 'disabled art' and the no-paperwork-or-diagnosis policy.
+  W17:
+    url_or_tool_call: http://web.archive.org/web/20250912134345/https://teamcsa.org/team/kelsey-burr/ (Wayback snapshot 2025-09-12; live URL now resolves to a different person's page)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Program Coordinator
+    - Community Support Advocates
+    - West Des Moines
+    note: CSA's own team page for her, archived. Confirms CSA employment.
+  W18:
+    url_or_tool_call: https://www.mainframestudios.org/news/momentum (photo caption 'Kelsey Burr and Momentum artist Jack Marren'; written by Grace Hilscher)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum
+    - Mainframe Studios
+  W19:
+    url_or_tool_call: https://desmoinesartcenter.org/news/a-taste-of-reelabilities-2025/ (published 2025-11-03; corpus/C8)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr, Community Access Program Manager for the Des Moines Art Center
+    - The Harkin Institute
+    - Principal Foundation
+    note: 'Her only on-record words inside the long-form window (56 words). Names collaborators: The Harkin Institute (Drake University), Principal Foundation, The Varsity Cinema, ReelAbilities Film Festival.
+      Screenings Nov 5, 8, 9 2025.'
+  W20:
+    url_or_tool_call: https://desmoinesartcenter.org/news/ index pages 1-5 and 50 release pages (corpus/dmac-news/, evidence/dmac-news-scan.json)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: 50 releases dated 2025-01-28 to 2026-09-28; 35 fall inside 2025-10-01 to 2026-10-01. Kelsey Burr appears by name in 2 (appointment 2025-04-16 and ReelAbilities 2025-11-03). Nearly all others carry
+      'Community Access Program' only as site-navigation text.
+  W21:
+    url_or_tool_call: https://desmoinesartcenter.org/news/prairie-meadows-donates-50000-to-the-des-moines-art-center/ (2026-09-17)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    - Community Access Program
+    note: 'CAP scale per the Art Center: nearly 40 partners (schools, nonprofits, social service agencies incl. Veteran Affairs), ~500 community-based workshops, 2,600+ youth and adults. Quote is Dr. Kelly
+      Baum''s, not Kelsey''s.'
+  W22:
+    url_or_tool_call: https://desmoinesartcenter.org/news/prairie-meadows-donates-25000-to-the-des-moines-art-center/ (2025-10-10)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    - Community Access Program
+    note: 'Prior-year comparison: 39 partners, 2,220+ participants.'
+  W23:
+    url_or_tool_call: https://desmoinesartcenter.org/news/art-center-receives-grant-from-emc-insurance/ (2025-12-05)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: '$25,000 EMC grant for Pappajohn Sculpture Park accessibility (braille, higher-mounted displays, accessible paths). Dr. Kelly Baum quote: ''a broader institution-wide initiative to improve access
+      across our facilities, programs, and digital platforms''.'
+  W24:
+    url_or_tool_call: https://desmoinesartcenter.org/news/art-for-every-body/ (2026-07-08)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    - Mia Buch
+    note: New free monthly adult program, 4th Thursdays from 2026-08-27; quote and contact are Mia Buch (Senior Manager of Museum Learning and Engagement), not Kelsey.
+  W25:
+    url_or_tool_call: https://desmoinesartcenter.org/news/the-des-moines-art-center-celebrates-25-years-of-community-access-programs-with-a-full-weekend-of-free-events-august-22-24-2025/ (2025-08-12)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    - Jill Featherstone
+    note: 'CAP''s four focus areas: community resiliency, identity affirmation, educational enrichment, adaptive arts. Quote is Jill Featherstone''s.'
+  W26:
+    url_or_tool_call: https://desmoinesartcenter.org/news/des-moines-art-center-announces-chief-operating-officer/ (2025-10-31)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: Susan Kloewer, inaugural COO. The only organization-level hire announced inside the window.
+  W27:
+    url_or_tool_call: https://desmoinesartcenter.org/classes/community-access-program/art-spectrums/ (event page; evidence/dmac_artspectrums.html)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Art Spectrums
+    - Des Moines Art Center
+    note: Next date Sunday 2026-10-11, 1:00-3:00 pm, ages 5-18 on the autism spectrum with family members, free monthly, registration required. No staff name on the page.
+  W28:
+    url_or_tool_call: https://desmoinesartcenter.org/wp-content/uploads/2026/09/NEWS_SOND_2026_web.pdf (printed 'The NEWS' Sep-Dec 2026; corpus/NEWS_SOND_2026.pdf)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: 'Learning, Engagement and Community Access section: Art for Every Body, Woodward Academy mural with teaching artist Siriaco ''Siricasso'' Garcia. Kelsey not named.'
+  W29:
+    url_or_tool_call: https://desmoinesartcenter.org/wp-content/uploads/2026/01/NEWS_JFMA_2026_FINAL-for-web.pdf (printed 'The NEWS' Jan-Apr 2026; corpus/NEWS_JFMA_2026.pdf)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: Community Access section incl. Creative Careers. Kelsey not named.
+  W30:
+    url_or_tool_call: 'Maigret v0.6.5 x6: kelseyburr, kelsey.burr, kburr, kelsey_burr, kelseyb, kelseykleinow (--top-sites 500 --no-recursion --no-extracting; maigret/report_*_simple.json)'
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: '509 sites per variant. Claimed accounts: 24, 14, 81, 13, 116, 4. Bot-protection errors 7.7-8.6% per run; ''unsupported username format'' 10.2% on kelsey.burr. ''Claimed'' means a page exists
+      at that username, not that it is her.'
+  W31:
+    url_or_tool_call: Fetch + metadata read of 254 unique Maigret-claimed URLs (evidence/maigret-profile-gate.json, evidence/maigret-profiles/)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: Substring anchor scan was noisy (short strings match JS bundles); profile title/description read by hand for the name-matching handles. Zero clear two distinctive anchors. 8 unrelated adult-site
+      captures deleted.
+  W32:
+    url_or_tool_call: https://substack.com/api/v1/user/kelseyburr/public_profile (evidence/substack_kelseyburr.json)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - name Kelsey Burr
+    note: 'UNVERIFIED lead only: reader profile created 2026-01-24, no bio, no photo, no location, no posts, 8 visible subscriptions (subscriptionsTruncated=false), 2 followers. Zero anchors. Subscriptions
+      are NOT attributed to the target. Slugs kelseykleinow, kelsey-burr, kelsey.burr, kelsey_burr, kelseyb all 404.'
+  W33:
+    url_or_tool_call: https://medium.com/feed/@kelseyburr
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - name Kelsey Burr
+    note: Account exists, zero stories, no bio. @kelseykleinow and @kelseyburrart 404. NOT-DISTINGUISHABLE.
+  W34:
+    url_or_tool_call: 'Bluesky public API: app.bsky.actor.searchActors q=''Kelsey Burr'', ''Kelsey Kleinow'', ''kburr''; getProfile for kelseyburr, kelsey.burr, kburr, kelseyb, kelseykleinow (.bsky.social)
+      (evidence/bsky_search_*.json)'
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: Searches returned 25, 25 and 17 actors; none matches (no Des Moines/Iowa/Art Center/Momentum anchor). kburr.bsky.social (0 posts, 10 follows) and kelseyb.bsky.social (0 posts, 34 follows) exist
+      with no bio. Others not found.
+  W35:
+    url_or_tool_call: GitHub API users/{kburr,kelseyb,kelseyburr,kelseykleinow,kelsey-burr}
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'kburr: location ''your mothers house'', 1 repo, created 2016 (not her). kelseyb: no bio/location, 6 repos (no anchors). Other three 404.'
+  W36:
+    url_or_tool_call: https://www.youtube.com/@kelseyburr (+ RSS channel UC2rVZvrPoYyYOZJzCzs4IiQ)
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - name Kelsey Burr
+    note: Home-cleaning and household-advice vlogs from 2023. No Iowa, art, disability or museum anchor. NOT-DISTINGUISHABLE; do not attribute.
+  W37:
+    url_or_tool_call: 'YouTube: Community Support Advocates channel videos inTGMRWGHzQ (2024-07-08 ''Momentum Art Gallery at Community Support Advocates'', description ''Momentum''s Kelsey Burr introduces...''),
+      d0PSZBHBjtI (2024-09-18, ''Momentum Program Manager Kelsey Burr''), and WHO13 video L8FUsdgtCdk (2023-10-06)'
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Kelsey Burr
+    - Momentum
+    - Community Support Advocates
+    - West Des Moines/Des Moines
+    note: Video appearances; audio not transcribed (no caption tracks), so words spoken are unread. Title given as 'Program Manager' here.
+  W38:
+    url_or_tool_call: https://www.youtube.com/user/DesMoinesArtCenter->channelUCWnZ6DkukmipUW6bA4OB8wgRSS
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: '15 RSS items, newest 2026-10-01: artist conversations, lectures, performances. No Community Access, Art Spectrums or accessibility video among them.'
+  W39:
+    url_or_tool_call: https://www.facebook.com/DesMoinesArtCenter (og tags), https://www.tiktok.com/@desmoinesartcenter, https://www.instagram.com/desmoinesartcenter/
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors:
+    - Des Moines Art Center
+    note: Facebook page 35,271 followers. TikTok 2,679 followers, 232 videos. Instagram returns a JS shell (WALLED); no counts retrievable. Social links taken from the Art Center homepage footer.
+  W40:
+    url_or_tool_call: iTunes Search API term='kelsey burr' / 'kelsey kleinow' / 'momentum art program des moines', media=podcast, plus entity=podcastEpisode
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 6 + 1 + 3 episode results and 10 + 1 + 10 show results; none features her. 'GIVE & GROW DSM' ep. 18 (2025-11-25) is about a CSA beneficiary, not her.
+  W41:
+    url_or_tool_call: Own-site search pages for KCCI, KCRG, IPR, dsm Magazine, Little Village, Bleeding Heartland; fetch attempts on Des Moines Register, Axios Des Moines, WHO13, Business Record
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'KCCI: zero results (''Check the spelling''). KCRG, IPR, Bleeding Heartland, Little Village: no result for ''Kelsey Burr''. dsm Magazine: returns Building Momentum. Walled: Des Moines Register
+      402, Axios 403, WHO13 403, Business Record search 403. WebSearch tool also blocks desmoinesregister.com and kcci.com.'
+  W42:
+    url_or_tool_call: WebSearch result summaries (about 22 queries across Layer 1, 7 and 3b)
+    type: search-snippet
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'Used only to locate pages that were then fetched. Not cited for any fact except where a claim below is marked SEARCH-ONLY: ZoomInfo snippet for the Kleinow record (Career Planner at Children
+      and Families of Iowa 2019-2020; Program Specialist Boys & Girls Clubs of Central Iowa 2017-2019; FSRP Family Consultant Mid-Iowa Family Therapy Clinic 2015-2017; Momentum Program Coordinator at CSA).'
+  W43:
+    url_or_tool_call: https://www.zoominfo.com/p/Kelsey-Burr/11557960302 and /p/Kelsey-Kleinow/5396497357
+    type: search-snippet
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: Fetch returns 403 PerimeterX captcha (WALLED). Snippets only, masked email '****@teamcsa.org'.
+  W44:
+    url_or_tool_call: https://www.iowamuseums.org/Public/Public/ANNUAL_CONFERENCE.aspx and search results for IMA 2025/2026 conferences
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: IMA 2026 conference Oct 18-20 at Reiman Gardens, Ames ('Deep Roots, Intentional Growth'); 2025 conference Apr 28-29 Cedar Rapids. Page text carries no Art Center or Burr/Kelsey mention.
+  W45:
+    url_or_tool_call: https://harkininstitute.drake.edu/event/november-8-9-a-taste-of-reelabilities-des-moines-2025/ and https://www.yahoo.com/news/harkin-institute-screens-films-showcasing-141630483.html
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: No panelist or speaker names published; Kelsey not named.
+  W46:
+    url_or_tool_call: 'Control checks: goodreads.com people search ''stephen king'' (202 empty), reddit.com/user/spez/about.json (403), letterboxd.com/dave/ (403)'
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: Controls fail, so Goodreads, Reddit and Letterboxd are walled to plain fetchers; name checks there are BLOCKED-WALLED, not nulls.
+  W47:
+    url_or_tool_call: https://desmoinesartcenter.org/event/cap-teaching-artist-exhibition/ and YouTube L6bKJ1s8QQE
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'Collision note: ''Kelsey Bigelow'', a poet who read at the Art Center (April 2023 and the CAP teaching artist exhibition opening). A different person.'
+  W48:
+    url_or_tool_call: Probe of kelseyburr.com, kelseyburrart.com, kelseykleinow.com, kelseyburr.art, kelseyburrstudio.com, kelseyburr.net
+    type: primary
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: All six fail to connect (curl 000).
+  W49:
+    url_or_tool_call: WebSearch X hit 'Kelsey Burr (@kelcblair) / Posts / X' https://x.com/kelcblair and 'Kelsey Burr (@KelseyBurr)' https://twitter.com/kelseyburr
+    type: search-snippet
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: 'Collision flags for the browser lane, not verified here (X is the browser lane''s). @kelcblair snippet: Nashville TN, joined March 2009, animals/mandolin bio. @KelseyBurr bio: ''MCPHS 18''. Neither
+      matches Des Moines or the Art Center.'
+  W50:
+    url_or_tool_call: 'LinkedIn search-result titles surfaced by WebSearch: linkedin.com/in/kelsey-burr-941177103 (AmeriCorps VISTA, Brevard Public Schools), linkedin.com/in/kelsey-burr (Senior Operating
+      Executive), linkedin.com/in/kelseyburr (Indianapolis Motor Speedway Museum)'
+    type: search-snippet
+    accessed_at: '2026-10-01'
+    target_anchors: []
+    note: Collision flags for the browser lane. None carries an Iowa, Art Center or Momentum anchor in the snippet. Not verified here.

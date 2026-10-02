@@ -1,0 +1,23 @@
+# Adversarial verification — orchestrator file. One independent sonnet verifier per claim, given only the claim + source IDs.
+verification: INDEPENDENT (separate agent per claim; not SINGLE-AGENT-DEGRADED)
+verifiers: 3   # minimum 3, at least one null — met (V3)
+results:
+  - id: V1
+    claim: "Kelsey Burr (Art Center Manager of Community Access Programs from April 2025) previously went by Kelsey Kleinow and was Momentum Program Coordinator at Community Support Advocates; Momentum's bio card links a LinkedIn slug with suffix 3a127613b."
+    verdict: CONFIRMED
+    finding: "W9: appointment, start 2025-04-24; 'Since 2020, Burr has served as the Program Coordinator for Momentum.' W11 card 'Kelsey Burr / Momentum Program Coordinator' links /in/kelsey-kleinow-3a127613b/. W12 (2022-05-12) names 'Kelsey Kleinow' as Momentum program coordinator. No page states the name change in words; it rests on same role/employer/city/start + slug. Browser lane found the live profile /in/kelsey-burr-3a127613b/ (same ID)."
+    source_ids: [W9, W11, W12]
+  - id: V2
+    claim: "ReelAbilities quote (2025-11-03) and dsm Magazine quote 'I don't require any type of paperwork or diagnosis'; identity-first language."
+    verdict: CONFIRMED (quotes) / CORRECTED (language)
+    finding: "Both quotes verbatim. Correction: her language is MIXED — person-first in W19 ('people with disabilities'), W15 and Bold Journey; identity-first ('disabled artists') in W16. Not a settled preference."
+    source_ids: [W19, W16, W15]
+  - id: V3
+    claim: "NULL — no conference/panel/podcast listings; only one Art Center release names her 2025-10-01..2026-10-01."
+    verdict: CONFIRMED
+    finding: "News sitemap (133 URLs) grepped; WP REST (161 posts, 74 pages, 333 events); resources crawl; NEWS PDFs; IMA 2026, AMM 2026; iTunes (~1,580 results); ~20 searches. Only the 2025-11-03 release. Adjacent: named on SHSI's Accessibility Advisory Group page (volunteer committee); 'Kesley Burr' contact line in May–Aug 2026 NEWS."
+    source_ids: [W19, W20]
+orchestrator_check:
+  - claim: "A 'Kelsey Burr' is listed first on SHSI's 12-member Accessibility Advisory Group, which the page says leads SHSI's accessibility work; Lindsay Keast is the coordinator named on the same page."
+    verdict: CONFIRMED (text) / UNVERIFIED (identity: name only, no city; one anchor + field)
+    source: "https://history.iowa.gov/visit/state-historical-museum-iowa/accessibility-pre-visit-info (curl, 2026-10-01): 'Our accessibility work is led by a 12-member Accessibility Advisory Group made up of volunteers dedicated to making Iowa history more accessible: Kelsey Burr; Bettina Dolinsek, Ankeny; ...'"

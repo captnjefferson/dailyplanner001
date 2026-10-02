@@ -1,0 +1,527 @@
+# sources-web.yaml — OPEN-WEB lane (prefix W) — Lindsay Keast — run 2026-10-01
+# Evidence files are relative to the run dir. type: primary | authenticated-platform | secondary | search-snippet | tool-call
+sources:
+  W1:
+    url_or_tool_call: Attio API POST /v2/objects/people/records/query email_addresses=lindsay.keast@das.iowa.gov
+    type: authenticated-platform
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - email lindsay.keast@das.iowa.gov
+    - company record 93b9bd7c
+    - next meeting 2026-10-05T19:30Z
+    evidence_file: evidence/attio-person-by-email.json
+  W2:
+    url_or_tool_call: Attio API GET /v2/notes?parent_object=people&parent_record_id=3cb161f0-66b3-4d85-b10a-9b43ba245d15 (0 notes)
+    type: authenticated-platform
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - person record 3cb161f0
+    evidence_file: evidence/attio-person-notes.json
+  W3:
+    url_or_tool_call: Attio API GET /v2/meetings?participants=lindsay.keast@das.iowa.gov (1 future meeting 2026-10-05; no recordings) + linked_record_id query (0)
+    type: authenticated-platform
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - participant lindsay.keast@das.iowa.gov
+    evidence_file: evidence/attio-meetings-keast-participant.json
+  W4:
+    url_or_tool_call: JMOS http://127.0.0.1:8888/api/health (no response; port 8888 not listening)
+    type: tool-call
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors: []
+    evidence_file: null
+  W5:
+    url_or_tool_call: file:~/Sites/adaptiverse-research/venues/des-moines-2026-10.md (venue scan 2026-09-24, scout)
+    type: secondary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - title Accessibility Coordinator
+    - phone 515-281-8352
+    evidence_file: null
+  W6:
+    url_or_tool_call: file:~/Sites/adaptiverse-research/venues/HUMANTIC_DES_MOINES_2026-10-01.md (Humantic profile, pulled 2026-10-01)
+    type: secondary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - LinkedIn lindsaykeast
+    - Guston thesis
+    - K-8/5-12 art cert (Humantic-sourced lead)
+    evidence_file: null
+  W7:
+    url_or_tool_call: https://history.iowa.gov/contacts/lindsay-keast
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - SHSI
+    - phone 515-281-8352
+    - lindsay.keast@das.iowa.gov
+    evidence_file: evidence/shsi-contacts-lindsay.html
+  W8:
+    url_or_tool_call: https://history.iowa.gov/contact
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - 'staff table: Museum Specialist & Accessibility Coordinator 515-281-8352'
+    - email domain change 2026-05-04
+    evidence_file: evidence/shsi-contact.html
+  W9:
+    url_or_tool_call: https://history.iowa.gov/press-release/2025-02-04/navilens-enhances-accessibility-state-historical-society-iowa
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Title II Accessibility Coordinator
+    - NaviLens
+    - quote
+    evidence_file: evidence/shsi-navilens-pr.html
+  W10:
+    url_or_tool_call: https://www.kcrg.com/2025/05/18/state-historical-museum-iowa-unveils-new-signs-improve-accessibility/
+    type: secondary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - NaviLens kitchen/cereal-box origin quote
+    - Bettina Dolinsek
+    evidence_file: evidence/kcrg-signs.html
+  W11:
+    url_or_tool_call: https://hdl.handle.net/1794/18403 via https://scholarsbank.uoregon.edu/server/api/discover/search/objects?query=Keast%20Guston (DSpace API) + TEXT bitstream
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay M. Keast
+    - UO MA Art History 2014
+    - BA Art-Teaching UNI 2008
+    - advisor Kate Mondloch
+    evidence_file: evidence/uoregon-dspace-search.json
+  W12:
+    url_or_tool_call: https://jsma.uoregon.edu/university-oregon-students-curate-exhibition-catalan-american-artist-pierre-daura
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast listed UO student curator Placing Pierre Daura 2014
+    evidence_file: evidence/jsma-daura-students.html
+  W13:
+    url_or_tool_call: https://web.archive.org/web/20230322021541/https://www.iowaculture.gov/arts/get-involved/iowa-arts-summit/iowa-arts-summit-faqs (live site cert expired)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast Iowa Arts Council accessibility coordinator
+    - phone 515-281-8352 = SHSI phone
+    - lindsay.keast@iowa.gov
+    evidence_file: evidence/wayback-iowa-arts-summit-faq.html
+  W14:
+    url_or_tool_call: https://publications.iowa.gov/38037/1/State%20of%20Iowa%20Mail%20-%20News%20from%20the%20Iowa%20Arts%20Council.pdf
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast AEP6 contact lindsay.keast@iowa.gov, Iowa Arts Council (c.Sept 2021)
+    evidence_file: evidence/publications-iowa-news-iac.txt
+  W15:
+    url_or_tool_call: https://cdn.saffire.com/files.ashx?t=fg&rid=DesMoinesArtsFestival&f=CEI_ActionPlan_FINAL_FOR_DISTRIBUTION_12.12.19.pdf
+    type: secondary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast - Program Coordinator, Iowa Arts Council
+    - artist (Appendix A, Dec 2019)
+    - lists Jenni Knoebel Accessibility Coordinator IAC
+    evidence_file: evidence/saffire-cei-actionplan.txt
+  W16:
+    url_or_tool_call: https://iowaartistdirectory.org/artist/lindsay-keast/ (profile updated 2025-05-02)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Des Moines
+    - composer
+    - Tree branch Twig
+    - Stubborn Tiny Lights Cedar Falls
+    - art+music history Abstract Expressionism
+    - lindsaykeast@gmail.com
+    - instagram windzay
+    evidence_file: evidence/iowaartistdirectory.html
+  W17:
+    url_or_tool_call: https://www.dsmpartnership.com/author-bio?id=e8c24dea-000a-4c4b-a416-a1cc3bd4274c
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - arts program coordinator Iowa Arts Council
+    - oversees Iowa Arts Summit
+    - previously outreach coordinator Des Moines Music Coalition
+    - practicing artist, musician, composer
+    evidence_file: evidence/dsmpartnership-bio.html
+  W18:
+    url_or_tool_call: https://www.facebook.com/IowaArtsandCulture/posts/we-are-pleased-to-announce-that-lindsay-keast-will-join-the-iowa-arts-council-as/10156860792504783/
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast joins Iowa Arts Council as Program Coordinator beginning October 15
+    - practicing visual artist and musician
+    evidence_file: evidence/fb-iowaarts-announce.html
+  W19:
+    url_or_tool_call: https://www.instagram.com/p/DMQhnATuXzV/ (iowahistory, 2025-07-18)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - SHSI Museum Specialist
+    - grew up exploring the museum
+    evidence_file: evidence/ig-iowahistory-fbf.html
+  W20:
+    url_or_tool_call: https://www.facebook.com/IowaHistory/photos/lindsay-keast-museum-specialist-and-accessibility-coordinator-and-accessibility-/1292639089530973/
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Museum Specialist and Accessibility Coordinator with volunteer Lauren Kawamura
+    evidence_file: evidence/fb-iowahistory-photo.html
+  W21:
+    url_or_tool_call: https://www.youtube.com/channel/UCLPGURxgCGPVuRaqNgthZKw (@lindsaykeast3310)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - 'channel bio: Des Moines musician'
+    - UO MA Art History 2014 + Museum Studies certificate
+    - Tree branch Twig link
+    evidence_file: evidence/youtube-keast.html
+  W22:
+    url_or_tool_call: https://treebranchtwig.bandcamp.com/album/beneath-the-2 (Full Spectrum / Editions Littlefield, 2017-08-01)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast
+    - Eugene OR MA Art History and Museum Studies
+    - hometown Des Moines
+    - lksounds.com
+    evidence_file: evidence/bc-ttt-beneath.html
+  W23:
+    url_or_tool_call: https://stubborntinylights.bandcamp.com/album/the-infinite-regress (2010)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast keyboard
+    - artwork by Lindsay Keast
+    - Iowa
+    evidence_file: evidence/bc-stl-infinite.html
+  W24:
+    url_or_tool_call: https://web.archive.org/web/2019/https://www.lksounds.com/{profile,publicity,performance} (snapshot 2019-10-14; domain no longer resolves)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast Des Moines composer
+    - UO MA 2014
+    - Arts Program Coordinator Iowa Arts Council
+    - co-founder Project Art Des Moines
+    evidence_file: evidence/lksounds-wayback-profile.html
+  W25:
+    url_or_tool_call: https://history.iowa.gov/events/college-day-museum (2025-04-15)
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Lindsay Keast panelist Curation, Collections & Exhibits
+    - with Jodi Evans, Andrew Harrington, Kay Coats
+    evidence_file: evidence/shsi-college-day.html
+  W26:
+    url_or_tool_call: https://history.iowa.gov/visit/state-historical-museum-iowa/accessibility-pre-visit-info
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Accessibility Coordinator Lindsay Keast contact
+    evidence_file: evidence/shsi-accessibility.html
+  W27:
+    url_or_tool_call: https://history.iowa.gov/guidelines
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Accessibility Coordinator Lindsay Keast for grant application accommodations
+    evidence_file: evidence/shsi-guidelines.html
+  W28:
+    url_or_tool_call: https://history.iowa.gov/visit/state-historical-museum-iowa/field-trips-group-visits/adult-group-visits
+    type: primary
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - Accessibility Coordinator Lindsay Keast
+    evidence_file: evidence/shsi-adult-group-visits.html
+  W29:
+    url_or_tool_call: evidence/ddg-log.txt (DuckDuckGo HTML results, 2026-10-01; then bot challenge — stopped)
+    type: search-snippet
+    accessed_at: 2026-10-01T23:53Z
+    target_anchors:
+    - multiple
+    evidence_file: evidence/ddg-log.txt
+  W30:
+    url_or_tool_call: https://nasaa-arts.org/wp-content/uploads/2022/11/2022-Assembly-Reg-Roster.pdf (Registration Roster as of 2022-09-08)
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - Lindsay Keast, Program Manager, Arts and Creativity & Accessibility Coordinator, Iowa Arts Council
+    - lindsay.keast@iowa.gov
+    - 515-281-8352 (= SHSI phone)
+    evidence_file: evidence/press/nasaa-roster-2022.txt
+  W31:
+    url_or_tool_call: https://www.chronicletimes.com/stories/navilens-enhances-accessibility-at-the-state-historical-society-of-iowa,133305 (syndicated SHSI PR 2025-02)
+    type: secondary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - Lindsay Keast quoted as SHSI Title II Accessibility Coordinator
+    evidence_file: evidence/press/chronicletimes-navilens.txt
+  W32:
+    url_or_tool_call: https://history.iowa.gov/visit/state-historical-museum-iowa/accessibility-pre-visit-info/navilens-museum + /events/navilens-launch (2025-05-17)
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - NaviLens launch 2025-05-17
+    - $3,100 annual license fundraiser for Global Accessibility Awareness Day Thursday May 21 (2026)
+    evidence_file: evidence/navilens-museum.html
+  W33:
+    url_or_tool_call: https://web.archive.org/web/20250418064545/https://history.iowa.gov/contact and /web/20241223085458/ (SHSI staff table snapshots) vs live 2026-10-01
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - staff-table diff
+    - titles
+    evidence_file: evidence/org/shsi-staff-diff.json
+  W34:
+    url_or_tool_call: https://web.archive.org/web/20231206120506/https://www.desmoinesmc.com/author/lindsay/ + /web/20240621115518/.../tag/pants-off-podcast/ (site now NXDOMAIN)
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - 'Des Moines Music Coalition blog: author Lindsay Keast'
+    - Backstage Ball 2018
+    - Pants Off tag
+    evidence_file: evidence/wayback/desmoinesmc-author-lindsay.html
+  W35:
+    url_or_tool_call: https://www.youtube.com/feeds/videos.xml?channel_id=UCLPGURxgCGPVuRaqNgthZKw (channel RSS)
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - 4 uploads, all 2024-11-11
+    - 'Keepers: Ghost Story etc.'
+    evidence_file: evidence/yt/keast-channel-rss.xml
+  W36:
+    url_or_tool_call: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile + searchActors (paged; 6 handle probes + 4 queries, ~1240 actor rows scanned)
+    type: tool-call
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - none present
+    evidence_file: evidence/api/bsky-paged-keast-scan.json
+  W37:
+    url_or_tool_call: https://api.github.com/users/{windzay,lindsaykeast,lkeast} + search/users?q=Lindsay Keast in:fullname
+    type: tool-call
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - windzay 404
+    - lindsaykeast 404
+    - lkeast=Lkeast created 2024-01-29 no anchors
+    evidence_file: evidence/api/
+  W38:
+    url_or_tool_call: https://www.instagram.com/windzay/ (logged-out)
+    type: primary
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - display name Lindsay K
+    - 507 followers/1,456 following/18 posts
+    - linked from her own Iowa Artist Directory listing
+    evidence_file: evidence/surfaces/ig-windzay.html
+  W39:
+    url_or_tool_call: Maigret v0.6.5 x6 handles (lindsaykeast, lkeast, lindsaymkeast, lmkeast, lindsay.keast, keastlindsay) --top-sites 500; 509 sites each
+    type: tool-call
+    accessed_at: 2026-10-01T23:59Z
+    target_anchors:
+    - no hit cleared two-anchor gate
+    evidence_file: maigret/run.log
+  W40:
+    url_or_tool_call: https://www.icublind.org/post/icub-bulletin-summer-2024 (Des Moines Chapter Report, April 2024 meeting)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - Lindsay Keast, Museum Specialist at the Iowa State Historical Society on panel organized by Bettina Dolinsek with Maryfrances Evans (IRIS) and Jami Milne (Ballet Des Moines)
+    evidence_file: evidence/press/icub-bulletin-2024.txt
+  W41:
+    url_or_tool_call: https://desmoinesartcenter.org/wp-content/uploads/2021/06/art-center_annual-report-2017_pages_web.pdf (DMAC 2017 Annual Report)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 'Ruptures + Ballet Des Moines: original music composed by Lindsay Keast'
+    - videos viewed 10,100+ times
+    evidence_file: evidence/press/dmac-annual-2017.txt
+  W42:
+    url_or_tool_call: https://bandcamp.com/windzay (fan profile; pagedata + api/fancollection/1/{collection_items,wishlist_items,following_bands}, fan_id 2505242)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - fan windzay
+    - location Des Moines, Iowa
+    - follows Tree branch Twig, Warm Gospel, Full Spectrum Records, Andrew Weathers, Ramona and the Sometimes
+    evidence_file: evidence/surfaces/bandcamp-fan-windzay-pagedata.json
+  W43:
+    url_or_tool_call: https://open.spotify.com/user/windzay (logged-out; exists, no profile detail)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - handle windzay only (one anchor)
+    evidence_file: evidence/surfaces/spotify-user-windzay.html
+  W44:
+    url_or_tool_call: https://www.facebook.com/IowaHistory/ + /StateHistoricalMuseumOfIowa/ (og tags)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - SHSI Facebook 17,150 followers
+    - State Historical Museum of Iowa 2,680 followers
+    evidence_file: evidence/org/fb-iowahistory.html
+  W45:
+    url_or_tool_call: https://www.instagram.com/iowahistory/ (og tags)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - SHSI Instagram 4,146 followers, 1,388 posts
+    evidence_file: evidence/org/ig-iowahistory.html
+  W46:
+    url_or_tool_call: https://www.youtube.com/@iowahistory
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - SHSI YouTube 5.1K subscribers, 19 videos
+    evidence_file: evidence/org/yt-iowahistory.html
+  W47:
+    url_or_tool_call: https://x.com/IowaHistory (logged-out; page title 'Mike Chapman (@iowahistory)' = different person)
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - no SHSI X account linked from history.iowa.gov
+    evidence_file: evidence/org/x-iowahistory.html
+  W48:
+    url_or_tool_call: https://history.iowa.gov/learn/publications-newsletters/newsletters + /about/news
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 'SHSI newsletters: Iowa Historian (monthly), Goldie''s Kids Club (monthly), Goldfinch Dispatch (K-12 educators, first Wednesday monthly)'
+    - news page 48 press releases, latest 2026-06-26
+    evidence_file: evidence/org/shsi-newsletters.html
+  W49:
+    url_or_tool_call: https://conta.cc/4tDwvWa (The Iowa Historian, April 2026)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - Deaf accessibility feature
+    - Otter app
+    - no Keast byline
+    evidence_file: evidence/press/iowa-historian-apr2026.txt
+  W50:
+    url_or_tool_call: https://www.businessrecord.com/state-historical-society-introduces-new-tech-to-improve-accessibility-for-visitors/
+    type: secondary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - NaviLens coverage
+    - Keast not named
+    evidence_file: evidence/press/businessrecord-navilens.txt
+  W51:
+    url_or_tool_call: https://www.iowamuseums.org/Public/Public/{ANNUAL_CONFERENCE,Annual_Conference_Schedule,Annual_Conference_Call_For_Speakers}.aspx + Event_Display + July 2025 newsletter PDF + humanitiesiowa
+      IMA 2025 page
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 0 Keast mentions across 7 IMA pages
+    evidence_file: evidence/conf/
+  W52:
+    url_or_tool_call: https://history.iowa.gov/press-release/2022-06-24/2022-iowa-arts-summit-speakers-announced-registration-august-10-12-conference-open-now
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 2022 Iowa Arts Summit Aug 10-12
+    - 0 Keast mentions
+    evidence_file: evidence/conf/
+  W53:
+    url_or_tool_call: https://www.facebook.com/lindsay.keast (logged-out) + https://www.pinterest.com/lindsaykeast/
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - name-only
+    - no anchors visible
+    evidence_file: evidence/maigret-hits/fb-lindsay.keast.html
+  W54:
+    url_or_tool_call: https://medium.com/@lindsaykeast, https://medium.com/@windzay, discogs user lindsaykeast, codepen, academia (HTTP 403 Cloudflare; Medium control @ev also 403)
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - walled
+    evidence_file: evidence/maigret-hits/
+  W55:
+    url_or_tool_call: https://www.threads.net/@{windzay,lindsaykeast} (control @zuck returned profile) ; https://www.tiktok.com/@{windzay,lindsaykeast} (control @tiktok ok)
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 'Threads: no profile for either'
+    - 'TikTok: lindsaykeast status 10221 not found'
+    - windzay exists nickname user6388302169388 no anchors
+    evidence_file: evidence/surfaces/
+  W56:
+    url_or_tool_call: https://windzay.substack.com, https://lindsaykeast.substack.com, substack.com/api/v1/user/{windzay,lindsaykeast}/public_profile (control /user/ev 200)
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - 404 x4
+    evidence_file: evidence/surfaces/
+  W57:
+    url_or_tool_call: reddit.com/user/{windzay,spez}/about.json (both 403); letterboxd.com/{windzay,dave} (both 403); last.fm/user/{windzay,rj} (both Client Challenge); goodreads.com/{windzay,lindsaykeast}
+      404 (control user page 200); goodreads people search HTTP 202 empty
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - walled / null
+    evidence_file: evidence/surfaces/
+  W58:
+    url_or_tool_call: 'linkedin.com/in/lindsay-keast-977a6a67/ (search-result title: ''Lindsay Keast - enforcement office - hmrc'') — DIFFERENT PERSON, UK'
+    type: search-snippet
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - identity collision
+    evidence_file: evidence/ddg-log.txt
+  W59:
+    url_or_tool_call: https://www.youtube.com/results?search_query=... (4 queries; evidence/yt/)
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - own channel 4 uploads 2024-11-11
+    - Ruptures + Ballet Des Moines videos on DMAC channel (2017)
+    evidence_file: evidence/yt/
+  W60:
+    url_or_tool_call: https://itunes.apple.com/search?term=...&media=podcast (3 queries) + lookup id=947235717 + Pants Off feed
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - no podcast owned by her
+    - Pants OFF! feed only 3 items
+    evidence_file: evidence/pods/
+  W61:
+    url_or_tool_call: https://warmgospel.bandcamp.com/album/tree-branch-twig (2017-04-21)
+    type: primary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - Lindsay Keast moved to Des Moines
+    - Tree branch Twig 'primary mover and shaker'
+    evidence_file: evidence/bc-warmgospel-ttt.html
+  W62:
+    url_or_tool_call: 'https://duckduckgo.com html endpoint: bot challenge after 7 queries (2026-10-01) — stopped, not bypassed'
+    type: tool-call
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors:
+    - wall
+    evidence_file: evidence/ddg-log.txt
+  W63:
+    url_or_tool_call: 'file:~/Sites/hm-outreach/reference/corpus-inventory-2026-08-26.md + background/profile.md (Jefferson communities: DMAS keynote, IHA Oct 6 2026)'
+    type: secondary
+    accessed_at: 2026-10-02T00:04Z
+    target_anchors: []
+    evidence_file: null
+  W64:
+    url_or_tool_call: https://www.kcrg.com/video/2026/09/19/it-belongs-us-historian-celebrates-ruling-over-iowa-citys-state-historical-society/ (KCRG 2026-09-19)
+    type: secondary
+    accessed_at: 2026-10-02T00:05Z
+    target_anchors:
+    - SHSI Iowa City research center ruling (org context, not Keast)
+    evidence_file: evidence/org/kcrg-ruling-2026-09-19.html
+  W65:
+    url_or_tool_call: WebSearch tool queries 2026-10-01 (AI-summarized results; used only to locate URLs, every claim re-verified at the fetched primary page)
+    type: search-snippet
+    accessed_at: 2026-10-02T00:05Z
+    target_anchors:
+    - leads only
+    evidence_file: null
+
+  W66: {"url_or_tool_call": "https://www.midwestmuseums.org/amm25awards/ (2025 AMM Awards honorees; Groundbreakers Award = State Historical Society of Iowa) + Wayback 20250905 of /events/awards/awards-events/", "type": "primary", "accessed_at": "2026-10-02T00:07Z", "target_anchors": ["SHSI Groundbreakers Award 2025: 2021 collaboration with ICUB + Iowa Dept for the Blind", "Keast not named"], "evidence_file": "evidence/amm/amm25awards.txt"}
+  W67: {"url_or_tool_call": "https://www.aam-us.org/2025/11/24/making-history-museums-accessible-to-the-blind-and-low-vision-community/ (search-tool summary linked this to SHSI; page is about the Museum of the American Revolution \u2014 NOT SHSI; discarded)", "type": "secondary", "accessed_at": "2026-10-02T00:07Z", "target_anchors": ["unrelated museum", "claim refuted"], "evidence_file": "evidence/amm/aam-making-history-museums-accessible.txt"}

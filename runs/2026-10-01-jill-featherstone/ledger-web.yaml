@@ -1,0 +1,266 @@
+# ledger-web.yaml -- open-web worker (lane: web) -- Jill Featherstone, Des Moines Art Center -- run 2026-10-01
+# Windows: social 2026-07-03..2026-10-01; long-form 2025-10-01..2026-10-01 (cap 30). Method: individual-discovery-process.md v1.0.
+# 33 rows: L1 x6, L2.7 x1, L3a x4 (1,4,5,6), L3b x4, L3c x2 (1,2), L4 x3 (3,4,6), L7 x13 (surfaces 2-14).
+# This lane used no authenticated session. Layer 7 operational labels (FOUND / VERIFIED-NOT-FOUND / SOFT-NOT-FOUND / NOT-DISTINGUISHABLE / WALLED) are given inside each note.
+# Identity: PASS for the target. Two+ distinctive anchors on W1/W2/W3/W5/W6/W8/W13/W16/W17 (employer DMAC + exact title and/or named collaborator). Known collisions listed at the bottom.
+verification_mode: "n/a for this lane (collection only; verifiers run later)"
+rows:
+  # ---------------- LAYER 1 ----------------
+  - step: "1.1 Published or self-owned email search"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: sources
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W1, W4, W9, W10, W24, W45, W46]
+    note: "Published employer address jfeatherstone@desmoinesartcenter.org: staff-page mailto (HTML-entity-encoded; decoded) W1; named as the ASL and other accommodation-request address on the live accessibility page W9 and on the 2026-02-14 event page W10; 2015 ChildServe newsletter lists it with phone 515-271-0317 (stale) W4. Attio: 0 person records for her, 1 record for K. Burr with 0 notes; her address is not on the 2026-10-07 calendar invite W45. Notion: 0 Featherstone pages W46. No self-owned/personal address found; RocketReach claims a masked @gmail.com, UNVERIFIED and not asserted W24. ZoomInfo 403. Sources checked: staff page, accessibility page, event page, 2015 newsletter, Attio, Notion, RocketReach, ZoomInfo."
+  - step: "1.2 Bounded Maigret handle sweep"
+    status: RAN-NULL
+    checked_count: 5
+    checked_unit: handles (509 sites each)
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W25, W26, W27, W28, W52]
+    note: "Variants run per Ops A2 exactly (no middle name known, no year known, so no firstmlast/year variants): jfeatherstone (52 claimed per log, 53 in JSON), jillfeatherstone (10/11), jill.featherstone (11/12), jill_featherstone (5/6), featherstonejill (5/6). Never run on a bare given name. Bot-protection errors 7.47-7.86% of sites; 'unsupported username format' 10.22% on the dotted variant, so coverage is partial by design. ZERO accounts cleared the two-anchor gate. Spot-verified and rejected: GitHub Jfeatherstone = Jack Featherstone (Japan, physics) W27; Substack jfeatherstone = 'poet', no publications W28; Bluesky jfeatherstone = Jack Featherstone W26; TikTok @jfeatherstone = justin featherstone, TikTok @jillfeatherstone = Manitoba author's own link W52/W29; Facebook featherstonejill = Manitoba author W29; Medium @jfeatherstone page walled, RSS empty. Unverified, no anchors visible: Twitter/X jfeatherstone (browser lane), Pinterest, Facebook jill.featherstone (exists, walled, W31), Academia.edu, Blogger (blog is unrelated 'JersiFeatherstone'). Generic false positives: Calendly, fixya, Pling, joyreactor, CGTrader, Google Scholar query URL."
+  - step: "1.3 Quoted distinctive-bio search"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: quoted-phrase queries
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W2, W6, W8, W13, W24, W50]
+    note: "No odd bio line is pasted across platforms. The only repeated bio language is institutional: 'over 20 years of experience ... extensive leadership with the Art Center' for her and two co-leads W2, and her own join-year statements ('joined the Art Center team in 1999' W8; 'about 24 years' in 2023 W13; consistent with each other). Aggregator W24 repeats 'Museum Education Director, 1999-now' (stale title). Queries combined name with since-1999, Michigan State, BFA, joined, museum-education director. Search-engine summaries invented content (Illinois Library Association, NAEA 2006, library career) -- W50, refuted/unsupported, see Layer 7 row 13."
+  - step: "1.4 Show-notes and speaker-bio bridge"
+    status: RAN-FOUND
+    checked_count: 18
+    checked_unit: programs/pages/feeds
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W16, W17, W23, W37, W48, W49, W54, W10, W11, W36]
+    note: "Pages and feeds checked: Art Educators of Iowa 2006 conference + AEI home + ArtEdIA fall 2026 page; Iowa Museum Association 2020 schedule PDF, 2022 and 2023 event pages, 2025 annual meeting, 2026 conference schedule; AMM 2017 and past-conferences pages; AAM 2025/2026 (search only, no program text); Iowa Fine Arts Education Summit (2 pages); Turnaround Arts: Des Moines RSS (16 episodes); iTunes podcast index; ISU professor work-samples PDF. Person-specific bridge hits: (a) 2006-10-14 Art Educators of Iowa 'Museum' division meeting lists 'Museum - Jill Featherstone' (one anchor only -> LEAD, UNVERIFIED) W23; (b) 2018 DMAC docent-training series (sponsored by the Education Department she leads), third-party photo caption names her Director of Education and shows her in a workshop breakout (2 anchors) W16; (c) Turnaround Arts: Des Moines S3E2 (2021-01-20) show notes thank her and Mia Buch for developing and facilitating the DMAC session, speaking role unconfirmed W17; (d) own-org appearances 2026-02-14 and 2026-04-19 W10/W11. Nulls: 0 Featherstone hits in IMA 2020/2022/2023/2025/2026, AMM 2017, Iowa Fine Arts Summit, ArtEdIA 2026 (soft: program PDFs not fully text-searchable for all years). Her direct report Amenda Tate presents at IMA 2026-10-18..20 (Ames) on accessible docent/volunteer practice W37. No board seat, panel, grant-review or podcast-guest listing for her found."
+  - step: "1.5 Separate work-only account sweep"
+    status: RAN-NULL
+    checked_count: 9
+    checked_unit: platform surfaces
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W1, W32, W33, W25, W31]
+    note: "Her work identity IS the employer: staff-page listing and email W1 plus DMAC org channels (YouTube, TikTok, Instagram, Facebook, LinkedIn page, site; catalogued in 2.7). No individually owned work-only account (association profile, ORCID/Academia, personal professional site, X, LinkedIn) found by this lane; LinkedIn and X are the browser lane. Coverage: 9 surfaces (staff page, 4 DMAC social channels + LinkedIn company page, YouTube, Maigret 509-site sweeps, Facebook personal profile = walled). Soft null."
+  - step: "1.6 Bio-drift comparison"
+    status: RAN-FOUND
+    checked_count: 12
+    checked_unit: dated bios/titles
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W3, W4, W5, W8, W12, W13, W14, W15, W16, W17, W18, W19, W20, W21, W22, W1, W24]
+    note: "Title timeline (all employer DMAC): 2006 'Museum' division facilitator (title not stated, lead) W23; 2010-02 'museum education director' W3; 2011 'Museum Education Director' W21; 2015-08 'Director of Education' W4; 2016 'Director of Education' W20; 2018 'Director of Education' W16; 2020-01 'Director of Education' W14; 2020-12 YouTube 'Director of Education and Interpretation' W34; 2021 annual report 'Director of Education & Interpretation' W18; 2021-11 and 2022-01 'Director of Education and Interpretation' W15/W5; 2023-03 'Senior Director of Education' W13; 2023-01 newsletter still 'Director of Education' W22; 2025-04 and 2026 'Senior Director of Museum Learning, Engagement, and Community Access' W6/W1/W19; 2025-08 press quote uses 'Senior Director of Museum Learning and Engagement' W8. Stale elsewhere: aggregator and search-snippet LinkedIn headline still read 'Museum Education Director' (the 2011-era title) W24 -- browser lane to confirm the live LinkedIn headline. Title gained 'and Interpretation' between 2020-01-24 (W14) and 2020-12-16 (W34). Community access has sat in her department since at least the 2021 annual report (department heading 'Education, Interpretation, & Community Access', with a separate Community Access Education Manager, Rachael Jackson, W18); by the 2024 annual report (published 2025-07) the title reads 'Museum Learning, Engagement, and Community Access' (W19), i.e. 'Interpretation' was dropped for 'Museum Learning, Engagement' and the department has been renamed to match. Join year 1999 consistent across W8, W13, W24."
+
+  # ---------------- LAYER 2.7 ----------------
+  - step: "2.7 Organization channels (Des Moines Art Center education / community access)"
+    status: RAN-FOUND
+    checked_count: 14
+    checked_unit: channels
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W32, W33, W38, W39, W43, W44, W42, W9]
+    note: "Where the conversation actually happens: DMAC-authored press releases and the DMAC NEWS (3 issues per year, PDF) plus regional press; Jill has no personal publishing channel found. Channels: (1) website news, latest 2026-09-28, 60+ releases 2024-09..2026-09 W43; (2) DMAC NEWS issues 2025-09, 2026-01, 2026-05, 2026-09 each with an unsigned 'Museum Learning, Engagement, and Community Access' department column; name Featherstone appears in none of the four W38; (3) YouTube UCWnZ6DkukmipUW6bA4OB8wg, last upload 2026-10-01, RSS 15 entries 2025-09-03..2026-10-01, views 4-2,891 (median 117) W32; (4) TikTok @desmoinesartcenter 2,679 followers/232 videos, last-post date not captured W33; (5) Instagram @desmoinesartcenter ~30K followers/3,419 posts W33; (6) Facebook page 35,271 followers W33; (7) LinkedIn company page 3,295 followers W33; (8) blog posts category (latest: My Voice 2025-26 student artists) W39; (9) audio: 'Inspired Conversations' hosted by Mia Buch (episodes #3-#6 on page) and the Pappajohn Sculpture Park phone audio tour with transcript W12/W39; (10) Learning Resources: activity guides, virtual tours, gallery guides, lesson plans, Field Trip Social Narrative W39; (11) email: general newsletter signup plus a Community Access newsletter obtained only by emailing Kelsey Burr W44; (12) monthly programs: Social Saturday (from Jan 2026, Art Bridges Access for All funding W10), Art for Every Body (4th Thursdays, from Aug 2026), Art Spectrums (ages 5-18, next 2026-10-11 1-3 pm W44), Deaf and Hard of Hearing gatherings (ASL-facilitated), Veterans Art Club, Creative Aging, Art for Brunch, LGBTQIA+ gatherings W38/W44; (13) partner festival: A Taste of ReelAbilities with The Harkin Institute W42; (14) press contact: Amy Day, Senior Director of Communications and Marketing. Accessibility: Social Story Narrative, descriptive transcripts, large-print labels, live captioning in Levitt Auditorium, ASL on request via Jill's email, Easter Seals adaptive supplies W9. Institution-wide access initiative announced by the Director 2025-12-05 W40."
+
+  # ---------------- LAYER 3a ----------------
+  - step: "3a.1 Substack (reader profile)"
+    status: NOT-APPLICABLE
+    checked_count: 0
+    checked_unit: authorized candidate slugs
+    evidence_quality: UNVERIFIED
+    source_ids: [W28]
+    note: "No bio link, byline or verified handle reuse yields a Substack slug (Ops A3). As a courtesy, 3 name-derived slugs were probed and are NOT evidence: jfeatherstone resolves to an unrelated profile ('j featherstone', bio 'poet', created 2024-08-21, no publications, no anchors) -> rejected; jillfeatherstone and jill-featherstone return 404. Not a null (zero authorized candidates)."
+  - step: "3a.4 Bluesky follows"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: queries/handles
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W26]
+    note: "Public AppView: searchActors for 'Jill Featherstone' (25 results, none a Featherstone), 'featherstone' (49 results returned, all Featherstone-named, none Iowa, museum or Jill), 'jfeatherstone' (1 result = Jack Featherstone); getProfile for 5 handles (jillfeatherstone.bsky.social, jill.featherstone.bsky.social, desmoinesartcenter.bsky.social, desmoinesartcenter.org, jfeatherstone.bsky.social): 4 not found, 1 = Jack Featherstone (0 posts). No follows list exists to read. Soft null: result lists are capped and the surname is common; DMAC org has no Bluesky account at the handles tried. Window: index state on 2026-10-01."
+  - step: "3a.5 GitHub stars and following"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: logins
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W27]
+    note: "api.github.com/users: Jfeatherstone = Jack Featherstone, Japan, 61 repos, physics/image analysis, blog jfeatherstone.xyz -> different person, rejected (no shared anchor); jillfeatherstone and jill-featherstone 404. Starred/following not pulled because no login belongs to the target. Null as of 2026-10-01; consistent with a non-engineer, but only 3 name-derived logins were tried (soft)."
+  - step: "3a.6 Fast checks (Goodreads, Letterboxd, public Spotify, Reddit)"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: platforms
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W30, W51]
+    note: "PARTIAL. Goodreads people search (HTTP 200): 3 people named Jill Featherstone -- 118953021 = Manitoba author (Tiger Lily), 186321564 = Mountain View CA, 52993912 = Brooklyn NY; none Des Moines, name-only leads, none anchored. Reddit: HTTP 429 on the control account spez AND the target -> BLOCKED-WALLED, not a null. Letterboxd: HTTP 403 on control (dave) AND target -> BLOCKED-WALLED. Spotify not run (no identifier surfaced). No Layer 1 identifier existed for any of these platforms, so every result is a name-only lead."
+
+  # ---------------- LAYER 3b ----------------
+  - step: "3b.1 Corpus fetched: size, window, walls"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: documents (her own words)
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W3, W14, W15, W5, W13, W6, W8, W12, W38, W39]
+    note: "IN-WINDOW (2025-10-01..2026-10-01): 0 documents authored by or quoting her. Nearest are 2025-08-12 (W8, 7 weeks before window) and the audio-tour transcript posted 2025-08-28 (W12). Her two in-window public appearances (2026-02-14 gallery talk W10; 2026-04-19 guided visit W11) produced no words of hers. Extended sample (out of window, all verbatim in corpus/): 7 documents with direct quotes totalling 552 words -- Drake Newsroom 2010-02-25 (34 words), DMAC release 2020-01-24 (125), 2021-11-19 (42), 2022-01-03 (23), WHO13 TV ~2023-03 via Wayback (138), DMAC release 2025-04-16 (86), 2025-08-12 (104) -- file corpus/W-jill-own-words-quotes.txt; plus 1 spoken-word document: 7 stops of the Pappajohn Sculpture Park phone audio tour narrated by her, 3,922 words (stop 126 trimmed to her intro; the rest is a 2010 third-party recording), file corpus/W-jill-own-words-psp-audiotour-segments.txt; recording dates NOT stated: she introduces herself as 'Museum Education Director' on six stops (a title documented 2010-2011, W3/W21; by 2015 sources say 'Director of Education', W4), while her stop-126 intro post-dates 2018 (it says Robert Indiana died in 2018) and the compiled PDF was updated after 2023 (a stop calls Jeff Fleming 'retired'), so the set mixes eras. Total 4,474 words / 8 documents, 2010-02-25..2025-08-28. Department-voice text is NOT counted as hers: unsigned department columns in 4 NEWS issues (~4,300 words extracted, corpus/W-dmac-NEWS-dept-columns-extract.txt) and the Learning Resources statement W39. Walls: WHO13 live URL 403 (Wayback copies used); YouTube captions unfetchable, so 'How to Store Fringed Paper' (2020-12-16, W34) and the 2022 family/student visit videos could not be transcribed or attributed; no articles, conference abstracts, grant narratives or interviews authored by her found; DMAC grant applications are not public."
+  - step: "3b.2 Outbound links extracted and classified"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: documents
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W3, W14, W15, W5, W13, W6, W8, W12]
+    note: "0 classified third-party links attributable to her across 8 documents (her words are quotes and spoken narration; no links offered by her as evidence). Page chrome links (DMAC nav, DMAC socials, news-site nav) are same-domain/syndication and excluded. Domains she owns or promotes: none. Window for the 2025-10-01..2026-10-01 sample: 0 documents."
+  - step: "3b.3 Named people, works cited, tools"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: documents
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W12, W13, W6, W8, W14]
+    note: "From her audio-tour stops (W12): artists as subjects -- Anthony Caro (with his teacher Henry Moore, students Barry Flanagan and William Tucker, Triangle Workshop, model Conchetta Branson), Judith Shea, Deborah Butterfield, Ellsworth Kelly, William Tucker, Mark di Suvero, Robert Indiana. One outside authority cited as a source: art historian Dave Hickey (anecdote about Ellsworth Kelly). Third-party audio she introduces: Lu Olkowski / Association for Public Art Philadelphia, writer Adrian Dannatt (stop 126). Institutions mentioned: Royal Academy, Saint Martin's School of Art, Parsons, Metropolitan Museum, Whitney Biennial. Colleague named in her quotes: Kelsey Burr (W6). In quotes: 'the Art Museum vs Art Center' naming history and studio-education wing (W13), the Academy Award short films program since 2013 (W14), Art Center core value 'collaboration' (W6). Tools/software/vendors named: none. Reading list, bibliography, uncredited borrowing: none observable (soft: 8 documents)."
+  - step: "3b.4 Diagnostic ratios (source-link share; vendor/tool-link share)"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: documents (0 classified links)
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W3, W14, W15, W5, W13, W6, W8, W12]
+    note: "insufficient sample: raw denominator = 0 classified links across 8 documents (minimum is 50 across 5 or more documents with links). Both ratios withheld. Exclusions: same-domain internal links, platform syndication, DMAC-owned properties."
+
+  # ---------------- LAYER 3c ----------------
+  - step: "3c.1 Named communities enumerated from corpus"
+    status: RAN-FOUND
+    checked_count: 70
+    checked_unit: documents/pages mined
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W23, W17, W16, W37, W48, W44, W9, W42, W10, W40, W41, W2, W32, W19, W39, W55]
+    note: "Named, with evidence level. SHE (person-specific): Art Educators of Iowa, Museum division (2006 lead, 1 anchor) W23; Turnaround Arts: Des Moines / Kennedy Center program, Madison Elementary and other Des Moines Public Schools sites (facilitated 2021) W17; docent corps training (2018 session, 2011 Book Club with docent Kim Finley) W16/W21; Barefoot Autism Challenge, Tyler Leech (2026-04-19) W11. HER DEPARTMENT / INSTITUTION: Community Access partners (~40: Easter Seals Iowa lending library, UnityPoint Health Bereavement, The Beacon, Woodward Academy, North High School, By Degrees Foundation and Principal Foundation 'My Voice', Brother 2 Brother and Sister 4 Success, ChildServe in 2015, Momentum is Kelsey Burr's prior employer) W44/W9/W4/W6; Art Bridges Foundation Access for All (funds Social Saturday, launched 2026-01-10; '64-museum cohort' figure comes from a search summary, not fetched) W10/W55; Art Bridges 'The Belonging Project' 2023 (immigrant and refugee organizations) W55; ReelAbilities affiliate festival with The Harkin Institute W42; Iowa Arts Council grantee W41; Iowa Museum Association (Amenda Tate, 2026 conference) W37; AAM-accredited W2; State Historical Society of Iowa (2026-02-22 joint program) W32; Midwest Art Conservation Center (Every Page conservation partner) W2; Authors Visiting in Des Moines (AViD) with Des Moines Public Library and Des Moines Arts Festival (2026-06-27) W38; Every Page Foundation and Henry Luce Foundation (Whisper to a Scream, 2027) W2. Boards: none found for her (BoardOnTheMove-type site patronview.com returned 403, WALLED). Named Discord/subreddit/Slack/forum for her: none."
+  - step: "3c.2 Consumer surfaces checked; consumer null reported separately"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: consumer surfaces
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W25, W30, W51, W31, W52]
+    note: "Consumer null (soft): Goodreads (3 name-only candidates, none Des Moines), Reddit and Letterboxd BLOCKED-WALLED (controls failed), Facebook personal profile exists but walled (W31), TikTok/Pinterest/Strava-class handles only via Maigret on name-derived handles (none anchored), Instagram/Threads WALLED. 8 surfaces, 0 anchored hits, 2026-10-01. Professional-surface hits are carried in 3c.1. Her consumer-side participation appears to be donor/member listings only (see identity note on 'Jill and Jeff Featherstone' donor lines, name-only, UNVERIFIED, sensitive)."
+
+  # ---------------- LAYER 4 (promoted: reply behavior UNKNOWN until the browser lane reports) ----------------
+  - step: "4.3 Co-occurrence: co-speakers, co-authors, co-guests, panel rosters"
+    status: RAN-FOUND
+    checked_count: 18
+    checked_unit: documents/pages
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W2, W6, W10, W11, W12, W16, W17, W21, W22, W37, W39, W40, W42, W32]
+    note: "Named co-occurrences with her: Laura Burkhalter (Senior Curator; co-leads the Every Page project; co-presenter of the 2026-02-14 gallery talk; also narrates audio-tour stops) W2/W10/W12; Mickey Ryan (Director of Registration and Collections Management; co-lead) W2; Dr. Kelly Baum (Director/CEO; quoted in W2 and W40); Mia Buch (co-organized the 2023 75th-anniversary exhibition; co-facilitated Turnaround Arts session; hosts 'Inspired Conversations') W22/W17/W39; Kelsey Burr ('strategic partner to Jill Featherstone'; the DMAC voice on ReelAbilities) W6/W42; Amenda Tate (docent/volunteer programs; IMA 2026 session) W37; Tyler Leech (2026-04-19 guided visit) W11; Mitchell Squire (ISU College of Design; 2018 docent series; co-curator of Black Stories with Jordan Weber) W16; Kim Finley (docent, 2011) W21; Connie Wilson (graphic designer, 2023 exhibition) W22; Jeff Fleming (prior director, audio tour) W12. Roster read from rendered text; page JSON was not separately inspected (IMA 2026 session lists Tate only). Not Jill-specific but flagged: DMAC and the State Historical Society of Iowa ran 'Archives and Art' on 2026-02-22 (SHSI speaker: Andrew Klumpp, Education and Outreach Manager) W32 -- the State Historical Building is the 2026-10-05 meeting venue."
+  - step: "4.4 Shared rooms (communities both are in)"
+    status: RAN-FOUND
+    checked_count: 12
+    checked_unit: communities
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W23, W17, W10, W41, W42, W37, W32, W44]
+    note: "Her side enumerated (see 3c.1). Jefferson-side roster was not supplied to this lane; corpus-inventory-2026-08-26 (read-only) names no museum/accessibility community, so NO shared room with Jefferson is established from named evidence. Candidate rooms for the orchestrator to test against Jefferson/Adaptiverse/Lisa rooms: State Historical Society of Iowa (Monday 10/5 venue, joint program with DMAC 2026-02-22); Iowa Museum Association annual conference 2026-10-18..20 Ames (DMAC speaker Amenda Tate); Art Bridges Access for All grantee museums; ReelAbilities affiliate network; Turnaround Arts. Strongest concrete bridge is not a community but a person: Kelsey Burr, already in the 2026-10-07 meeting. No claim of any person's willingness to introduce."
+  - step: "4.6 New-hire announcements"
+    status: RAN-FOUND
+    checked_count: 60
+    checked_unit: news releases scanned, approx. (2024-09-13..2026-09-28)
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W6, W7, W19, W43, W1]
+    note: "In her department: Kelsey Burr appointed Manager of Community Access Programs, announced 2025-04-16, effective 2025-04-24; prior roles Momentum (nonprofit studio for people with disabilities, since 2020), Connect 2 Careers, Boys & Girls Club, Mid Iowa Family Therapy Clinic; BA Studio Arts and Psychology, University of Iowa W6/W7. 2024 annual report lists Dizzy Ransmeier as Community Access Program Manager (layout-flattened text; succession is INFERRED) W19. Title movement visible between 2024 and 2026 staff lists: Mia Buch -> Senior Museum Learning and Engagement Manager; Merlyn Penado-Lopez assistant -> Coordinator; Sabrina Clark now Youth Program Manager under Studio Arts; Amenda Tate Tour and Docent Program Manager W19/W1. Elsewhere at DMAC (scaling signal): Susan Kloewer inaugural Chief Operating Officer 2025-10-31; Jonathan deLima Director of Installations 2025-07-15; Cindy Gerjets Senior Director of People and Culture 2024-12-10 W43. No education-department hires announced other than Burr in the 24-month window."
+
+  # ---------------- LAYER 7 (surfaces 2-14; surface 1 X belongs to the browser lane) ----------------
+  - step: "7.2 Bluesky"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: queries/handles
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W26]
+    note: "SOFT-NOT-FOUND. Platform's own actor index searched 3 ways and 5 handles fetched; nobody matching; jfeatherstone.bsky.social is Jack Featherstone. Capped result lists plus a common surname keep this soft. Coverage 2026-10-01."
+  - step: "7.3 Instagram"
+    status: BLOCKED-WALLED
+    checked_count: 3
+    checked_unit: handles
+    evidence_quality: UNVERIFIED
+    source_ids: [W51, W33, W29]
+    note: "WALLED. instagram.com/jill.featherstone, /jillfeatherstone, /jfeatherstone return HTTP 200 JavaScript shells with no profile text (cannot distinguish existing from missing). DMAC's own account is readable only through page metadata (~30K followers, 3,419 posts). Instagram handle _jill_featherstone is the Manitoba author's (linked from her site) W29."
+  - step: "7.4 Threads"
+    status: BLOCKED-WALLED
+    checked_count: 2
+    checked_unit: handles
+    evidence_quality: UNVERIFIED
+    source_ids: [W51]
+    note: "WALLED. threads.net/@jill.featherstone and /@jfeatherstone return 200 shells with no profile data. No conclusion."
+  - step: "7.5 TikTok"
+    status: RAN-NULL
+    checked_count: 2
+    checked_unit: handles
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W52, W29, W33]
+    note: "VERIFIED-NOT-FOUND for the target after a collision was resolved: @jfeatherstone = 'justin featherstone' (60 followers, 0 videos); @jillfeatherstone (1,635 followers, 163 videos) is the handle linked from the Manitoba author's own website. DMAC org account @desmoinesartcenter exists (2,679 followers, 232 videos; last-post date not captured). Handle-based only; a differently named personal account is not excluded."
+  - step: "7.6 Facebook"
+    status: BLOCKED-WALLED
+    checked_count: 4
+    checked_unit: profile URLs
+    evidence_quality: UNVERIFIED
+    source_ids: [W31, W29, W33]
+    note: "WALLED / NOT-DISTINGUISHABLE. facebook.com/jill.featherstone is a live personal profile (og:title 'Jill Featherstone', profile image) but content, location and bio are behind login; no anchor is visible -> LEAD only, UNVERIFIED. facebook.com/jillfeatherstone redirects to the same profile. facebook.com/featherstonejill = the Manitoba author's page (4,436 followers, 'Author | Motivator | Speaker | Leader'). DMAC page readable via metadata (35,271 followers). Whether the profile is the target needs an authenticated look or a mutual anchor; not attempted (no login, no workaround)."
+  - step: "7.7 Substack"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: slugs
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W28]
+    note: "VERIFIED-NOT-FOUND via Substack's own profile API for 2 slugs (404); the third (jfeatherstone) is an unrelated poet profile with no anchors (NOT-DISTINGUISHABLE, rejected). No byline or bio link to a Substack exists in her corpus."
+  - step: "7.8 Medium"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: handles
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W51, W25]
+    note: "SOFT-NOT-FOUND. medium.com/@jfeatherstone page returns Cloudflare 403; its RSS feed returns a valid channel with 0 stories; RSS for @jillfeatherstone, @jill.featherstone, @featherstonejill = 404. No Medium account with content tied to her."
+  - step: "7.9 GitHub"
+    status: RAN-NULL
+    checked_count: 3
+    checked_unit: logins
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W27]
+    note: "VERIFIED-NOT-FOUND for the target; the only existing login (Jfeatherstone) is Jack Featherstone, Japan. Identity collision rejected."
+  - step: "7.10 Personal site"
+    status: RAN-NULL
+    checked_count: 6
+    checked_unit: domains
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W29]
+    note: "SOFT-NOT-FOUND / collision. jillfeatherstone.com is the Manitoba author-podcaster-retired professor (Indigenous youth workshops, Tiger Lily novel) -- contradicts every anchor (employer, city, title) -> NOT-DISTINGUISHABLE, rejected. jillfeatherstone.org/.net and jfeatherstone.com/.org/.net did not resolve. No personal site linked from any DMAC page."
+  - step: "7.11 Podcasts"
+    status: RAN-FOUND
+    checked_count: 4
+    checked_unit: feeds/indexes
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W17, W36, W39]
+    note: "FOUND (named, appearance unconfirmed): Turnaround Arts: Des Moines season 3 episode 2, 2021-01-20, 1h00m27s -- show notes thank 'Jill Featherstone, Director of Education' and Mia Buch for developing and facilitating the Des Moines Art Center visual-thinking-strategies session on Black Stories (3 anchors: name, title, DMAC, plus colleague). Audio not transcribed, so whether she speaks is unknown. Nulls: iTunes index for her name returns only the Manitoba author's podcast (collision); dsm CultureCast Des Moines Art Center episode (2020-04-23) has guests Jordan Powers and Jason Gross, not her; DMAC's own 'Inspired Conversations' is hosted by Mia Buch (her name absent from listings)."
+  - step: "7.12 YouTube"
+    status: RAN-FOUND
+    checked_count: 6
+    checked_unit: searches/channel feeds
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W34, W32]
+    note: "FOUND on the employer channel only: 'How to Store Fringed Paper', DMAC channel, published 2020-12-16, description names 'Director of Education and Interpretation Jill Featherstone' as presenter (page text; video not watched, captions not fetchable). DMAC channel active (latest upload 2026-10-01). No personal channel. Name searches also return the Manitoba author's interviews (Our Native Land, Changing Lenses, a speaker-coach show) -- collision, excluded. A 2023 DMAC conversation with the prior director has unnamed staff on stage; the 2022 'Visiting the Art Museum' family/student videos have no named presenter, so no attribution."
+  - step: "7.13 Conference and webinar archives"
+    status: RAN-FOUND
+    checked_count: 18
+    checked_unit: programs/pages
+    evidence_quality: VERIFIED-PRIMARY
+    source_ids: [W10, W11, W16, W23, W37, W48, W49, W54, W50]
+    note: "FOUND (own-org events, 2 anchors each): 2026-02-14 Social Saturday 'Love it or Leave it!' gallery talk with Laura Burkhalter W10; 2026-04-19 Barefoot Autism Challenge 10th anniversary guided museum visit with Tyler Leech (Wayback capture, live page now 404; secondary search summaries misreport the date) W11; 2018 docent-training series (2018-04-12..05-24, sponsored by the Education Department she leads; she appears in a photo caption, hosting role not stated) W16. LEAD (1 anchor): 2006-10-14 Art Educators of Iowa museum division meeting W23. NOT FOUND as speaker: Iowa Museum Association 2020/2022/2023/2025/2026, AMM 2017, AAM 2025/2026, Iowa Fine Arts Education Summit, ArtEdIA fall 2026 W37/W48/W49/W54. REFUTED search-summary claims (AI summaries invent appearances, Ops A10): Illinois Library Association attendance, NAEA 2006 appearance W50."
+  - step: "7.14 Trade-press bylines"
+    status: RAN-NULL
+    checked_count: 4
+    checked_unit: indexes
+    evidence_quality: SEARCH-ONLY
+    source_ids: [W35, W7, W43]
+    note: "SOFT-NOT-FOUND. Crossref (20 Featherstone-authored items) and OpenAlex (1 author) contain no museum-education or arts publication; the one 'Jill Featherstone' hit is an Oxford biochemistry co-author (1992, 1995) -> different person, rejected. Business Record names her as a reference in Burr's appointment story (no quote, no byline) W7. No Journal of Museum Education, AAM, NAEA, Des Moines Register, Cityview or Little Village byline or interview located by search; Google Scholar and major-newspaper archives not directly queryable (403)."
+
+# ---------------- COVERAGE NOTES AND IDENTITY COLLISIONS ----------------
+identity_collisions:
+  - "Jill Featherstone, Indigenous author/podcaster/retired professor, Northern Manitoba (jillfeatherstone.com, Facebook featherstonejill, Instagram _jill_featherstone, TikTok @jillfeatherstone, Goodreads 118953021, 'Driving While Indigenous' podcast, YouTube interviews, Featherstone Support Services). Dominates name searches; none of it is the target. W29, W30, W36, W52, W34."
+  - "Jill Featherstone, University of Oxford biochemistry (Crossref/OpenAlex). W35."
+  - "Goodreads: Jill Featherstone in Mountain View CA and Brooklyn NY (name-only). W30."
+  - "Handle jfeatherstone is owned by other people: Jack Featherstone (GitHub, Bluesky), justin featherstone (TikTok), an anonymous poet (Substack). W26, W27, W28, W52."
+  - "Org-name noise: Featherstone Center for the Arts (Martha's Vineyard) appears in search results; unrelated. Search-engine AI summaries asserted an Illinois Library Association appearance, a library career, and a 2006 NAEA appearance -- refuted/unsupported. W50."
+  - "Name-only donor-list lines 'Jill and Jeff Featherstone' (annual reports 2016, 2021, 2023-newsletter) and 'Lea Featherstone' (2011): UNVERIFIED as the target (one anchor: name; organization is the donor-list host). Treat as sensitive personal information; not for use in any touch. W18, W20, W22, W21."
+unresolved_leads_for_orchestrator:
+  - "facebook.com/jill.featherstone: personal profile exists, walled (needs authenticated look or a mutual to confirm). W31."
+  - "Art Educators of Iowa 2006 'Museum - Jill Featherstone': single-anchor lead. W23."
+  - "Turnaround Arts: Des Moines S3E2: whether she speaks on the audio is unconfirmed. W17."
+  - "Audio-tour: her six 'Museum Education Director' stops are undated (title era 2010-2011); stop-126 intro post-dates 2018; set mixes eras, so treat as register evidence, not current. W12."
+  - "Live LinkedIn headline still unconfirmed by this lane (browser lane); aggregator says 'Museum Education Director'. W24."

@@ -1,0 +1,116 @@
+# Lane: browser — Rachel Hansen — run 2026-10-01 — social window 2026-07-03 -> 2026-10-01
+# Session test 2026-10-01: LinkedIn feed signed in as Jefferson Stovall; x.com/jmstovall signed in.
+# Detectability: LinkedIn profile/activity/Interests views = ATTRIBUTABLE-BY-BYPRODUCT (disclosed). X reads = ANONYMOUS-HIT. Nothing followed, liked, requested or clicked other than tab pills and Show-more/Load-more buttons.
+ledger:
+  - step: "L2.1 Inspect current channels"
+    status: RAN-FOUND
+    checked_count: 2
+    checked_unit: platforms
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B2, B13]
+    note: "LinkedIn: live but sparse — 8 items total, newest own post 2026-03-10, newest item (a repost) 2026-04-01; reactions active ~1-2 weeks ago. 461 followers / 449 connections; Jefferson = 3rd degree. The main profile page renders no Experience section (it is on /details/experience/; see handoff-B row); Education sub-page is empty. X: @ms_hansen (Rachel Hansen, Muscatine IA, joined June 2010, 10.9K posts) exists and is PROTECTED. No dead channel dates beyond that (X last-activity unknowable behind protection)."
+  - step: "L2.2 Count posts over absolute window (LinkedIn)"
+    status: RAN-NULL
+    checked_count: 8
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B2, B1]
+    note: "Checked 8 items (whole All-activity feed, 'Loaded 8 Posts posts') over 2026-07-03 -> 2026-10-01; none present. Newest ORIGINAL post 2026-03-10 (~6.5 months before today) — verified, none in window. Newest item overall is a repost of a Peg Keiner post dated 2026-04-01; CAVEAT: LinkedIn shows the original post's age, not when she reposted it, so repost dates (>= the original's date) are not exposed and an in-window repost cannot be strictly excluded (she also reposted a 2025-12-05 post; her own comment on it is labeled 10mo, i.e. ~Dec 2025). Trailing 12 months (2025-10-01 -> 2026-10-01): 4 items, 2 original (2025-11-05, 2026-03-10) + 2 reposts (2025-12-05, 2026-04-01). Dates decoded from post URNs."
+  - step: "L2.2-2.6 X component (count, themes, gradient, threads, formats)"
+    status: BLOCKED-WALLED
+    checked_count: 1
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B13]
+    note: "@ms_hansen is a PROTECTED account: 'Only approved followers can see @ms_hansen's posts.' Posts, replies, following and likes all hidden. Unblock = a follow request, which is ATTRIBUTABLE-BY-CHOICE and was NOT made — Jefferson's call. 10.9K posts / 14.5K likes / 2,031 following / 1,305 followers are the only numbers visible."
+  - step: "L2.3 Dated themes with example and URL"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B6, B7, B8, B12]
+    note: "Themes (LinkedIn): (1) National Geographic Explorer network and global/peace education — 2026-03-10 reshare of Dina Buchbinder Auron after Stanley Center Model UN summit in Muscatine (https://www.linkedin.com/feed/update/urn:li:activity:7437195157558521856/); 2025-11-05 NAAEE 2025 keynote with NatGeo Explorers (urn ...7391901307197902848). (2) Youth civic leadership she hosts — Iowa Youth Symposium at the Iowa State Capitol 2025-10-30 (her repost 2025-12-05, urn ...7402544430475337728: 'Thank you so much for taking the time to spend the morning with us at the Iowa Youth Symposium'). (3) Career milestones — 2025-07-30 K-12 Education Coordinator at SHSI (urn ...7356334962926637057); 2023-05-26 MA Geography UNI thesis on counter-mapping. NAAEE blurb on her: 'a social studies educator helping students tell stories through podcasts, maps, and heritage education.'"
+  - step: "L2.4 Engagement gradient and rule"
+    status: RAN-FOUND
+    checked_count: 6
+    checked_unit: posts
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1, B6, B7, B8, B9, B10, B11]
+    note: "Own posts' reactions: 43 (2025-07-30 job), 38 (2023-05-26 MA), 16 (2024 Muscatine MUN reshare), 13 (2022 NGS reshare), 12 (2026-03-10 reshare), 10 (2025-11-05 NAAEE reshare). Median 14.5 reactions on 461 followers = ~3.1% (reactions/followers; no 0.03% billboard concern at this scale). Rule: first-person milestones draw 38-43, reshared institutional/network content sits at 10-16 floor. Comments only on 3 of 6 own posts (4, 9, 16); no comments on the 3 reshares from other orgs."
+  - step: "L2.5 Open 5-10 threads, classify reply behavior"
+    status: RAN-FOUND
+    checked_count: 7
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B6, B7, B8, B9, B10, B11, B12]
+    note: "Opened 7: 6 own-post threads + 1 repost thread. Classification = BILLBOARD by the doc's definition (circle-only commenters, near-zero author replies), LOW CONFIDENCE: none of the threads is inside the window (newest own thread 2026-03-10) and the account posts ~1-2 originals per quarter. Evidence: 3 own threads have comments — 2026-03-10 (4 comments; no Rachel reply seen), 2025-07-30 (9 comments, 4 shown; no Rachel reply among those 4), 2023-05-26 (16 comments, 5 shown; she replied to 2: Lisa Keys-Mathews and Jerald Riibe). All commenters are in-circle (NatGeo Explorers, Stanley Center, UNI, her own students). The only visible host-voice reply of hers is on someone else's post (Catalina Samaniego, Iowa Youth Symposium). No outsider-to-circle comment seen in any thread. Layer 4 promotion fires."
+  - step: "L2.6 Format effects and appearances"
+    status: RAN-FOUND
+    checked_count: 8
+    checked_unit: items
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B7, B12, B6, B11, B1]
+    note: "Appearances from her own and others' posts: NAAEE 2025 keynote session (virtual, with NatGeo Society's Fay Gore and two other Explorers; NAAEE blurb); Iowa Youth Symposium host role, Iowa State Capitol, 2025-10-30 (~200 students; keynote speaker Catalina Samaniego); Stanley Center for Peace and Security Muscatine Future Leaders Model UN Summit, Feb 2026 (Melita Duo credits 'Krista Regennitter and Rachel Hansen'); NatGeo Storytelling for Conservation, Akagera National Park, Rwanda (2022-12-27 post). Format effect: her only above-floor posts are first-person milestones; reshares with one warm line sit at 10-16."
+  - step: "L3a.2 LinkedIn Interests (every rendered tab)"
+    status: RAN-FOUND
+    checked_count: 4
+    checked_unit: tabs
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B4]
+    note: "Tab bar: Top Voices, Companies, Newsletters, Schools (no Groups tab) — all four clicked and read. Top Voices (5): Antonio Guterres, Angela Duckworth, Bill Gates, Ian Bremmer, Susan Cain. Companies (10): Iowa PBS, OER Project, City of Grimes, Symbioverse UG, Science Communication Lab, NAAEE, trubel&co, Imagine Learning, Savvas Learning Company, McGraw Hill. Newsletters (3): Stanford d.school, TED Originals, IDEO.org. Schools (6): Grand View University, DMACC, Eastern Iowa Community College, University of Northern Iowa, Muscatine High School, University of Iowa. Top Voices present = she follows 5 badged voices; un-badged individual follows still UNKNOWN."
+  - step: "L3a.3 Authenticated X following and likes"
+    status: BLOCKED-WALLED
+    checked_count: 2
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B13]
+    note: "Account identity cleared (see L7.1) but @ms_hansen is protected; /following and /likes render only 'These posts are protected'. Following count 2,031 and likes 14.5K visible, contents hidden. Only an approved-follower request would open it (ATTRIBUTABLE-BY-CHOICE — not done; Jefferson's decision)."
+  - step: "L3c.3 Comment proxy"
+    status: RAN-FOUND
+    checked_count: 10
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B3, B5]
+    note: "10 comment-threads rendered (counter said 17 loaded; thread numbers 6-12 never rendered — disclosed gap). 8 of 10 are comments on OTHERS' posts (new-job/graduation/event congratulations: Paige Mathias, Erin Oppel, Melita Duo, Dina Buchbinder Auron, Brittany Puhrmann, 3 older); 2 are her replies inside her own 2023 MA post. Not inward-facing at the comment level. 0 comments in window (newest ~2026-06 on a 2026-06-03 post). Same post as Lindsay's comment: Brittany Puhrmann (Iowa State Textiles and Clothing Museum, 2026-01) — both Lindsay and Rachel commented there. Reactions sample (5 of 20): all in window, Stanley Center / NatGeo Explorer / former-student-type posts."
+  - step: "L4.1 Answered circle from threads"
+    status: RAN-FOUND
+    checked_count: 7
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B6, B8, B10, B12, B3]
+    note: "People she answers/engages (named): Melita Duo (Chair of the Muscatine Future Leaders MUN Summit; she answered), Dina Buchbinder Auron (Education for Sharing; 2nd), Lisa Keys-Mathews and Jerald Riibe (replied on her MA post), Catalina Samaniego (Iowa Youth Symposium keynote), Krista Regennitter (Program Officer, Global Education, Stanley Center — recurring in 3 threads plus her reactions), Peg Keiner (2nd; Finding Nellie NatGeo grant partner). Circle = National Geographic Explorer cohort + Stanley Center + UNI + Muscatine students. No museum-accessibility voices appear."
+  - step: "L4.2 Commenter inversion"
+    status: RAN-FOUND
+    checked_count: 3
+    checked_unit: threads
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B6, B8, B10]
+    note: "Her own commenters (name, headline, same-lane flag vs museum accessibility = NO for all): Anita Palmer (GIS Technology Teacher-Educator and Consultant, NatGeo Explorer); Thomas Herman (Geographer, Geography Education Advocate, Consultant); Peg Keiner (2nd; Curriculum Designer, NatGeo Explorer); Dina Buchbinder Auron (2nd; Founder/President, Education for Sharing); William Reese (2nd; CEO Emeritus, International Youth Foundation); Ashleigh Kysar-Moon (Associate Professor of Sociology, UNI); Lisa Keys-Mathews (Mentor & Coach / Earth Scientist / NatGeo Explorer / Professor Emeritus); Joel Ojochubiyo Umoru (Team Lead, Data Analytics, GIS); Jerald Riibe (Principal Writer, Riibe Publications); Krista Regennitter (Stanley Center). Recent hires: none visible (she has no team-announcement posts)."
+  - step: "L4.5 Mutuals with Jefferson (this target)"
+    status: RAN-NULL
+    checked_count: 1
+    checked_unit: profiles
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B1]
+    note: "Profile shows Jefferson-to-Rachel degree '3rd' with no mutual-connections line; 3rd degree means no shared 1st-degree connection. Zero REAL mutuals. UNKNOWN leads only (2nd degree to Jefferson, appear around her): Peg Keiner, Dina Buchbinder Auron, William Reese (CEO Emeritus, International Youth Foundation), Ian Bremmer (a Top Voice she follows). None shown to know her beyond comments/co-credits."
+  - step: "L7.1 Surface X"
+    status: RAN-FOUND
+    checked_count: 4
+    checked_unit: searches
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B13, B14, B15, B16]
+    note: "FOUND, anchors cleared: @ms_hansen 'Rachel Hansen', Muscatine IA, website the-human-story.com, joined June 2010, PROTECTED. Anchors: (1) Muscatine High School teacher — @MuscatineCSD 2021-03-31 and @DiscoverMuskie 2021-03-30 posts name 'Muscatine High School's Rachel Hansen'; @InsideNatGeo 2021-05-04 tags @ms_hansen as '@NatGeoEducation's Rachel Hansen'; (2) NatGeo grant teammate — @PegKeiner 2023-07-09 tags @ms_hansen (same Peg Keiner whose Finding Nellie post Rachel reposted on LinkedIn 2026-04-01). Two other-person hits rejected (a soccer player; a 2018 hawkcentral link). X location 'Muscatine, IA' likely stale (now Des Moines)."
+  - step: "1-handoff-A: X @ms_hansen verification (from coordinator)"
+    status: RAN-FOUND
+    checked_count: 4
+    checked_unit: searches
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B13, B14, B15]
+    note: "VERIFIED in the authenticated X session: @ms_hansen clears two anchors (Muscatine High School teacher per @MuscatineCSD/@DiscoverMuskie/@InsideNatGeo 2021 posts; NatGeo grant teammate of Peg Keiner per @PegKeiner 2023-07-09, same Peg Keiner as her LinkedIn repost). Profile: 'I teach a little—learn a lot. Fridays are for flannels.', Muscatine IA, the-human-story.com, joined June 2010, 10.9K posts, 2,031 following, 1,305 followers. The account is PROTECTED, so the follow-on rows (Layer 2 X component, 3a.3 following and likes) are BLOCKED-WALLED, not run. Lookalikes @RachelAHansen (X) and @rachelahansen (Threads) were not encountered in my searches and are excluded as instructed."
+  - step: "1-handoff-B: LinkedIn experience section Muscatine HS -> SHSI with dates (from coordinator)"
+    status: RAN-FOUND
+    checked_count: 1
+    checked_unit: pages
+    evidence_quality: VERIFIED-AUTHENTICATED
+    source_ids: [B17]
+    note: "Captured from /details/experience/ (the main profile page omits it): SHSI K-12 Education Coordinator Jul 2025 - present; SHSI History Education Specialist Jun 2024 - Jul 2025; Muscatine High School Social Studies Teacher Jul 2012 - Jul 2024 (AP Human Geography, Model United Nations, Latinx Studies; Social Studies Department Chair 2017-2021 and 2023-2024; World Cultures course on the Big History Project framework 2014-2019; g2 - Global Generation project-based program 2012-2014); UNI Graduate Teaching Assistant Aug 2021 - May 2023 (Physical Geography Lab, World Geography, Geography Outreach around the state of Iowa); Fort Dodge High School Aug 2010 - Jun 2012; Phillips Middle School Aug 2009 - Jul 2010. Education sub-page renders empty."

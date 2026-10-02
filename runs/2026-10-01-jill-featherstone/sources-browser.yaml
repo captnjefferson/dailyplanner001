@@ -1,0 +1,9 @@
+# Lane: browser — Jill Featherstone — run 2026-10-01. All authenticated via Jefferson's logged-in Chrome (LinkedIn feed + X home session-tested 2026-10-01). Evidence in evidence/.
+sources:
+  B1: {url_or_tool_call: "https://www.linkedin.com/in/jill-featherstone-4a75946/ (+ /details/experience/, /details/education/) -> evidence/linkedin-profile.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: ["Des Moines Art Center, Museum Education Director, Aug 1999-present", "Des Moines, Iowa", "Michigan State University badge"]}
+  B2: {url_or_tool_call: "https://www.linkedin.com/in/jill-featherstone-4a75946/recent-activity/{all,comments,reactions}/ -> evidence/linkedin-activity.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: ["profile owner"]}
+  B3: {url_or_tool_call: "https://www.linkedin.com/in/jill-featherstone-4a75946/details/interests/ — tabs clicked: Companies, Schools -> evidence/linkedin-interests.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: ["Des Moines Art Center, Michigan State University, University of the Arts"]}
+  B4: {url_or_tool_call: "X People search 'Jill Featherstone' + four profile reads -> evidence/x-search-jill.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: ["REJECTED: UK nurse; Manitoba author; empty shells"]}
+  B5: {url_or_tool_call: "X Latest search 'Jill Featherstone' -> evidence/x-search-jill.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: ["REJECTED: @JillFeatherston UK nurse"]}
+  B6: {url_or_tool_call: "X Latest search Featherstone + Des Moines Art Center variants -> no results", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: []}
+  B7: {url_or_tool_call: "LinkedIn people search 'Des Moines Art Center' network 1st+2nd -> evidence/linkedin-dmac-network-search.txt", type: authenticated-platform, accessed_at: "2026-10-01", target_anchors: []}

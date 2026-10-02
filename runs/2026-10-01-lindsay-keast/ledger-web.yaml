@@ -1,0 +1,510 @@
+# ledger-web.yaml — OPEN-WEB lane — Lindsay Keast — run 2026-10-01
+# 33 owned rows (L1.1-1.6, L2.7, L3a.1/4/5/6, L3b.1-4, L3c.1-2, L4.3/4.4/4.6, L7.2-7.14) plus 3 Step-0 rows (S0.*) that are pre-work, not owned rows.
+# Lane-owned-elsewhere (no rows here): L2.1-2.6, L3a.2, L3a.3, L3c.3, L4.1, L4.2, L4.5, L7.1 -> browser lane.
+lane: web
+target: Lindsay Keast
+run: '2026-10-01'
+social_window: 2026-07-03 to 2026-10-01
+long_form_window: 2025-10-01 to 2026-10-01 (cap 30)
+owned_rows: 33
+ledger:
+- step: S0.attio-person
+  status: RAN-FOUND
+  checked_count: 1
+  checked_unit: records
+  evidence_quality: VERIFIED-AUTHENTICATED
+  source_ids:
+  - W1
+  - W2
+  note: Attio person record exists (id 3cb161f0-66b3-4d85-b10a-9b43ba245d15, created 2026-09-24, email lindsay.keast@das.iowa.gov, company record 93b9bd7c linked). No name, title or LinkedIn field populated. 0 notes on the
+    record. First email interaction 2026-09-24, last email 2026-09-30, next calendar interaction 2026-10-05T19:30Z (Mon 2:30 CT).
+- step: S0.transcripts
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: queries
+  evidence_quality: VERIFIED-AUTHENTICATED
+  source_ids:
+  - W3
+  - W4
+  note: 'JMOS /api/health returned nothing (port 8888 not listening) so JMOS was not used and was not started (starting it writes outside the run dir). Went to Attio directly: GET /v2/meetings?participants=lindsay.keast@das.iowa.gov
+    (ends_from 2025-01-01) returned exactly 1 meeting, the future 2026-10-05 in-person meeting (organizer jeffersons@captaintomorrow.io; invite says Jefferson will record it); linked-record query returned 0. Zero call recordings
+    or transcripts, as expected. Notion not searched (Attio has no recording and no prior meeting exists).'
+- step: S0.venue-research
+  status: RAN-FOUND
+  checked_count: 2
+  checked_unit: files
+  evidence_quality: UNVERIFIED
+  source_ids:
+  - W5
+  - W6
+  note: 'Read both files as leads. Verified against primary: title and phone (W7/W8), email (W8; domain moved to @das.iowa.gov effective 2026-05-04), NaviLens/Prairie Meadows (W9). Humantic claims: Guston thesis VERIFIED (W11);
+    ''K-8/5-12 art teaching certification'' NOT verified (thesis CV shows only B.A. Art-Teaching, UNI 2008; certification itself unconfirmed); ''music workshops, summer camps, Iowa Arts Summit'' VERIFIED in spirit (W24 DMMC
+    Rock & Roll summer camp 2018-06-27; W13 Iowa Arts Summit 2022).'
+- step: L1.1 Published or self-owned email search
+  status: RAN-FOUND
+  checked_count: 18
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W7
+  - W8
+  - W16
+  - W13
+  - W14
+  - W30
+  - W24
+  note: 'Three addresses, all fetched from primary pages. CURRENT employer: lindsay.keast@das.iowa.gov (decoded from SHSI contact page and her person page; matches Attio record; the 2026-04-29 site banner says SHSI addresses
+    moved from @iowa.gov to @das.iowa.gov effective 2026-05-04). FORMER: lindsay.keast@iowa.gov (printed on Iowa Arts Summit 2022 FAQ, Iowa Arts Council newsletter c.Sept 2021, NASAA roster 2022-09-08; now out of date). SELF-OWNED:
+    lindsaykeast@gmail.com, a mailto on her own Iowa Artist Directory listing (updated 2025-05-02), published for music/composition and visual-art commissions. That Gmail is her artist contact, not a museum-work address; do
+    not use it for the museum thread. Phone: 515-281-8352 (SHSI direct line; same number on the 2022 Iowa Arts Council pages and NASAA roster, which is the anchor that ties her SHSI and Iowa Arts Council roles together). No
+    employer-pattern guesses were asserted.'
+- step: L1.2 Bounded Maigret handle sweep
+  status: RAN-NULL
+  checked_count: 6
+  checked_unit: handles
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W39
+  note: 'Maigret 0.6.5, exact A2 command, --top-sites 500 (509 sites per handle) --no-recursion --no-extracting --timeout 15, output in maigret/. Handles: lindsaykeast, lkeast, lindsaymkeast, lmkeast, lindsay.keast, keastlindsay
+    (6 of max 6; middle initial M from thesis byline ''Lindsay M. Keast''; no year variants, no bare given name). Claimed hits per handle: 13 / 37 / 4 / 8 / 13 / 5. Coverage: ~3,054 site checks; bot-protection errors 7.3-8.6%
+    per handle (about 40 sites blind each run); 10.2% ''unsupported username format'' on the dotted handle. ZERO hits cleared the two-anchor gate. I fetched every non-noise hit: Facebook lindsay.keast and Pinterest lindsaykeast
+    = name only, no anchors (NOT-DISTINGUISHABLE); Medium/Discogs/Codepen/Academia = Cloudflare 403 (WALLED); lkeast hits are other people (SoundCloud Silver Spring MD, Goodreads ''Laura'', Pinterest ''Lynne Keast'', Flipboard
+    Australia, Calendly ''Laura Keast'', GitHub ''Lkeast'' no anchors); pbase ''Linz'' joined 2021 no anchors. Noise sites that claim any username (fixya, CGTrader, joyreactor, Pling, Google Scholar search links) ignored.
+    Twitter hits (@lindsaykeast, @lmkeast) belong to the X lane, which already rejected @lindsaykeast. Soft null (tool output, not a platform index). LESSON: name-pattern handles missed every real creator identity; her actual
+    handle is windzay (found from her own directory listing, see L1.5).'
+- step: L1.3 Quoted distinctive-bio search
+  status: RAN-FOUND
+  checked_count: 5
+  checked_unit: queries
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W16
+  - W21
+  - W24
+  - W17
+  - W22
+  note: 'Distinctive self-written bio lines found verbatim on three of her own properties and nowhere else: ''musician working in Des Moines who has composed music for diverse mediums including film, animation, dance, theme,
+    and live performance'' (Iowa Artist Directory 2025-05-02, YouTube channel bio, lksounds.com profile snapshot 2019-10-14); ''graduated in 2014 from the University of Oregon with an M.A. in Art History and Master''s Certificate
+    in Museum Studies with a focus on the intersection of experimental art and music in American modernism'' (lksounds, YouTube). No reuse on third-party sites (searched the quoted strings with the web search tool; results
+    surfaced only her own pages). The label''s liner note (W22) independently states Eugene OR / Master''s in Art History and Museum Studies / hometown Des Moines.'
+- step: L1.4 Show-notes and speaker-bio bridge
+  status: RAN-FOUND
+  checked_count: 38
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W40
+  - W25
+  - W30
+  - W13
+  - W17
+  - W41
+  - W12
+  - W66
+  - W51
+  - W52
+  - W60
+  note: 'Highest-yield step. IDENTITY CHAIN CLEARED (two-anchor gate): SHSI ''Museum Specialist & Accessibility Coordinator'' (W7, W8) = Iowa Arts Council ''Program Manager, Arts and Creativity & Accessibility Coordinator''
+    (NASAA roster 2022-09-08, W30; same phone 515-281-8352 on both, same name, same accessibility-coordinator title) = Des Moines composer/artist (lksounds profile names Iowa Arts Council + UO M.A. 2014 + Des Moines; W24)
+    = University of Oregon thesis author ''Lindsay M. Keast'' (W11; CV: M.A. Art History 2014, B.A. Art-Teaching 2008 University of Northern Iowa; also a UO student curator on ''Placing Pierre Daura'', W12). APPEARANCES FOUND:
+    (1) ICUB (Iowa Council of the United Blind) Des Moines Chapter panel, April 2024, organized by Bettina Dolinsek, with Maryfrances Evans (IRIS) and Jami Milne (Ballet Des Moines); each spoke on making their work accessible
+    to blind Iowans (W40). (2) SHSI ''College Day at the Museum'' 2025-04-15, panelist on Curation, Collections & Exhibits (W25). (3) NASAA 2022 Assembly registrant (W30), staff not speaker. (4) Iowa Arts Summit Aug 10-12
+    2022 accessibility coordinator contact (W13, W52). (5) Composer of original score for Ballet Des Moines ''Ruptures'' videos at Des Moines Art Center, 2017, 10,100+ views (W41). (6) Pants OFF! podcast interview c.2016-17,
+    self-claimed on her own site, episode not located (W24). NOT FOUND: any Iowa Museum Association session or contact (0 Keast mentions on 7 IMA pages; the web-search summary that said otherwise did not verify; W51); AAM
+    / LEAD / AMM speaker listing (0 mentions; AMM 2025 Groundbreakers Award went to SHSI and its Nov 3 2025 virtual session lists unnamed ''team members'', so her role there is unverified; W66). A search summary linking an
+    AAM Nov-2025 article to SHSI was refuted: that article is about the Museum of the American Revolution (W67).'
+- step: L1.5 Separate work-only account sweep
+  status: RAN-FOUND
+  checked_count: 14
+  checked_unit: platforms
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W16
+  - W42
+  - W38
+  - W21
+  - W22
+  - W7
+  - W44
+  - W45
+  - W46
+  note: 'Creator and employer identities are split, as predicted. CREATOR identity (decisive handle windzay, taken from the mailto/Instagram links on her own Iowa Artist Directory listing): Instagram @windzay, Bandcamp fan
+    ''windzay'', Bandcamp artist pages Tree branch Twig and Stubborn Tiny Lights, YouTube channel @lindsaykeast3310, Iowa Artist Directory, dead personal site lksounds.com. WORK identity: SHSI staff pages (W7/W8) and LinkedIn
+    (browser lane). NO personal work-only social account exists on the open web: SHSI''s Facebook, Instagram and YouTube are org-run and carry her only as a featured staff member (W19, W20, W44-W46); X @IowaHistory is a different
+    person (W47). Reverse-image search: MANUAL GAP (agents cannot upload).'
+- step: L1.6 Bio-drift comparison
+  status: RAN-FOUND
+  checked_count: 12
+  checked_unit: bios
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W11
+  - W24
+  - W17
+  - W18
+  - W15
+  - W30
+  - W13
+  - W40
+  - W9
+  - W8
+  - W16
+  - W21
+  note: '12 dated bios compared. 2014 thesis CV: grad teaching fellow, art history. c.2019 (lksounds snapshot 2019-10-14, W24): ''Arts Program Coordinator, Iowa Arts Council... co-founded Project Art Des Moines''. c.2019-21
+    Partnership bio (W17): ''arts program coordinator... oversees the biennial Iowa Arts Summit... previously outreach coordinator for the Des Moines Music Coalition... practicing artist, musician and composer''. Iowa Arts
+    Council hire post (W18): Program Coordinator beginning October 15 (year not printed; consistent with 2019 given W24 and the Dec 2019 action plan W15). 2022-09-08 (W30): Program Manager, Arts and Creativity & Accessibility
+    Coordinator. April 2024 (W40): Museum Specialist at the State Historical Society. 2025-02 (W9): SHSI Title II Accessibility Coordinator. 2024-12 to 2026-10 SHSI staff table (W33): Museum Specialist & Accessibility Coordinator,
+    unchanged. DRIFT: pivot from state-arts-agency program management to museum accessibility happened between 2022-09-08 and 2024-04 (stale bios on lksounds and the Partnership page still name the Arts Council). CONSTANT:
+    ''accessibility coordinator'' has been in her title since at least 2022 at two agencies, i.e. four-plus years, and the artist/musician/composer identity runs under it (Iowa Artist Directory still live, updated 2025-05-02).'
+- step: L2.7 Organization channels (State Historical Society of Iowa)
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: channels
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W44
+  - W45
+  - W46
+  - W47
+  - W48
+  - W49
+  - W26
+  - W32
+  - W64
+  note: 'Where the SHSI conversation happens: (a) website history.iowa.gov: 48 press releases listed, latest 2026-06-26; accessibility guide page ''Updated 9/18/2026'' with Keast as the named contact; ''NaviLens in the Museum''
+    page carries a $3,100 ask to sustain the annual NaviLens license tied to Global Accessibility Awareness Day Thursday 2026-05-21 (outcome not stated); (b) three monthly newsletters: Iowa Historian (April 2026 issue features
+    Deaf accessibility, Otter app on museum iPads), Goldie''s Kids Club (ages 12 and under), Goldfinch Dispatch (K-12 educators, first Wednesday); (c) Facebook: State Historical Society of Iowa 17,150 followers, State Historical
+    Museum of Iowa 2,680; (d) Instagram @iowahistory 4,146 followers, 1,388 posts (posts her ''then and now'' childhood-museum feature 2025-07-18); (e) YouTube @iowahistory 5.1K subscribers, 19 videos; (f) NO X account (x.com/IowaHistory
+    is Mike Chapman, a different person); (g) LinkedIn company page is the browser lane''s. Context lead, SEARCH-ONLY: a KCRG story dated 2026-09-19 reports a court ruling that SHSI must keep its Iowa City research center
+    open (title and date verified; body not verified). A Groundbreakers Award from the Association of Midwest Museums (W66) is the org''s recent external recognition for the access work.'
+- step: L3a.1 Substack
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: requests
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W56
+  note: 'Authorized candidate slugs: windzay (her own handle) and lindsaykeast (her LinkedIn slug). Checked reader API substack.com/api/v1/user/<slug>/public_profile and <slug>.substack.com for both: 404 x4. Control (substack.com/api/v1/user/ev,
+    200; astralcodexten.substack.com, 200) proves the endpoints work. No reader profile, so no subscriptions to read. Confirmed null on 2 slugs as of 2026-10-01.'
+- step: L3a.4 Bluesky follows
+  status: RAN-NULL
+  checked_count: 6
+  checked_unit: handles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W36
+  note: 'getProfile on windzay / lindsaykeast / lkeast / treebranchtwig / lindsay.keast .bsky.social and keast.bsky.social: first five ''Profile not found''; keast.bsky.social is an unrelated person. searchActors (paged to
+    cursor end) for ''Keast'', ''Lindsay Keast'', ''Lindsay K Des Moines Iowa museum'', ''windzay'', ''Tree branch Twig'', ''State Historical Society of Iowa'', ''Keast Des Moines'': about 1,300 actor rows scanned, 0 matches
+    (no actor with Keast + Lindsay; none mentioning SHSI/Iowa museums as hers). Control: getProfile bsky.app returned 35.1M followers. No Bluesky account, so no follows list. Window: index as of 2026-10-01.'
+- step: L3a.5 GitHub
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: queries
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W37
+  note: 'api.github.com/users: windzay 404, lindsaykeast 404, lkeast = ''Lkeast'' (created 2024-01-29, 1 repo, no name/bio/location, 0 followers: NOT-DISTINGUISHABLE, zero anchors, not accepted); search/users?q="Lindsay Keast"
+    in:fullname = 0. No GitHub presence; no stars or following to read.'
+- step: L3a.6 Fast checks (Goodreads, Letterboxd, Spotify, Reddit and others)
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W42
+  - W43
+  - W57
+  - W53
+  note: 'Identifier = windzay (cleared on Bandcamp; see L7.3). FOUND, the consumption leak: Bandcamp fan page bandcamp.com/windzay, Des Moines, Iowa, public. 27 purchases (latest 2025-10-23, Andrew Weathers Ensemble anniversary
+    package), 16 wishlist, following 31 artists and 1 fan. Two-anchor gate cleared on Des Moines + named collaborators: she follows her own project Tree branch Twig, her labels Warm Gospel and Full Spectrum Records, bandmate
+    Andrew Weathers and Honeycreeper co-bill Ramona and the Sometimes. Taste is experimental/ambient/drone and the Des Moines-Cedar Falls scene; there is no museum, accessibility or professional-reading signal in it. Others:
+    Spotify user ''windzay'' exists but shows no detail logged-out (handle only = one anchor, UNVERIFIED lead); Goodreads goodreads.com/windzay and /lindsaykeast 404 (control user page 200), people-search returned HTTP 202
+    empty (not usable, WALLED); Reddit u/windzay 403 and control spez also 403 (BLOCKED-WALLED); Letterboxd 403 and control dave 403 (BLOCKED-WALLED); Last.fm ''Client Challenge'' for target and control rj (BLOCKED-WALLED);
+    Discogs and Medium Cloudflare 403 (WALLED); SoundCloud windzay 404.'
+- step: L3b.1 Fetch corpus; size, window, walls
+  status: RAN-FOUND
+  checked_count: 10
+  checked_unit: documents
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W11
+  - W24
+  - W16
+  - W17
+  - W26
+  - W32
+  - W9
+  - W25
+  note: 'Window 2025-10-01 to 2026-10-01 (cap 30): ZERO documents attributable to her authorship in-window. In-window org-voice documents (her office is the named contact, authorship not attributed): SHSI accessibility guide
+    (updated 2026-09-18, 4,548 words) and NaviLens fundraiser page (479 words). Out-of-window, own words: UO thesis 2014 (14,572 words), lksounds.com profile/publicity/performance (2019 snapshot, 3,941 words), Iowa Artist
+    Directory profile (2025-05-02, 573 words), Partnership bio (214 words); quoted-not-authored: SHSI press release 2025-02-04, College Day page 2025-04-15; DMMC blog bylines 2017-19 (titles only, bodies not fetched). 10 documents
+    saved to corpus/. Walls: Instagram @windzay bio/posts invisible logged-out; Facebook; Medium. She is not a publisher: no blog, newsletter, Substack, Medium, or byline in the last 12 months found; YouTube channel dormant
+    (4 uploads, all 2024-11-11).'
+- step: L3b.2 Extract and classify outbound links
+  status: RAN-FOUND
+  checked_count: 2
+  checked_unit: documents
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W26
+  - W32
+  note: 'Only the two in-window org-voice pages. Third-party body links: accessibility guide 32 unique (14 SHSI SharePoint PDFs, 3 Matterport virtual tours, 1 SHSI form, 1 YouTube excluded as own properties), leaving 13 classified:
+    8 tools (NaviLens, Seeing AI, Be My Eyes, Otter, DeepL, Google Lens, Google Translate, Google Lookout on Play); 5 service/standard links (DART x2, dsm.city parking, all-pets vet, w3.org). NaviLens page: 2 (accessibility.day
+    = Global Accessibility Awareness Day; PayPal). Domains excluded: history.iowa.gov, iowa.gov, SHSI SharePoint, Matterport tours. Not attributable to her personally.'
+- step: L3b.3 Named people, works cited, tools
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: documents
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W11
+  - W9
+  - W10
+  - W26
+  - W20
+  - W41
+  note: 'PEOPLE (colleague/authority): Bettina Dolinsek (SHSI Accessibility Consultant; Immediate Past President, Iowa Council of the United Blind; led NaviLens user testing; she credits her in the press release), Valerie
+    Van Kooten (SHSI Administrator), Ally Frame (local illustrator of the communication cards), Lauren Kawamura (accessibility volunteer, W20), Jenni Knoebel (her predecessor as Iowa Arts Council accessibility coordinator,
+    W15), Serkan Usta / Anne Wilson / Jami Milne (Ballet Des Moines orbit, W41/W40). ORGS: Great Plains ADA Center (2024 audit), Iowa Department for the Blind (braille), Iowa Council of the United Blind, Prairie Meadows (funder),
+    DART Paratransit. TOOLS: NaviLens / NaviLens GO, Seeing AI, Be My Eyes, Otter, DeepL, Google Lens, Google Translate, Google Lookout, Matterport tours. WORKS (2014 thesis bibliography, out of window): Cage ''Silence'';
+    Larson ''Where the Heart Beats'' (Cage and Zen); Guston writings; Ashton; Sandler; Guilbaut; Johnson ''The New York Schools of Music and Visual Arts''. Her own words, 2025: she credits the NaviLens idea to seeing a coded
+    label on a cereal box in her kitchen and says the museum is ''among the first museums in the U.S. to introduce NaviLens'' (W9, W10); frames the project as a natural extension of making the museum accessible to all and
+    technology bridging the gap for blind and low-vision visitors.'
+- step: L3b.4 Diagnostic ratios or insufficient-sample null
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: documents
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W26
+  - W32
+  note: 'insufficient sample. Authored documents in window: 0. Org-voice documents: 2 (<5 required), classified links after exclusions: 15 (<50 required). Raw, for the orchestrator: of 15 classified links, 2 source-type (w3.org
+    standard, accessibility.day), 9 vendor/tool (8 assistive apps + PayPal), 4 service info. No ratio computed. Citation habits track the author, not the org, and no author-attributable corpus exists to measure.'
+- step: L3c.1 Communities from the corpus
+  status: RAN-FOUND
+  checked_count: 16
+  checked_unit: communities
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W13
+  - W15
+  - W17
+  - W24
+  - W30
+  - W40
+  - W26
+  - W9
+  - W11
+  - W42
+  - W34
+  note: 'Named in her corpus: Iowa Arts Council / Iowa Department of Cultural Affairs (staff network, 2019-2022+); NASAA (2022 Assembly registrant); Iowa Arts Summit (2022 FAQ lists her as the team''s accessibility coordinator; the Partnership bio says she oversees the biennial summit); Des Moines Music Coalition
+    (outreach coordinator; Backstage Ball; Rock & Roll summer camp; Girls Rock! Des Moines, per her performance list); Project Art Des Moines (co-founder, nonprofit arts space); Iowa Council of the United Blind, Des Moines
+    Chapter (April 2024 panel); SHSI Accessibility Advisory Group and the Great Plains ADA Center audit; Iowa Department for the Blind; IRIS and Ballet Des Moines (panel/score collaborators); Prairie Meadows (funder); University
+    of Oregon Art History Association (graduate co-chair of professional development 2013-14) and the JSMA student-curator cohort; University of Northern Iowa (B.A. 2008); Iowa music scene (Stubborn Tiny Lights, Honeycreeper,
+    Tree branch Twig; Full Spectrum Records / Editions Littlefield; Warm Gospel; Grey Area Music Festival, Cedar Falls/Waterloo). The Association of Midwest Museums enters via the browser lane''s Interests read and the 2025
+    Groundbreakers Award (W66); no Iowa Museum Association participation found for her.'
+- step: L3c.2 Consumer surfaces (null reported separately)
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: surfaces
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W42
+  - W43
+  - W57
+  - W53
+  - W55
+  - W56
+  note: 'Consumer surfaces checked: Bandcamp fan (FOUND; local-scene follows), Instagram @windzay (FOUND), Spotify (handle exists, no detail), Goodreads (null), SoundCloud (windzay 404), Pinterest (name-only), Reddit / Letterboxd
+    / Last.fm / Discogs (BLOCKED-WALLED, controls also blocked), TikTok (windzay exists with default nickname and no anchors: NOT-DISTINGUISHABLE), Threads (no profile for 2 handles; soft). THE NULL: no consumer community
+    of any kind (Discord, subreddit, forum, Slack) could be tied to her; Reddit, Discord and Last.fm cannot be seen from the open web, so this is a soft null. Her consumer media is a Bandcamp-and-live-music scene, with no
+    sign of reading or following museum/accessibility voices on any open surface.'
+- step: L4.3 Co-occurrence (co-speakers, panels, collaborators)
+  status: RAN-FOUND
+  checked_count: 9
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W40
+  - W25
+  - W41
+  - W15
+  - W9
+  - W20
+  - W30
+  - W24
+  note: 'Page text read; no hidden role JSON needed (rosters were in plain text). ICUB Des Moines Chapter panel April 2024: Bettina Dolinsek (organizer), Maryfrances Evans (Executive Director, IRIS), Jami Milne (Creative Director,
+    Ballet Des Moines); chapter president Cody Dolinsek (W40). SHSI College Day 2025-04-15, her panel: Kay Coats, Jodi Evans, Andrew Harrington, moderator Kate Levasseur (World Food Prize); same event, other panels: Rachel
+    Hansen (then ''History Education Specialist''), Matthew Jayne, Andrew Klumpp, and Mickey Ryan, Director of Registration and Collections Management, DES MOINES ART CENTER (W25). 2017 Des Moines Art Center ''Ruptures'' videos:
+    Ballet Des Moines (Serkan Usta), artist Anne Wilson, her original music (W41). Dec 2019 Des Moines artist-programming interviews: Jenni Knoebel (her predecessor as IAC accessibility coordinator), Veronica O''Hern, Siobahn
+    Spain (Mainframe Studios), Stephen King (Des Moines Arts Festival) (W15). Iowa Arts Council colleagues: David Schmitz (Administrator), Sarah Florian (W30). Bandmates: Andrew Weathers; Honeycreeper/Girls Rock! Des Moines
+    circuit (W24).'
+- step: L4.4 Shared rooms
+  status: RAN-NULL
+  checked_count: 16
+  checked_unit: communities
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W63
+  - W25
+  - W41
+  - W40
+  note: 'Checked her 16 communities (L3c.1) against Jefferson''s documented rooms (corpus inventory and profile: IHA Annual Meeting Oct 6 2026 breakouts, DMAS keynote): 0 overlap found, so no shared room with Jefferson. Soft
+    null: Jefferson''s own memberships were only skimmed, not enumerated. ADJACENT finding, not a shared room: her 2017 Des Moines Art Center connection (original music for the Ballet Des Moines ''Ruptures'' videos, W41) and
+    the Art Center''s Mickey Ryan sitting on SHSI''s 2025 College Day program (W25) link the Monday venue and the Wednesday venue; Jami Milne of Ballet Des Moines shared the April 2024 ICUB panel with her (W40). Whether either
+    connection is warm today is unknown.'
+- step: L4.6 New-hire announcements
+  status: RAN-NULL
+  checked_count: 3
+  checked_unit: snapshots
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W33
+  - W8
+  - W48
+  note: 'Compared SHSI staff table snapshots 2024-12-23, 2025-04-18 and live 2026-10-01: 0 new names since 2025-04-18; 6 names present in April 2025 and gone now (Allison Johnson, Anu Tiwari, Brittany Puhrmann, Delpha Musgrave,
+    Hang Nguyen, Kenedy LH Reichert; none are on the museum education team); title changes: Rachel Hansen History Education Specialist to K-12 Education Coordinator, Hanna Howard National History Day Coordinator to State Curator,
+    Ethan Atwell to National History Day Coordinator, Kelsey Berryhill to Reference Librarian - Des Moines. No hire announcements in the 48 listed press releases (latest 2026-06-26). Note: Rachel Hansen''s title changed after
+    April 2025, which matters for Monday''s meeting.'
+- step: L7.2 Bluesky
+  status: RAN-NULL
+  checked_count: 6
+  checked_unit: handles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W36
+  note: 6 handle probes plus about 1,300 paged actor-search rows over 2026-10-01; control bsky.app OK; no Lindsay Keast.
+  surface_result: VERIFIED-NOT-FOUND
+- step: L7.3 Instagram
+  status: RAN-FOUND
+  checked_count: 1
+  checked_unit: handles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W38
+  - W16
+  - W42
+  note: '@windzay, display name ''Lindsay K'', 507 followers, 1,456 following, 18 posts (logged-out og tags). Anchors: (1) linked from her own Iowa Artist Directory listing next to her email; (2) same handle is the Bandcamp
+    fan account that follows her own Tree branch Twig and lists Des Moines, Iowa. Bio, posts and last-post date not visible logged-out (partial wall); an authenticated read is the only way to see content. Personal creator
+    account, not a work account.'
+  surface_result: FOUND
+- step: L7.4 Threads
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: handles
+  evidence_quality: SEARCH-ONLY
+  source_ids:
+  - W55
+  note: threads.net/@windzay and /@lindsaykeast both return the generic 'Threads - Log in' page; control @zuck returned a real profile. The generic page cannot tell 'no account' from 'not publicly viewable', so soft.
+  surface_result: SOFT-NOT-FOUND
+- step: L7.5 TikTok
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: handles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W55
+  note: '@lindsaykeast: user-not-found (status 10221). @windzay exists, default nickname ''user6388302169388'', no bio or anchors, so not accepted as her. Control @tiktok parsed correctly.'
+  surface_result: NOT-DISTINGUISHABLE
+- step: L7.6 Facebook
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: profiles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W53
+  - W20
+  note: facebook.com/lindsay.keast exists (name only, no anchors visible logged-out); facebook.com/lindsaykeast redirects. SHSI posts featuring her are on the org's page (W20), not a personal profile of hers. Personal profile
+    unverifiable.
+  surface_result: NOT-DISTINGUISHABLE
+- step: L7.7 Substack
+  status: RAN-NULL
+  checked_count: 2
+  checked_unit: slugs
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W56
+  note: 'windzay and lindsaykeast: reader API and publication subdomain 404; controls 200.'
+  surface_result: VERIFIED-NOT-FOUND
+- step: L7.8 Medium
+  status: BLOCKED-WALLED
+  checked_count: 3
+  checked_unit: handles
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W54
+  note: medium.com/@lindsaykeast, /@windzay, /@lkeast all HTTP 403 Cloudflare; control medium.com/@ev also 403. Not a null.
+  surface_result: WALLED
+- step: L7.9 GitHub
+  status: RAN-NULL
+  checked_count: 4
+  checked_unit: queries
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W37
+  note: windzay and lindsaykeast 404; full-name search 0; 'Lkeast' has zero anchors and is not accepted.
+  surface_result: VERIFIED-NOT-FOUND
+- step: L7.10 Personal site
+  status: RAN-FOUND
+  checked_count: 8
+  checked_unit: domains
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W24
+  note: 'lksounds.com (Squarespace composer site: profile, publicity, performance, film/dance scores, Tree branch Twig, commission form). DEAD: NXDOMAIN on 2026-10-01; last Wayback snapshot 2019-10-14 (Wayback availability
+    API returns the same snapshot for 2022/2024/2026). 7 other domain guesses (lindsaykeast.com/.net/.org/.art, keast.art, treebranchtwig.com, windzay.com) all NXDOMAIN. Current web presence is the Iowa Artist Directory listing plus
+    Bandcamp. The 2019 profile also says she co-founded Project Art Des Moines.'
+  surface_result: FOUND
+- step: L7.11 Podcasts
+  status: RAN-FOUND
+  checked_count: 8
+  checked_unit: queries
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W24
+  - W34
+  - W60
+  note: 'Historic only: her own publicity page lists a ''Pants Off! Podcast Interview'' (Des Moines Music Coalition''s podcast; she also wrote DMMC posts under the Pants Off tag, Jan 2017). Episode audio not located; the Apple
+    feed now lists only 3 items. In the 2025-10-01 to 2026-10-01 window: none found (iTunes directory: 3 queries, no podcast she owns or hosts; episode-level search not supported by that API, so soft for guest spots).'
+  surface_result: FOUND
+- step: L7.12 YouTube
+  status: RAN-FOUND
+  checked_count: 5
+  checked_unit: queries
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W21
+  - W35
+  - W59
+  note: 'Channel @lindsaykeast3310 (UCLPGURxgCGPVuRaqNgthZKw). Anchors: channel bio gives Des Moines + University of Oregon M.A. 2014 + Museum Studies certificate; links Tree branch Twig Bandcamp. DORMANT: 4 uploads, all 2024-11-11
+    (13-18 views each). Not her work channel.'
+  surface_result: FOUND
+- step: L7.13 Conference and webinar archives
+  status: RAN-FOUND
+  checked_count: 38
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W30
+  - W40
+  - W25
+  - W13
+  - W51
+  - W66
+  note: 'FOUND: ICUB panel April 2024; SHSI College Day panel 2025-04-15; NASAA 2022 Assembly registrant; Iowa Arts Summit 2022 staff. NOT found: Iowa Museum Association (7 pages, 0 mentions), AAM, LEAD 2026, AMM speaker lists.
+    AMM 2025 Groundbreakers Award to SHSI (virtual session Mon 2025-11-03 3:00-3:45 CT, ''meet the team members''); her speaking role there is not published on the AMM page.'
+  surface_result: FOUND
+- step: L7.14 Trade-press bylines
+  status: RAN-FOUND
+  checked_count: 12
+  checked_unit: pages
+  evidence_quality: VERIFIED-PRIMARY
+  source_ids:
+  - W34
+  - W49
+  - W50
+  - W9
+  note: 'Historic employer-blog bylines only: Des Moines Music Coalition blog, e.g. ''Backstage Ball 2017 - Emcee Brian Campos'' (Jan 28) and the Backstage Ball 2018 volunteer-of-the-year piece (Feb 21). IN WINDOW: none. Press
+    coverage of her work (KCRG, Business Record, Chronicle Times/RCReader syndication of the SHSI release, Iowa Historian April 2026) quotes or credits the org, with no byline of hers. SOFT for trade press specifically (web
+    search only).'
+  surface_result: FOUND

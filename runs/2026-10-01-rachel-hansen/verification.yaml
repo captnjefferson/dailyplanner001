@@ -1,0 +1,19 @@
+# Adversarial verification — orchestrator file. One independent sonnet verifier per claim, given only the claim + source IDs.
+verification: INDEPENDENT (separate agent per claim; not SINGLE-AGENT-DEGRADED)
+verifiers: 3   # minimum 3, at least one null — met (V3)
+results:
+  - id: V1
+    claim: "SHSI K-12 Education Coordinator Rachel Hansen (rachel.hansen@das.iowa.gov) = former Muscatine HS social studies teacher / Model UN advisor / NatGeo Explorer / NCGE AP HuG award winner."
+    verdict: CONFIRMED
+    finding: "IYS contact was 'Rachel Hansen, rachel.hansen@mcsdonline.org' (Muscatine CSD) in 2019–2020 Wayback captures; now rachel.hansen@das.iowa.gov = SHSI staff address. W30: 'a former Muscatine advisor' (misspelled 'Racheal'). NatGeo: 'National Geographic Explorer Rachel Hansen is a social studies teacher at Muscatine High School.' NCGE lists 'Rachel Hansen, IA' (2021; Journal 2022-05-11). No page states the move in words; LinkedIn experience (B17) does."
+    source_ids: [W6, W19, W16, W30]
+  - id: V2
+    claim: "'History Mystery' at ICSS 2026-10-19 Ames; named contact for Iowa Youth Symposium 2026-10-28/29 at the Capitol with a Museum Collections Tour advisor option."
+    verdict: CONFIRMED
+    finding: "ICSS preview: 'History Mystery / Presenter: Rachel Hansen, State Historical Society of Iowa' (uses SHMI collection objects); Scheman Building, Ames, 2026-10-19. IYS: 'Contact for IYS: Rachel Hansen rachel.hansen@das.iowa.gov'; Day 1 1:30–3:30 optional advisor activities incl. Museum Collections Tour. UNI article: she chairs the Iowa UNA Faculty Advisors Committee."
+    source_ids: [W17, W19]
+  - id: V3
+    claim: "NULL — none of accessibility, accessible, disability, disabilities, inclusion, inclusive, sensory, autism, special education, assistive, universal design appear in her own or attributed text."
+    verdict: CONFIRMED
+    finding: "Different strategy from collection: SHSI sitemap (657 pages) + 192 Wayback event URLs grepped for 'Hansen' (11 pages name her), K-12 tree + ~60 PDFs, all IYS pages + 29 linked docs, her site + teacher guide, full Locally Global RSS, NatGeo transcript and Explorer JSON. None of the 11 terms in text by or about her. Near-misses are not hers (site nav 'Accessibility & Pre-Visit Info', Lindsay's title, other presenters' abstracts). Unread: her social accounts, one IYS doc (401), IYS registration form."
+    source_ids: [W8, W9, W16, W17, W19, W20, W21, W22]

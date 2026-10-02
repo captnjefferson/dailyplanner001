@@ -1,0 +1,377 @@
+lane: web
+run_dir: /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-01-rachel-hansen
+sources:
+  W1:
+    url_or_tool_call: 'Attio REST: POST /v2/objects/people/records/query filter email_addresses=rachel.hansen@das.iowa.gov (token from keychain, never printed) -> evidence/attio-person-by-email.json'
+    type: authenticated-platform
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - email rachel.hansen@das.iowa.gov
+    note: Record ca0aa597-7372-425e-bc87-f9dae98a4591 exists, created 2026-09-24 by system from email interaction; name/title/linkedin/description fields all EMPTY; company record "Iowa" (das.iowa.gov);
+      first email 2026-09-24, last email 2026-09-30, next calendar interaction 2026-10-05T19:30Z (= 2:30 pm CT).
+  W2:
+    url_or_tool_call: 'Attio REST: GET /v2/notes?parent_object=people&parent_record_id=ca0aa597... (0 notes); GET /v2/meetings paged x41 (8,200 meetings scanned for hansen / das.iowa.gov / history.iowa);
+      people name-contains Hansen (4 unrelated records) -> evidence/attio-notes.json, attio-meetings-scan.json, attio-people-name-hansen.summary.txt'
+    type: authenticated-platform
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - no recording / note for target
+    note: Only meeting hit = a 2024-05-08 Montgomery County MD commission meeting listing warren.hansen@montgomerycountymd.gov (different person). No call recording, no note on the target record. Direct
+      Attio API used because JMOS was down (W3).
+  W3:
+    url_or_tool_call: curl -m 5 http://127.0.0.1:8888/api/health -> HTTP 000 (JMOS not running). Did not start it (a start writes outside the run dir).
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Transcript search therefore ran against the Attio API directly (W2), then Notion (W4).
+  W4:
+    url_or_tool_call: 'Notion REST POST /v1/search x3 (queries: ''Rachel Hansen'', ''Hansen State Historical Society of Iowa'', ''State Historical Society of Iowa''), token from keychain item jmos/NOTION_TOKEN,
+      never printed'
+    type: authenticated-platform
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: No meeting-notes/transcript page for Rachel Hansen. Results were unrelated internal pages (fuzzy match) plus two unrelated Rachels (Bell, Woods). Raw result files pruned from the run dir.
+  W5:
+    url_or_tool_call: ~/Sites/adaptiverse-research/venues/des-moines-2026-10.md and HUMANTIC_DES_MOINES_2026-10-01.md (read-only inputs)
+    type: secondary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - K-12 Education Coordinator
+    - rachel.hansen@das.iowa.gov
+    - 515-281-8747
+    note: Leads only. Humantic leads (MA Geography, NCGE award, NatGeo Explorer, audio+mapmaking, PD on primary-source research) were each independently confirmed from primary pages below; the Humantic
+      type label (C Questioner) is NOT re-verified here and is not used.
+  W6:
+    url_or_tool_call: https://history.iowa.gov/contact (staff table; Cloudflare-protected emails decoded from page source) -> corpus/w-shsi-contact.txt/.raw
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - K-12 Education Coordinator
+    - State Historical Society of Iowa
+    - rachel.hansen@das.iowa.gov
+    - 515-281-8747
+    note: 'Education and Outreach team table lists 4: Andrew Klumpp (manager), Ethan Atwell (National History Day Coordinator), Rachel Hansen, Matthew Jayne. Page notice: staff email moved from @iowa.gov
+      to @das.iowa.gov effective 2026-05-04.'
+  W7:
+    url_or_tool_call: 'web.archive.org snapshots of history.iowa.gov/contact: 20241223085458, 20250502132205, 20250609043434, 20250702000621, 20250803133405, 20251101003210, 20260301001134; CDX index evidence/w-wayback-cdx-shsi-contact.json
+      (index begins 2024-12-23)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - History Education Specialist
+    - K-12 Education Coordinator
+    - rachel.hansen@iowa.gov
+    note: Title History Education Specialist in snapshots through 2025-07-02; K-12 Education Coordinator from the 2025-08-03 snapshot onward. Earlier (pre-2024-12) snapshots not in the CDX index, so SHSI
+      start date is bounded only as <= 2024-12-23. One earlier Wayback fetch (NatGeo explorer page) returned HTTP 429 bot-block; not retried (wall).
+  W8:
+    url_or_tool_call: 'SHSI event pages 2025: history.iowa.gov/events/integrating-iowa-history-k-12-social-studies-classrooms (Jun 9-10 2025); /integrating-social-studies-and-literacy-connections-elementary-classrooms
+      (Jun 16-17 2025, co-instructor Patrick Snyder); /integrating-inquiry-and-primary-sources-secondary-classrooms-professional-development (Jun 23-24 2025, co-instructor Jake Wager)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'Instructor/Contact: Rachel Hansen, 515-281-8747'
+  W9:
+    url_or_tool_call: 'SHSI event pages 2026: /events/iowa-history-institute-part-i-iowa-civil-war (Jun 10-11 2026); /hands-history-bring-history-alive-k-6-classroom (Jun 15-16 2026); /designing-student-led-historical-inquiries-7-12
+      (Jun 25-26 2026)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'Instructor/Contact: Rachel Hansen, State Historical Society of Iowa'
+    note: Institute page promises sessions on place, geography and maps; K-6 page lists Question Formulation Technique, gallery walk, bellringer strategy; 7-12 page has a Historical Maps session.
+  W10:
+    url_or_tool_call: 'SHSI hub pages: /learn/k-12-education, /learn/k-12-education/professional-learning, /educator-resources, /educator-resources/iowa-inquiry-hub, /read-iowa-history, /visit/state-historical-museum-iowa/field-trips-group-visits
+      (History Mystery, $1/student, 30-minute guided object activity)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: 'Org channel inventory source: Goldfinch Dispatch monthly educator newsletter (1st Wednesday), Goldie''s Kids Club newsletter, PD-in-your-district request form, Iowa History Course, Iowa Inquiry
+      Hub.'
+  W11:
+    url_or_tool_call: SHSI 2026 and 2025 State Fair Historical Walking Tour event pages (history.iowa.gov/events/2026-state-fair-historical-walking-tour, /2025-state-fair-historical-walking-tour)
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Education Coordinator, Rachel Hansen
+    - co-leader Hanna Howard (SHSI Curator)
+    note: 12th annual tour Thursday 2026-08-13 8:15 am, Iowa State Fairgrounds; 1K walk, ~30-45 min.
+  W12:
+    url_or_tool_call: 'KIMT articles: kimt.com/news/step-into-iowa-history-at-this-years-state-fair-walking-tour/... and /iowa-state-fair-historical-walking-tour-postponed-due-to-severe-weather/...'
+    type: secondary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - K-12 Education Coordinator Rachel Hansen
+    - State Historical Society of Iowa
+    note: Names her title and role leading the tour with Curator Hanna Howard; Gov. Reynolds, SHSI Administrator Valerie Van Kooten and DAS Director Mark Campbell named as participants.
+  W13:
+    url_or_tool_call: https://history.iowa.gov/visit/state-historical-museum-iowas/college-day-museum and /events/college-day-museum (event Tuesday 2025-04-15)
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Rachel Hansen, History Education Specialist, State Historical Museum of Iowa
+    note: She sat on the 1:00 pm Museum Education and Public Programs panel with Ethan Atwell and Matthew Jayne (moderator Andrew Klumpp).
+  W14:
+    url_or_tool_call: 'SHSI History Pod-Camp pages: /events/history-pod-camp (2025-07-23..25) and /events/history-podcast-camp-0 (2026-07-15..17)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: High-school podcasting workshop at the museum ($200, grades 7-12). Page names NO instructor or contact; her involvement is NOT established (fit with her audio-storytelling background is an inference
+      only).
+  W15:
+    url_or_tool_call: 'SHSI event listings: /events/national-council-geographic-education-annual-conference (2025-10-17..19, Omaha) and /events/iowa-council-social-studies-annual-conference (2025-10-20,
+      Ankeny)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Shows SHSI promotes both NCGE and ICSS to Iowa educators. Does not name her.
+  W16:
+    url_or_tool_call: ICSS 2025 program Google Doc export (docs.google.com/document/d/11Tm3JJj7aK9g3QPWdJWvzqGu3ZXu-bzGKfBTgOvkMfk) -> corpus/w-icss-2025-program-doc.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'Presenter: Rachel Hansen, State Historical Society of Iowa'
+    - Muscatine
+    note: Conference 2025-10-20, FFA Enrichment Center, Ankeny. Her Breakout 5 session (Room 109, secondary US history) "History Happens Here (Using Local History to Teach National Change)" built on Muscatine's
+      1856 emancipation gathering and the 1868 Susan Clark school case. Keynote Dr. Karen Korematsu.
+  W17:
+    url_or_tool_call: ICSS 2026 preview Google Doc export (docs.google.com/document/d/1aPHUeQM3auPQvmY1SFYwjq9SzfQAbaUFAg_TQkTdP3Y) + iowasocialstudies.org/ 2026-Conference page -> corpus/w-icss-2026-preview-doc.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'Presenter: Rachel Hansen, State Historical Society of Iowa'
+    note: ICSS fall conference Monday 2026-10-19, Scheman Building, Ames; keynote Dr. Ryan Wise. Her Breakout 5 session "History Mystery" (artifact-interrogation protocol). Same name as the museum History
+      Mystery school-visit activity ($1 per student) (W10 field-trips page); the session page does not say she runs that program, so the link is a name match only. Preview doc undated.
+  W18:
+    url_or_tool_call: 'ICSS site: /ExecutiveBoard, /About, /Awards, /Professional-Development, /Annual-Conference, 2024 conference page (2024 program PDF could not be text-extracted: corrupt streams)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: 'No Hansen on exec board or awards. ICSS 2025-27 officers: Janet Wills (president), Dan Jones (Living History Farms education director, VP), Nicole Morrill, Todd Hospodarsky, Ann Krois (conference
+      director), EunJung Kim (UI), Chad Christopher (UNI), Kelsey Hudson, Catherine Mein (past president).'
+  W19:
+    url_or_tool_call: Iowa Youth Symposium Google Sites (sites.google.com/site/iayouthsymposium/ home, schedule-and-deadlines, committees, position-papers, conference-resources, advisor-faq) + Conference
+      Overview 2026 doc (docs.google.com/document/d/17oRsPcPEavYOxOoq4HuWkGgXVPxhcF8dkd63US49NbU) -> corpus/w-iys-*.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'Contact for IYS: Rachel Hansen rachel.hansen@das.iowa.gov'
+    - Model UN
+    - Muscatine (example filename Economic-Spain-Muscatine)
+    note: '2026 IYS = Wed-Thu 2026-10-28/29 at the Iowa State Capitol, Des Moines; Day 1 optional advisor activities include a Museum Collections Tour at the State Historical Museum. Keynote Dr. Karen Korematsu.
+      $10/delegate, $11/lunch. THE BRIDGE: same das.iowa.gov address as the SHSI staff table (W6), attached to the Model UN conference run by Iowa high-school advisors.'
+  W20:
+    url_or_tool_call: https://www.the-human-story.com/ (home) and /our-story.html (Weebly) -> corpus/w-the-human-story-*.txt/.raw; page-source decode of Cloudflare email-protection + social hrefs
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - My name is Rachel Hansen, I teach social studies at Muscatine High School
+    - National Geographic Society grant 2019
+    - Paul Salopek Out of Eden
+    - twitter.com/ms_hansen
+    - instagram.com/bighistoryteacher
+    - rachel.hansen@mcsdonline.org
+    note: Self-owned first-party site. Its page source links her to X @ms_hansen and Instagram @bighistoryteacher and shows the Muscatine district email. Undated (Weebly CSS build stamp 1719263531 = 2024-06-24;
+      that is a platform rebuild, not authorship).
+  W21:
+    url_or_tool_call: 'Locally Global podcast: RSS https://anchor.fm/s/121b4b28/podcast/rss (via iTunes lookup id=1493352817) -> evidence/w-locally-global-feed.xml, w-itunes-locally-global.txt'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - itunes:email rachelannhansen@gmail.com
+    - itunes:author Muscatine High School Model UN
+    - 'description: collaboration with a National Geographic Explorer based in Colombia'
+    note: 18 items, S1E0 2020-01-01 to S1E17 2020-04-29; nothing after (feed lastBuildDate 2026-10-01 is a host rebuild). Contact email local part suggests middle name Ann (inference).
+  W22:
+    url_or_tool_call: https://education.nationalgeographic.org/resource/audio-storytelling-classroom-rachel-hansen/ ('Last Updated September 15, 2026') -> corpus/w-natgeo-audio-storytelling.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - National Geographic Explorer Rachel Hansen
+    - social studies teacher at Muscatine High School
+    - 2019 Storytelling Grant "The Human Story"
+    - 2020 Explorer Collaboration Grant Akagera National Park Rwanda
+    - Locally Global podcast
+    note: Video made with Adobe (Storytelling for Impact). Bio on the page still says she teaches at Muscatine High School although SHSI shows her there since <= 2024-12 (stale bio). Transcript is her own
+      spoken words (english segment ~857 words).
+  W23:
+    url_or_tool_call: https://explorer-directory.nationalgeographic.org/rachel-hansen -> 302 -> https://explorers.nationalgeographic.org/directory/rachel-hansen ; Wayback 20250527195821 and 20231009214846
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: 'GAP: client-rendered Next.js shell ("Explorer Home"), no profile text retrievable by curl/WebFetch/Wayback (Wayback 2023 snapshot HTTP 429). Explorer facts rely on W22. The shell references a
+      profile photo explorer_profiles/rachel_hansen.jpg whose Cloudinary version stamp 1705545244 is about 2024-01-18 (inference only; not evidence of a bio edit).'
+  W24:
+    url_or_tool_call: https://community.oerproject.com/f/teacher-s-lounge/14508/ask-me-anything-about-using-geography-to-teach-history-with-rachel-hansen-november-2023 -> corpus/w-oerproject-ama-2023-11.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Distinguished AP Human Geography educator and National Geographic Explorer
+    - Big History educator
+    note: 'OER Project (Big History) staff-written intro, Nov 2023: lists the mapping tools she recommends (NatGeo MapMaker, Esri GeoInquiries, Our Spatial Brains, DocsTeach Mapping History, LOC Maps, ArcGIS
+      Online). 44 replies, 19,023 views. Written by OER staff, not by her.'
+  W25:
+    url_or_tool_call: 'https://community.oerproject.com/covid-19-oer-project/bhp-with-rachel-hansen/ (and blog.bighistoryproject.com mirror: HTTP 000)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - veteran BHP teacher Rachel Hansen
+    note: COVID-era daily Big History Project guidance on Khan Academy; consistent with Instagram handle bighistoryteacher.
+  W26:
+    url_or_tool_call: https://muscatinejournal.com/muscatine/news/local/muscatine-high-schools-rachel-hansen-receives-national-geography-teacher-award/article_6fdbad12-... (body ROT47-obfuscated in page
+      payload; decoded) -> corpus/w-muscatinejournal-ncge.decoded.txt
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Muscatine High School
+    - NCGE AP Human Geography Distinguished Teaching Award
+    - University of Northern Iowa master's
+    - Dr. Alex Oberle Geography Alliance of Iowa
+    - Kim Young
+    note: Page metadata datePublished 2022-05-11; NCGE primary page (W27) lists 2021 - discrepancy unresolved. Contains her direct quotes and the Philippines deforestation mapping project with KM Reyes.
+  W27:
+    url_or_tool_call: https://ncge.org/professional-development/awards-program/ (AP Human Geography Distinguished Teaching Award list)
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Rachel Hansen, IA - 2021
+    note: Primary confirmation of the award; state IA only (anchor to Muscatine comes from W26).
+  W28:
+    url_or_tool_call: https://scholarworks.uni.edu/etd/1343/ (record page); PDF https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=2338&context=etd -> HTTP 403 Cloudflare 'Just a moment' (evidence/w-uni-thesis-pdf-403-response.html)
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Rachel Hansen, University of Northern Iowa
+    - Master of Arts, Department of Geography, 2023
+    - First Advisor Alex Oberle
+    note: 'Thesis: Mapping for Impact: Actionable Spatial Literacy through Counter-Mapping (xv + 253 pp, May 2023). Abstract readable; full text WALLED. Abstract describes ninth-graders in a large urban
+      Iowa district (not Muscatine-sized) - setting of the study unresolved.'
+  W29:
+    url_or_tool_call: https://csbs.uni.edu/geography/ma (Featured Alumn) and insideUNI https://insideuni.uni.edu/social-science/geography-graduate-assistantship-help-iowa-high-school-students-find-their-passion
+      (2021-11-19)
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 13 years teaching high school
+    - UNI geography master's
+    - 'first graduate assistantship (spring 2022): Waterloo, Muscatine and two southeast Iowa districts'
+    - BA University of Iowa, history major, geography minor
+    note: 'Her own words about geography being marginalized and about finding the field late. Advisor/architect of the assistantship: Dr. Alex Oberle.'
+  W30:
+    url_or_tool_call: https://theaurorantoday.com/5267/feature/muscatine-future-leaders-model-un-summit-sparking-connections-for-muscatine-and-international-students/ (2025-02-28, student paper, byline
+      Maya Simpson) -> corpus/w-aurorean-*.txt
+    type: secondary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - Rachel Hansen, a former Muscatine advisor (spelled Racheal in source)
+    - Model UN
+    note: Student press; first name misspelled -> corroborating lead, not stand-alone proof. Summit held 2025-01-29/30 at the Merrill Hotel, ~200 students, 10 schools incl. Chinese sister-city schools;
+      planned by the Stanley Center (Krista Regennitter, program officer for global education), Muscatine MUN advisors and her; a 2026 summit is announced.
+  W31:
+    url_or_tool_call: Linktree https://linktr.ee/ms_hansen (Maigret hit; __NEXT_DATA__ parsed) and Flipboard https://flipboard.com/@ms_hansen -> evidence/maigret-hit-checks/
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'links: OER Project Big History, Iowa Youth Symposium, APHUG Website aphug-hansen.weebly.com, The Human Journey, Comm{UNITY}'
+    - Flipboard bio Teacher. Learner. Spelunker.; magazines AP Human Geography units 1-7, Big History Project, Design Thinking, Projects
+    note: 'Handle ms_hansen is the same handle her own site (W20) links for X. Linktree is the only page that connects the Muscatine-era handle to the Iowa Youth Symposium. Flipboard: 472 flips, 16 magazines;
+      visible flips date to ~2017 (stale). Four of five Linktree destinations are dead (aphug-hansen.weebly.com 404, the-human-journey.org no DNS, community-gallery.org Wix error).'
+  W32:
+    url_or_tool_call: https://x.com/ms_hansen logged-out fetch (HTTP 200 with profile text this time) -> evidence/w-x-ms_hansen-loggedout.txt
+    type: search-snippet
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'bio: I teach a little-learn a lot. Fridays are for flannels.'
+    - Muscatine, IA
+    - the-human-story.com
+    - Joined June 2010
+    note: LEAD FOR THE BROWSER LANE ONLY. Logged-out X is never VERIFIED (A1). Shows 11K posts, 2,031 following, 1,305 followers, joined June 2010, location still Muscatine. No last-post date available
+      logged-out.
+  W33:
+    url_or_tool_call: https://www.instagram.com/bighistoryteacher/ logged-out (og meta) -> evidence/w-instagram-bighistoryteacher-loggedout.txt/.raw
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - name Rachel Hansen
+    - handle self-linked from the-human-story.com
+    note: 1,043 followers, 961 following, 180 posts (public og:description). Bio/captions not visible logged-out.
+  W34:
+    url_or_tool_call: https://www.threads.com/@bighistoryteacher (og meta) -> evidence/w-chk-threads-bighistoryteacher.body
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - 'bio: I teach a little-learn a lot. Fridays are for flannels.'
+    - handle shared with Instagram
+    note: 255 followers, 5 threads. Control @zuck rendered normally (platform readable).
+  W35:
+    url_or_tool_call: https://www.tiktok.com/@bighistoryteacher and /@ms_hansen (embedded JSON state) -> evidence/w-chk-tiktok-bighistoryteacher.body
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - '@bighistoryteacher: nickname Rachel Hansen, statusCode 10222 (private)'
+    - '@ms_hansen: nickname maya, a different person'
+    note: Control @nasa returned a full profile (platform readable).
+  W36:
+    url_or_tool_call: 'Bluesky public API: app.bsky.actor.getProfile / graph.getFollows / graph.getFollowers / feed.getAuthorFeed for rachelhansen.bsky.social -> evidence/w-bsky-*.json'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - bio identical to X/Threads bio
+    - followers include Paul Salopek (paulsalopek.social)
+    - 'first post: I teach. I like making maps. I name my plants.'
+    note: Created 2023-09-23; 2 posts (2023-09-23 and 2023-10-06 "Thanks for coming to Iowa!"); 61 followers (56 returned); follows 76 (73 returned, no cursor).
+  W37:
+    url_or_tool_call: 'Maigret v0.6.5 x6: ~/Sites/hm-outreach/tools/venv-maigret/bin/maigret <handle> --json simple --no-progressbar --no-recursion --no-extracting --top-sites 500 --timeout 15 --folderoutput
+      <run>/maigret/ ; handles: ms_hansen, bighistoryteacher, rachelannhansen, rachelahansen, rachelhansen, rachel.hansen'
+    type: search-snippet
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Reports in maigret/. Every database searched 509 sites; bot-protection errors 7.47-8.25%; rachel.hansen also 10.22% unsupported-username-format. Handle-only claims are NOT identity; Maigret claimed
+      TikTok @ms_hansen, which is a different person.
+  W38:
+    url_or_tool_call: 'Control and collision checks (see evidence/w-control-and-collision-checks.yaml): Reddit, Letterboxd, Medium, Goodreads, Substack, GitHub, TikTok, Threads, Facebook, YouTube @RachelHansen,
+      Pinterest, Mastodon, rachelhansen.com'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Controls recorded per A6. Reddit, Letterboxd, Medium and Goodreads are walled; all other candidate accounts failed the two-anchor gate or are provably other people.
+  W39:
+    url_or_tool_call: 'SHSI org channels: YouTube @IowaHistory channel RSS (channel UC4mXabE1PpeaZYjUvIuznfA, 15 latest videos 2025-12-02..2026-09-11), oEmbed; Instagram instagram.com/iowahistory og meta;
+      Facebook State Historical Museum of Iowa og meta'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Instagram @iowahistory 4,146 followers / 1,388 posts; Facebook museum page 2,680 followers; YouTube series Iowa History 101 (monthly) and Think Like a Historian (2025-12-02). No video title/description
+      in the 15 mentions Hansen.
+  W40:
+    url_or_tool_call: 'iTunes Search API x3: ''Rachel Hansen Muscatine'' (podcast), ''Rachel Hansen Iowa history education'' (podcastEpisode), ''State Historical Society of Iowa'' (podcast) -> evidence/w-itunes-search-*.json'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Only Locally Global (2020) matched her. No guest-episode hit.
+  W41:
+    url_or_tool_call: 'Rejected / misattributed leads: Crossref api.crossref.org/works/10.1080/19338341.2019.1662467; blog.education.nationalgeographic.org/2022/08/11/how-a-student-explorer-team-took-environmental-action-from-space/
+      (author Kim Young); radioiowa.com/2025/01/14/nat-geo-explorer-brings-stories-of-her-global-exploits-to-central-iowa-audio/ (about Mireya Mayor)'
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Each was surfaced by an AI search summary as relating to her and each FAILED on the primary page (A10). Nothing from these pages is used as a claim about her.
+  W42:
+    url_or_tool_call: WebSearch (open-web search) ~28 queries on name + SHSI / NatGeo / NCGE / ICSS / Geography Alliance / Muscatine / UNI / podcasts / bio strings / handles / news / byline venues
+    type: search-snippet
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Used for leads only. Several AI-written summaries were wrong or over-reached (W41, plus an unsupported claim that the Muscatine and SHSI Rachel Hansens are different people). Nothing was accepted
+      from a snippet without a primary fetch.
+  W43:
+    url_or_tool_call: https://discovermuscatine.com/rachel-hansen-receives-distinguished-teaching-award/ and /muscatine-teacher-takes-over-national-geographic-instagram/ -> HTTP 403 to curl and to WebFetch
+    type: search-snippet
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors:
+    - NatGeo Instagram takeover (March 31, year unclear), Locally Global
+    note: WALLED. Snippet-level only; two named-people/date claims from these pages stay UNVERIFIED.
+  W44:
+    url_or_tool_call: Read-only grep of ~/Sites/hm-outreach/background/{warm-graph,network,associations-map,profile}.md and reference/corpus-inventory for her names, collaborators, SHSI/ICSS/NCGE/NatGeo/OER/Iowa
+      terms
+    type: primary
+    accessed_at: 2026-10-01 (local ~19:46-20:12)
+    target_anchors: []
+    note: Zero overlap with her named collaborators or Iowa education orgs; Jefferson Iowa Hospital Association session 2026-10-06 in Des Moines is the only physical-presence overlap.
