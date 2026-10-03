@@ -188,3 +188,70 @@
 
 ## 2026-08-28 (/gate)
 2026-08-28 | OpenAI — Enablement Lead, Government | https://www.linkedin.com/jobs/view/4457112828 | PASS(C1:2 C2:1 C3:2 = 5/6; customer-enablement/adoption seat for government orgs at a frontier lab — onboarding, training, workshops, exec briefings, hands-on labs, playbooks, and change-management advice on ChatGPT Enterprise + Agents per the 8/27 grounded read on the card. Training-led AI adoption IS the lane, and the required public-sector fluency maps directly onto his association/public-affairs vein — the strongest sector-requirement match of any card since the Anthropic Lina-sourcing PASS 7/21 (frontier-lab precedent). Not health. Comp $207K–$295K clears the floor with room; DC hybrid 3d/wk is commutable from Silver Spring (or SF — moot); no equity-in-lieu signal (OpenAI pays cash base that independently clears). C2:1 — large org, HM needs digging, but OpenAI's government/public-sector go-to-market is a named, publicly-staffed team so the search space is narrow. C3:2 — enormous exhaust: OpenAI for Government launch, federal-agency deals, congressional testimony, press. No warm path in network.md (grep clean), though the "DC-area public-sector-adjacent orgs" ecosystem vein is real adjacency for person-finder. CAVEATS before run: (1) card sourced from the LinkedIn guest page only — pull the canonical req on OpenAI's own careers board and verify terms before the app frame; (2) run the 50%-rule qual count on the full JD — the 6+ yrs customer-facing-enablement req reads clean but count it; (3) 107 applicants at 2 days (now ~3) = SUBMIT FAST shape, cf. One Call 8/21 and Alera 8/24; (4) DC 3d/wk is a real commute commitment, not remote — worth his eyes on the trade explicitly. NB: distinct from the 7/24 OpenAI AI Deployment Engineer NEAR-MISS — different req, no coding requirement here)
+
+## 2026-09-04 (/gate)
+2026-09-04 | Johnson & Johnson Innovative Medicine — Director, AI Literacy (AI Ambassador Programme Lead, R-082724) | https://www.careers.jnj.com/en/jobs/r-082724/director-ai-literacy/ | FAIL-per-rubric(C1:0 C2:1 C3:2 = 3/6; health rule — J&J self-describes as "the largest and most broadly based healthcare company in the world" and this is a Director seat in the Innovative Medicine (pharma) unit, so C1 fails on domain per the Parexel 8/26, LifeStance 8/15, One Call 8/21 precedents. The LANE is the purest match yet: design + run the AI Literacy & Adoption train-the-trainer program, coach internal ambassadors, build a distributed champion network, senior-stakeholder presentation required, change management preferred — pure training-led adoption, no pharma-credential or technical gate despite the internal "Data Science PL9" tag. 50%-rule count on the stated quals is ~6/6 (train-the-trainer/ambassador program design ✓ CT cohorts + IHA breakouts, digital literacy + knowledge-sharing platforms ✓, motivating champions across teams ✓, senior-stakeholder presentation ✓, cross-functional collaboration ✓, advanced degree ✓ MFA). Comp VERIFIED via Built In mirror $164,000–$282,900 clears floor with room; travel up to 30% passes; primary Titusville NJ, also Springhouse PA / New Brunswick NJ / Boston MA, "Remote will be considered" per card — not a hard gate. C2:1 — ~130K-person enterprise, but a named program (AI Ambassador Programme) inside Data Analytics & Computational Sciences narrows the search. C3:2 — enormous public exhaust. No warm path in network.md/associations-map (grep clean). LIVENESS FLAG: Built In marks the req "Removed June 23, 2026" while the 9/04 overnight ATS sweep tagged the board open — careers.jnj.com is Cloudflare-walled to fetch, so unresolved; verify on the canonical page before any app frame. Surfacing as the strongest FAIL-on-domain-only card since Parexel in case Jefferson names the org per ButterflyMX precedent; gate holds the rubric FAIL until he does. Application unaffected — volume machine can file)
+2026-09-04 | Foundever — Director, Enterprise AI Enablement (req 411013) | https://jobs.foundever.com/job/Director%2C-Enterprise-AI-Enablement/1377943800/ | PRE-FILTER(eligibility — the ONLY copy of req 411013 on Foundever's canonical SuccessFactors board displays location "ES" (Spain), posted Aug 14, 2026; a US-filtered board search returns zero AI Enablement rows. Lensa / Glassdoor / talent.com / Himalayas mirrors carry the same job id as "Remote, Any Location, US," and the board's own URL slug for the id still encodes "Remote-…-Any" — so the US framing existed once and the primary source no longer carries it (relocated or US variant pulled). US eligibility unconfirmable from source → pre-filter fires; card's Detail URL is the Lensa mirror, swap to canonical if resurrected. FOR THE RECORD had it cleared: C1 would be 1–2 (enterprise AI enablement for HR/Finance/Legal corporate functions with an explicit adoption/change/training pillar — the lane — but the seat is hybrid, at least half weighted to end-to-end use-case delivery/industrialization + building a team of AI product owners/automation experts; Foundever = 170K-person CX/BPO outsourcer, not health, not a target sector), C2:1, C3:2; 50%-rule ~5.5/6 on the six stated quals (10+ yrs transformation ✓, enterprise-scale delivery ✓, GenAI/copilots ✓, corporate functions + senior stakeholders ✓, global matrixed org partial, execution mindset ✓); comp NOT in JD (Glassdoor company-wide Director band ~$190K max is the card's unverified proxy — flag, not filter). No warm path)
+
+## 2026-09-12 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-13 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-14 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-15 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-16 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-17 (/gate)
+(no new roles — all 10 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-18 (/gate)
+(no new roles — all 8 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-19 (/gate)
+(no new roles — all 8 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-21 (/gate)
+(no new roles — all 8 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-22 (/gate)
+2026-09-22 | Mathematica — Director of AI Transformation (AI Lead, req 2306) | https://careers.mathematica.org/job/washington/director-of-ai-transformation/727/84213062048 | PASS-ON-PAPER / DEAD REQ(C1:2 C2:2 C3:2 = 6/6; the seat is the lane by name — enterprise-wide AI adoption across all administrative functions, explicit "AI Change Management" pillar (training/communication/knowledge-sharing, business sponsors + AI champions), governance with security, budget/ROI, reports to the CIO; org = employee-owned policy research + evaluation firm (~1,900 staff, Princeton + DC) serving federal/state/foundation clients = public-sector-adjacent + mission-driven target sector, NOT a health org by self-description (health is one of five practice areas alongside education/employment/human services) so the health rule does not fire. Comp $170–210K + discretionary bonus + ESOP clears floor, no equity-in-lieu; locations Washington DC / Princeton / Remote; travel not stated. 50%-RULE ~6.5/7 required: 10+ yrs tech/digital transformation ✓, BS IT/CS or equivalent ✓ (equivalent), multi-disciplinary roadmaps in corporate ops ✓ (Beekeeper SVP Tech Services), AI use cases in corporate functions w/ measurable outcomes ✓ (Adaptiverse 500+ users; Hexagon -50% build time), innovation lifecycle ideation→scale ✓, AI/ML landscape + hands-on collab with engineers/security ✓, exec communication ✓; preferred professional-services ✓ (agency/consulting). C2:2 — HM named by reporting line in the JD: Akira Bell, SVP & CIO since 2018 (mathematica.org/staff/akira-bell). C3:2 — AI Principles & Position Statement, "AI in action" feature, CMS gen-AI chatbot case, FedRAMP platform, Bell's own CIO-role blog, Nextgov coverage. No warm path in network.md/associations-map (grep clean). HARD LIVENESS FLAG — REQ IS DEAD: Wayback JSON-LD shows datePosted 2025-07-25 (~14 months); careers.mathematica.org (old Radancy board) is decommissioned — every URL incl. this one returns an EMPTY 200 body with a Location header to the new Cornerstone board (mathematica.csod.com/ux/ats/careersite/4), which is exactly what the overnight sweep misread as "Board: open"; the Cornerstone board's Google-indexed reqs and Built In (0 open) show no AI Transformation role; Ladders/SimplyHired/peopleclick are recycling the 2025 copy (peopleclick 404s). Cornerstone search API is auth-walled (401) so a browser check is the only remaining confirmation. Per the Crone doctrine no app frame and no /run-role unless Jefferson names the org — surfacing because it is a 6/6 on-lane org with a named HM; Curriculum Associates 8/21 precedent = his call to convert to an org play. Sweep-tooling note: treat empty-200-with-Location on Radancy boards as DEAD, not open)
+
+## 2026-09-23 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-24 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-25 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-26 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-27 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-28 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-29 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-09-30 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-01 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-02 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-03 (/gate)
+(no new roles — all 9 Inbox/Sourced/Review rows already scored)

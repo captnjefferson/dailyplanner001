@@ -89,3 +89,87 @@ Also: run Maigret on himself (find the 2011 profile outranking his good work), *
 
 ## Dead — don't waste time
 Zen (7.3yr) · SerpScan (5.2) · FOCA (3.7) · fb_friend_list_scraper (3.7) · h8mail (3.0) · **nexfil (2.9 — use Maigret)** · waybackpy (2.5) · glit (2.3) · holehe (1.9) · toutatis (1.7) · the-endorser (1.5) · LinkScope (1.5) · **blackbird (1.1 — Maigret is fresher and better)**. Exception: **waybackurls** is 2.3yr stale but recommended anyway — thin wrapper on a stable API, unmatched value-to-risk.
+
+---
+
+# The stack as a pipeline
+
+The catalogue above is sorted by *need*. This section sorts the same tools by *sequence* — how they chain across a single person-discovery run, mapped to the layers of `individual-discovery-process.md`. Read top to bottom: each stage feeds the next, and each tool carries its detectability class so the ethical call stays visible at the point of use.
+
+```
+① IDENTITY ─▶ ② PUBLISHING ─▶ ③ CONSUMPTION ─▶ ④ CIRCLES ─▶ ⑤ LIVE REQ ─▶ ⑥ STANDING WATCH ─▶ ⑦ SYNTHESIS
+   name→accounts   where they PUT   where they READ    who's around   the hidden seat   alert on the day    openings + his own hygiene
+```
+
+**Optional broad first pass — Manus (or any autonomous research agent).** Runs the open-web sweep from the vendor's cloud IPs and returns a compiled dossier. Useful to seed Stage ① and ② fast, but everything it returns is a *lead, not a fact* — re-verify each claim through the named tool below before it enters a report (composes with the adversarial-verification layer). Detectability: **INVISIBLE to the target** (vendor browses), but the **vendor logs the full query** — treat like a breach broker on provenance.
+
+## ① Identity resolution — name → every account (Layer 0–1)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| Maigret | Chase a known handle across ~3,000 platforms; chains bio/real-name/outbound links | ANONYMOUS HIT — handle tool, near-useless on a bare name |
+| crt.sh / CT logs | Personal domain → every subdomain a CA ever issued (`blog.`, `newsletter.`) | INVISIBLE — cleanest discovery mechanism in the file |
+| Hosted resolvers (IDCrawl, SherlockEye) | Name → candidate accounts; vendor's servers do the probing | INVISIBLE to target (vendor logs the query) |
+| grep.app / GitHub Code Search | Handle, email, or domain committed in any public repo | INVISIBLE |
+| Authenticated browser (LinkedIn) | Anchor identity; Schools tab carries Layer-1 anchors | ATTRIBUTABLE — profile views show his name |
+
+## ② Publishing map — where they PUT content (Layer 2)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| PublicWWW | Find Substack/Beehiiv/Calendly/analytics embeds in page source | INVISIBLE |
+| Feedly / RSS (`/feed`, `.atom`) | Every Substack, Ghost, Medium, WordPress, GitHub user publishes a feed | INVISIBLE — vendor fetches, feed carries no identity |
+| Filmot | Full-text YouTube-caption search — every panel/podcast/talk they spoke on | INVISIBLE |
+| yt-dlp | Pull the transcript so he can quote accurately | ANONYMOUS HIT on YouTube |
+| Wayback Machine | Their blog three years ago: deleted posts, prior positioning | INVISIBLE |
+| SlideShare / Scribd | Conference decks they uploaded and forgot | ANONYMOUS HIT |
+
+## ③ Consumption and register — where they READ (Layer 3)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| Substack `public_profile` API | `.subscriptions[]` — what they actually read (use the SLUG, not the id) | INVISIBLE |
+| LinkedIn Interests tab (authenticated) | Follows, Groups (= communities), Newsletters, Companies | ATTRIBUTABLE |
+| Arctic Shift / PullPush | Full Reddit history + *which subreddits* (the joinable-surfaces answer) | INVISIBLE — independent mirrors |
+| Citation mining (their own corpus) | Outbound-link ratio: real SOURCE vs vendors/their own properties | INVISIBLE |
+| GitHub stars/follows (`.atom`) | 30-second read; excellent for engineers, dead end otherwise | INVISIBLE |
+
+## ④ Circles and inroads — who's around them (Layer 4)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| Authenticated browser | Commenters, mutuals; on an inward-facing target, invert to THEIR commenters + recent hires | ATTRIBUTABLE |
+| Maigret chaining | Cross-platform circle from a resolved handle | ANONYMOUS HIT |
+| Show-notes / speaker-bio bridge | Highest-yield single step — surfaces the best finding even when identity is resolved | INVISIBLE / ANONYMOUS HIT |
+
+## ⑤ Live requisition — the hidden seat (Layer 6)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| waybackurls | Every archived job path + which ATS existed and was pulled | INVISIBLE — best value-to-risk in the file |
+| BuiltWith | Which ATS the careers page runs, so you know the endpoint shape | INVISIBLE |
+| Google dorks | `site:boards.greenhouse.io "Company"`, `site:jobs.ashbyhq.com company` | INVISIBLE |
+| ATS APIs (Workday CXS, Greenhouse, Ashby, Lever) | The live req + every screening question with its exact options | ANONYMOUS HIT on the ATS vendor, NOT the company |
+| Change detection → ATS JSON endpoint | Catches the req at creation, diffs JSON natively | ANONYMOUS HIT on vendor — materially quieter than the rendered page |
+| SEC EDGAR 8-K Item 5.02 / OpenCorporates / GuideStar 990 | Why the seat opened, in the company's own words | INVISIBLE |
+
+## ⑥ Standing watch — alert the day they move (Layer 7 + presence loop)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| Google Alerts | One per person, one per company | INVISIBLE — but laggy and BLIND to LinkedIn |
+| Hosted change detection (visualping, changedetection.io hosted) | Watch a page; polls from the vendor's crawler | INVISIBLE to target — prefer over self-hosting |
+| MyTweetAlerts | Email alert on any X search incl. `from:handle` | INVISIBLE |
+| LinkedIn briefing watch (Chrome) | The gap the whole catalogue can't fill — nothing alerts on a person's LinkedIn posts | Least-detectable LinkedIn option (native bell is ATTRIBUTABLE) |
+
+## ⑦ Synthesis — openings + his own hygiene (Layer 5b/5)
+
+| Tool | Purpose | Detectability |
+|---|---|---|
+| Humantic AI | DISC/buyer-personality read from a LinkedIn URL, to tune register | INVISIBLE to target (vendor pulls public profile); vendor logs his query |
+| Territory-term match (Layer 5b) | Sort their surface into OCCUPIED/PEER/OPEN/MENTIONED-UNDEVELOPED/VOID | INVISIBLE — runs against the already-collected corpus |
+| ExifTool | Strip author/template/prior-employer metadata from his résumé before sending | INVISIBLE |
+| Maigret on himself + justdelete.me | Find the stale profile outranking his good work; clean it up | mixed — his own accounts |
+| MuckRack / HARO / Expert directories | Add himself so journalists and programmers find him | ATTRIBUTABLE by design — being found is the point |
+
+**The through-line:** the quietest tools (INVISIBLE) do the discovery; the one unavoidable ATTRIBUTABLE step is the authenticated LinkedIn browser, which is why it's spent deliberately and late. The loud recon frameworks (theHarvester, SpiderFoot, Amass-default, HTTrack) appear nowhere in this pipeline — they return attack-surface data with zero job-search value from an action that looks exactly like pre-attack recon.
