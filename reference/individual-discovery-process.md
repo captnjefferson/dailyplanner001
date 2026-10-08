@@ -29,7 +29,7 @@ options:
   write_attio: false
 paths:
   jefferson_corpus: "~/Sites/hm-outreach/reference/corpus-inventory-2026-08-26.md"
-  territory_terms: "~/Sites/hm-outreach/reference/territory-terms.md"
+  subject_terms: "~/Sites/hm-outreach/reference/subject-terms.md"
   run_dir: "~/Sites/hm-outreach/runs/YYYY-MM-DD-<slug>/"   # person slug for AMBIENT and
                                                           # FULL_JOB (the person is the unit
                                                           # of work); org slug only for an
@@ -39,7 +39,7 @@ permitted_touch_types: default   # default = INVISIBLE, ANONYMOUS-HIT, and discl
                                  # is proposed to Jefferson, never executed.
 ```
 
-Record harmless assumptions. Ask only when a missing input would materially alter scope or authorize an external action. **A missing `jefferson_corpus` or `territory_terms` path is exactly such a case — Layer 5b cannot run without them and must not be improvised.**
+Record harmless assumptions. Ask only when a missing input would materially alter scope or authorize an external action. **A missing `jefferson_corpus` or `subject_terms` path is exactly such a case — Layer 5b cannot run without them and must not be improvised.**
 
 ## Authority and conflict policy
 
@@ -163,7 +163,7 @@ The run is read-only outside its own directory.
 
 ## Layer 0 — Frame (one ledger row)
 
-Record: target, owner, mode, desired outcome, today's date, absolute windows, assumptions, applicable layers, depth, permitted touch types, corpus and territory-terms paths (confirm both are readable — if either is not, stop and ask), the created run directory, and the todo ledger.
+Record: target, owner, mode, desired outcome, today's date, absolute windows, assumptions, applicable layers, depth, permitted touch types, corpus and subject-terms paths (confirm both are readable — if either is not, stop and ask), the created run directory, and the todo ledger.
 
 ## Layer 1 — Identity resolution
 
@@ -301,27 +301,27 @@ source_ids: []
 
 Refuted claims are removed or corrected, not softened. UNCONFIRMABLE claims are qualified in place and may not support an opening or a touch.
 
-## Layer 5b — Openings (three ledger rows: corpora sized · terms matched · territories classified and ranked)
+## Layer 5b — Openings (three ledger rows: corpora sized · terms matched · subjects classified and ranked)
 
 The actual deliverable. Produce it on every FULL_JOB and AMBIENT run, ranked, from the verified Layer 2–3 corpus.
 
-**Load `paths.territory_terms` and `paths.jefferson_corpus` first, and check both for a DRAFT or provisional banner** — a self-declared draft fails `corpus_loaded_from_named_path`; readability alone is not the test. If either is unreadable, Layer 5b does not run and the acceptance row `corpus_loaded_from_named_path` fails. **Never improvise Jefferson's territory terms or his positioning** — an invented list produces a plausible, ranked, entirely wrong openings analysis, and nothing downstream catches it.
+**Load `paths.subject_terms` and `paths.jefferson_corpus` first, and check both for a DRAFT or provisional banner** — a self-declared draft fails `corpus_loaded_from_named_path`; readability alone is not the test. If either is unreadable, Layer 5b does not run and the acceptance row `corpus_loaded_from_named_path` fails. **Never improvise Jefferson's subject terms or his positioning** — an invented list produces a plausible, ranked, entirely wrong openings analysis, and nothing downstream catches it.
 
-Size both corpora before matching and report both **as documents and words** (`N documents / M words`) — an unnamed unit makes two runs incomparable. Then classify per territory:
+Size both corpora before matching and report both **as documents and words** (`N documents / M words`) — an unnamed unit makes two runs incomparable. Then classify per subject:
 
-Classes are assigned by **distinct documents**, never raw occurrences — raw counts are the noise floor in a large corpus and a theme in a small one. `D` = documents in the fetchable corpus containing the territory; `N` = total documents. **Every territory gets exactly one class; the bands below are exhaustive and do not overlap.**
+Classes are assigned by **distinct documents**, never raw occurrences — raw counts are the noise floor in a large corpus and a theme in a small one. `D` = documents in the fetchable corpus containing the subject; `N` = total documents. **Every subject gets exactly one class; the bands below are exhaustive and do not overlap.**
 
 - **OCCUPIED** — `D ≥ N/2` **and** they frame it: they define the terms, argue a position, or others cite them on it. Mere frequency is not leading. Name these so he does **not** lead with them; leading on a subject someone owns reads as agreement, not contribution.
 - **PEER** — `D ≥ 3`, developed (mechanism, numbers, or a worked argument — not just mentions), but below the OCCUPIED bar. He is level: contribute, don't instruct.
 - **OPEN** — `D ≥ 3` but never developed: recurring mentions with no mechanism, no numbers, no argument. The wedge.
-- **MENTIONED-UNDEVELOPED** — `D` is 1 or 2 on a territory where his standing is STRONG. Ranks with OPEN and is labeled thin, with the document count shown. This band exists because a 1–2 document hit is neither absence nor a theme, and without it nearly half the board can end up unclassifiable on a large corpus.
+- **MENTIONED-UNDEVELOPED** — `D` is 1 or 2 on a subject where his standing is STRONG. Ranks with OPEN and is labeled thin, with the document count shown. This band exists because a 1–2 document hit is neither absence nor a theme, and without it nearly half the board can end up unclassifiable on a large corpus.
 - **VOID** — `D = 0` across the fetchable corpus where his standing is STRONG. The sharpest opening.
 
-**The deliverable is always deliverable.** A VOID or OPEN on a MEDIUM or THIN territory does not rank top three — but if no STRONG territory yields one, rank the best available anyway and say so in one line: *"no STRONG-standing opening found; ranked on MEDIUM standing."* Returning no ranking at all is not an outcome. Returning a ranking that quietly rounded a 2-document hit down to VOID is worse — that is the invented-analysis failure this layer is built to prevent, one level up.
+**The deliverable is always deliverable.** A VOID or OPEN on a MEDIUM or THIN subject does not rank top three — but if no STRONG subject yields one, rank the best available anyway and say so in one line: *"no STRONG-standing opening found; ranked on MEDIUM standing."* Returning no ranking at all is not an outcome. Returning a ranking that quietly rounded a 2-document hit down to VOID is worse — that is the invented-analysis failure this layer is built to prevent, one level up.
 
 Per ranked row: rank, class, evidence (their own words, quoted, with a source ID), corpus coverage for that term, Jefferson's backing piece **or an explicit "strong standing, no linkable proof"**, and the suggested interaction type.
 
-Run the null-result regex from the territory-terms file and report the count — "zero across N pieces" is standable; "they don't seem to cover it" is not. A noisy term (flagged in the terms file) counts only when it co-occurs with a second term from the same territory. If the corpus is walled, label the VOID **INFERRED-FROM-FETCHABLE** and name the wall that could be hiding it. A VOID on a MEDIUM or THIN territory never ranks top three.
+Run the null-result regex from the subject-terms file and report the count — "zero across N pieces" is standable; "they don't seem to cover it" is not. A noisy term (flagged in the terms file) counts only when it co-occurs with a second term from the same subject. If the corpus is walled, label the VOID **INFERRED-FROM-FETCHABLE** and name the wall that could be hiding it. A VOID on a MEDIUM or THIN subject never ranks top three.
 
 Prefer the target's own words as hooks — the highest-value case is their own words making his argument. **Note what they get right**, so he does not go in condescending. Provide angles, never ghostwritten prose.
 
@@ -569,5 +569,5 @@ Luma API · YouTube RSS and oEmbed · podcast RSS and the iTunes lookup API (`it
 ## A11. Jefferson's inputs
 
 - **Corpus inventory:** `~/Sites/hm-outreach/reference/corpus-inventory-2026-08-26.md` — themes, his edge per theme, published URLs.
-- **Territory terms:** `~/Sites/hm-outreach/reference/territory-terms.md` — the Layer 5b search list, standing grades, noise flags, exclusions, and the do-not-search list of his own coinages.
+- **Subject terms:** `~/Sites/hm-outreach/reference/subject-terms.md` — the Layer 5b search list, standing grades, noise flags, exclusions, and the do-not-search list of his own coinages.
 - **Standing and proof points:** `~/Sites/hm-outreach/background/profile.md` — including the hard rules (never framed as an engineer or as writing code; Captain Tomorrow clients never named; no ROI claims on client work).

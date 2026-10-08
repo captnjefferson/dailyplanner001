@@ -1,20 +1,20 @@
-# Jefferson's territory terms — the Layer 5b search list
+# Jefferson's subject terms — the Layer 5b search list
 
-**ACTIVE — v1.0, 2026-08-26.** Reviewed by Jefferson and wired into the process doc as `paths.territory_terms`. T7 graded STRONG and T9 corrected by him on the same date.
+**ACTIVE — v1.0, 2026-08-26.** Reviewed by Jefferson and wired into the process doc as `paths.subject_terms`. T7 graded STRONG and T9 corrected by him on the same date.
 
 **What this is for.** Layer 5b classifies a target's subjects as OCCUPIED / PEER / OPEN / VOID. That requires searching *their* corpus for the subjects Jefferson has standing on, and counting hits. This is that list.
 
 **The rule that makes it work:** these are terms a **target** would plausibly write, not Jefferson's phrasing. His coinages ("deficit machine," "the hollow click") return zero on everyone — searching them manufactures a VOID on every theme for every person. Those live in §3 and are never fed to the regex.
 
-**Standing grades.** VOID = "absent subject where Jefferson has demonstrated standing." Standing alone decides the rank: a **STRONG** territory can take the top three whether or not anything published backs it. Where there's no linkable piece, the report says so — "strong standing, no linkable proof" — so he knows he's going in on his own authority rather than on a link. A VOID on a MEDIUM or THIN territory never ranks top three.
+**Standing grades.** VOID = "absent subject where Jefferson has demonstrated standing." Standing alone decides the rank: a **STRONG** subject can take the top three whether or not anything published backs it. Where there's no linkable piece, the report says so — "strong standing, no linkable proof" — so he knows he's going in on his own authority rather than on a link. A VOID on a MEDIUM or THIN subject never ranks top three.
 
 Why the grades exist at all: absence in someone else's corpus is trivially easy to find, so without a standing test the process ranks a VOID highest exactly where Jefferson has least to say.
 
-**Precision.** Terms marked ⚠️ are common enough to hit anywhere. A bare hit on a noisy term is not evidence of a theme — require it to co-occur with a second term from the same territory, or discard it.
+**Precision.** Terms marked ⚠️ are common enough to hit anywhere. A bare hit on a noisy term is not evidence of a theme — require it to co-occur with a second term from the same subject, or discard it.
 
 ---
 
-## §1 — Searchable territory terms
+## §1 — Searchable subject terms
 
 ### T1. AI adoption & enablement — **STRONG** · backing: "Why AI rollouts fail" (LinkedIn, 2026-06-17)
 Standing: has run the rollouts. 10+ client orgs across public affairs, healthcare associations, education, professional services; ~20 staff incl. senior leadership trained at a national lobbying firm plus their custom AI playbook; a cohort serving 6 small businesses; PromptLab reaching ~400+ professionals; DMAS 2024 keynote to 200+.
@@ -151,7 +151,7 @@ Standing: grew the team from 1 to 4–5 FTEs with 6+ year retention; directed R&
 
 ## §2 — Exclusions (never search, never cite)
 
-- **Docent / the museum thesis.** Internal and unbranded. Never appears in a comment, note, or opening. Not a territory.
+- **Docent / the museum thesis.** Internal and unbranded. Never appears in a comment, note, or opening. Not a subject.
 - *(Removed 2026-08-26 — the IHA engagement is no longer an exclusion. Jefferson lifted the embargo; it is usable in applications, covers, and resumes. Its correct framing is in T7: two ~100-person breakouts, NOT "a keynote for 1,500." This bullet previously contradicted T7 head-on and governed a rank-1 opening.)*
 - **Named Captain Tomorrow clients.** Anonymized descriptors only.
 - **Any ROI or outcome claim on Captain Tomorrow client work.** None exist.
@@ -168,7 +168,7 @@ These are Jefferson's own framings. Searching a target's corpus for them returns
 
 ## §4 — Machine-readable list
 
-One regex per line, case-insensitive, for the Layer 5b null-result count. Territory tag first, tab-separated.
+One regex per line, case-insensitive, for the Layer 5b null-result count. Subject tag first, tab-separated.
 
 ```
 T1	AI adoption|adoption curve|user adoption
@@ -240,4 +240,4 @@ T9	R&D|research and development
 T9	scaling a team|headcount
 ```
 
-**Classification rule — the process doc governs; do not re-derive it from here.** Classes (OCCUPIED / PEER / OPEN / MENTIONED-UNDEVELOPED / VOID) are defined in the process doc's Layer 5b section and assigned by **distinct documents, never raw occurrences**. This file supplies the terms and the standing grades — the data — not the method. A VOID is always labeled INFERRED-FROM-FETCHABLE with the wall that could be hiding it named. A VOID or OPEN on a MEDIUM or THIN territory does not rank top three *unless no STRONG territory yields one*, in which case rank it and say so in a line. Every ranked row states whether a published piece backs it or the standing is spoken only.
+**Classification rule — the process doc governs; do not re-derive it from here.** Classes (OCCUPIED / PEER / OPEN / MENTIONED-UNDEVELOPED / VOID) are defined in the process doc's Layer 5b section and assigned by **distinct documents, never raw occurrences**. This file supplies the terms and the standing grades — the data — not the method. A VOID is always labeled INFERRED-FROM-FETCHABLE with the wall that could be hiding it named. A VOID or OPEN on a MEDIUM or THIN subject does not rank top three *unless no STRONG subject yields one*, in which case rank it and say so in a line. Every ranked row states whether a published piece backs it or the standing is spoken only.

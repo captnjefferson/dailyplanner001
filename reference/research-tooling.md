@@ -167,7 +167,7 @@ The catalogue above is sorted by *need*. This section sorts the same tools by *s
 | Tool | Purpose | Detectability |
 |---|---|---|
 | Humantic AI | DISC/buyer-personality read from a LinkedIn URL, to tune register | INVISIBLE to target (vendor pulls public profile); vendor logs his query |
-| Territory-term match (Layer 5b) | Sort their surface into OCCUPIED/PEER/OPEN/MENTIONED-UNDEVELOPED/VOID | INVISIBLE — runs against the already-collected corpus |
+| Subject-term match (Layer 5b) | Sort their surface into OCCUPIED/PEER/OPEN/MENTIONED-UNDEVELOPED/VOID | INVISIBLE — runs against the already-collected corpus |
 | ExifTool | Strip author/template/prior-employer metadata from his résumé before sending | INVISIBLE |
 | Maigret on himself + justdelete.me | Find the stale profile outranking his good work; clean it up | mixed — his own accounts |
 | MuckRack / HARO / Expert directories | Add himself so journalists and programmers find him | ATTRIBUTABLE by design — being found is the point |

@@ -55,7 +55,7 @@ Goal: know who to aim at, and where they actually live.
 
 ⚠️ The old page `3c7164c1-810d-8118-ab1f-cf3cd5c9e38d` is DEPRECATED and kept only for run history. Do not run from it — its layer definitions are pre-v1.0.
 
-Its two inputs live on disk and are named in its run-input block: `reference/corpus-inventory-2026-08-26.md` (Jefferson's themes and backing pieces) and `reference/territory-terms.md` (the Layer 5b search list). Memory pointer: `reference_individual_discovery_process.md`.
+Its two inputs live on disk and are named in its run-input block: `reference/corpus-inventory-2026-08-26.md` (Jefferson's themes and backing pieces) and `reference/subject-terms.md` (the Layer 5b search list). Memory pointer: `reference_individual_discovery_process.md`.
 
 Designed with Jefferson 2026-08-25, proven end-to-end on Tenex the same day. The bullets above are the SUBSET that fit this file; the canonical doc is the process. Per person on an org play: **Layers 1–3 for everyone on the roster** (identity resolution → publishing map → consumption + register), **Layer 4 (circles/orbit) once promoted to an active play**, **Layer 5/5b synthesis to Attio incl. the openings analysis (OCCUPIED / PEER / OPEN / VOID) — the actual deliverable.** Its tooling reference (Substack profile API, Interests-tab extraction, citation mining + the diagnostic ratio, Maigret — permanent install at `tools/venv-maigret/`), ethics/detectability ladder, reach-per-follower rule, and touch catalogue all bind here.
 
