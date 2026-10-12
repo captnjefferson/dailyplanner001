@@ -1,0 +1,20 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username marylynnbender1 on:
+[+] Trello: https://trello.com/marylynnbender1
+[+] Upwork: https://upwork.com/fl/marylynnbender1
+[+] fixya: https://www.fixya.com/users/marylynnbender1
+[+] Pling: https://www.pling.com/u/marylynnbender1/
+[+] joyreactor.cc: https://joyreactor.cc/user/marylynnbender1
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for marylynnbender1 saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-12-mary-lynn-bender/maigret/report_marylynnbender1_simple.json
+[*] Short text report:
+Search by username marylynnbender1 returned 5 accounts.
+Extended info extracted from 0 accounts.
+Countries: nl, ru
+Interests (tags): apps, business, art, tasks, freelance, networking, forum, tech, coding, design

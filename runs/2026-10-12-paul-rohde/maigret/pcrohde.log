@@ -1,0 +1,19 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username pcrohde on:
+[+] Venmo: https://venmo.com/pcrohde
+[+] fixya: https://www.fixya.com/users/pcrohde
+[+] Pling: https://www.pling.com/u/pcrohde/
+[+] joyreactor.cc: https://joyreactor.cc/user/pcrohde
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for pcrohde saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-12-paul-rohde/maigret/report_pcrohde_simple.json
+[*] Short text report:
+Search by username pcrohde returned 4 accounts.
+Extended info extracted from 0 accounts.
+Countries: us, nl, ru
+Interests (tags): art, finance, fintech, forum, tech, apps, coding, design

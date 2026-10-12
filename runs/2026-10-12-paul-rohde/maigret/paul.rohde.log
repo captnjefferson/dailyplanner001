@@ -1,0 +1,34 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username paul.rohde on:
+[+] Codepen: https://codepen.io/paul.rohde
+[+] GitLab: https://gitlab.com/paul.rohde
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=paul.rohde&btnG=
+[+] Calendly: https://calendly.com/paul.rohde
+[+] Snapchat: https://www.snapchat.com/add/paul.rohde
+[+] TikTok: https://www.tiktok.com/@paul.rohde
+[+] Facebook: https://www.facebook.com/paul.rohde
+[+] Pbase: https://pbase.com/paul.rohde/profile
+[+] JSFiddle: https://jsfiddle.net/u/paul.rohde/
+[+] Tistory: https://paul.rohde.tistory.com/
+[+] Vivino: https://www.vivino.com/users/paul.rohde
+[+] fixya: https://www.fixya.com/users/paul.rohde
+[+] Lobsters: https://lobste.rs/u/paul.rohde
+[+] picturepush.com: https://paul.rohde.picturepush.com/
+[+] Chatujme.cz: https://profil.chatujme.cz/paul.rohde
+[+] Pling: https://www.pling.com/u/paul.rohde/
+[+] joyreactor.cc: https://joyreactor.cc/user/paul.rohde
+[+] Salon24.pl: https://www.salon24.pl/u/paul.rohde/
+[!] Too many errors of type "Unsupported username format" (10.02%)
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for paul.rohde saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-12-paul-rohde/maigret/report_paul.rohde_simple.json
+[*] Short text report:
+Search by username paul.rohde returned 17 accounts.
+Extended info extracted from 0 accounts.
+Countries: us, kr, cz, nl, ru, pl
+Interests (tags): coding, apps, tech, social, art, sharing, design, business, photo, blog, discussion, news, messaging, video, review, shopping, forum, dating

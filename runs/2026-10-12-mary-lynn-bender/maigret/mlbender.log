@@ -1,0 +1,39 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username mlbender on:
+[+] Bluesky: https://bsky.app/profile/mlbender.bsky.social
+[+] GitHub: https://github.com/mlbender
+[+] Twitter: https://twitter.com/mlbender
+[+] SoundCloud: https://soundcloud.com/mlbender
+[+] Pinterest: https://www.pinterest.com/mlbender/
+[+] Snapchat: https://www.snapchat.com/add/mlbender
+[+] Telegram: https://t.me/mlbender
+[+] TikTok: https://www.tiktok.com/@mlbender
+[+] 500px: https://500px.com/p/mlbender
+[+] HuggingFace: https://huggingface.co/mlbender
+[+] Codecademy: https://www.codecademy.com/profiles/mlbender
+[+] MyAnimeList: https://myanimelist.net/profile/mlbender
+[+] LibraryThing: https://www.librarything.com/profile/mlbender
+[+] Geocaching: https://www.geocaching.com/p/?u=mlbender
+[+] Paypal: https://www.paypal.com/paypalme/mlbender
+[+] Untappd: https://untappd.com/user/mlbender
+[+] Venmo: https://venmo.com/mlbender
+[+] fixya: https://www.fixya.com/users/mlbender
+[+] xHamster: https://xhamster.com/users/mlbender
+[+] Eintracht: https://community.eintracht.de/fans/mlbender
+[+] Pling: https://www.pling.com/u/mlbender/
+[+] joyreactor.cc: https://joyreactor.cc/user/mlbender
+[+] GitHubGist [GitHub]: https://gist.github.com/mlbender
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/mlbender
+[!] Too many errors of type "Bot protection" (8.64%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for mlbender saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-12-mary-lynn-bender/maigret/report_mlbender_simple.json
+[*] Short text report:
+Search by username mlbender returned 24 accounts.
+Extended info extracted from 0 accounts.
+Countries: us, tr, nl, ru
+Interests (tags): social, coding, apps, messaging, art, business, networking, design, photo, sharing, video, tech, hobby, finance, fintech, music, streaming, llm, education, anime, books, reading, geosocial, forum, porn, sport

@@ -1,0 +1,74 @@
+[1m[32m[*] DB auto-update: checking for updates...[0m
+[1m[32m[*] DB auto-update: downloading updated database (8144 sites, was 6206)...[0m
+[1m[32m[+] DB auto-update: database updated successfully (8144 sites)[0m
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username paulrohde on:
+[+] Disqus: https://disqus.com/paulrohde
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:paulrohde
+[+] GitHub: https://github.com/paulrohde
+[+] Bluesky: https://bsky.app/profile/paulrohde.bsky.social
+[+] Medium: https://medium.com/@paulrohde
+[+] Substack: https://substack.com/@paulrohde
+[+] YouTube: https://www.youtube.com/@paulrohde/about
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=paulrohde&btnG=
+[+] Giphy: https://giphy.com/channel/paulrohde
+[+] Facebook: https://www.facebook.com/paulrohde
+[+] Calendly: https://calendly.com/paulrohde
+[+] MixCloud: https://www.mixcloud.com/paulrohde/
+[+] About.me: https://about.me/paulrohde
+[+] OpenStreetMap: https://www.openstreetmap.org/user/paulrohde
+[+] TikTok: https://www.tiktok.com/@paulrohde
+[+] Academia.edu: https://independent.academia.edu/paulrohde
+[+] Snapchat: https://www.snapchat.com/add/paulrohde
+[+] Pinterest: https://www.pinterest.com/paulrohde/
+[+] Threads: https://www.threads.com/@paulrohde
+[+] Fiverr: https://www.fiverr.com/paulrohde
+[+] Figma: https://www.figma.com/@paulrohde
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=paulrohde&compact=true
+[+] Twitter: https://twitter.com/paulrohde
+[+] TradingView: https://www.tradingview.com/u/paulrohde
+[+] Flickr: https://www.flickr.com/photos/paulrohde
+[+] Paypal: https://www.paypal.com/paypalme/paulrohde
+[+] Chess: https://www.chess.com/member/paulrohde
+[+] IFTTT: https://www.ifttt.com/p/paulrohde
+[+] Vimeo: https://vimeo.com/paulrohde
+[+] Duolingo: https://www.duolingo.com/profile/paulrohde
+[+] Geocaching: https://www.geocaching.com/p/?u=paulrohde
+[+] LinkedIn: https://linkedin.com/in/paulrohde
+[+] iNaturalist: https://www.inaturalist.org/people/paulrohde
+[+] Gumroad: https://www.gumroad.com/paulrohde
+[+] Flipboard: https://flipboard.com/@paulrohde
+[+] Slides: https://slides.com/paulrohde
+[+] Picsart: https://picsart.com/u/paulrohde
+[+] Twitch: https://twitchtracker.com/paulrohde
+[+] Imgflip: https://imgflip.com/user/paulrohde
+[+] Venmo: https://venmo.com/paulrohde
+[+] Upwork: https://upwork.com/fl/paulrohde
+[+] Untappd: https://untappd.com/user/paulrohde
+[+] Geeksfor Geeks: https://www.geeksforgeeks.org/profile/paulrohde
+[+] Tinder: https://www.tinder.com/@paulrohde
+[+] Periscope: https://www.pscp.tv/paulrohde
+[+] Freesound: https://freesound.org/people/paulrohde/
+[+] mastodon.social: https://mastodon.social/@paulrohde
+[+] Codementor: https://www.codementor.io/@paulrohde
+[+] fixya: https://www.fixya.com/users/paulrohde
+[+] Smule: https://www.smule.com/paulrohde
+[+] Pling: https://www.pling.com/u/paulrohde/
+[+] Revolut.me: https://revolut.me/paulrohde
+[+] GitHubGist [GitHub]: https://gist.github.com/paulrohde
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/paulrohde
+[+] joyreactor.cc: https://joyreactor.cc/user/paulrohde
+[+] Couchsurfing: https://www.couchsurfing.com/people/paulrohde
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for paulrohde saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-12-paul-rohde/maigret/report_paulrohde_simple.json
+[*] Short text report:
+Search by username paulrohde returned 55 accounts.
+Extended info extracted from 0 accounts.
+Countries: us, in, nl, ru
+Interests (tags): social, apps, sharing, business, art, networking, video, coding, design, freelance, tech, education, streaming, photo, finance, forum, hobby, messaging, blog, music, geosocial, fintech, discussion, writing, shopping, gaming, wiki, maps, research, trading, professional, science, news, dating, archive, travel
