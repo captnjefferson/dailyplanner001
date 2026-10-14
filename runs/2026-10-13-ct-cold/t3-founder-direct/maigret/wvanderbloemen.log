@@ -1,0 +1,32 @@
+[1m[32m[*] DB auto-update: checking for updates...[0m
+[1m[32m[*] DB auto-update: database is up to date (8144 sites)[0m
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username wvanderbloemen on:
+[+] Twitter: https://twitter.com/wvanderbloemen
+[+] Medium: https://medium.com/@wvanderbloemen
+[+] Giphy: https://giphy.com/channel/wvanderbloemen
+[+] Snapchat: https://www.snapchat.com/add/wvanderbloemen
+[+] Pinterest: https://www.pinterest.com/wvanderbloemen/
+[+] Paypal: https://www.paypal.com/paypalme/wvanderbloemen
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=wvanderbloemen&btnG=
+[+] TikTok: https://www.tiktok.com/@wvanderbloemen
+[+] Duolingo: https://www.duolingo.com/profile/wvanderbloemen
+[+] Upwork: https://upwork.com/fl/wvanderbloemen
+[+] Periscope: https://www.pscp.tv/wvanderbloemen
+[+] fixya: https://www.fixya.com/users/wvanderbloemen
+[+] Threads: https://www.threads.com/@wvanderbloemen
+[+] Pling: https://www.pling.com/u/wvanderbloemen/
+[+] joyreactor.cc: https://joyreactor.cc/user/wvanderbloemen
+[!] Too many errors of type "Bot protection" (8.64%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for wvanderbloemen saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/./report_wvanderbloemen_simple.json
+[*] Short text report:
+Search by username wvanderbloemen returned 14 accounts.
+Extended info extracted from 0 accounts.
+Countries: nl, ru
+Interests (tags): social, art, apps, video, messaging, sharing, design, business, blog, discussion, writing, photo, finance, fintech, education, freelance, networking, streaming, forum, tech, coding

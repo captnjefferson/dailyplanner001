@@ -1,0 +1,5 @@
+# Maigret — T3 (anonymous hits, no profile views; top 500 sites, no recursion)
+
+## wvanderbloemen (William Vanderbloemen) — run 2026-10-13 ~7:15 PM ET
+15 claimed. The handle is distinctive, so most are plausibly his, but each is a lead until a bio matches: X/Twitter @wvanderbloemen · Medium @wvanderbloemen (possible essays; check) · Threads @wvanderbloemen · TikTok @wvanderbloemen · Pinterest · Snapchat · Giphy · PayPal.me · Duolingo · Upwork (unlikely his) · Periscope (dead service) · fixya, Pling, joyreactor (noise). Instagram wvanderbloemen is confirmed separately (linked from his bio page). For the person read: X and Medium are the two worth opening in the browser pane for what he posts and reads.
+- Checked in the browser pane 7:20 PM: Medium @wvanderbloemen is his but stale (four Fortune Insiders columns, Aug–Sep 2016: "Why Every Entrepreneur Should Be More Like a Teenager", "How Investors Can Ruin Your Business", "The One Thing You Should Consider Before Accepting a Job Offer", "Why More Entrepreneurs Should Act Like Narcissists"). Useful only for his long-running themes (perseverance, playing the long game). X not opened (login wall).
