@@ -29,5 +29,5 @@ Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated ta
 
 ## Open for the lead
 - Humantic: done → `../humantic/chris-mangano.md` (c "The Questioner", D63 I54 S60 C65, 100%; low fit with Jefferson). Email him short, objective, bulleted, ROI-first; no superlatives, no social proof, no warm-up line. His ten-year IT company was Cartel Systems (1990–2000).
-- Glassdoor for Withum (2,400 people; the headline numbers only): pending.
+- Glassdoor for Withum (read 2026-10-14 ~2:40 AM): 3.7 on 535 reviews · 73% would recommend · CEO Patrick Walsh 94% approve · 68% positive outlook. Most recent reviews (Aug–Sep 2026) are about pay and busy-season hours; zero mentions of AI on the first page. A big-firm backdrop, not a signal about him.
 - FEC NJ/PA: retry when the key resets.

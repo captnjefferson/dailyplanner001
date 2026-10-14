@@ -699,3 +699,6 @@ Each source is listed with its citation key and what it was used for.
 - `t1-candidates.md` §1
 - `jeff-luther.md` (v1). Its facts were reused where re-verified; its Ethan King and Built, Not Shelved facts were re-read today.
 - `linkedin-reads.md`
+
+### Review sites (lead, in Jefferson's Chrome, 2026-10-14 ~2:40 AM ET)
+Glassdoor: Home Probe shows 5.0 on one review, three jobs and one positive interview report. Too thin to read anything into. Google, Yelp and Listen360 (the agent's pointers) not yet read.
