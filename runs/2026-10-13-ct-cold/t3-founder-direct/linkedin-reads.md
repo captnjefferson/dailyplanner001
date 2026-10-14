@@ -35,3 +35,6 @@
 ## 2026-10-13 ~11:00 PM ET — Vanderbloemen, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/williamvanderbloemen/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; Newsletters/Groups/Companies/Schools pills selected but the list did not re-render) · /details/recommendations/ (rendered empty). Findings in william-vanderbloemen-person.md §10. No connection requests, follows, messages or reactions made.
 Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (label click). Written to §10. Read-only.
+
+## 2026-10-14 ~12:15 AM ET — Flanagan, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/about-ryan-flanagan/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in ryan-flanagan-lead-notes.md (to merge). No connection requests, follows, messages or reactions made.
