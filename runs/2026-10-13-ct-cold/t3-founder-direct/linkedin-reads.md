@@ -38,3 +38,6 @@ Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (
 
 ## 2026-10-14 ~12:15 AM ET — Flanagan, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/about-ryan-flanagan/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in ryan-flanagan-lead-notes.md (to merge). No connection requests, follows, messages or reactions made.
+
+## 2026-10-14 ~1:35 AM ET — Winters, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/maggiewinters/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in maggie-winters-lead-notes.md. No connection requests, follows, messages or reactions made.

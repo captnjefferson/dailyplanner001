@@ -19,3 +19,6 @@ Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (
 
 ## 2026-10-14 ~12:30 AM ET — Luther, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Profile located via LinkedIn people search ("Jeff Luther Home-Probe Charleston") → linkedin.com/in/jeff-luther. Pages opened: /recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in jeff-luther-lead-notes.md (to merge). No connection requests, follows, messages or reactions made.
+
+## 2026-10-14 ~1:30 AM ET — Dixon, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/johnscottdixon/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in john-scott-dixon-lead-notes.md. No connection requests, follows, messages or reactions made.

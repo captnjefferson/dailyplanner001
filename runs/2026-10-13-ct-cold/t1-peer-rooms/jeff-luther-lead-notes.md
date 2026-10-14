@@ -32,7 +32,7 @@ Written 2026-10-14 ~12:35 AM ET. LinkedIn read in the lead's own authenticated t
 - No itemized federal contributions under "Jeff Luther" or "Jeffrey Luther" in South Carolina. A Georgia check (his Atlanta years) is pending: the FEC demo key rate-limited after the first batch tonight.
 
 ## Open for the lead
-- Humantic: pending.
+- Humantic: done → `../humantic/jeff-luther.md` (DIS "The Pioneer", D67 I66 S60 C56, 100%; strong fit with Jefferson). Write to him first-name-only, informal and direct, 100–120 words, one exciting idea, a casual close; social proof and warmth work; no negations, no info dump.
 - His LinkedIn newsletter: open the Newsletters tab on his activity page (next pass).
 - Glassdoor/Indeed for Home-Probe: pending (small company; may not exist).
 - Georgia FEC rows: retry when the key resets.

@@ -696,3 +696,18 @@ Both problems are in his own words and still open as of his latest statement.
 - His marketing arc holds: restaffed marketing (Feb), "AEO not SEO" (Apr), and now a "love" on a former marketer's GEO-and-agents post.
 
 **Political giving (FEC schedule A; in bounds per Jefferson's 10/13 ruling).** No itemized federal contributions under "Vanderbloemen" in Texas. State-level (Texas Ethics Commission) not checked.
+
+## 11. Glassdoor, signed-in pass (lead, in Jefferson's Chrome, 2026-10-14 ~12:40 AM ET)
+
+Signed in, Glassdoor shows five reviews per page and redirects page 2 back to page 1; the rest sit behind its "Share your experience to get access" gate, which we do not cross. So the readable set is six of fifteen. Employee-side only; never for a card.
+
+| Date | Rating | Title | Role | Cons, in their words |
+|---|---|---|---|---|
+| Jul 11, 2026 | 2.0 | Fun culture and teamwork overshadowed by poor communication | Operations, former, 3+ yrs | "poor communication from leadership, constant changing processes and much more change, opaque managerial style" (Pros: "start up vibes at the beginning, close knit team") |
+| Jun 9, 2026 | 2.0 | The Mission Kept Me Here Longer Than It Should Have | Executive search team member, former, 3+ yrs | read in full earlier (constant change; centralized decision-making; turnover at all levels) |
+| Nov 7, 2024 | 1.0 | The Mission is Not What You Think | Executive search recruiter, former, 1+ yr | "no trust or upscaling yourself in any way. Leadership is unpredictable and unprofessional, communication is not clear or reliable. Sadly no change occurred between the reviews I read before starting and when I left." |
+| Jul 3, 2024 | 4.0 | Fun Place To Work! | Executive search recruiter, current, 1+ yr, Houston | "Not much room for upward mobility. Communication between some teams… needs improvement. Lack of commission incentives" (Pros: "Understanding management, positive and healthy culture, great health benefits") |
+| Oct 18, 2022 | 1.0 | Sad work experience | Recruiter, former | "a lot of turnover both with leadership and employees during the year that I was there… recruiters had the lowest pay… the CEO only praises people he likes. If he does not like you he will not speak to you at all." |
+| Feb 14, 2022 | 5.0 | (untitled) | Anonymous, current, 10+ yrs | "Would be better if we had flexibility to work from home." (Pros: "Great culture, work that is meaningful and caring environment") |
+
+**Delta.** The two 2026 reviews, from different departments, use the same words: change, communication, opaque. The 2024 and 2022 negatives are about pay, mobility and favoritism. What changed in the complaints is the subject: from "how I'm paid and seen" to "nothing holds still." That matches the team-page churn and the Jun 9 "constant change" review, and it is the backdrop for any handoff of AI from him to the firm.

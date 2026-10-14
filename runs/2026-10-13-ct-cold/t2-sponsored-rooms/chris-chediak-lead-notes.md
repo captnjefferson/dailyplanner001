@@ -32,6 +32,15 @@ Written 2026-10-14 ~12:05 AM ET. LinkedIn read in the lead's own authenticated t
 - Household rows under the surname in Sacramento 95864: Janet Chediak, attorney, $150 to Steve Garvey for US Senate (Jul and Sep 2024); Grace Chediak (Google/Vungle attorney) small-dollar to Biden 2020, Harris Victory Fund 2024, Dan Tully for Congress 2025; Lynsey Chediak small-dollar to Biden 2020. Their giving is theirs, not his; recorded only because it establishes the household and shows a politically mixed family.
 
 ## Open for the lead
-- Humantic: pending.
+- Humantic: done → `../humantic/chris-chediak.md` (C "The Critic", D56 I62 S59 C78, 84%; 43 years at the firm; USC JD 1983). Email him short, objective, bulleted, ROI-first, no social proof, no superlatives, no warm-up line.
 - Glassdoor for Weintraub Tobin: pending (lead reads in Chrome).
 - "Shawna H." who "brought this valuable event together": identify via the firm's marketing team page (agent).
+
+## Glassdoor, Weintraub Tobin (lead, signed in, 2026-10-14 ~12:55 AM ET; employer E876927)
+Headline: 3.2 of 5 on 24 reviews · 45% would recommend · CEO Gary Bradus 100% approve (small base) · 45% positive business outlook. Five most recent, readable before the "share to get access" gate:
+- Sep 10, 2025 · 3.0 · "Poor" · legal billing coordinator, current, 3+ yrs, Sacramento: "High turnover. I have seniority but got passed over for a promotion I was promised and trained every one in my department."
+- Apr 3, 2025 · 5.0 · "Great place to work" · digital marketing specialist, current, 3+ yrs, San Diego: "They treat their employees very well, want to hear your ideas, and have great conflict resolution."
+- Nov 26, 2024 · 4.0 · "Great firm" · associate attorney, current, Sacramento: "Nice people and good culture."
+- Aug 14, 2024 · 1.0 · "turnover says it all" · anonymous, current: "leadership seems to have no concern or interest in retaining employees."
+- Apr 25, 2023 · 5.0 · "Great Law Firm" · staff attorney, current, 5+ yrs, Sacramento: "a large group of collegial and friendly people"; con: "The Sacramento market will not support salary ranges that are as high as the SF or LA markets."
+Read: attorneys rate it well; staff complain about turnover and promotion. Nothing about AI or tooling in the readable set. The firm employs a digital marketing specialist (San Diego), which fits an events-and-content machine.

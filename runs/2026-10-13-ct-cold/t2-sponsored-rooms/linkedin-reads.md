@@ -26,3 +26,6 @@ Pages opened: /in/ryan-brickwood/recent-activity/reactions/ · /recent-activity/
 
 ## 2026-10-14 ~12:00 AM ET — Chediak, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/christopher-chediak-95526/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in chris-chediak-lead-notes.md (to merge into the person file). No connection requests, follows, messages or reactions made.
+
+## 2026-10-14 ~1:30 AM ET — Mangano, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/chrisnmangano/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in chris-mangano-lead-notes.md. No connection requests, follows, messages or reactions made.
