@@ -30,6 +30,6 @@ Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated ta
 **Read.** The most AI-forward person of the nine. He runs an agency he calls "human-led, AI-driven," writes an AI-skills newsletter and sells a course on it, ships code for EO chapters, and reads five AI newsletters including the agentic ones. He is also a Traction/EOS believer and a Christian-professional-network member. As Learning Chair he is the member who would normally be asked to give the AI talk himself. A speaker he would book is one who brings what he cannot produce in-house: the founder's judgment conversation, the human side of adoption inside a team, or a peer practitioner he respects. "AI 101" to him would be an insult.
 
 ## Open for the lead
-- Humantic: pending.
+- Humantic: done → `../humantic/john-scott-dixon.md` (DIS "The Pioneer", D80 I72 S68 C54, 100%; strong fit with Jefferson). First name only, informal and direct, 100–120 words, results and outcomes up front, a casual close; no apologizing, no social proof, no info dump. Career per Humantic: Insight Enterprises (Director of Ecommerce 1994–98; SVP Marketing & Ecommerce 2001–04), Sprint VP Ecommerce 1998–2000, Direct Alliance SVP 2000–01; Kansas BS 1987.
 - His "Mastery Of AI" newsletter: read the run (next pass; it is public on LinkedIn).
 - FEC Arizona: retry when the key resets.

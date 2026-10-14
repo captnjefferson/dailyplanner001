@@ -29,6 +29,6 @@ Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated ta
 **Read.** A creative-agency cofounder who lives inside the ad industry's conversation and its DC breakfast table, with a real and specific AI curiosity: she comments on AI tools built for creative teams and on "the agent is now the customer," follows an open-source AI lab, and reads Fast Company's AI letter. She reads the Inc. 5000 letter and follows MIT Sloan Executive Education. Richmond, VA founder groups suggest a prior chapter there. Her T3 fit is limited by size, not by interest.
 
 ## Open for the lead
-- Humantic: pending.
+- Humantic: done → `../humantic/maggie-winters.md` (cd "The Inquirer", D60 I52 S49 C60, 100%; partial fit with Jefferson). Under 100 words, first name only, confident and direct, a measurable result and a clear ask with a time; testimonials from peers help; don't force friendliness. Career per Humantic: ISL (iStrategyLabs) 2013–2019; Pop! Wed Co 2013–2021; VCU Advertising + Corcoran BFA.
 - Her Inc. piece (Aug 14, 2026) quote: verify via the browser pane (Inc. bot-walls agents).
 - FEC DC/VA (also under "Gaudaen"): retry when the key resets.

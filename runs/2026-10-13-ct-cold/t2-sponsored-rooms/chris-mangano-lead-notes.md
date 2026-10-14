@@ -22,12 +22,12 @@ Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated ta
 - Recommendations: none rendered.
 
 ## Firm as proxy (non-attributable)
-- **DNS, withum.com** (VERIFIED-PRIMARY: records observed): **both `anthropic-domain-verification` and `openai-domain-verification`** (INFERENCE, high: Claude for Work and ChatGPT Enterprise/Team workspaces with domain verification); Mimecast mail security; Pendo; Postman; Docker; Adobe; Facebook; Apple. Withum states "2,400+ nationally."
+- **DNS, withum.com** (VERIFIED-PRIMARY: records observed): **both `anthropic-domain-verification` and `openai-domain-verification`** (INFERENCE, high: Claude for Work and ChatGPT Team/Enterprise workspaces were set up with domain verification; the records show setup, not current usage or spend); Mimecast mail security; Pendo; Postman; Docker; Adobe; Facebook; Apple. Withum states "2,400+ nationally."
 - **DNS, jkj.com** (the Nov 5 co-host): Microsoft 365; HubSpot, Mailgun, SendGrid, Mandrill; Zywave (insurance-agency platform).
 
 **Read.** A former MSP owner who became Withum's traveling host for cyber-and-AI breakfasts, with a law firm or an insurance broker as co-presenter at each stop and the firm's marketing team running logistics. His frame is already the one a business owner hears: AI as governance, legal exposure, resilience and accountability, not technology. He consumes MSP and security newsletters, plus construction finance and HR. He does not pay speakers; he recruits co-presenters whose firms bring an audience. Withum does pay at the firm level (the virtual symposium keynote). ProVisors Philadelphia is a referral room he sits in.
 
 ## Open for the lead
-- Humantic: pending.
+- Humantic: done → `../humantic/chris-mangano.md` (c "The Questioner", D63 I54 S60 C65, 100%; low fit with Jefferson). Email him short, objective, bulleted, ROI-first; no superlatives, no social proof, no warm-up line. His ten-year IT company was Cartel Systems (1990–2000).
 - Glassdoor for Withum (2,400 people; the headline numbers only): pending.
 - FEC NJ/PA: retry when the key resets.
