@@ -356,7 +356,7 @@ Links:
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
-**Humantic:** partial. The profile was generated (Humantic's recent-searches list shows him with a lowercase "si" badge, which it uses for low-data reads), but the full profile page never rendered after four attempts over 40 minutes. Treat as S/I-leaning with low confidence; retry on the next pass.
+**Humantic → `../humantic/ryan-flanagan.md`:** si "The Collaborator", D56 I59 S59 C55, confidence 100%; partial fit with Jefferson (shared S). Write him warmer and a little longer than the others: "Hi Ryan," a friendly opening line, 130–150 words, no bullets, a peer or customer proof point, a positive close with a proposed time; he decides slowly and likes win-win framing and involving his co-CEO.
 
 ### LinkedIn
 
@@ -386,7 +386,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 - No itemized federal contributions under "Ryan Flanagan" in Delaware. A 2019 Ryan Flanagan in West Hartford, CT (not employed; Tulsi Now) predates his Connecticut tie and does not match; not him.
 
 ### Open for the lead
-**Humantic:** partial. The profile was generated (Humantic's recent-searches list shows him with a lowercase "si" badge, which it uses for low-data reads), but the full profile page never rendered after four attempts over 40 minutes. Treat as S/I-leaning with low confidence; retry on the next pass.
+**Humantic → `../humantic/ryan-flanagan.md`:** si "The Collaborator", D56 I59 S59 C55, confidence 100%; partial fit with Jefferson (shared S). Write him warmer and a little longer than the others: "Hi Ryan," a friendly opening line, 130–150 words, no bullets, a peer or customer proof point, a positive close with a proposed time; he decides slowly and likes win-win framing and involving his co-CEO.
 - Glassdoor/Indeed for Hatching Time: pending (lead reads in Chrome; small company, may not exist).
 - Exhibit Creators: what and since when (agent).
 
