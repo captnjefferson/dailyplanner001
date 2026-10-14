@@ -12,3 +12,6 @@
 ## Maigret — Jeff Luther (anonymous hits, no profile views)
 - Handles run: jeffluther (44 claimed), jdluther (30 claimed), top 500 sites, no recursion. Files in maigret/.
 - Both handles are common enough that most hits are other people (chess.com, Smule, VK, adult sites). Treat as leads only. Worth a look because they fit his known footprint: Substack @jeffluther and @jdluther, Medium @jeffluther, YouTube @jeffluther, Twitter/X jeffluther and jdluther, Calendly jdluther (this one is his; the scan found it on his site). Nothing here changes the angle; his reading is already in the scan (Ethan King, Ed Mylett, Jim Collins, Charlie Mackesy, Ken Ginsburg, ASHI).
+
+## 2026-10-13 ~11:00 PM ET — Garrido, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/carlosgarrido2024/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; other tabs did not switch) · /details/recommendations/ (rendered empty). Findings in carlos-garrido-person.md §10. No connection requests, follows, messages or reactions made.

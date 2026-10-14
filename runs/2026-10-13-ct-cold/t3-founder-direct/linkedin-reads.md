@@ -31,3 +31,6 @@
 - Communities and circles: Breakfast Club DC (posts there), "The Creative Department" (This January's recurring DC creative meetup, Sonny's Pizza, April), NOOK (their artist-in-residence program; Parsa Afsharjavan; Fathom Gallery), Cannes Lions Young Lions judge (with NCM), Chief. Spent March in NYC "to shake it up" asking "who's building things."
 - Cadence: active; posts every 2–6 weeks in her own voice plus reposts of jobs for friends. LinkedIn-native, warm, emoji-forward, "y'all".
 - Read for the angle: she runs a ~20-person creative shop in DC, builds with Claude herself, and says the team relearns AI every quarter. The room Jefferson could run for her is a PromptLab for a creative team; the conversation is about keeping a small agency current without it becoming her second job.
+
+## 2026-10-13 ~11:00 PM ET — Vanderbloemen, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/williamvanderbloemen/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; Newsletters/Groups/Companies/Schools pills selected but the list did not re-render) · /details/recommendations/ (rendered empty). Findings in william-vanderbloemen-person.md §10. No connection requests, follows, messages or reactions made.
