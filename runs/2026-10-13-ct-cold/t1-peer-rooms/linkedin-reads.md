@@ -15,3 +15,4 @@
 
 ## 2026-10-13 ~11:00 PM ET — Garrido, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/carlosgarrido2024/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; other tabs did not switch) · /details/recommendations/ (rendered empty). Findings in carlos-garrido-person.md §10. No connection requests, follows, messages or reactions made.
+Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (label click). Written to §10. Read-only.
