@@ -711,3 +711,19 @@ Signed in, Glassdoor shows five reviews per page and redirects page 2 back to pa
 | Feb 14, 2022 | 5.0 | (untitled) | Anonymous, current, 10+ yrs | "Would be better if we had flexibility to work from home." (Pros: "Great culture, work that is meaningful and caring environment") |
 
 **Delta.** The two 2026 reviews, from different departments, use the same words: change, communication, opaque. The 2024 and 2022 negatives are about pay, mobility and favoritism. What changed in the complaints is the subject: from "how I'm paid and seen" to "nothing holds still." That matches the team-page churn and the Jun 9 "constant change" review, and it is the backdrop for any handoff of AI from him to the firm.
+
+## 12. Wayback roster diff, team page (lead, 2026-10-14 ~2:50 AM ET; the delta rule)
+
+Names extracted from `vanderbloemen.com/about/meet-our-team` in Internet Archive captures and the live page (heuristic: a name shown twice in a row, as the page renders photo caption and heading). The Jul 30, 2026 capture is empty in the archive and is skipped. Charisma Gutierrez is still listed live although she posted her last day the week of Oct 6.
+
+| Capture | Names | Added since prior | Gone since prior |
+|---|---|---|---|
+| Feb 18, 2025 | 37 | (baseline) | |
+| Jul 4, 2025 | 44 | Alex Boggs, Brook Houchens, Chantel McHenry, Charlie Sheldon, Dakota Marone, Elizabeth Chrisman Shurtz, Julia Chapman, Michelle Hank, Renee Alinsug, Sophie White, York Liu | Brian Dunks, Cantel McHenry, Hailey Day, Maddie Brown |
+| Dec 1, 2025 | 32 | Anthony Cobbs, Jeff Bachman | Chantel McHenry, Hannah Ross, Jared DeVerna, Julia Chapman, Lily Managan, Maddie Profilet, Maryanna Spillers, Reyna Brizuela, Sarah Gonzales, Sarah Santos, Sophie White, Tim Gocha, Will Klotz, York Liu |
+| Apr 11, 2026 | 30 | Atalie Farnsworth, Chris DeArman, Elizabeth Schmidt, Jason DeVerna, Tanner Garfat | Anthony Cobbs, Brook Houchens, Elizabeth Chrisman Shurtz, Emily Barker, Emily Hernandez-Basquez, Eugene Lee, Holli Evans |
+| Live, Oct 13, 2026 | 34 | Ashley Olivarez, Brent James, Caleb Brown, Emily Young, Emma DeArman, Gabby Besnard, Jacob Van Steenwyk, Kendall Pennington, Sarah Ramirez, Taylor Roberts | Adrienne Vanderbloemen, Christina Mora, Ellie Mixon, Kamia Morris, Missy Tuft, Rick Callahan |
+
+**Over twenty months:** of the 37 names on the page in Feb 2025, 13 are still there and 24 are gone; 21 names are new. 65 distinct people appeared across the five captures for a page that holds about 30–45 at a time. The biggest single drop is Jul → Dec 2025 (−14, +2), the period just before his Jan 2026 "we're having to break our process apart and rebuild it" and his Feb 2026 "cohesive set of tools" framing. The live page carries ten names that were not there in April 2026, which matches the 2026 hiring posts and new-hire welcomes on his LinkedIn. Adrienne Vanderbloemen's name left the page between Apr and Oct 2026; no inference is drawn from that.
+
+Raw rosters: `wayback-rosters.json` in this folder.

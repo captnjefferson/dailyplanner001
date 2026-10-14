@@ -562,4 +562,4 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 - `ryan-flanagan.md` (v1 scan and the verified Inc. quote), `linkedin-reads.md` (LinkedIn read 2026-10-13), `../sweeps/chatgpt-T3-founders-report.md` (row "Ryan Flanagan").
 
 ### Review sites (lead, in Jefferson's Chrome, 2026-10-14 ~2:40 AM ET)
-Glassdoor: Hatching Time has one review, rated 1.0, with text behind the "share to get access" gate; the jobs tab shows a Warehouse Associate posting in New Castle, DE at $33K–$35K, six days old, and a customer-facing role under "Hatching Time, LLC." Indeed not read. One review is not a signal; the posting is (warehouse hiring in October, ahead of the spring incubator season).
+Glassdoor: Hatching Time's employer page shows "No reviews, yet" (the search card's "1 review / 1.0" is stale or gated); the jobs tab shows a Warehouse Associate posting in New Castle, DE at $33K–$35K, six days old, and a customer-facing role under "Hatching Time, LLC." Indeed not read. One review is not a signal; the posting is (warehouse hiring in October, ahead of the spring incubator season).
