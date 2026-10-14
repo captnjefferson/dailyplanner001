@@ -85,7 +85,7 @@ He shows up on Rea's own stages (Manufacturing Education Day, the March 2025 Dub
   - "clients that were closed their books 15, 20 days after the month … Now they're closing in five days." (31:00)
   - "a client that started … 1 to two million, … now they're at 14 15 million … we're there with them and we see it." (27:42)
 - **Failure or loss:** none told in public. His stated creed: "Fall forward. Be persistent in finding creative solutions. Mistakes will happen but learn from them and continue to grind to find a solution." (bio)
-- **Family (context only; never card material):**
+- **Family and community (on the record):**
   - "Coaching and watching my kids sports" (bio).
   - His younger brother in the award video: "whether it was doing a thousand jump rope … in a driveway or running six miles … after a three-hour practice … with your NBA jerseys and your hat on backwards and baggy shorts you always remind me when I see you you're just one of us."
   - Timing note: fall weekends are youth-sports weekends.
@@ -396,7 +396,7 @@ The full edition table is in `rea-associates.md` section 5. Only additions and c
 - https://fast.wistia.com/channels/2e1d863w6h/rss: Koble podcast feed (episode list, description).
 - https://koblesystems.com/: what Koble is (ERP / EBMS).
 - https://www.youtube.com/watch?v=Y7WE21f-VgQ: Rea Spotlight Award video (ASR); colleagues and brother.
-- https://www.youtube.com/@RyanBrickwood: personal channel (handles; family context only).
+- https://www.youtube.com/@RyanBrickwood: personal channel (handles; family videos).
 - https://www.youtube.com/watch?v=90WgNXdk94M: Rea MED 2025 Wooster highlights (description only).
 - https://www.youtube.com/watch?v=Z8zPrAyDdKk: "About Rea" (Sep 14, 2026).
 - https://feeds.captivate.fm/unsuitable/: Rea podcast feed; last episode Nov 1, 2021; no Brickwood episode.

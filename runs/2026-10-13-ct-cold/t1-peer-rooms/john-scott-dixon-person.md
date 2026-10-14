@@ -201,13 +201,13 @@ No local press was found.
   - Source: "Remembering eShop Plaza," Jul 29, 2014 [AT14-ESHOP]
 - **A small embarrassment, on the record.**
   - "I've been involved in the Internet/Web business since 1994, so it is with some embarrassment when I tell you, my father's first website was launched in November 2011… Dad – I should have got it done sooner!"
-  - His father ran an eye-surgery practice in Joplin, Missouri. Context only.
+  - His father ran an eye-surgery practice in Joplin, Missouri.
   - Source: "Honor Thy Father," Dec 12, 2011 [AT11-HONOR]
 - **His long relationships.**
   - Insight co-founder Tim Crown: "In the 30 years I've known John-Scott, he's consistently blown me away with new ways of thinking." (testimonial on his site, 2014 and 2016)
   - Babson's Dr. Patricia Greene mentored him "as an adjunct professor for a University course on Internet Marketing in 1999."
   - Sources: [AT14; AT16-TEAM]
-- **Personal context only** (his words, 2022): "a husband… dad… pickleball player (addict is probably more appropriate), yogi, off-road enthusiast, mountain biker, sailor & guitarist." [HS] The pickleball is corroborated by his LinkedIn group "Motivosity Pickleball Networking" [LN].
+- **Personal, in his words (2022):** "a husband… dad… pickleball player (addict is probably more appropriate), yogi, off-road enthusiast, mountain biker, sailor & guitarist." [HS] The pickleball is corroborated by his LinkedIn group "Motivosity Pickleball Networking" [LN].
 
 **Themes, with dated quotes**
 1. **Measure everything.**

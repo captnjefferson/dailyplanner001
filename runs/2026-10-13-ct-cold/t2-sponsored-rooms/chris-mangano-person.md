@@ -82,7 +82,7 @@ He reads the rules themselves (23 NYCRR 500, FERPA, the FTC Safeguards Rule, NIS
 - **Pride, in his own copy:** "It's reassuring to know that the person educating you has been in your shoes." "'Striving for progress, not perfection' is Chris's motto." "Outgoing and charismatic, Chris Mangano thrives in addressing an audience." (NJCPA bio) https://njcpa.org/learn/explore/speaker-bio?ID=564516
 - **Recognition:** "2018 Shot in the Arm with Enthusiasm Award – Lower Bucks County Chamber of Commerce" (Ocellus bio). The award goes to volunteers "recognized for being 'Shot in the Arm with Enthusiasm'" (LBCCC *Outlook*, Sep/Oct 2017, p. 9).
 - **Failure or loss:** none told in public.
-- **Family (context only; never card material):** daughter Olivia, an RN, on LinkedIn: "I'm so proud to watch him do what he loves, traveling the country while presenting to so many different people. Go little rockstar!" He replied: "My biggest fan! Love You!" (seed: LinkedIn).
+- **Family (on the record):** daughter Olivia, an RN, on LinkedIn: "I'm so proud to watch him do what he loves, traveling the country while presenting to so many different people. Go little rockstar!" He replied: "My biggest fan! Love You!" (seed: LinkedIn). His one visible personal exchange on LinkedIn is with his daughter, and "traveling the country while presenting" is how his family describes what he does now.
 
 **B. What he cares about: themes with dated quotes**
 1. **"Recommended" becomes "required."**

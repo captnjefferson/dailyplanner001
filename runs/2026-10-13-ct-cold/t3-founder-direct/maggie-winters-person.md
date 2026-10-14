@@ -27,7 +27,7 @@
   - "Do Businesses Get to Have Funerals? A Eulogy to My First Company." (2021-12-27)
   - "The Slide Deck That Changed My Life" (2022-06-03, in Entrepreneurship Handbook)
   - "This isn't a breakup, it's business: a love letter to rejection" (2022-08-10)
-  - "Girl freezes eggs. Girl tells internet." (2024-01-03; personal health; context only, see §2)
+  - "Girl freezes eggs. Girl tells internet." (2024-01-03; her own fertility writing; see §2)
   - "The best way to hire a creative agency…" (2024-01-03; the same text is the unbylined post on thisjanuary.com/news, so its authorship is now hers, VERIFIED-PRIMARY)
   - "Egg freezing stress, meet Claude: Building for women's health and fertility in the age of AI" (2026-05-22)
 - **Her Substack** (one post, 2025-08-01, the mascot report under her name) and its public profile (bio, reads list, set up 2025-04-09).
@@ -141,9 +141,9 @@ Links:
 - Pitches: "The average ad agency pitches 8 times for every 1 win… we'll probably lose just as often, or more often, than we win" ([MED] 2022-08-10).
 - The name: a year after founding, January 6 attached itself to the brand ([ADW23]; [TBI]).
 
-**Health and family (context only; not card material)**
-- She has written publicly and in detail about her own fertility care ([MED] 2024-01-03 and 2026-05-22); in May 2026 she described preparing for another cycle. Use only as context for her candor and for timing. Do not reference.
-- The name history above is the only family item used.
+**Health and family (on the record, in her own words)**
+- She has written publicly and in detail about her own fertility care: "Girl freezes eggs. Girl tells internet." ([MED] 2024-01-03) and "Egg freezing stress, meet Claude" ([MED] 2026-05-22), where she described preparing for another cycle and building a prototype for it with Claude. This is the clearest instance of the pattern in §2: she builds for her own problems, then asks whether they are products. It is also the root of the women's-health lane she is now widening into ("menopause and egg freezing, anyone?") and of the line from her thesis to today on sex education. The candor she brings to it is the register she writes in everywhere.
+- Family: her name history (above) and the Pop! Wed partnership with Steven Gaudaen, "designed around our life," are the only family items she has put on the record in the sources read.
 
 **Themes, with dated quotes**
 1. **Taboo, said plainly**
@@ -298,13 +298,13 @@ Links:
 - Her own site, on her events goal: "So far she's doing okay, but is committed to doing better."
 - Status: a marketing coordinator is now on the roster; a fashion client is not found; the VP of New Business seat was removed.
 
-**Context only, not card material:** in May 2026 she also asked publicly for a medical partner for a personal health prototype ("I can only get so far as a designer"). Personal health. Do not use.
+**On the record (her words):** in May 2026 she also asked publicly for a medical partner for a personal health prototype ("I can only get so far as a designer"). It belongs with the "builds for her own problems" inference in §2.
 
 ---
 
 ## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~11:25 PM ET)
 
-LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is; her own health writing, like family health, stays out of cards.
+LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
 **Humantic → `../humantic/maggie-winters.md`:** cd "The Inquirer", D60 I52 S49 C60, confidence 100%; partial fit with Jefferson (shared D). Under 100 words, first name only, confident and direct, one measurable result and a clear ask with a time; peer testimonials help; don't force friendliness. Humantic's career fields: ISL (iStrategyLabs) 2013–2019, Pop! Wed Co 2013–2021, Partner/ECD This January 2020–; VCU Advertising and the Corcoran BFA (VCU explains the Richmond groups in her interests, which the agent could not place).
 
@@ -427,7 +427,7 @@ VERIFIED-PRIMARY by name, Washington DC 20001, occupation "PARTNER," employer "T
 - https://maggie-winters.medium.com/feed (RSS with full text). Posts:
   - https://maggie-winters.medium.com/egg-freezing-stress-meet-claude-building-for-womens-health-and-fertility-in-the-age-of-ai-61cc58194657 (2026-05-22): Claude Cowork, building, "what will we build?", medical-partner ask (health: context only).
   - https://maggie-winters.medium.com/the-best-way-to-hire-a-creative-agency-e8ea1e0c2f7d (2024-01-03): independents, RFPs, spec, the unpublished AI Part III.
-  - https://maggie-winters.medium.com/girl-freezes-eggs-girl-tells-internet-905b31e8dbd5 (2024-01-03): register only (personal health; context only).
+  - https://maggie-winters.medium.com/girl-freezes-eggs-girl-tells-internet-905b31e8dbd5 (2024-01-03): register, and the origin of her women's-health lane.
   - https://maggie-winters.medium.com/this-isnt-a-breakup-it-s-business-a-love-letter-to-rejection-864fd879fdd9 (2022-08-10): candor, cold-outreach line, "fifteen-person agency."
   - https://ehandbook.com/the-slide-deck-that-changed-my-life-52ce55659b9c (2022-06-03; read via RSS): train deck, five-person agency, Story Spine.
   - https://maggie-winters.medium.com/do-businesses-get-to-have-funerals-a-eulogy-to-my-first-company-d0e928eab306 (2021-12-27): Pop! Wed origin, lessons, why it closed.

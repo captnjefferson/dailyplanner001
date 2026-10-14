@@ -15,7 +15,7 @@ Two anchors that prove it's the same person. Label VERIFIED-PRIMARY / SEARCH-ONL
 
 ### 2. The person read (write this as 400–700 words of prose, then the evidence list)
 Answer, in this order, with their own words wherever possible:
-- **Who are they?** Origin, path, what they built, what they're proud of, what they've failed at or lost, as they tell it. Family and health only where they put it on the record and only as context for tone and timing, never as material for a card.
+- **Who are they?** Origin, path, what they built, what they're proud of, what they've failed at or lost, as they tell it. Family, health, faith and community wherever they have put it on the record. This is how you understand motive: who they are around, what they have been through, what they organize their time around. Not deep, and nothing they have not said publicly themselves, but never fenced off, labeled "context only," or ruled out as card material. An on-record fact about their family or faith is handled like any other on-record fact. (Jefferson, 10/14, correcting my v2 rule: "If it's on record it's fair game. How are we supposed to understand motive without understanding their community? That's the whole point.")
 - **What do they care about?** The three to five themes they return to, with dated quotes. What they praise. What they mock. What they repeat.
 - **Motivations and experiences → current behavior.** Why they do what they're doing now, as an INFERENCE from at least two cited signals each. What their current behavior tells us about what they want next.
 - **How they talk.** Register, humor, length, structure, sign-offs, vocabulary they own. A cold email in the wrong register dies on the first line.

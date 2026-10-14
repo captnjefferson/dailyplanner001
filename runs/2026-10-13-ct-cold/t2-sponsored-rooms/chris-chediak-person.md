@@ -84,7 +84,7 @@ What he consumes: CEB and the CLA Business Law Section's bulletins, which he als
   - "We are pleased to assist the Central Valley Fund with their investment and mission of continued growth in California's Central Valley." (Mar 12, 2008)
   - "We are pleased to work with our client Central Valley Fund to expand their investments and reach into the Los Angeles market." (Mar 31, 2008)
 - **Failure or loss:** none told in public.
-- **Family and health (context only; never card material):** on the firm's Shriners chair announcement he commented "Thanks. My daughter Lynsey was a patient for many years and they provide great care for so many kids in our region." (seed: LinkedIn, ~3 weeks before Oct 13, 2026).
+- **Family, and the why behind the Shriners chair (on the record):** on the firm's Shriners chair announcement he commented "Thanks. My daughter Lynsey was a patient for many years and they provide great care for so many kids in our region." (seed: LinkedIn, ~3 weeks before Oct 13, 2026). This is the motive behind his most visible current commitment: nearly six years on the Board of Governors and the 2027–2028 chair follow from a daughter who was a patient. Lynsey is now a rare-disease patient advocate (BioMarin state government affairs) and he reacts to her posts; his wife Janet practices Trusts & Estates at the same firm; he congratulates Grace Chediak (Google M&A counsel) in his own voice. His family and his professional community overlap, and his boards (Shriners, Parkinson Association, formerly Make-A-Wish) are health causes.
 - **Firm governance:** a firm post of Oct 14, 2024 names him as a member of the firm's Board of Directors. https://www.weintraub.com/2024/10/diversity-at-weintraub-tobin-highlighted-in-hispanic-heritage-month/
 
 **B. What he cares about: themes with dated quotes**
@@ -225,7 +225,7 @@ Problems as he put them, in his own words. Not angles.
 
 ## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:25 PM ET)
 
-LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is; family-health context stays out of cards.
+LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
 **Humantic → `../humantic/chris-chediak.md`:** C "The Critic", D56 I62 S59 C78, confidence 84%; 43 years at the firm; low fit with Jefferson. Email him short, objective, bulleted, ROI-first; no social proof, no superlatives, no warm-up line; close with a logical ask.
 

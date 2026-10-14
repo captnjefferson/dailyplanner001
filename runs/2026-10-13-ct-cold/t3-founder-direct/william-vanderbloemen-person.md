@@ -71,7 +71,7 @@ Written pieces and company material:
 - **Forbes columns from 2026:** none found. forbes.com returns 403, and the Wayback Machine index of his author page lists nothing after 2025-05-06.
 - **Glassdoor and Indeed:** both return 403 to curl and WebFetch. Only search-result snippets were seen.
 - **His LinkedIn and Instagram:** out of scope for this brief (the lead covers LinkedIn).
-- **The 2025-03-11 *21 Hats* "When There's an Illness in the Family":** I read the intro only. It is outside the window.
+- **The 2025-03-11 *21 Hats* "When There's an Illness in the Family":** the agent read the intro only. The lead read the full transcript on the episode page on 2026-10-14 [21H]; it is merged into §2 and the evidence list below.
 
 ---
 
@@ -122,7 +122,7 @@ William Vanderbloemen is a former Presbyterian pastor who sizes himself up blunt
 - He once flagged an unstable boss without "enough transparency," then left. He says: "I don't think I did enough."
 - His grandfather warned him that a pastor who makes "the wrong group of people mad" is "done." His verdict: "he was right."
 
-*Family-health context, for tone and timing only.* He has said publicly that Adrienne, his co-founder, has cancer. In September 2026 he reported "no evidence of active cancer." He called the experience "a bit of a wake-up call" about how he spends his time.
+**Adrienne, and the handoff.** His wife and co-founder Adrienne was diagnosed with cancer in early 2025; in September 2026 he reported "no evidence of active cancer." He has talked about it at length on the record, and it is the clearest window into why he runs the firm the way he does. On *21 Hats* (2025-03-11, read in full) the decision to go public was hers ("Just tell everybody. I'll use every prayer I can get"); he shut down for two and a half weeks "and it hasn't hurt the business"; and the succession work he sells to clients had become his own insurance: "I need to be a little less relevant every year around here so the thing can live after me. And oh my goodness, how thankful I am that we started that process so long ago." Adrienne is the counsel behind his decisions ("I don't make any big decisions without consulting with her"; it happens on long morning dog walks), and the balance of the partnership is a standing joke: if she ran it alone "we would never make a sale," if he did "we wouldn't have a penny in the bank." His regret, stated: "I probably would have spent more time with Adrienne… I probably wouldn't have traveled as much." His faith shows up as texts he knows cold rather than piety: he corrects a friend's comfort verse by reading the line before it (Paul's thorn, "or you could say, tumor from my liver"), and takes Job's friends sitting silent for seven days as the lesson that as a pastor "I should have talked less." His North Star on money is Dave Ramsey, a friend and client: "if the way I'm making money robs me of my peace of mind, what's the point?" He does not pay on need ("we're helping schools, nonprofits, churches… but we aren't one"). The September 2026 "wake-up call" ("the one thing I cannot create in this business is more time") is the same thought eighteen months on.
 
 **Five themes he keeps coming back to:**
 1. **AI as a pendulum.** He swings between "This is going to be amazing" and "We are cooked." He settles it with Leviticus 10:10, sorting what is "permanent" from "a passing fad."
@@ -199,10 +199,15 @@ All quotes are his. **VLP quotes come from machine transcripts.** Filler words a
 - **HubSpot stock** (H290): "I probably should have sold my stock."
 - **Criticism** (VLP 04-07). A counselor told him "you might have some trouble accepting criticism," and he answered: "I do not."
 
-**Family health (stated once here; context only)**
-- **Diagnosis:** the 21 Hats 2025-03-11 intro names "William's wife and co-founder Adrienne." https://21hats.com/when-theres-an-illness-in-the-family/
-- **Latest update** (H311, 09-22-2026): "At the moment, there is no evidence of active cancer in her body."
-- **What it changed** (same episode): "the one thing I cannot create in this business is more time … it's been a bit of a wake-up call."
+**Family, faith and the handoff (on the record; 21 Hats read in full by the lead, 2026-10-14)**
+- **Diagnosis and the choice to be public** (21H, 2025-03-11, https://21hats.com/when-theres-an-illness-in-the-family/): "William's wife and co-founder Adrienne recently received a cancer diagnosis." Adrienne: "Just tell everybody. I'll use every prayer I can get." Treatment at MD Anderson, "about two and a half miles from our house."
+- **Succession as his own insurance** (21H): "I need to be a little less relevant every year around here so the thing can live after me. And oh my goodness, how thankful I am that we started that process so long ago." "I've been able to pretty well shut down for the last two and a half weeks and just focus on being at home. And it hasn't hurt the business." "My ego would like to think we would grow faster if I were more involved."
+- **Adrienne's role** (21H): "She watches the finances like a CFO, but we have a director of finance." "I don't make any big decisions without consulting with her. And her involvement in the business is long walks with the dogs in the morning and talking through what's happening." Her line: "If I were the only one running the business, we would never make a sale. If William were the only one running the business, we wouldn't have a penny in the bank."
+- **Regret, stated** (21H): "I probably would have spent more time with Adrienne… I probably wouldn't have traveled as much." He was skipping a keynote to record; the other keynoter, who had lost his wife to cancer, called out of the blue and offered to give his talk.
+- **Faith, as he uses it** (21H): he corrects a friend's "My grace is sufficient for you" by reading the verse before it (Paul's thorn, "or you could say, tumor from my liver"); Job's friends "sat with him for seven days. And they didn't say a word"; "I should have talked less." On staying composed: "Oh, I'm Dutch."
+- **Money and need** (21H): Dave Ramsey as "somewhat of a North Star," friend and client: "if the way I'm making money robs me of my peace of mind, what's the point?" "I don't pay people based on need… we're helping schools, nonprofits, churches, that sort of thing, but we aren't one." New employees take Financial Peace University.
+- **Layoffs** (21H): 2020 was the only significant round; his list and the COO's "were identical." Two employees lost a spouse and a child to the same brain cancer: "I would have had a hard time letting one of those go during those seasons." "I grew up surrounded by attorneys… What precedent am I setting?"
+- **Latest update** (H311, 09-22-2026): "At the moment, there is no evidence of active cancer in her body." "The one thing I cannot create in this business is more time … it's been a bit of a wake-up call."
 - Also on the record in VLP 06-04-2026 (id 19296318) and LinkedIn (per `linkedin-reads.md`).
 
 **Themes, dated**
@@ -213,6 +218,7 @@ All quotes are his. **VLP quotes come from machine transcripts.** Filler words a
 - **H2H** (H-Jan): "our best asset and our biggest liability is the same thing, and it's human-to-human contact." He adds: "we've gone to handwritten notes."
 - **Replaceability:**
   - H-Jan: "I cannot be the lid to this thing. I have to be replaceable. Unfortunately, it's been far easier than my ego would like."
+  - 21H, 03-11-2025: "I need to be a little less relevant every year around here so the thing can live after me."
   - H311: "The place does not depend on me. It runs pretty well, maybe better, when I'm not here."
 - **Fickle market** (H-Jan): "I have never, ever seen, in almost two decades of doing this … candidates who are more fickle than they are right now."
 

@@ -5,7 +5,7 @@ EO Charleston (SC) President and Learning Chair · founder and owner of Home-Pro
 - **Date:** 2026-10-13
 - **Method:** WebSearch, WebFetch, curl and dig only. Read-only. No logins, no contact, no forms submitted, no browser tools. No LinkedIn, Facebook, Instagram or X pages opened.
 - **Seeds read first:** `t1-candidates.md` §1; `jeff-luther.md` (the v1 scan); `linkedin-reads.md` (holds only a Maigret note on him; no LinkedIn read yet).
-- **Health:** his 2021 cardiac arrest and heart condition are on his own record. They appear here only as context for tone and timing.
+- **Health, family and faith:** his 2021 cardiac arrest, the ARVC diagnosis, his divorce, his three sons and his Southern Baptist upbringing are all on his own record in his own words. They are the origin of the coaching practice and are read here as motive, not fenced off.
 
 ### Reading log
 
@@ -25,7 +25,7 @@ EO Charleston (SC) President and Learning Chair · founder and owner of Home-Pro
 **Not read, and why:**
 - **His latest solo episode (132, Sep 23, 2026) and latest guest episode (133, Joshua Waldron, Oct 9, 2026).** Neither has a transcript in his feed: the Buzzsprout transcript URLs return 404 for every episode except 051. YouTube shows English auto-captions for both, but its caption and transcript endpoints came back empty or "Precondition check failed" (an attestation check), and I did not work around that. Audio was not downloaded or transcribed: that is last-ditch per the 10/13 ruling, and it would need a file download. I read both episodes' full show notes and YouTube descriptions instead. The Sep 16 blog post is the written version of ep 132's argument.
 - **Work Sucks, But I Like It E44 (Feb 26, 2026).** No transcript in the feed. The show notes are two lines.
-- **About 15 other guest appearances.** No transcript tags in their feeds, except The Revolutionary Man (Jul 28, 2024), which I skipped: it is older and covers the same cardiac story.
+- **About 15 other guest appearances.** No transcript tags in their feeds, except The Revolutionary Man (Jul 28, 2024), which the agent skipped. The lead read its full transcript on 2026-10-14 (Buzzsprout transcript, https://www.buzzsprout.com/2216974/15489120/transcript) [RM]. It is his first long telling of the story: "it's been over two years and I haven't really shared my story. So this is one of the first venues" [RM 23:53].
 - **LinkedIn, plus Instagram @allcan_nocant and @jdluther2.0.** Not opened (the lead's lane).
 - **Secretary of State portals.**
   - SC: the portal search is a POST form that throws a reCAPTCHA.
@@ -144,14 +144,18 @@ He praises coaches, listeners and people who take charge. He mocks his own ego (
 - **The 2008 crash.** "EO helped him rebuild and scale after devastating downturns in the real estate market" (Rising Entrepreneurs, Jul 3, 2025, recorded live at EO's Global Leadership Conference in Honolulu; notes written by the host) [RE].
 - **The growth years.** "My goal was to make a hundred thousand dollars in a year… then I hit the 250… the 500, then the million… I built that business up over 3 million and it still wasn't enough" [DM]. "I was controlling my pain. Things were rattling around at home that weren't great. The business wasn't fun… I couldn't control that I had 30 employees and it was unfulfilling" [DM].
 - **The sprinkler system.** In a house in Decatur after a large renovation, he watched the sprinkler system and thought "I have arrived… Then came this sinking feeling… Now what?" [B0727].
-- **2021, context only.** A 50K the week before; a CrossFit workout with his 16-year-old son; eight minutes without a pulse; a diagnosis of ARVC; an implanted defibrillator; a second event on Jul 29; then "my wife of 23 years filed for divorce" [GHF 21:17–47:08; DM].
+- **2021, in his own words.** A 50K the week before; a CrossFit workout with his 16-year-old son; eight minutes without a pulse; a diagnosis of ARVC; an implanted defibrillator; a second event on Jul 29; then "my wife of 23 years filed for divorce" [GHF 21:17–47:08; DM].
+- **The same story, told first (RM, Jul 2024).** The prognosis: exercise "limited to yoga and golf," and "my world closed in on me. That's what I did and that was my connection with my son" [RM 7:06]. The second event, 30 days after the defibrillator: "I can tell you what death tastes like. I wish I couldn't, but I can" [RM 9:18]. Then "scared to go up a flight of steps… scared to take a shower" [RM 10:07]. On gratitude: "every time I tell my story I know what people are going to say. They say wow, you must be so grateful… And all I can think is no, I'm bitter, I'm angry, I'm sad" [RM 8:02]. The coach, Phil Galasco, who had also helped shock him back: "Talk about an angel"; "I have a client at four o'clock… I'll sit here all day. You're not done. Give me 30 seconds of work" [RM 26:26–28:48]. The divorce, in passing: "I haven't mentioned a spouse in this, so I was going through a divorce at the time too" [RM 23:11].
+- **Deserving, and the pain cave** (RM): "I have a real problem with deserving. Like I can give, I have a hard time receiving, and it's always easier for me to punish myself than it is to celebrate my wins" [RM 12:07]. "Our ego falls faster and it falls further than we do" [RM 15:01]. "The more I can set my ego aside and focus on being present, the less I'm stealing joy from myself" [RM 17:39].
+- **His sons, as he tells it** (RM): three boys; Cash, the oldest, saw it happen and "wouldn't process it"; all three were tested because ARVC is genetic. Cash, reading a workout his father had scaled down: "You're just scared, I understand," which Luther took as projection and the opening to talk [RM 18:44–20:48]. What changed in the family: "they go into the danger when we have a difficult conversation" [RM 24:35]. His challenge to listeners: "push back just a little bit when they say they're fine" [RM 22:32]. The Cash blog post a year later ([B0811], below) is the same thread.
+- **The rule he teaches** (RM): "Give it 30 seconds… then you're allowed to quit"; the running rule: "I'm not allowed to decide until I'm dressed and my shoes are on" [RM 32:47]. The advice that stuck, from a stranger with the same diagnosis he found through an Instagram account he started for that purpose: "the heart is going to do what it's going to do" [RM 31:52]. How he describes himself in a conversation: "I go deep and I get there fast" [RM 34:04].
 - **What dying taught him.** "I never once thought I should have made more money… I wanted connection with people" [GHF 45:21].
 - **Quitting, then 30 seconds more.** "I quit on life. I quit on my kids. I quit on me… I was responsible for it." His coach asked for 30 seconds more, and "That's where I got my life back, 30 seconds at a time" [GHF 56:17–59:07].
 - **Losses he still names.**
   - Divorce: "some horrible things were said about me… Other things hurt because they contained just enough truth" [B0714].
   - His son, Cash: "I thought I had been protecting my son… I was actually protecting myself" [B0811].
   - Running: "I wasn't going to be the guy people looked at and thought, 'He's a runner'" [B0720].
-- **Timing context only.** On May 21, 2026 he wrote that his heart rhythm "has gotten pretty bad again" and that he came off his medication "before a procedure" [B0521; FEED 117].
+- **Timing.** On May 21, 2026 he wrote that his heart rhythm "has gotten pretty bad again" and that he came off his medication "before a procedure" [B0521; FEED 117].
 
 **Themes, with dated quotes**
 1. **Enough, and the hedonic treadmill.**
@@ -310,7 +314,7 @@ He praises coaches, listeners and people who take charge. He mocks his own ego (
 - a Success Reflection Guide lead magnet (May 27)
 - the AI season: the Ethan King workshop at EO Charleston (May 7), the invite-only follow-up "Built, Not Shelved" (May 18), and ep 119 with King (Jun 5)
 - a new keynote in development (Jun 11)
-- a heart procedure (May; context only)
+- a heart procedure (May)
 - 10 episodes (4 solo) and 9 blog posts
 
 **Now.** The last 90 days are about consolidation and voice:
