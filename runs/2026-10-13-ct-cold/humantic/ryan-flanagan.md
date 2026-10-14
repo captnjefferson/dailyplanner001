@@ -1,4 +1,4 @@
-# Humantic: Ryan Flanagan (pulled in Jefferson's Chrome, 2026-10-14 ~2:25 AM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/about-ryan-flanagan)
+# Humantic: Ryan Flanagan (pulled in Jefferson's Chrome, 2026-10-13 ~9:26 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/about-ryan-flanagan)
 
 **DISC: si "The Collaborator"** · D 56 · I 59 · S 59 · C 55 · analysis confidence High (100%) · Fairfield, Connecticut · "10 yrs · Leadership." Humantic's career fields: Co-Founder & Co-CEO, Oldfield Pets, Jan 2026 to present; Co-Founder & CMO, Exhibit Creators, Jul 2023 to present; Co-CEO, Hatching Time, Oct 2018 to present; Market Manager, Stanley Black & Decker, Oct 2017 to Apr 2019; Owner, QE Realty, LLC, Jul 2016 to Oct 2018; Sales Coordinator, Stanley Black & Decker, May 2016 to Oct 2017. Education: Lerner College, University of Delaware, 2012–2016; Salesianum School, Wilmington, DE, 2008–2012.
 

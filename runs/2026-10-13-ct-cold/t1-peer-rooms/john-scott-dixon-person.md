@@ -510,7 +510,7 @@ REVIEW SITES: PENDING — lead reads in Chrome. For Aidan Taylor Marketing: Goog
 
 ---
 
-## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-14 ~3:05 AM ET)
+## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:37 PM ET)
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
@@ -549,7 +549,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 
 - His "Mastery Of AI" newsletter: read the run (next pass; it is public on LinkedIn).
 - FEC Arizona: retry when the key resets.
-- Glassdoor (read 2026-10-14): no employer page for Aidan Taylor Marketing.
+- Glassdoor (read 2026-10-13 ~10:43 PM): no employer page for Aidan Taylor Marketing.
 
 ## 6. Room facts (T1: EO Arizona learning events)
 

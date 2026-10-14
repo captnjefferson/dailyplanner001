@@ -449,7 +449,7 @@ The full edition table is in `rea-associates.md` section 5. Only additions and c
 - Three newest Rea reviews, verbatim fragments: **Apr 20, 2026 · 4.0 · "Strong benefits but struggling with recent changes" · current employee** — Pros: "Benefits, including health insurance and PTO; Culture and DEI initiatives." Cons: "Significant change recently with low change management." **Oct 8, 2025 · 4.0 · "Solid Regional CPA firm" · Principal consultant, Cleveland** — Pros: "Great attention to customer service." Cons: "Needs more staff, senior level personnel, capacity strained." **May 6, 2025 · 5.0 · intern, Zanesville** — "Very caring and helpful… Long work hours, but that comes with public accounting." Rea replies to reviews.
 - What this adds for him: the firm is mid-change (first Chief Growth Officer in Aug 2026, hiring push, capacity strain at senior level) and at least one employee names the change-management gap. A manufacturing practice leader selling "training, process redesign, cultural transformation" to clients sits inside a firm doing its own version of it. INFERENCE (two signals: the Apr 2026 review; the Sep 2026 CGO press release and open roles): his own firm is a live example of the problem his AI article names.
 
-## 5b. Next layer down (lead, 2026-10-13 ~10:30 PM ET)
+## 5b. Next layer down (lead, 2026-10-13 ~9:20 PM ET)
 
 **LinkedIn, read in the lead's own authenticated tab (attributable byproduct; logged in `linkedin-reads.md`).**
 

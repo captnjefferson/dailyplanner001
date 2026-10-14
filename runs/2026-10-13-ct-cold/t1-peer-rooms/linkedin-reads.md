@@ -13,12 +13,12 @@
 - Handles run: jeffluther (44 claimed), jdluther (30 claimed), top 500 sites, no recursion. Files in maigret/.
 - Both handles are common enough that most hits are other people (chess.com, Smule, VK, adult sites). Treat as leads only. Worth a look because they fit his known footprint: Substack @jeffluther and @jdluther, Medium @jeffluther, YouTube @jeffluther, Twitter/X jeffluther and jdluther, Calendly jdluther (this one is his; the scan found it on his site). Nothing here changes the angle; his reading is already in the scan (Ethan King, Ed Mylett, Jim Collins, Charlie Mackesy, Ken Ginsburg, ASHI).
 
-## 2026-10-13 ~11:00 PM ET — Garrido, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:35 PM ET — Garrido, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/carlosgarrido2024/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; other tabs did not switch) · /details/recommendations/ (rendered empty). Findings in carlos-garrido-person.md §10. No connection requests, follows, messages or reactions made.
 Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (label click). Written to §10. Read-only.
 
-## 2026-10-14 ~12:30 AM ET — Luther, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:15 PM ET — Luther, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Profile located via LinkedIn people search ("Jeff Luther Home-Probe Charleston") → linkedin.com/in/jeff-luther. Pages opened: /recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in jeff-luther-lead-notes.md (to merge). No connection requests, follows, messages or reactions made.
 
-## 2026-10-14 ~1:30 AM ET — Dixon, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:16 PM ET — Dixon, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/johnscottdixon/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in john-scott-dixon-lead-notes.md. No connection requests, follows, messages or reactions made.

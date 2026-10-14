@@ -1,4 +1,4 @@
-# Humantic: Jeff Luther (pulled in Jefferson's Chrome, 2026-10-14 ~1:10 AM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/jeff-luther)
+# Humantic: Jeff Luther (pulled in Jefferson's Chrome, 2026-10-13 ~9:15 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/jeff-luther)
 
 **DISC: DIS "The Pioneer"** · D 67 · I 66 · S 60 · C 56 · analysis confidence High (100%). Humantic's career fields: Chapter President, Entrepreneurs' Organization, July 2025 to present; Podcast Host & Creator, All Can No Can't, June 2021 to present; Founder/CEO, Home Probe, Inc., June 2002 to present. Education line reads "Resource Wasting — University of West Georgia" (his own joke on the profile). Mount Pleasant, SC.
 

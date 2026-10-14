@@ -221,7 +221,7 @@ Problems as he put them, in his own words. Not angles.
 
 ---
 
-## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-14 ~3:10 AM ET)
+## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:39 PM ET)
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
@@ -256,7 +256,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 
 ### Open for the lead
 
-- Glassdoor for Withum (read 2026-10-14 ~2:40 AM): 3.7 on 535 reviews · 73% would recommend · CEO Patrick Walsh 94% approve · 68% positive outlook. Most recent reviews (Aug–Sep 2026) are about pay and busy-season hours; zero mentions of AI on the first page. A big-firm backdrop, not a signal about him.
+- Glassdoor for Withum (read 2026-10-13 ~10:43 PM): 3.7 on 535 reviews · 73% would recommend · CEO Patrick Walsh 94% approve · 68% positive outlook. Most recent reviews (Aug–Sep 2026) are about pay and busy-season hours; zero mentions of AI on the first page. A big-firm backdrop, not a signal about him.
 - FEC NJ/PA: retry when the key resets.
 
 ## 6. Room facts: T2 event series, Withum's cyber breakfast series (and the Nov 5 Philadelphia stop)

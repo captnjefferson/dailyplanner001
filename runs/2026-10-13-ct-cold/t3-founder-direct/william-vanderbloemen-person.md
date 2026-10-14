@@ -669,7 +669,7 @@ Both problems are in his own words and still open as of his latest statement.
   - **Nov 7, 2024 · 1.0 · "The Mission is Not What You Think" · Executive search recruiter, former, 1+ year, Houston.** Pros: "Exciting opportunity to work with Mission minded people towards their goals." Cons (first line): "While some of the people are fun there is no trust or upscaling yourself in any way. Leadership is u…"
 - Read against the person file: the Jun 9 review is the employee-side mirror of what the team-page data showed (19 of 38 gone in a year; restructured marketing; new director titles). "Constant change" and "centralized decision-making" are the words. He said on 21 Hats he doesn't "trust a Glassdoor rating right out of the box" (Apr 21). For a card: never cite this; for understanding what his people are thinking, it's the clearest thing on the record.
 
-## 9. Next layer down (lead, 2026-10-13 ~10:30 PM ET; non-attributable sources)
+## 9. Next layer down (lead, 2026-10-13 ~9:20 PM ET; non-attributable sources)
 
 - **DNS TXT, vanderbloemen.com** (VERIFIED-PRIMARY): Google Workspace mail (so Gemini is bundled); SPF authorizes Salesforce, HubSpot (two includes), **Loxo** (spf.loxo.co; a recruiting ATS/CRM that markets built-in AI sourcing) and GoDaddy; DMARC p=none with Mailhardener monitoring and Brevo; nine google-site-verification records. No `anthropic-domain-verification` or `openai-domain-verification` record. INFERENCE (medium-high): the search workflow and the candidate data he says he must guard live in Loxo and Salesforce.
 - **Homepage scripts:** HubSpot, Google Tag Manager, Crisp live chat, Termly consent.
@@ -677,7 +677,7 @@ Both problems are in his own words and still open as of his latest statement.
 - **Wayback roster timeline:** 68 individual `/about/<person>` pages were captured 2022 to Jan 2025 with first- and last-seen dates (saved in `wayback-roster-2022-2025.txt`). The site moved to a single `meet-our-team` page in Feb 2025 (24 captures through 2026-07-30). Pre-2025 "last seen" dates cluster on crawl dates and are confounded by the redesign; the clean method is to diff the names across the 24 team-page captures. Internet Archive was intermittently offline tonight; diff deferred.
 - **ProPublica 990 full-text search:** "Vanderbloemen" returns 380 filings, none his (a Wisconsin family foundation). No board seat found by this route.
 
-## 10. Next layer down, part 2 (lead, 2026-10-13 ~11:15 PM ET)
+## 10. Next layer down, part 2 (lead, 2026-10-13 ~9:40 PM ET)
 
 **LinkedIn, read in the lead's own authenticated tab (attributable byproduct; logged in `linkedin-reads.md`).**
 
@@ -697,7 +697,7 @@ Both problems are in his own words and still open as of his latest statement.
 
 **Political giving (FEC schedule A; in bounds per Jefferson's 10/13 ruling).** No itemized federal contributions under "Vanderbloemen" in Texas. State-level (Texas Ethics Commission) not checked.
 
-## 11. Glassdoor, signed-in pass (lead, in Jefferson's Chrome, 2026-10-14 ~12:40 AM ET)
+## 11. Glassdoor, signed-in pass (lead, in Jefferson's Chrome, 2026-10-13 ~9:15 PM ET)
 
 Signed in, Glassdoor shows five reviews per page and redirects page 2 back to page 1; the rest sit behind its "Share your experience to get access" gate, which we do not cross. So the readable set is six of fifteen. Employee-side only; never for a card.
 
@@ -712,7 +712,7 @@ Signed in, Glassdoor shows five reviews per page and redirects page 2 back to pa
 
 **Delta.** The two 2026 reviews, from different departments, use the same words: change, communication, opaque. The 2024 and 2022 negatives are about pay, mobility and favoritism. What changed in the complaints is the subject: from "how I'm paid and seen" to "nothing holds still." That matches the team-page churn and the Jun 9 "constant change" review, and it is the backdrop for any handoff of AI from him to the firm.
 
-## 12. Wayback roster diff, team page (lead, 2026-10-14 ~2:50 AM ET; the delta rule)
+## 12. Wayback roster diff, team page (lead, 2026-10-13 ~9:30 PM ET; the delta rule)
 
 Names extracted from `vanderbloemen.com/about/meet-our-team` in Internet Archive captures and the live page (heuristic: a name shown twice in a row, as the page renders photo caption and heading). The Jul 30, 2026 capture is empty in the archive and is skipped. Charisma Gutierrez is still listed live although she posted her last day the week of Oct 6.
 

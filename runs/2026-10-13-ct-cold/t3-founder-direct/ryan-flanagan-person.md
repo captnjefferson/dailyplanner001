@@ -352,7 +352,7 @@ Links:
 
 ---
 
-## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-14 ~2:00 AM ET)
+## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:22 PM ET)
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
@@ -561,5 +561,5 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 **Seed files**
 - `ryan-flanagan.md` (v1 scan and the verified Inc. quote), `linkedin-reads.md` (LinkedIn read 2026-10-13), `../sweeps/chatgpt-T3-founders-report.md` (row "Ryan Flanagan").
 
-### Review sites (lead, in Jefferson's Chrome, 2026-10-14 ~2:40 AM ET)
+### Review sites (lead, in Jefferson's Chrome, 2026-10-13 ~9:29 PM ET)
 Glassdoor: Hatching Time's employer page shows "No reviews, yet" (the search card's "1 review / 1.0" is stale or gated); the jobs tab shows a Warehouse Associate posting in New Castle, DE at $33K–$35K, six days old, and a customer-facing role under "Hatching Time, LLC." Indeed not read. One review is not a signal; the posting is (warehouse hiring in October, ahead of the spring incubator season).

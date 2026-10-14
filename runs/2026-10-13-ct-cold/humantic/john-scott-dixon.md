@@ -1,4 +1,4 @@
-# Humantic: John-Scott Dixon (pulled in Jefferson's Chrome, 2026-10-14 ~2:15 AM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/johnscottdixon)
+# Humantic: John-Scott Dixon (pulled in Jefferson's Chrome, 2026-10-13 ~9:25 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/johnscottdixon)
 
 **DISC: DIS "The Pioneer"** · D 80 · I 72 · S 68 · C 54 · analysis confidence High (100%) · Phoenix · "32 yrs · Leadership." Humantic's career fields: Member, Entrepreneurs' Organization, Apr 2023 to present; Founder & CEO, Aidan Taylor Marketing, Jan 2004 to present; SVP Marketing and Ecommerce, Insight Enterprises, Nov 2001 to Jan 2004; SVP Marketing and Ecommerce, Direct Alliance Corporation, May 2000 to Oct 2001; VP Ecommerce, Sprint & Sprint PCS, Sep 1998 to May 2000; Director of Ecommerce, Insight Enterprises, Feb 1994 to Sep 1998. BS, The University of Kansas, 1982–1987. (So "the 1st website at Inight" in a colleague's comment is Insight Enterprises, the Tempe IT reseller, in 1994–98: the "early e-commerce pioneer" claim has a real basis.)
 

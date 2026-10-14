@@ -702,12 +702,12 @@ The reader's quotes check out word for word. What I'd add from reading it whole,
 - The host, Ryan Hogan (Talent Harbor), is doing a "crawl, walk, run" with "a training person… three sessions, two hours long," then cohorts building an agent over three or four months. Vistage chairs are themselves buying this kind of training; that's a data point about the market, not about Carlos.
 - Carolina: "there is no doubt that she's the boss." He holds the AI/tech side of the partnership by his own account. Any approach that reaches him on AI reaches the right half of the chair pair.
 
-## 9. Next layer down (lead, 2026-10-13 ~10:30 PM ET; non-attributable sources)
+## 9. Next layer down (lead, 2026-10-13 ~9:20 PM ET; non-attributable sources)
 
 - **ProPublica 990 full-text search, "Carlos Garrido":** listed as a Director of Epilepsy Florida Inc (Miami) on the 2016 and 2017 Forms 990. UNVERIFIED that it is this Carlos Garrido; Miami fits; needs a second signal (LinkedIn Volunteer section, a mention, a photo). The other hits (Silvermine Guild of Artists, New Canaan, CT, 2023–2025) are very likely a different person.
 - **305founders.com stack:** Google Tag Manager and Fontshare only. No marketing automation, no chat, no ATS, no vendor verification records worth noting. The site is a brochure.
 
-## 10. Next layer down, part 2 (lead, 2026-10-13 ~11:15 PM ET)
+## 10. Next layer down, part 2 (lead, 2026-10-13 ~9:40 PM ET)
 
 **LinkedIn, read in the lead's own authenticated tab (attributable byproduct; logged in `linkedin-reads.md`).**
 

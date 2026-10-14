@@ -1,4 +1,4 @@
-# Humantic: Christopher Chediak (pulled in Jefferson's Chrome, 2026-10-14 ~1:00 AM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/christopher-chediak-95526)
+# Humantic: Christopher Chediak (pulled in Jefferson's Chrome, 2026-10-13 ~9:15 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/christopher-chediak-95526)
 
 **DISC: C "The Critic"** · D 56 · I 62 · S 59 · C 78 · analysis confidence High (84%). Humantic's career fields: Shareholder, Weintraub Tobin Chediak Coleman Grodin, Sept 1983 to present (43 years); JD, University of Southern California, 1980–83; BS, UC Davis, 1976–80. Sacramento.
 

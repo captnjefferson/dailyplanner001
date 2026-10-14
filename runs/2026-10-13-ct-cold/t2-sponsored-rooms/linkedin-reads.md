@@ -21,11 +21,11 @@
 - Read for the angle: all his rooms are the attacker's side of AI, done well; his own post says the executive conversation has moved to leadership accountability. The companion session is Jefferson's.
 - Audience note: these are CPE breakfasts for business leaders, finance and IT; mixed sizes, not founder-only.
 
-## 2026-10-13 ~10:20 PM ET — Brickwood, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:15 PM ET — Brickwood, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/ryan-brickwood/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Companies; the Newsletters tab did not switch) · /details/recommendations/ (received: none; given: none). Findings written to ryan-brickwood-person.md §5b. No connection requests, follows, messages or reactions made.
 
-## 2026-10-14 ~12:00 AM ET — Chediak, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:55 PM ET — Chediak, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/christopher-chediak-95526/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in chris-chediak-lead-notes.md (to merge into the person file). No connection requests, follows, messages or reactions made.
 
-## 2026-10-14 ~1:30 AM ET — Mangano, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:16 PM ET — Mangano, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/chrisnmangano/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in chris-mangano-lead-notes.md. No connection requests, follows, messages or reactions made.

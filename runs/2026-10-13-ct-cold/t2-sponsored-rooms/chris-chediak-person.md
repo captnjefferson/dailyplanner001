@@ -223,7 +223,7 @@ Problems as he put them, in his own words. Not angles.
 
 ---
 
-## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-14 ~2:20 AM ET)
+## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:25 PM ET)
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is; family-health context stays out of cards.
 
@@ -263,7 +263,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 - Glassdoor for Weintraub Tobin: pending (lead reads in Chrome).
 - "Shawna H." who "brought this valuable event together": identify via the firm's marketing team page (agent).
 
-### Glassdoor, Weintraub Tobin (lead, signed in, 2026-10-14 ~12:55 AM ET; employer E876927)
+### Glassdoor, Weintraub Tobin (lead, signed in, 2026-10-13 ~9:15 PM ET; employer E876927)
 Headline: 3.2 of 5 on 24 reviews · 45% would recommend · CEO Gary Bradus 100% approve (small base) · 45% positive business outlook. Five most recent, readable before the "share to get access" gate:
 - Sep 10, 2025 · 3.0 · "Poor" · legal billing coordinator, current, 3+ yrs, Sacramento: "High turnover. I have seniority but got passed over for a promotion I was promised and trained every one in my department."
 - Apr 3, 2025 · 5.0 · "Great place to work" · digital marketing specialist, current, 3+ yrs, San Diego: "They treat their employees very well, want to hear your ideas, and have great conflict resolution."

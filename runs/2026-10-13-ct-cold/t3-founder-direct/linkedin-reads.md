@@ -32,12 +32,12 @@
 - Cadence: active; posts every 2–6 weeks in her own voice plus reposts of jobs for friends. LinkedIn-native, warm, emoji-forward, "y'all".
 - Read for the angle: she runs a ~20-person creative shop in DC, builds with Claude herself, and says the team relearns AI every quarter. The room Jefferson could run for her is a PromptLab for a creative team; the conversation is about keeping a small agency current without it becoming her second job.
 
-## 2026-10-13 ~11:00 PM ET — Vanderbloemen, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:35 PM ET — Vanderbloemen, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/williamvanderbloemen/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Top Voices rendered; Newsletters/Groups/Companies/Schools pills selected but the list did not re-render) · /details/recommendations/ (rendered empty). Findings in william-vanderbloemen-person.md §10. No connection requests, follows, messages or reactions made.
 Second pass ~11:25 PM: Interests Newsletters/Groups/Companies/Schools rendered (label click). Written to §10. Read-only.
 
-## 2026-10-14 ~12:15 AM ET — Flanagan, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:58 PM ET — Flanagan, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/about-ryan-flanagan/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (all five tabs via label click) · /details/recommendations/. Findings in ryan-flanagan-lead-notes.md (to merge). No connection requests, follows, messages or reactions made.
 
-## 2026-10-14 ~1:35 AM ET — Winters, next layer (lead's authenticated tab; read-only; attributable byproduct)
+## 2026-10-13 ~9:16 PM ET — Winters, next layer (lead's authenticated tab; read-only; attributable byproduct)
 Pages opened: /in/maggiewinters/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (five tabs) · /details/recommendations/. Findings in maggie-winters-lead-notes.md. No connection requests, follows, messages or reactions made.

@@ -443,7 +443,7 @@ REVIEW SITES: PENDING — lead reads in Chrome. For Home-Probe these are Google,
 
 ---
 
-## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-14 ~2:00 AM ET)
+## 5. Humantic, the lead's LinkedIn read, and the lead's other sources (filled by the lead, 2026-10-13 ~9:22 PM ET)
 
 LinkedIn was read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). Humantic was pulled in Jefferson's Chrome. Nothing here is card material as-is.
 
@@ -700,5 +700,5 @@ Each source is listed with its citation key and what it was used for.
 - `jeff-luther.md` (v1). Its facts were reused where re-verified; its Ethan King and Built, Not Shelved facts were re-read today.
 - `linkedin-reads.md`
 
-### Review sites (lead, in Jefferson's Chrome, 2026-10-14 ~2:40 AM ET)
+### Review sites (lead, in Jefferson's Chrome, 2026-10-13 ~9:29 PM ET)
 Glassdoor: Home Probe shows 5.0 on one review, three jobs and one positive interview report. Too thin to read anything into. Google, Yelp and Listen360 (the agent's pointers) not yet read.

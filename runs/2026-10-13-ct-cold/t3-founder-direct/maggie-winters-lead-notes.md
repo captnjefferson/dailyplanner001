@@ -1,6 +1,6 @@
 # Maggie Winters: lead's own layer (to merge into maggie-winters-person.md §5 once the v2 read lands)
 
-Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). DNS and ProPublica non-attributable. FEC pending (demo key rate-limited). Fit flag stands: This January is about 20 people, below the 25–100 band.
+Written 2026-10-13 ~9:18 PM ET. LinkedIn read in the lead's own authenticated tab (read-only; attributable byproduct; logged in `linkedin-reads.md`). DNS and ProPublica non-attributable. FEC pending (demo key rate-limited). Fit flag stands: This January is about 20 people, below the 25–100 band.
 
 ## LinkedIn
 
@@ -32,4 +32,4 @@ Written 2026-10-14 ~1:40 AM ET. LinkedIn read in the lead's own authenticated ta
 - Humantic: done → `../humantic/maggie-winters.md` (cd "The Inquirer", D60 I52 S49 C60, 100%; partial fit with Jefferson). Under 100 words, first name only, confident and direct, a measurable result and a clear ask with a time; testimonials from peers help; don't force friendliness. Career per Humantic: ISL (iStrategyLabs) 2013–2019; Pop! Wed Co 2013–2021; VCU Advertising + Corcoran BFA.
 - Her Inc. piece (Aug 14, 2026) quote: verify via the browser pane (Inc. bot-walls agents).
 - FEC DC/VA (also under "Gaudaen"): retry when the key resets.
-- Glassdoor (read 2026-10-14): This January has an employer page with 0 reviews and 2 salary reports. Nothing to read.
+- Glassdoor (read 2026-10-13 ~10:43 PM): This January has an employer page with 0 reviews and 2 salary reports. Nothing to read.
