@@ -551,6 +551,13 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 - FEC Arizona: retry when the key resets.
 - Glassdoor (read 2026-10-13 ~10:43 PM): no employer page for Aidan Taylor Marketing.
 
+### Political giving (FEC, read on fec.gov/data/receipts in Chrome, 2026-10-13 ~11:50 PM ET; in bounds per Jefferson's 10/13 ruling; never in a card)
+"DIXON, JOHNSCOTT," Arizona, employer matched to Aidan Taylor / ThoughtLava: three WinRed receipts on Nov 10, 2020 ($5, $5, $1; recipient not expanded). Eleven dollars, once, on the Republican side, in the week after the 2020 election. Nothing since.
+
+### Review sites (lead, in Jefferson's Chrome, 2026-10-13 ~11:50 PM ET)
+Glassdoor: no employer page. Yelp: unclaimed listing, zero recommended reviews, one not recommended. DesignRush profile: "Reviews on Google 5.0 (37)," founded 2004, "Employees Under 49," minimum budget $1,000–$10,000, average hourly rate $199, clients "from small businesses with just $5M in annual revenue to large corporations raking in $300M." The 37 Google reviews themselves: see the Google Maps note below if captured, else next pass.
+
+
 ## 6. Room facts (T1: EO Arizona learning events)
 
 **Grade key:** **A** a primary source states it · **B** a credible secondary source, or primary evidence that implies it · **C** an inference from two or more signals · **D** not found.

@@ -695,7 +695,7 @@ Both problems are in his own words and still open as of his latest statement.
 - INFERENCE (medium): the Ops & Technology Manager posting (Sept 25) folds the operations seat Charisma Gutierrez held for five years into a technology mandate; she left about two weeks after it was posted.
 - His marketing arc holds: restaffed marketing (Feb), "AEO not SEO" (Apr), and now a "love" on a former marketer's GEO-and-agents post.
 
-**Political giving (FEC schedule A; in bounds per Jefferson's 10/13 ruling).** No itemized federal contributions under "Vanderbloemen" in Texas. State-level (Texas Ethics Commission) not checked.
+**Political giving (FEC schedule A; in bounds per Jefferson's 10/13 ruling).** No itemized federal contributions under "Vanderbloemen" in Texas (API 10/13 and fec.gov/data/receipts 10/13 ~11:45 PM, 2015–2026). State-level (Texas Ethics Commission) not checked.
 
 ## 11. Glassdoor, signed-in pass (lead, in Jefferson's Chrome, 2026-10-13 ~9:15 PM ET)
 

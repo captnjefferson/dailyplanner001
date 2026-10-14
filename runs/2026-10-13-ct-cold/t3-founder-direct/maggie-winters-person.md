@@ -340,6 +340,10 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 - FEC DC/VA (also under "Gaudaen"): retry when the key resets.
 - Glassdoor (read 2026-10-13 ~10:43 PM): This January has an employer page with 0 reviews and 2 salary reports. Nothing to read.
 
+### Political giving (FEC, read on fec.gov/data/receipts in Chrome, 2026-10-13 ~11:50 PM ET; in bounds per Jefferson's 10/13 ruling; never in a card)
+VERIFIED-PRIMARY by name, Washington DC 20001, occupation "PARTNER," employer "THIS JANUARY": Jul 27, 2024 $50 (ActBlue); Oct 5, 2024 $60 and $150 to Harris for President (earmarked through ActBlue); Dec 29, 2025 $100 (ActBlue, recipient not expanded); Mar 30, 2026 $250 to "Wallace for Congress" (earmarked through ActBlue; which Wallace: not expanded). About $610 over two years, all Democratic, in round amounts at campaign moments. The many small "Margaret Winters" receipts from Maryland are a different person.
+
+
 ## 6. Company facts (T3)
 
 **Headcount (dated)**

@@ -383,7 +383,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 **Read.** A young DTC operator who learned to sell at Stanley Black & Decker and runs a marketplace business through Amazon's ecosystem. He consumes sales, retention and e-commerce finance content, follows the Shark Tank set, and has found his peer room in Inc.'s Founders community. On AI he is an enthusiastic adopter, not an anxious one: "my whole team went all in… without reducing headcount." The T3 premise for him is not imposter syndrome; it is a founder who has already adopted and may want a thinking partner on the next step, or who could be a peer rather than a client. The agent's read and the Inc. quote (what AI is bad at) will decide which.
 
 ### FEC (in bounds per the 10/13 ruling)
-- No itemized federal contributions under "Ryan Flanagan" in Delaware. A 2019 Ryan Flanagan in West Hartford, CT (not employed; Tulsi Now) predates his Connecticut tie and does not match; not him.
+- No itemized federal contributions under "Ryan Flanagan" in Delaware. A 2019 Ryan Flanagan in West Hartford, CT (not employed; Tulsi Now) predates his Connecticut tie and does not match; not him. Re-checked on fec.gov/data/receipts 10/13 ~11:45 PM: those two 2019 rows are the only ones in DE or CT.
 
 ### Open for the lead
 **Humantic → `../humantic/ryan-flanagan.md`:** si "The Collaborator", D56 I59 S59 C55, confidence 100%; partial fit with Jefferson (shared S). Write him warmer and a little longer than the others: "Hi Ryan," a friendly opening line, 130–150 words, no bullets, a peer or customer proof point, a positive close with a proposed time; he decides slowly and likes win-win framing and involving his co-CEO.

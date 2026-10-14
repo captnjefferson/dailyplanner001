@@ -476,7 +476,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 **Read.** A home-inspection founder two-thirds of the way through a reinvention as a coach and speaker. His consumption is a syllabus for that reinvention: the NSA's speaker blog, a speaker agency, a speaker manager's posts, two newsletters about monetizing podcasts and newsletters, a coach's "clients and clarity" letter, and a LinkedIn-relationship cohort. His engagement is still small (3 reactions on a thoughtful post), so he is building from scratch and he knows it. He is an EO insider who loves the Accelerator program and sits on the booking side of his own chapter's learning calendar while trying to get booked elsewhere. His heart-health story is on the record and shapes what he follows (a cardiologist keynote speaker). Register for anything written to him: warm, plain, Southern-polite, no buzzwords (he laughed at Haberstock's list), speaker-to-speaker candor.
 
 ### FEC (in bounds per the 10/13 ruling)
-- No itemized federal contributions under "Jeff Luther" or "Jeffrey Luther" in South Carolina. A Georgia check (his Atlanta years) is pending: the FEC demo key rate-limited after the first batch tonight.
+- No itemized federal contributions under "Jeff Luther" or "Jeffrey Luther" in South Carolina or Georgia, with or without a Home-Probe employer filter (fec.gov/data/receipts, read in Chrome 10/13 ~11:45 PM). Nothing on the record.
 
 ### Open for the lead
 - Humantic: done → `../humantic/jeff-luther.md` (DIS "The Pioneer", D67 I66 S60 C56, 100%; strong fit with Jefferson). Write to him first-name-only, informal and direct, 100–120 words, one exciting idea, a casual close; social proof and warmth work; no negations, no info dump.

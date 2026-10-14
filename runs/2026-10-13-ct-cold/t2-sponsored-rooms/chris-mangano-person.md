@@ -257,7 +257,7 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 ### Open for the lead
 
 - Glassdoor for Withum (read 2026-10-13 ~10:43 PM): 3.7 on 535 reviews · 73% would recommend · CEO Patrick Walsh 94% approve · 68% positive outlook. Most recent reviews (Aug–Sep 2026) are about pay and busy-season hours; zero mentions of AI on the first page. A big-firm backdrop, not a signal about him.
-- FEC NJ/PA: retry when the key resets.
+- FEC NJ/PA: done on fec.gov/data/receipts (10/13 ~11:45 PM): no receipts under Chris or Christopher Mangano, with or without Withum/Mercadien/Ocellus employer filters. The "Christina Mangano" rows in NJ are someone else.
 
 ## 6. Room facts: T2 event series, Withum's cyber breakfast series (and the Nov 5 Philadelphia stop)
 
