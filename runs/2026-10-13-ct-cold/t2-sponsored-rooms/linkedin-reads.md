@@ -20,3 +20,6 @@
 - Cadence: weekly or better, in his own voice, long thank-you-everyone posts; warm, name-heavy, community-minded (sponsors galas, shelters). Humor-tolerant ("that took patience").
 - Read for the angle: all his rooms are the attacker's side of AI, done well; his own post says the executive conversation has moved to leadership accountability. The companion session is Jefferson's.
 - Audience note: these are CPE breakfasts for business leaders, finance and IT; mixed sizes, not founder-only.
+
+## 2026-10-13 ~10:20 PM ET — Brickwood, next layer (lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/ryan-brickwood/recent-activity/reactions/ · /recent-activity/comments/ · /details/interests/ (Companies; the Newsletters tab did not switch) · /details/recommendations/ (received: none; given: none). Findings written to ryan-brickwood-person.md §5b. No connection requests, follows, messages or reactions made.

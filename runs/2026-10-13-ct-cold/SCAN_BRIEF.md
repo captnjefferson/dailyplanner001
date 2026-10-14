@@ -48,3 +48,23 @@ Consistent usernames across platforms, for Maigret (run by the lead).
 Every URL used, with what it was used for.
 
 **Bounds:** none on time within reason; the long-form reading is the job. Partial is fine only if the file says exactly what was not read and why. Report back with: identity label, three sentences on who this person is, the "right now" item with the highest confidence, and the problem they named.
+
+---
+
+## Addendum 2026-10-13 (late): the quiet-person kit and the delta rule
+
+Added after the Brickwood next-layer run. Use when sections 2–4 come up thin, and as a standard pass on everyone.
+
+**A. LinkedIn, lead's own tab only (attributable; log every page in `linkedin-reads.md`).** `/recent-activity/reactions/`, `/recent-activity/comments/`, `/details/interests/` (Companies, Newsletters, Top Voices, Groups, Schools), `/details/recommendations/` (received and given: their praise of others is their values in their own words), Featured. Note who comments on them repeatedly and whom they congratulate: that is the circle.
+
+**B. The firm as proxy, non-attributable, free.** `dig +short TXT <domain>` (SPF includes and vendor verification records = the vendor stack, including AI vendors: `anthropic-domain-verification`, `openai-domain-verification`); `dig MX`; homepage third-party script hosts (marketing automation, chat, visitor de-anonymization such as Apollo/6sense/RB2B, ATS); ATS feeds with publish dates (Workable `apply.workable.com/api/v1/widget/accounts/<slug>?details=true`, Greenhouse `boards-api.greenhouse.io/v1/boards/<slug>/jobs`, Lever `api.lever.co/v0/postings/<slug>`, BambooHR `<slug>.bamboohr.com/careers/list`); Wayback CDX for team, careers, bio and homepage diffs; blog cadence via RSS or `/wp-json/wp/v2/posts`; Glassdoor and Indeed trends (Chrome, slowly, never past a bot wall).
+
+**C. Public record.** ProPublica Nonprofit Explorer full-text search (`projects.propublica.org/nonprofits/full_text_search?q="Name"`) for board seats and fellow directors; state Secretary of State business search for other entities and co-officers; state license boards; FEC contributions (public, sensitive: flag for Jefferson before using); court records (flag).
+
+**D. Audio that is already text.** iTunes search API → feed → `podcast:transcript` tags (Buzzsprout, Transistor, Captivate publish them); YouTube auto-captions via `yt-dlp --write-auto-sub --skip-download`; Listen Notes for every guest appearance. Transcribing from scratch is last-ditch (his ruling 10/13).
+
+**E. Their unguarded words elsewhere.** Amazon and Goodreads reviews; Substack profile "Reads" and comments; X replies and following list; Reddit and HN by handle (Maigret); YouTube comments; testimonials they gave to vendors, coaches or programs (`"Name" testimonial`: who they pay); blurbs they wrote for others' books; book acknowledgments pages (Google Books preview) naming their circle; conference bios across years.
+
+**F. The delta rule.** For every source with a time axis, pull now and twelve months ago, and write the change, not the state: roster, careers feed, homepage positioning, bios, blog cadence and topics, podcast topics, Glassdoor trend, DNS history (SecurityTrails) for when a vendor appeared, the person's own 90-day content shift. The state is noise; the delta is the signal.
+
+**G. Not used.** Account-existence probes against a person's email (holehe-style): they touch account-recovery flows and can trigger a notice to the person, which violates no-contact. Nothing behind a bot wall. No login other than the lead's own LinkedIn and Glassdoor.
