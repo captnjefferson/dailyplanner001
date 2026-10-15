@@ -167,6 +167,9 @@ The scaffold approved on 10/14, with the formula worry handled by variety and by
 
 ## 9. The process ask (10/15): platforms, the three nearest voices, the network
 
+> **Jefferson's replies, 10/15 ~10:45 AM, before the compact.** (1) "We don't need to understand their whole network, only slices." (2) The Instagram, Facebook and X ban "was not my ruling and I'm deeply unhappy about it." It was mine, written into the v2 brief; removed 10/15. (3) Maigret: "Did I not say to run this for all of them multiple times?" It ran for Luther only; running it for the other seven is the first move after the compact. (4) "Individuals. Names." and "But who is this person?!": every placeholder in the table below (Vistage Florida's event staff, Rea's marketing lead, the Confessions host, ACG Columbus staff, Shawna H.'s surname, Winters's third) is an open item to be filled with a named person and a source. (5) "Ingest this but pause, we need to compact."
+
+
 Jefferson, 10/15: "What social media sites are they active on, what sites are they not active on, and are they consuming, producing or both (do they lurk or are they actively participating). Then I want three people identified that are easier to get to than the target that they listen to. Then we start to understand the network around them. Do we collect that already?"
 
 ### Do we collect it already

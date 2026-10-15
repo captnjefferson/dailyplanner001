@@ -1,6 +1,6 @@
 # Person-read brief, v2 (replaces v1 on 2026-10-13 evening; v1 retired after Jefferson's "hard no": its output was a recitation of facts)
 
-Read-only. Never contact anyone, never log in, never visit LinkedIn, Facebook, Instagram or X profile pages (the lead does LinkedIn and Humantic in its own tab). WebSearch, WebFetch, curl only. Every claim carries a source URL or says "not found". Every inference is labeled INFERENCE with the two or more signals it rests on; one signal is a lead, not an inference. Never invent.
+Read-only. Never contact anyone. Never log in, never enter credentials, never cross a login wall or a bot wall, never solve a CAPTCHA. Agents never like, comment, connect, follow or message anywhere. Public profile pages on Instagram, Facebook, X, TikTok, Threads, YouTube, Substack, Medium and Reddit are in bounds for agents, logged out, with what is visible recorded as evidence (bio, post count, cadence, last post date, followers, pinned posts) and the wall noted where one stops the read. LinkedIn needs a logged-in view, so the lead reads it in Jefferson's Chrome, read-only, logged in `linkedin-reads.md` as an attributable byproduct; Humantic likewise. WebSearch, WebFetch, curl and the browser pane for agents. (Jefferson, 10/15, on the v2 sentence that barred agents from Instagram, Facebook and X profile pages: "That was not my ruling and I'm deeply unhappy about it." The ban was mine. It is gone, and every "not searched by rule" in the nine reads is a gap to fill, not a finding.) Every claim carries a source URL or says "not found". Every inference is labeled INFERENCE with the two or more signals it rests on; one signal is a lead, not an inference. Never invent.
 
 **Order matters: the person first, the room last.** "My shit's secondary. Their shit is primary." Nothing about Captain Tomorrow belongs in this file.
 
@@ -42,7 +42,7 @@ Leave the heading with "PENDING — lead pulls in Chrome". The lead fills in: DI
 As in v1: size, calendar, how speakers are booked and paid (grade A–D with source), past speakers and whether they were paid, selling policy from the stage, headcount and founder-led evidence for T3.
 
 ### 7. Handles
-Consistent usernames across platforms, for Maigret (run by the lead).
+Consistent usernames across platforms. **Maigret runs for every person, on every candidate handle, by the lead**, with the reports saved under `maigret/`; a hit is a lead until a profile confirms it (Luther's run, the only one done under v2, was mostly collisions). Jefferson, 10/15: "Did I not say to run this for all of them multiple times?" It had run for Luther only; the other eight are owed.
 
 ### 8. Sources
 Every URL used, with what it was used for.
@@ -50,6 +50,14 @@ Every URL used, with what it was used for.
 **Bounds:** none on time within reason; the long-form reading is the job. Partial is fine only if the file says exactly what was not read and why. Report back with: identity label, three sentences on who this person is, the "right now" item with the highest confidence, and the problem they named.
 
 ---
+
+### 9. v3 additions (proposed 2026-10-15 from Jefferson's replies; in force when he says)
+
+**Names, not roles.** Every person named in this file is an individual with a full name and a source URL. "Staff," "the marketing lead," "the host" is not an answer. (Jefferson, 10/15: "Individuals. Names." and "But who is this person?!")
+
+- **2e. Platform matrix.** For each of LinkedIn, X, Instagram, Facebook, TikTok, Threads, YouTube, Substack, Medium, Reddit, personal site or blog, podcast (host or guest) and newsletter: present (verified handle, Maigret lead, or not found); role (producer, participant, consumer, dormant) with cadence; last activity date; audience size; evidence URL. Public pages, logged out, no wall crossed. "Not active" may be written only after someone has looked.
+- **2f. The three nearest voices.** Everyone the target demonstrably listens to (quoted, hired, had on their show, reacted to three or more times, co-presented with, organized their room), each with the evidence of direction and a reachability note (public contact path; answers comments; wants to be found; a shared room). Then the three who are easier to reach than the target, named, with the honest reason Jefferson would have to talk to each. Agents never contact anyone; the pick is for him.
+- **2g. Network slice, not the whole network.** Jefferson, 10/15: "We don't need to understand their whole network, only slices." The slice is three rings: who makes their rooms (organizers, program leads, hosts); who they listen to (as in 2f); who they talk to in public (repeat commenters, people they congratulate). One line and a source per name. Stop there.
 
 ## Addendum 2026-10-13 (late): the quiet-person kit and the delta rule
 
