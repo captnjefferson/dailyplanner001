@@ -1,6 +1,6 @@
 # Tiers and approach (v0.4 planning, 2026-10-15)
 
-Planning only. Nothing here is sent, and nothing here changes the seven drafts in `cards/first-touch-v3.md`. Written after Jefferson's 10/15 replies: the group is fine for relationship building, but what is being sold, how these people are "bookers," whether T3 is a different play, and whether the tools exist for the small-business group all needed plain answers before any tiering.
+Planning only. Nothing here is sent, and nothing here changes the seven drafts in `cards/first-touch-v3.md`. Revised the same morning for Jefferson's three tiers (Monitor, Build relationship, Pitch), the where-to-point-the-stream table, and what is and is not known about the pitch. Written after Jefferson's 10/15 replies: the group is fine for relationship building, but what is being sold, how these people are "bookers," whether T3 is a different play, and whether the tools exist for the small-business group all needed plain answers before any tiering.
 
 ## Glossary: the organizations and roles on this list
 
@@ -68,44 +68,84 @@ Short answer: methods yes, processes yes for a cohort or a workshop, builds part
 
 There is no named thing an owner buys after the talk. When an owner in Garrido's group asks what working with Jefferson looks like, the answer has to exist with a shape, a duration, and a price. That is the one build to settle before the first slot lands, and it is better that it surfaced now than after.
 
-## 4. Tiers
+## 4. Tiers: Jefferson's three (10/15)
 
-Tiered by how directly the person controls a slot and when the slot is decided. Register and the drafted note for each are in `PERSON_BRIEFS.md` and `cards/first-touch-v3.md`.
+Jefferson, 10/15: "I'm feeling overwhelmed with the complexity here. Can I suggest three tiers: monitor, build relationship, pitch." Adopted. The earlier ranking by slot control is kept as a column, not a tier. "Pitch" here is the stage where an ask is live because the relationship has produced an opening. It is never a cold pitch (the 10/14 rule). The pitches themselves are not yet defined; that is the next branch.
 
-| Tier | Person | Play | Moment | First move | Channel |
-|---|---|---|---|---|---|
-| 1 | Luther | A. Talk, EO Charleston learning calendar | Chapter year, no hard date | A LinkedIn comment first; he answers warmth. Then the read-ask. | LinkedIn comment, then email |
-| 1 | Garrido | A. Talk, his Vistage group days | AI slot just spent at the Florida event | The Confessions read-ask. In his frame it has to help him decide something. | Email |
-| 1 | Brickwood | A. Talk, Manufacturing Education Day 2027 | After Cleveland, Oct 30 | Wait. Then the recap read-ask about what the owners asked. | Email, after Oct 30 |
-| 2 | Mangano | B. Stage, co-presenter seat, no fee | After Nov 5 and Nov 12 | Watch the two recaps. Then the read-ask on what owners asked about who owns the risk. | Email, after Nov 12 |
-| 2 | Chediak | A. His room, through the firm's program lead | 2027 theme sets by June | The bulleted read-ask now, "no reply needed." The room ask goes to the program lead in spring. | Email |
-| 3 | Flanagan | Peer and door to Inc.'s Founders House, not a client | None | Comments. A note only if there is a genuine question about the co-CEO split. | LinkedIn |
-| 3 | Winters | Peer and door to Breakfast Club DC and Chief, not a client | None | Comments. The Part III essay is the only honest reason to write. | LinkedIn |
+| Tier | Person | Why there today | Slot control | Moves up when |
+|---|---|---|---|---|
+| Monitor | Brickwood | Cleveland, Oct 30, closes the 2026 run. Nothing to say until the recap. | Programs the day himself; Rea pays the keynote | Oct 30 passes and the recap posts |
+| Monitor | Mangano | Philadelphia Nov 5 and New York Nov 12 are weeks away. | Fills his own stage; no fee | Nov 12 passes and the recaps post |
+| Monitor | Flanagan | Adopter, not a client fit. No live question. | None | Only with a genuine question about the co-CEO split |
+| Monitor | Winters | Below the floor. No live question beyond the Part III essay. | None | Only if the Part III question is one Jefferson actually wants answered |
+| Build relationship | Luther | A real question drafted, no date to wait for, and he answers warmth. | Picks EO Charleston's speakers | He raises a speaker need, or the chapter calendar turns |
+| Build relationship | Garrido | A real question drafted. The AI slot is spent; the owner-and-team slot is open. | Picks his Vistage groups' speakers; Vistage pays | He asks what Jefferson does, or a group day needs filling |
+| Build relationship | Chediak | The bulleted "no reply needed" note. Slow by register. | Host; the firm's program lead decides | The 2027 theme sets by June; the ask goes to the program lead |
+| Pitch | Nobody | By the 10/14 rule nobody is here until they open the door or the calendar does. | | |
 
-Tier 1 is where a slot can actually be decided by the person you are talking to. Tier 2 is a stage or a door with no fee or no hand on the calendar. Tier 3 is relationship held for its own sake and for what it might open; no play is built on it until the T3 list is rebuilt on the handoff screen.
+Movement: Monitor to Build when a date passes or a post is worth answering. Build to Pitch when they open the door. Anyone drops back to Monitor when nothing real is there.
 
-## 5. Approach
+## 5. Monitor: where to point the stream
+
+Jefferson, 10/15: "Part of the research was to find out where these people consume media from, and how. So at this stage, we want that info so we know where to point our stream of outbound info, right?" Right. The reads captured it. Pulled together here from each person's "what they consume," "where they show up," and the lead's 10/13 LinkedIn read of reactions, comments, newsletters and groups.
+
+| Person | Where they read | Where they engage, and with what | Rooms they sit in | Where the stream reaches them |
+|---|---|---|---|---|
+| Luther | The speaker trade: the National Speakers Association's Voices of Experience, a speaker agency, a speaker manager's posts, two newsletters on monetizing podcasts and newsletters, The Coach's Compass. Ed Mylett, Tony Robbins, Jim Collins. EOS. | LinkedIn daily, small engagement (3 reactions on a thoughtful post). Reacts to keynote speakers, EO content (the EO Wonder podcast, Accelerator), coaching and mindset, heart-health leadership. Comments warm and short; he cheers, he does not argue. | EO Charleston; Harbor Entrepreneur Center panels; his own podcast, All Can, No Can't; the AAPEX speaker roster | LinkedIn: comments on his posts, and posts about the craft of a room and founder pressure, speaker to speaker. He reads the trade, so guesting in his lane would also reach him. |
+| Garrido | Sales and founder performance: Sandler peers, Hormozi, Dean Jackson, Gary Vee, Cialdini, The Challenger Sale, Rory Sutherland. Four newsletters on building a brand without cold outreach. Stoicism and a journal. | LinkedIn daily, long-form essays in his own voice. "Nothing sells like proof." Zero AI mentions in 20 posts. AI reaches him through go-to-market voices and Vistage's own stage. | Vistage Florida chairs; 305Founders; the Sandler network; a Miami run club | LinkedIn: comments on his essays (a fresh surface every day) and proof-shaped posts: what happened in a room, founder dependence as valuation risk. Vistage's stage is the other route, and that is the booking itself. |
+| Brickwood | Colleagues and rooms, not thought leaders. Good to Great, Traction, the Wall Street Journal at times. EOS, Lean. | LinkedIn every one to two weeks, nearly all firm content. Shares colleagues' work; never writes about himself. His ACG Columbus talk drew his biggest response (82 reactions). | Rea's events; ACG Columbus; the Orrville and Smucker finance world; Plain & Simple readers | LinkedIn: comments on Rea's Manufacturing Day recaps and on his own posts, in plain language with manufacturing owner stories. ACG Columbus is a room he values. |
+| Chediak | Bar bulletins he writes for. Weintraub's own newsletters. Boardroom Notes (Scott Syphax). The Work Intelligence Loop, a local AI-automation founder's newsletter. Harvey. Huberman. | LinkedIn rarely. Reacts to Business Focus recaps ("Measure the outcome. Prove the value."), the Sacramento deal community, and family. About 14 comments in nine years, all congratulation. | A Vistage LinkedIn group (his role unverified); the Capital Region Family Business Center; Shriners and civic boards; the Sacramento deal circle | Almost nothing reaches him directly. The one surface is the Business Focus recap thread each year and the deal community's posts. The stream for his room goes to the program lead, not to him. |
+| Mangano | MSP and security letters (Cyber Clarity for MSPs, Black Hills). Construction finance. HR tech. Simon Sinek. The regulators and FBI reports he cites. | LinkedIn: promotes each road-show stop; reacts almost only to Withum posts and cyber items; gracious short thank-yous. He reacted to Gartner's line that deploying AI is easier than changing how an organization decides. | ProVisors Philadelphia; NJBIA (Minding Your Business); the Chamber of Commerce for Greater Philadelphia | LinkedIn: comments on the Nov 5 and Nov 12 event posts. The owner's-side-of-accountability framing is what he reposts. |
+| Flanagan | The Shark Tank canon (Cuban, O'Leary, Corcoran, Daymond John), Gary Vee. DTC retention and e-commerce finance letters. Amazon's seller ecosystem. The SBDC. | LinkedIn monthly, with a "Book an appointment" button. Reacts to agentic commerce and Amazon marketplace news. Casual, first-name, emoji. | Inc.'s Leadership Forum and Founders House; the Inc. 5000 Gala; Delaware civic | LinkedIn comments, and the Inc. ecosystem: he writes for it, and the Inc. 5000 letter is in his feed and in Winters's. |
+| Winters | Substack: Lenny's Newsletter, METHOD, Product Fridays, Slow Boring, A SHORT LIST. On LinkedIn: AI Decoded (Fast Company), Inc. 5000, Clios, Ad Age, Adweek. MIT Sloan Executive Education. | LinkedIn, active and warm (35 items in five weeks). Comments on AI launches (First Concepts, Profound). Cheers friends and clients. Builds with Claude and Claude Cowork personally. | Breakfast Club DC (biweekly, no pitch, no RSVP); Chief; Corcoran and RISD circles | LinkedIn comments, and long-form: she is the one reader on the list who would find an essay on Substack. |
+
+What this says about the stream:
+
+- **One stream, not seven.** All seven are on LinkedIn, and for five of them it is the only surface Jefferson's words can reach without a booking. The theme they share is the owner and the team: the handoff, the emotional friction, what stays human. One voice, placed where they are.
+- **Two surfaces.** LinkedIn posts and comments for everyone. A long-form home for the readers: Winters on Substack, Garrido and Chediak through newsletters. Whether a long-form home exists or gets built is a planning decision, not assumed here.
+- **Comments are the Monitor move.** The LinkedIn watch (briefing module 55, run by the Fixer) surfaces their posts so Jefferson can comment while a post is live. Agents never comment; he does.
+- **Most of what they read is closed to him.** The speaker trade, MSP letters and bar bulletins are not places he can publish. The reachable adjacent channels are guesting: EO's own podcast for Luther's world, Vistage's stage for Garrido's, Inc.'s community for Flanagan's and Winters's.
+
+## 6. Build: the email, and what is known about the pitch
+
+Jefferson, 10/15: "Part of the building is email, and understanding what we're going to pitch to them, so do we know that here?"
+
+- **The email exists.** Seven read-ask drafts in `cards/first-touch-v3.md`, each with register, send address and the sources it cites. They carry no pitch by design.
+- **The pitch does not exist yet.** Jefferson, 10/15: "I have not yet defined the different pitches in this context, that'll be the next branch." What is known is the shape per person: which play, and the opening the read named. What is missing is the offer itself for each play.
+
+| Person | Play | The opening the read named | What the pitch branch has to supply |
+|---|---|---|---|
+| Luther | A. Talk | "Meet him speaker to speaker." His named problem: founders burn out on comparison and pressure "and then we don't admit it." The cohort's emotional-friction finding is the bridge. | The owner version of the talk: title, length, what a chapter pays, how it fits a learning calendar |
+| Garrido | A. Talk | CEOs who "have never even switched it on" and want to hand AI to an agency "like delegating culture." A note to him "has to help him decide something." | The same talk shaped as a Vistage group day, and what Vistage's bureau expects of a speaker |
+| Chediak | A. Talk, through the firm | "A measured, value-first conversation for the owners he advises." His event's own line: "Measure the outcome. Prove the value." | The talk shaped for a law firm's client seminar, pitched to the program lead, ROI first |
+| Brickwood | A. Talk | "An outside voice in that room who is not selling ERP or IT." His own line: AI is "training, process redesign, and often cultural transformation." | The talk shaped for manufacturers: the people side of AI in a plant, plain, "won't put you to sleep" |
+| Mangano | B. Stage | "A co-presenter who brings the owner's side of accountability, not a vendor." His frame: who owns the risk in an AI-driven world. | A co-presenter segment: the owner's side, short, no fee, and what Jefferson gets from the room |
+| Flanagan, Winters | C. Advisor hours, not pursued | Peers and doors | Nothing now |
+
+Behind every row sits the gap from section 3: the named engagement an owner buys after the talk. That is the consulting pitch, and it is undefined.
+
+**Sequencing that follows.** The Build-tier emails wait for the pitch branch. The moment someone answers, Jefferson needs the answer to "what do you do" in one sentence, and the share-back promise has to be one he can keep. Three pitches are short work once the plays are named, and defining them first removes the pressure of a fast reply arriving before the answer exists. Monitor-tier moves (comments, the stream) do not wait.
+
+## 7. Approach
 
 The scaffold approved on 10/14, with the formula worry handled by variety and by what the second touch is.
 
 1. **One genuine question per person, or no note.** The question comes from what they wrote. Garrido, Luther and Brickwood each just ran an AI session for owners, so "what happened after" is a real question and their answers are comparable. Chediak's and Mangano's questions are about their rooms. Flanagan's and Winters's exist only if Jefferson actually wants the answer.
-2. **Channel and moment differ by person.** Per the table. Nothing goes out on the same day, and two of the five Tier 1 and 2 notes are date-gated (Brickwood after Oct 30, Mangano after Nov 12).
+2. **Channel and moment differ by person,** per the tier table, and Build-tier emails go only after the pitch branch. Nothing goes out on the same day. Brickwood and Mangano are date-gated.
 3. **The share-back is the second touch and a promise.** With three comparable answers it becomes a short written pattern: what three people who run owner rooms saw after their AI session. That piece is also the research for the owner version of the talk. It is the credential, and it never pitches.
-4. **Convening is the third move, only after share-backs.** A 45-minute call with two or three of them on the owner-and-team problem. They watch Jefferson run a room. That is the closest thing this business has to a demo.
+4. **Convening is the third move, only after share-backs.** A short call with two or three of them on the owner-and-team problem. They watch Jefferson run a room. That is the closest thing this business has to a demo.
 5. **Nobody is asked for the slot.** It comes when they raise it or when the calendar does: Brickwood's 2027 theme, Chediak's June, the EO chapter year. If it never comes from a given person, that person stays a relationship and the list was still right.
 6. **Cadence is slow and the count is small.** Ten a thread is no longer the number. The LinkedIn watch review date stays 2026-11-15.
 
-## 6. Planning decisions that are Jefferson's before anything moves
+## 8. Planning decisions
 
-- Confirm or move anyone in the tiers.
-- Park T3 until the rebuild on the handoff screen, or keep Flanagan and Winters as holds.
-- Name the engagement shape. A default to react to: the cohort format, 90 days, the owner plus two lieutenants, a kickoff assessment, two group sessions, 1:1s in between, and a playbook the team keeps. Named and priced.
-- Pick one cohort client to go back to for one measured number, so the stories stop being projections.
-- Decide whether the share-back pattern piece is something he wants to write under his own name.
+- Tiers: Jefferson's three, adopted 10/15 ("Yes, I agree here"). Placement in the table above is his to adjust.
+- Next branch, his words: define the pitches. Three of them, one per play. The named engagement an owner buys after the talk is part of that branch.
+- Still open: park T3 until the rebuild on the handoff screen, or keep Flanagan and Winters as holds; one cohort client to go back to for one measured number; whether he writes the share-back pattern piece under his own name; whether a long-form home exists or gets built.
 
-## 7. Sources
+## 9. Sources
 
-- `PERSON_BRIEFS.md` and the nine `t*/*-person.md` reads in this folder (Notion: "Nine person briefs (v2, 2026-10-14)")
+- `PERSON_BRIEFS.md` and the nine `t*/*-person.md` reads in this folder (Notion: "Nine person briefs (v2, 2026-10-14)"), including each read's section 2 (what they consume, where they show up) and section 5 (the lead's LinkedIn read)
 - `cards/first-touch-v3.md`, the seven drafted read-ask notes, none sent
 - `~/Sites/April 2025 AI Implementation Cohort/`: `Cohort_Synthesis.md`, `early_axes.md`, `Axes Deep Dive.md`, `ai_cohort_application_stories_traceable.md`, `inventory.md`
 - `~/Sites/iha-2026/CLAUDE.md` and `build/research/materials-assessment.md`
