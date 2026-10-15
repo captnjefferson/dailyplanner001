@@ -16,7 +16,7 @@ The steps in the order they run, from finding people to the drafts Jefferson sen
 | 8 | LinkedIn read | The lead in Jefferson's Chrome, read-only, each page logged in `linkedin-reads.md` | Posts and cadence, reactions, comments, newsletters followed, groups, recommendations, the people around them | Section 5 of the read; where to point Jefferson's posts |
 | 9 | Humantic (a tool that infers personality type from public writing) | The lead in Jefferson's Chrome | `humantic/<slug>.md`: type, preferred length and tone, what to lead with and what to avoid | The voice line in each brief and draft |
 | 10 | Review sites | The lead in Jefferson's Chrome: Glassdoor, Indeed, Google reviews; stops at any bot wall | What their staff and clients say | The "right now" section of the read |
-| 11 | Username scan | Maigret (checks one username across about 500 sites), run by the lead on every candidate handle | A hit list per handle in each thread's `maigret/` folder | Leads for step 12. A hit is not proof until a profile confirms it |
+| 11 | Username scan | Maigret (checks one username across about 500 sites), run by the lead on every candidate handle | A hit list per handle in each thread's `maigret/` folder; coverage across all handles in `sweeps/maigret-coverage-2026-10-15.md` | Leads for step 12. A hit is not proof until a profile confirms it |
 | 12 | Other platforms | Subagents, logged out: Instagram, Facebook, X, TikTok, Threads, YouTube, Substack, Medium, Reddit | `<slug>-platforms-2026-10-15.md` beside each read: present or not, producer, participant, consumer or dormant, cadence, last post, audience | Where else they post or lurk; a second surface for Jefferson's posts |
 | 13 | Merge and correct | The lead | Revised reads, committed to git and copied into each person's row in the Notion database | One source per person |
 | 14 | Person briefs | The lead | `PERSON_BRIEFS.md`, about 250 words per person; Notion briefs page | What Jefferson reads before deciding anything about a person |
@@ -28,7 +28,7 @@ The steps in the order they run, from finding people to the drafts Jefferson sen
 
 | # | Step | Tool | Output | How the output is used |
 |---|---|---|---|---|
-| A | Three nearest voices | Subagents, then the lead | Three named people per target whom the target listens to and who are easier to reach, each with evidence and a source. First names pass: `sweeps/names-*-2026-10-15.md` | A second path into each room that does not run through the target |
+| A | Three nearest voices | Subagents, then the lead | Three named people per target whom the target listens to and who are easier to reach, each with evidence and a source. First names pass: `sweeps/names-vistage-weintraub-2026-10-15.md` and `sweeps/names-rea-acg-winters-2026-10-15.md` | A second path into each room that does not run through the target |
 | B | Network slice | Subagents, then the lead | Three rings, one line and a source per name: who makes their rooms, who they listen to, who they talk to in public | Shows which slice of their network to work, not the whole map |
 
 Drafted with Claude — directed, edited, and approved by Jefferson.
