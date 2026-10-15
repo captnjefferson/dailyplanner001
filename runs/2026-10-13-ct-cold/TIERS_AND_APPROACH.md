@@ -2,6 +2,19 @@
 
 Planning only. Nothing here is sent, and nothing here changes the seven drafts in `cards/first-touch-v3.md`. Written after Jefferson's 10/15 replies: the group is fine for relationship building, but what is being sold, how these people are "bookers," whether T3 is a different play, and whether the tools exist for the small-business group all needed plain answers before any tiering.
 
+## Glossary: the organizations and roles on this list
+
+Jefferson, 10/15: "You gotta be aware of my lack of context of these folks." Every organization and role on the list, defined once here and on first use from now on.
+
+- **EO, the Entrepreneurs' Organization.** A global membership network for founders whose companies clear about $1 million in revenue. Members belong to a local chapter and to a Forum, a small confidential group that meets monthly. The chapter runs monthly learning events with an outside speaker, programmed by a volunteer member board. The **Learning Chair** is the board member who picks those speakers; the money is chapter dues or a sponsor. Luther is EO Charleston's president and learning chair. Dixon is EO Arizona's learning chair, where the chapter sells the slot to sponsors.
+- **Vistage.** The largest CEO peer-advisory organization in the United States. The unit is a **Chair**: a paid, self-employed former executive who runs a private group of roughly 12 to 16 non-competing owners that meets one full day a month, plus a monthly one-to-one with each member. Members pay five-figure annual dues. The chair picks the outside speaker for a group day, mostly from Vistage's vetted speaker bureau. Vistage pays the speaker per group day, and the same workshop travels from group to group, so one booking can become a circuit. Garrido chairs in Miami with Carolina. **Vistage Florida** is the regional umbrella that ran the 80-person AI event. **305Founders** is the Garridos' own founder community.
+- **TAB, The Alternative Board.** Franchise-run peer boards for owners smaller than Vistage's. Named in the thread definition; none of the nine are TAB.
+- **Rea.** Rea & Associates, an Ohio regional CPA and business-advisory firm for closely held and family companies, with a manufacturing practice and a print newsletter written for Amish and Mennonite owners. It hosts owner events as business development. **Manufacturing Education Day** runs in three Ohio cities and is programmed by Brickwood as the manufacturing practice leader. The firm pays the keynote because the day earns clients.
+- **Withum.** A national accounting and advisory firm headquartered in Princeton, New Jersey, with a cyber and risk-advisory arm. Mangano was hired to build and host its breakfast workshops for small-business owners on cyber and now AI risk, co-hosted with **JKJ**, an insurance broker, and a chamber of commerce. The firm pays only its own symposium keynote; co-presenters come for the room.
+- **Weintraub Tobin.** A Sacramento business law firm; Chediak is a name partner. Its annual **Business Focus** seminar for owners and executives is co-hosted with a mezzanine lender and paid its first outside keynote in 2026. The firm's program lead sets the theme; Chediak is the host.
+- **Inc.'s Founders House, Breakfast Club DC, Chief.** Founder and executive communities that Flanagan (Founders House) and Winters (the other two) belong to. Doors, not rooms anyone on this list programs.
+- **The pattern that drives the tiers.** EO and Vistage are membership organizations: the room exists every month and filling it is someone's job, a volunteer learning chair at EO and a professional chair at Vistage. Rea, Withum and Weintraub are professional-services firms: the room exists a few times a year as marketing, so the firm pays the keynote and a practice leader or program lead decides who gets it.
+
 ## 1. What is being sold
 
 Three different plays were mixed together in one list. Naming them is most of the tiering.
