@@ -563,3 +563,9 @@ LinkedIn was read in the lead's own authenticated tab (read-only; attributable b
 
 ### Review sites (lead, in Jefferson's Chrome, 2026-10-13 ~9:29 PM ET)
 Glassdoor: Hatching Time's employer page shows "No reviews, yet" (the search card's "1 review / 1.0" is stale or gated); the jobs tab shows a Warehouse Associate posting in New Castle, DE at $33K–$35K, six days old, and a customer-facing role under "Hatching Time, LLC." Indeed not read. One review is not a signal; the posting is (warehouse hiring in October, ahead of the spring incubator season).
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `ryan-flanagan-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). His only verified personal surface is rflanagan.com, unchanged since 2022. Everything live is company voice: Hatching Time on Instagram (6,792 followers, posted Oct 15), YouTube (15.4K subscribers, Oct 7), TikTok (2,716), Threads (667) and Pinterest; Oldfield Pets on Instagram (259); Exhibit Creators' Instagram dormant since Jan 2024. No company feed names him in logged-out text. Accounts named Ryan Flanagan on X, Instagram, Threads, TikTok, Pinterest and Substack carry nothing tying them to him. X timelines, Medium, Reddit and Facebook bodies were walls. Maigret ran on rflanagan, aboutryanflanagan, ryanflanagan and hatchingtime; the shared-name hits are other people.

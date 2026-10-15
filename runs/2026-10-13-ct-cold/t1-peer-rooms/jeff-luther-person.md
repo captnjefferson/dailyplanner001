@@ -706,3 +706,9 @@ Each source is listed with its citation key and what it was used for.
 
 ### Review sites (lead, in Jefferson's Chrome, 2026-10-13 ~9:29 PM ET)
 Glassdoor: Home Probe shows 5.0 on one review, three jobs and one positive interview report. Too thin to read anything into. Google, Yelp and Listen360 (the agent's pointers) not yet read.
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `jeff-luther-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). Verified: the weekly show on YouTube @allcan_nocant (454 videos, 115 subscribers, Oct 12), the jeffluther.com blog (Sep 29), a Substack profile set up Jan 2026 as a reader ("new to trading", four options and futures letters, a Stoicism letter; no posts), a Facebook Page "Jeff Luther" (1,173 followers) and the dormant @jdluther YouTube (Feb 2024). Instagram @jdluther2.0 and @allcan_nocant exist by cross-link but are walls logged out; X, Threads, Reddit and Medium were not readable. Maigret ran on jdluther2.0, allcan_nocant, servicebusinessblueprint and jeff-luther (on top of the 10/13 jdluther and jeffluther runs); hits triaged in the platform file.

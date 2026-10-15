@@ -1,0 +1,119 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username thisjanuary on:
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:thisjanuary
+ ├─uid: 5704468
+ └─username: Thisjanuary
+[+] GitHub: https://github.com/thisjanuary
+ ├─uid: 111521015
+ ├─image: https://avatars.githubusercontent.com/u/111521015?v=4
+ ├─created_at: 2022-08-18T15:15:14Z
+ ├─location: Washington, DC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─fullname: Zach Groofman
+ ├─public_gists_count: 0
+ ├─public_repos_count: 0
+ ├─company: January Third
+ └─blog_url: www.januarythird.co
+[+] Medium: https://medium.com/@thisjanuary
+ ├─fullname: This January
+ ├─username: thisjanuary
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/1*4L2E_VuxcK0360PO2TrKBQ.png
+ └─latest_activity_at: 2026-10-15 17:41:34 UTC
+[+] Snapchat: https://www.snapchat.com/add/thisjanuary
+ ├─username: thisjanuary
+ ├─fullname: This January
+ ├─bio: This January is on Snapchat! (@thisjanuary)
+ ├─url: https://www.snapchat.com/@thisjanuary
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@thisjanuary/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=thisjanuary&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Myspace: https://myspace.com/thisjanuary
+ ├─uid: 80381301
+ └─username: thisjanuary
+[+] linktr.ee: https://linktr.ee/thisjanuary
+ ├─id: 144398709
+ ├─username: thisjanuary
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: An independent agency building next year’s brands
+ ├─tier: free1
+ ├─social_links: {'instagram': 'https://instagram.com/thisjanuary_'}
+ └─links: 
+   ├─ https://docs.google.com/forms/d/e/1FAIpQLSfMCeLH96OLB8ZH8Lq8yg5-Se8rOA6s31n1HJRkLbG8-Q0v5A/viewform
+   ├─ https://nook.thisjanuary.com
+   ├─ https://thisjanuary.com
+   └─ https://thisjanuary.us17.list-manage.com/subscribe?u=51d9f2bade0fed8148878b2c8&id=4529ad252e
+[+] Vimeo: https://vimeo.com/thisjanuary
+[+] Facebook: https://www.facebook.com/thisjanuary
+ ├─uid: 100054655050918
+ ├─username: thisjanuary
+ ├─fullname: The January | Hanoi 
+ ├─description: The January, Hanoi. 226 followers. Mỹ phẩm và nước hoa sân bay Auth
+ └─image: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/300776327_598101822021648_2211198432793407144_n.jpg?stp=dst-jpg_tt6&cstp=mx700x700&ctp=s700x700&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=JLtdzWYsAscQ7kNvwF4Y_EL&_nc_oc=AdrIRJrMSezGjHbx7ahyeH_bTqC13weyNUTHNMn9fM2fSYXGwQjXlYBD9OcDERfeOkF1buoSZus-54X_4FKOIX5w&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=M-vU679Wg65jeJuxdtc-KA&_nc_ss=7020f&oh=00_AQNY1WTo0GYDN5qH-sAaOAqb4CyvtmZiup2ceeW-vWpOKg&oe=6AD6F420
+[+] TikTok: https://www.tiktok.com/@thisjanuary
+ ├─tiktok_id: 7194881277114467371
+ ├─tiktok_username: thisjanuary
+ ├─fullname: This January
+ ├─bio: an independent creative agency → 
+building next year's brands
+
+washington, d.c.
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/428c924474881ee5e00bb1dc3b7a46e1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=76992a60&x-expires=1792256400&x-signature=GQSKxBZw%2FnnbBUCqei%2FAliXdzvo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAupJPm1FPW3V3C3D4h0B9U5lRiKmuxFWTobu_KV89VfruUpEDRJ9wl1VGNR0gnT1a
+ ├─following_count: 37
+ ├─follower_count: 1024
+ ├─heart_count: 16600
+ ├─video_count: 62
+ └─digg_count: 0
+[+] Spotify: https://open.spotify.com/user/thisjanuary
+[+] YouTube: https://www.youtube.com/@thisjanuary/about
+ ├─youtube_channel_id: UC9RnxQuTVJsEyAzLptgjY8Q
+ ├─fullname: N
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_mkLO97kTQBhD1y6_12_RwCBlZbvm0lFWC1fm-6j2EAW9Vj9t7ftMX_By3gz5Ppz7-oIQ=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@thisjanuary
+ └─is_family_safe: True
+[+] Blogger: https://thisjanuary.blogspot.com
+ ├─blog_id: 8938359313772496529
+ └─uid: 08219956062384528314
+[+] DeviantART: https://thisjanuary.deviantart.com
+ ├─country: Brazil
+ ├─created_at: 2023-02-10 01:05:42 UTC
+ ├─gender: other
+ └─username: thisjanuary
+[+] last.fm: https://last.fm/user/thisjanuary
+ ├─fullname: thisjanuary
+ ├─bio: • scrobbling since 15 Aug 2005
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/3c4e316b7645405dc0d2e158a432ceae.png
+ └─created_at: 2005
+[+] ImageShack: https://imageshack.com/user/thisjanuary
+[+] Bit.ly: https://bit.ly/thisjanuary
+[+] Freesound: https://freesound.org/people/thisjanuary/
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=thisjanuary&btnG=
+[+] CreativeMarket: https://creativemarket.com/users/thisjanuary
+[+] VSCO: https://vsco.co/thisjanuary
+[+] GBAtemp.net: https://gbatemp.net/members/?username=thisjanuary
+[+] fixya: https://www.fixya.com/users/thisjanuary
+[+] Smule: https://www.smule.com/thisjanuary
+[+] Avforums: https://www.avforums.com/members/?username=thisjanuary
+[+] xHamster: https://xhamster.com/users/thisjanuary
+[+] Pling: https://www.pling.com/u/thisjanuary/
+[+] joyreactor.cc: https://joyreactor.cc/user/thisjanuary
+[+] GitHubGist [GitHub]: https://gist.github.com/thisjanuary
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.73%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for thisjanuary saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_thisjanuary_simple.json
+[*] Short text report:
+Search by username thisjanuary returned 27 accounts.
+Found target's other IDs: Thisjanuary.
+Extended info extracted from 12 accounts.
+Countries: br, gb, nl, ru
+Interests (tags): social, sharing, music, art, apps, business, coding, video, streaming, photo, forum, blog, discussion, links, design, education, wiki, networking, writing, messaging, archive, stock, gaming, tech, porn

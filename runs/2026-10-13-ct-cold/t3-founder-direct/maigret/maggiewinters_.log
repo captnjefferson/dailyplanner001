@@ -1,0 +1,65 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username maggiewinters_ on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=maggiewinters_&btnG=
+[+] Twitter: https://twitter.com/maggiewinters_
+ ├─uid: VXNlcjoyMzc0NDc2NzM=
+ ├─fullname: Maggie Winters
+ ├─bio: partner + creative director @itsthisjanuary. bad at jokes. she/her.
+ ├─created_at: 2011-01-12 21:34:44+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1532498442412609544/5l9JipKe.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/237447673/1588865077
+ ├─is_protected: False
+ ├─follower_count: 989
+ ├─following_count: 1169
+ ├─location: Washington, DC
+ ├─favourites_count: 8718
+ └─links: 
+   └─ http://maggie.is
+[+] Threads: https://www.threads.com/@maggiewinters_
+ ├─fullname: Maggie Winters
+ ├─username: maggiewinters_
+ ├─follower_count: 290
+ ├─posts_count: 0
+ └─bio: 🪂 being alive is weird
+⚫️ building itsjanuarythird while we all figure it out
+[+] TikTok: https://www.tiktok.com/@maggiewinters_
+ ├─tiktok_id: 6968251268327523334
+ ├─tiktok_username: maggiewinters_
+ ├─fullname: maggie winters
+ ├─bio: cofounder @This January, obsessed with women's health, always hunting for a good noodle
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6e452c8fe2b1d7216da26232970f65e2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=eface272&x-expires=1792256400&x-signature=kcJGPPpL5cdmA9vjiKiCOL4Pj7w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAMKVTi7Vk-UNxHL95vmR6nGZVo-zbJdR3D9OyHxoHuKHIl4R2pLayYUkFCkSGESAM
+ ├─following_count: 588
+ ├─follower_count: 153
+ ├─heart_count: 9588
+ ├─video_count: 15
+ └─digg_count: 0
+[+] YouTube: https://www.youtube.com/@maggiewinters_/about
+ ├─youtube_channel_id: UCbVADE_34hGVjGWonlOi_kA
+ ├─fullname: Maggie Winters
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lminw4-cwc8y202fi1Mi1tIambsSxlNzC95jJ5DczpP1A=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@maggiewinters_
+ └─is_family_safe: True
+[+] Telegram: https://t.me/maggiewinters_
+[+] Clubhouse: https://www.clubhouse.com/@maggiewinters_
+[+] Depop: https://www.depop.com/maggiewinters_
+[+] Venmo: https://venmo.com/maggiewinters_
+[+] fixya: https://www.fixya.com/users/maggiewinters_
+[+] joyreactor.cc: https://joyreactor.cc/user/maggiewinters_
+[+] Pling: https://www.pling.com/u/maggiewinters_/
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.34%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for maggiewinters_ saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_maggiewinters__simple.json
+[*] Short text report:
+Search by username maggiewinters_ returned 11 accounts.
+Extended info extracted from 4 accounts.
+Countries: us, nl, ru
+Interests (tags): social, messaging, video, art, streaming, discussion, networking, fashion, shopping, finance, fintech, forum, tech, apps, coding, design

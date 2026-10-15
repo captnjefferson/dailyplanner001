@@ -1,0 +1,45 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username rbrickwood on:
+[+] Twitter: https://twitter.com/rbrickwood
+ ├─uid: VXNlcjoyNzAzMjI5OA==
+ ├─fullname: ROGER BRICKWOOD
+ ├─created_at: 2009-03-27 15:56:39+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 1
+ ├─following_count: 9
+ └─favourites_count: 0
+[+] YouTube: https://www.youtube.com/@rbrickwood/about
+ ├─youtube_channel_id: UCoj61pvzrGIz0hhGNxIW3ag
+ ├─fullname: Roger Brickwood
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_kZW0gA3nH2YbaDs5Hjd64_DK3H3Oh65ELHnJkH1vg=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@rbrickwood
+ └─is_family_safe: True
+[+] Snapchat: https://www.snapchat.com/add/rbrickwood
+ ├─bio: rileyyy is on Snapchat! (@rbrickwood) | Last updated: 10/04/2026
+ ├─url: https://www.snapchat.com/@rbrickwood
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@rbrickwood/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[+] Academia.edu: https://independent.academia.edu/rbrickwood
+[+] VK: https://vk.com/rbrickwood
+[+] Bandcamp: https://www.bandcamp.com/rbrickwood
+[+] Upwork: https://upwork.com/fl/rbrickwood
+[+] Depop: https://www.depop.com/rbrickwood
+[+] fixya: https://www.fixya.com/users/rbrickwood
+[+] Revolut.me: https://revolut.me/rbrickwood
+ └─fullname: Roger B
+[+] joyreactor.cc: https://joyreactor.cc/user/rbrickwood
+[+] Pling: https://www.pling.com/u/rbrickwood/
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for rbrickwood saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_rbrickwood_simple.json
+[*] Short text report:
+Search by username rbrickwood returned 12 accounts.
+Extended info extracted from 4 accounts.
+Countries: ru, nl
+Interests (tags): social, apps, messaging, sharing, art, streaming, video, education, research, music, business, freelance, networking, fashion, shopping, forum, tech, finance, fintech, coding, design

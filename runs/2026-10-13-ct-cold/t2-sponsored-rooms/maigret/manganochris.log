@@ -1,0 +1,55 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username manganochris on:
+[+] Twitter: https://twitter.com/manganochris
+ ├─uid: VXNlcjo5OTk4NzU3OTE=
+ ├─fullname: Christian Mangano
+ ├─bio: giuro solennemente di non avere buone intenzioni
+ ├─created_at: 2012-12-09 18:31:16+00:00
+ ├─image: https://pbs.twimg.com/profile_images/2953370240/75eb876b7894e7ab149e4190dfbf5d67.jpeg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/999875791/1355485518
+ ├─is_protected: False
+ ├─follower_count: 1
+ ├─following_count: 4
+ ├─location: palermo
+ └─favourites_count: 0
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=manganochris&btnG=
+[+] Facebook: https://www.facebook.com/manganochris
+ ├─uid: 100018177980999
+ ├─username: mangano.chris
+ ├─fullname: Mangano Chris
+ ├─description: Mangano Chris is on Facebook. Join Facebook to connect with Mangano Chris and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=d00ff1&_nc_ohc=z8Lv1_CofeYQ7kNvwEYE8Xn&_nc_oc=AdogB0bULHnkXFk7UnO6JOP2pYwgAK9o-uoHpAG55TMknXFgzznMPX0VxI-l4uh7jXQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_ss=7020f&oh=00_AQMfD06bFOVCB5LkaTa1dONs2C91_E5c40k9QS3d-W2TPg&oe=6AF8923A
+[+] Pinterest: https://www.pinterest.com/manganochris/
+ ├─uid: 134897088747016058
+ ├─username: manganochris
+ ├─fullname: Christine Buliano Mangano
+ ├─image: https://i.pinimg.com/280x280_RS/7c/48/0d/7c480da6d86adaea0b681698161c97d2.jpg
+ ├─follower_count: 72
+ ├─following_count: 180
+ ├─posts_count: 1662
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 22 Mar 2012 16:49:47 +0000
+ └─latest_activity_at: Sun, 04 Oct 2026 19:28:57 +0000
+[+] Upwork: https://upwork.com/fl/manganochris
+[+] fixya: https://www.fixya.com/users/manganochris
+[+] joyreactor.cc: https://joyreactor.cc/user/manganochris
+[+] Pling: https://www.pling.com/u/manganochris/
+[!] Too many errors of type "Bot protection" (9.63%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.14%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for manganochris saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_manganochris_simple.json
+[*] Short text report:
+Search by username manganochris returned 7 accounts.
+Found target's other IDs: mangano.chris.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, art, design, messaging, photo, sharing, business, freelance, networking, forum, tech, apps, coding

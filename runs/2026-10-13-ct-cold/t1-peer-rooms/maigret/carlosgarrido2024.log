@@ -1,0 +1,26 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username carlosgarrido2024 on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=carlosgarrido2024&btnG=
+[+] Facebook: https://www.facebook.com/carlosgarrido2024
+ ├─uid: 61555751792891
+ ├─username: carlos.garrido.2024
+ ├─fullname: Carlos Garrido
+ ├─description: Carlos Garrido is on Facebook. Join Facebook to connect with Carlos Garrido and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/420933506_122101051976191726_5224320036914132220_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=u9LcKK2FopcQ7kNvwEpFHou&_nc_oc=Adr0mBSr4rTTWF451IvM2STUipEKsQSXyUtTjoOGf0hJuHxP5WaWY8R-F7ZVn9PMkI0&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=0mhLW4PXny6_8sqUvKPLOg&_nc_ss=7020f&oh=00_AQOF1af2q9ThzkqKwNDBw4HP-080o73GpLo6eJHMJ67NkA&oe=6AD6E7AF
+[+] fixya: https://www.fixya.com/users/carlosgarrido2024
+[+] joyreactor.cc: https://joyreactor.cc/user/carlosgarrido2024
+[+] Pling: https://www.pling.com/u/carlosgarrido2024/
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for carlosgarrido2024 saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_carlosgarrido2024_simple.json
+[*] Short text report:
+Search by username carlosgarrido2024 returned 4 accounts.
+Found target's other IDs: carlos.garrido.2024.
+Extended info extracted from 1 accounts.
+Countries: nl, ru
+Interests (tags): art, social, forum, tech, apps, coding, design

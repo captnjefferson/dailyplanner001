@@ -1,0 +1,66 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username chris.mangano on:
+[+] Medium: https://medium.com/@chris.mangano
+ ├─fullname: Chris Mangano
+ ├─username: chris.mangano
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*-1L7dZyY1whuh3Zr
+ └─latest_activity_at: 2026-10-15 17:40:14 UTC
+[+] Calendly: https://calendly.com/chris.mangano
+ ├─uid: 1233
+ ├─fullname: Chris Staples
+ ├─username: chris
+ ├─bio: Welcome to my scheduling page. You can choose to schedule a phone call or a meeting.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/1376/f8a26b59.png
+ ├─owner_uuid: 4d974192477293e8ab0b2557d614e838
+ ├─organization_uuid: DECAFADGEGCGB64Z
+ └─timezone: America/New_York
+[+] Codepen: https://codepen.io/chris.mangano
+[+] TikTok: https://www.tiktok.com/@chris.mangano
+ ├─tiktok_id: 6757110178702935046
+ ├─tiktok_username: chris.mangano
+ ├─fullname: chris.mangano
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7325078907986804741~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=40bae72a&x-expires=1792256400&x-signature=WzjI58Sq98EQwaBh2fzQtzctNo8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA1QxOUCBXUpf3JxH54srIPklJatHSvQ888wJEOxF3pBh9Ljay7vvqzrRTdZDZBm3N
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Pbase: https://pbase.com/chris.mangano/profile
+[+] Snapchat: https://www.snapchat.com/add/chris.mangano
+ ├─bio: chris mangano is on Snapchat! (@chris.mangano) | Last updated: 08/04/2025
+ ├─url: https://www.snapchat.com/@chris.mangano
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@chris.mangano/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=chris.mangano&btnG=
+[+] Threads: https://www.threads.com/@chris.mangano
+ ├─fullname: Chris Mangano
+ ├─username: chris.mangano
+ ├─follower_count: 152
+ └─posts_count: 2
+[+] Vivino: https://www.vivino.com/users/chris.mangano
+[+] fixya: https://www.fixya.com/users/chris.mangano
+[+] picturepush.com: https://chris.mangano.picturepush.com/
+[+] joyreactor.cc: https://joyreactor.cc/user/chris.mangano
+[+] Chatujme.cz: https://profil.chatujme.cz/chris.mangano
+[+] Tistory: https://chris.mangano.tistory.com/
+[+] Lobsters: https://lobste.rs/u/chris.mangano
+[+] Pling: https://www.pling.com/u/chris.mangano/
+[+] Salon24.pl: https://www.salon24.pl/u/chris.mangano/
+[!] Too many errors of type "Unsupported username format" (10.02%)
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for chris.mangano saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_chris.mangano_simple.json
+[*] Short text report:
+Search by username chris.mangano returned 16 accounts.
+Found target's other IDs: chris.
+Extended info extracted from 5 accounts.
+Countries: us, nl, ru, cz, kr, pl
+Interests (tags): social, blog, discussion, apps, coding, art, design, photo, sharing, tech, news, writing, business, video, messaging, review, shopping, forum, dating

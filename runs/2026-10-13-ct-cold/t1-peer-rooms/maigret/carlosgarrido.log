@@ -1,0 +1,334 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username carlosgarrido on:
+[+] GitHub: https://github.com/carlosgarrido
+ ├─uid: 4682308
+ ├─image: https://avatars.githubusercontent.com/u/4682308?v=4
+ ├─created_at: 2013-06-12T19:28:49Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 4
+[+] Medium: https://medium.com/@carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─username: carlosgarrido
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*rSNaf1KrBXYoac4B
+ └─latest_activity_at: 2026-10-15 17:38:08 UTC
+[+] Twitter: https://twitter.com/carlosgarrido
+ ├─uid: VXNlcjoyNzUzNTY1Ng==
+ ├─fullname: Carlos M. Garrido M.
+ ├─bio: Abogado; caraquista; playero; Ceratiano y Messianico; me gustan las arepas con suero; lucho a diario contra este régimen et je parle français.
+ ├─created_at: 2009-03-29 23:54:09+00:00
+ ├─image: https://pbs.twimg.com/profile_images/2015523851401105408/5wq17kL3.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/27535656/1769373308
+ ├─is_protected: False
+ ├─follower_count: 2299
+ ├─following_count: 2973
+ ├─location: Venezuela
+ └─favourites_count: 18501
+[+] Bluesky: https://bsky.app/profile/carlosgarrido.bsky.social
+ ├─uid: did:plc:vh5etabw4u2kfjgekashsool
+ ├─username: carlosgarrido
+ ├─created_at: 2023-07-31T18:24:17.524Z
+ ├─follower_count: 6
+ ├─following_count: 26
+ └─posts_count: 0
+[+] linktr.ee: https://linktr.ee/carlosgarrido
+ ├─id: 686455
+ ├─username: carlosgarrido
+ ├─is_active: True
+ ├─is_verified: True
+ ├─tier: free
+ └─links: 
+   ├─ https://medium.com/@carlosgarridoHQ
+   ├─ https://twitter.com/carlosgarridoHQ
+   ├─ http://www.youtube.com/c/CarlosGarridoHQ?utm_source=Linktree&utm_medium=organic
+   ├─ http://linkedin.com/in/carlosgarrido7
+   ├─ https://500px.com/carlosgarridohq
+   ├─ http://vm.tiktok.com/ffQkUK/
+   ├─ https://www.portokabel.com?utm_source=Linktree
+   └─ http://eepurl.com/dgZosn
+[+] Discord: https://discord.com
+[+] GitLab: https://gitlab.com/carlosgarrido
+ ├─uid: 7377044
+ ├─fullname: Carlos Garrido
+ ├─username: carlosgarrido
+ ├─state: active
+ ├─image: https://secure.gravatar.com/avatar/f3b24983e3bc74594bb7ed40a23a25a16cd94fe7cf405ab1dfa901a6e7e5b81e?s=80&d=identicon
+ ├─website: https://gitlab.com/carlosgarrido
+ ├─gravatar_url: https://gravatar.com/f3b24983e3bc74594bb7ed40a23a25a1
+ ├─gravatar_username: carlosgarrido
+ └─gravatar_email_md5_hash: f3b24983e3bc74594bb7ed40a23a25a1
+[+] ThemeForest: https://themeforest.net/user/carlosgarrido
+[+] Blogger: https://carlosgarrido.blogspot.com
+ ├─blog_id: 4745421809631072557
+ └─uid: 02118759671938863751
+[+] YouTube: https://www.youtube.com/@carlosgarrido/about
+ ├─youtube_channel_id: UCG4b93_EI4kbGd3fDbV2ECw
+ ├─fullname: Carlos Garrido
+ ├─bio: ¡hola! En este canal podrás encontrar reviews, unboxings, primeras impresiones de productos para el cabello, grooming (cuidado o aseo personal) y accesorios de diversos tipos. 
+También, de vez en cuando daré uno que otro consejo que he probado y que me ha funcionado.
+
+¡No olvides suscribirte al canal y seguirme en mis redes sociales!
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lACqgmmzu0Qu36uCFx4W3bBErMwl61Xh9ha5WfBm1YkiY=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@CarlosGarrido
+ ├─keywords: Consejos Reviews Cabello grooming
+ └─is_family_safe: True
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=carlosgarrido&btnG=
+[+] SoundCloud: https://soundcloud.com/carlosgarrido
+ ├─uid: 1555271
+ ├─name: CARLOS GARRIDO
+ ├─username: CARLOS GARRIDO
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ ├─image: https://i1.sndcdn.com/avatars-000001623630-hib6l1-large.jpg
+ ├─location: RIO DE JANEIRO
+ └─country_code: BR
+[+] Disqus: https://disqus.com/carlosgarrido
+ ├─id: 1974217
+ ├─fullname: carlosgarrido
+ ├─disqus_username: carlosgarrido
+ ├─reputation: 1.232124
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2010-02-21T23:41:35
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/carlosgarrido.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Calendly: https://calendly.com/carlosgarrido
+ ├─uid: 4581859
+ ├─fullname: carlos eduardo garrido montoya
+ ├─username: carlosgarrido
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: FAAEPBMCN3UCXX3V
+ ├─organization_uuid: BBAEIAODWDXJ6H27
+ └─timezone: America/Santiago
+[+] Vimeo: https://vimeo.com/carlosgarrido
+[+] Imgur: https://imgur.com/user/carlosgarrido
+ ├─id: 838886
+ ├─imgur_username: CarlosGarrido
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/IZF0wHC_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/CarlosGarrido/avatar
+ └─created_at: 2012-03-07T07:03:35Z
+[+] About.me: https://about.me/carlosgarrido
+[+] Giphy: https://giphy.com/channel/carlosgarrido
+[+] Academia.edu: https://independent.academia.edu/carlosgarrido
+[+] Tumblr: https://www.tumblr.com/carlosgarrido
+[+] SlideShare: https://www.slideshare.net/carlosgarrido
+ ├─uid: 25935572
+ ├─fullname: Colegio Mayor Tobalaba
+ ├─username: carlosgarrido
+ ├─image: https://cdn.slidesharecdn.com/profile-photo-carlosgarrido-96x96.jpg?cb=1551891424
+ ├─slideshow_count: 3
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─city: Chile
+ ├─country: Chile
+ ├─organization: Colegio Mayor Tobalaba
+ ├─occupation: Profesor de Historia en Colegio Mayor Tobalaba
+ ├─website: http://historialongitudinal.blogspot.com/
+ ├─is_suspended: False
+ └─is_organization: True
+[+] HuggingFace: https://huggingface.co/carlosgarrido
+[+] Trello: https://trello.com/carlosgarrido
+ ├─id: 6a03534f782d1d329301e1ff
+ ├─username: carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─image: https://trello-members.s3.amazonaws.com/6a03534f782d1d329301e1ff/11d15b2bc3f2af6f4cf6326ffa7ff10e/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] TikTok: https://www.tiktok.com/@carlosgarrido
+ ├─tiktok_id: 7427519250389255200
+ ├─tiktok_username: carlosgarrido
+ ├─fullname: carlosgarrido
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/61e915a2a9fc7ba9a802fe0db25c6fee~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=af06eef7&x-expires=1792256400&x-signature=cOoDaM2giTIMDgN8ValcxswDB9c%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAQ6PLmolA7uOnx4ipE-CtW4Fmh-ScBKXKzh7wUxO3313GfVf3h8rWNeq8ROs4A9n3
+ ├─following_count: 0
+ ├─follower_count: 3
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Behance: https://www.behance.net/carlosgarrido
+ ├─uid: 10437871
+ ├─username: carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: Doral, FL, USA
+ ├─created_at: 2014-12-19 21:25:55 UTC
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Flickr: https://www.flickr.com/photos/carlosgarrido
+[+] MixCloud: https://www.mixcloud.com/carlosgarrido/
+ ├─username: CarlosGarrido
+ ├─created_at: 2018-01-01T06:10:04Z
+ ├─updated_at: 2018-01-01T06:10:04Z
+ ├─image: https://thumbnailer.mixcloud.com/unsafe/640x640/defaults/users/v2/1.png
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─cloudcast_count: 0
+ ├─favorite_count: 0
+ ├─listen_count: 0
+ ├─is_pro: False
+ └─is_premium: False
+[+] OP.GG LoL Europe West: https://op.gg/lol/summoners/search?q=carlosgarrido&region=euw
+[+] Steam: https://steamcommunity.com/id/carlosgarrido
+ ├─steam_id: 76561197968406843
+ ├─nickname: DashPOWER神
+ └─username: CarlosGarrido
+[+] Snapchat: https://www.snapchat.com/add/carlosgarrido
+ ├─username: carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─bio: Carlos Garrido is on Snapchat! (@carlosgarrido)
+ ├─url: https://www.snapchat.com/@carlosgarrido
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@carlosgarrido/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=carlosgarrido&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Telegram: https://t.me/carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─image: https://cdn1.telesco.pe/file/XBh--OkDjPjLbX0AJ4-oHfX8DdOiyg4kWJLa80fBWlzmCLWaXlJt52APMMXpqE8Gs4Fo4AenPXu2hjA_-9NawVY_gk-hruQq9kgANsBxUIvkwnQht7LtYD7Ixnpz8CWn8tGLMRF2T7Ied_y7P8wRxDXz1JEsCf8bKb0Cw0LHCPHnQXOenun4VgsXOYBx04SQvw_xVLq_mnyhoF0K1xzULvNTlghgwUuEfkQkAQk-XAFS3tQJ5W-wF7gxf9Z2oNHUqhpd4cdwnq82ExubqqtyeHGtotZxQk6VvfBNy3n-KL4q2bQtfVD65dAvccN3COQ5PMxXmQ_gcxkDiebS-l_mxw.jpg
+ └─bio: Técnico: 🖥️📱💻🔉📺 Reparación TV Smart/LED/LCD, Audio, Computadoras
+[+] Artstation: https://www.artstation.com/carlosgarrido
+[+] Paypal: https://www.paypal.com/paypalme/carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─username: CarlosGarrido
+ ├─payerId: 5DJPWWNUDUAHC
+ ├─address: Daly City , CA
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/ODAwWDYwMFhKUEc/p/MGUxNWVhZjUtMDZlNy00MTA3LWI4YzgtZWU5ZjY3Mzg1OWY3/image_58.jpg
+[+] Weebly: http://carlosgarrido.weebly.com/
+[+] Figma: https://www.figma.com/@carlosgarrido
+[+] kofi: https://ko-fi.com/carlosgarrido
+[+] Codecanyon: https://codecanyon.net/user/carlosgarrido
+[+] Duolingo: https://www.duolingo.com/profile/carlosgarrido
+ ├─uid: 1379349
+ ├─username: carlosgarrido
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2012-12-19 03:03:40 UTC
+ ├─url: https://www.duolingo.com/profile/carlosgarrido
+ ├─streak: 0
+ ├─totalXp: 678
+ ├─learningLanguage: zh
+ └─fromLanguage: en
+[+] Codecademy: https://www.codecademy.com/profiles/carlosgarrido
+[+] TripAdvisor: https://tripadvisor.com/members/carlosgarrido
+[+] Bandcamp: https://www.bandcamp.com/carlosgarrido
+[+] DeviantART: https://carlosgarrido.deviantart.com
+ ├─country: United States
+ ├─created_at: 2007-07-07 15:56:04 UTC
+ ├─gender: male
+ ├─username: carlosgarrido
+ └─tagline: carlos garrido
+[+] Letterboxd: https://letterboxd.com/carlosgarrido
+[+] Twitch: https://twitchtracker.com/carlosgarrido
+ ├─twitch_channel_id: 440934728
+ ├─twitch_username: carlosgarrido
+ └─created_at: 2019-06-10 00:18:54
+[+] Geocaching: https://www.geocaching.com/p/?u=carlosgarrido
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=carlosgarrido
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=carlosgarrido&compact=true
+ ├─id: 20326
+ ├─nickname: carlosgarrido
+ ├─username: carlosgarrido
+ ├─fullname: carlosgarrido
+ ├─role: employer
+ ├─location: Miami, United States
+ └─created_at: 2004-04-28 22:45:04 UTC
+[+] IFTTT: https://www.ifttt.com/p/carlosgarrido
+[+] Chess: https://www.chess.com/member/carlosgarrido
+ ├─chess_user_id: 21186326
+ ├─username: carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/21186326.d0c0cd77.200x200o.7ad09e0e3031.jpeg
+ ├─country_code: PT
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2015-02-20 19:29:28 UTC
+ └─latest_activity_at: 2018-01-04 11:20:18 UTC
+[+] ChaturBate: https://chaturbate.com/carlosgarrido/
+[+] Lichess: https://lichess.org/@/carlosgarrido
+[+] Gumroad: https://www.gumroad.com/carlosgarrido
+[+] Wattpad: https://www.wattpad.com/user/carlosgarrido
+[+] VK: https://vk.com/carlosgarrido
+[+] Flipboard: https://flipboard.com/@carlosgarrido
+[+] Genius: https://genius.com/carlosgarrido
+[+] Audiojungle: https://audiojungle.net/user/carlosgarrido
+[+] Gog: https://www.gog.com/u/carlosgarrido
+[+] Couchsurfing: https://www.couchsurfing.com/people/carlosgarrido
+[+] MyMiniFactory: https://www.myminifactory.com/users/carlosgarrido
+[+] Amazon: https://amazon.com/author/carlosgarrido
+ ├─author_name: Carlos Garrido
+ ├─author_id: B01KQ4BD9G
+ └─store_id: a2dd9264-29c1-3704-aa11-8a902b9a6005
+[+] Kick: https://kick.com/carlosgarrido
+[+] OnlyFans: https://onlyfans.com/carlosgarrido
+[+] TradingView: https://www.tradingview.com/u/carlosgarrido
+[+] Imgflip: https://imgflip.com/user/carlosgarrido
+[+] GoodReads: https://www.goodreads.com/carlosgarrido
+[+] Picsart: https://picsart.com/u/carlosgarrido
+ ├─picsart_id: 82877147
+ ├─picsart_username: carlosgarrido
+ ├─fullname: Carlos Garrido
+ ├─image: https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50
+ ├─follower_count: 0
+ ├─following_count: 4
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/carlosgarrido
+[+] Clubhouse: https://www.clubhouse.com/@carlosgarrido
+[+] Ccm: https://ccm.net/profile/user/carlosgarrido
+[+] Patreon: https://www.patreon.com/carlosgarrido
+[+] VideoHive: https://videohive.net/user/carlosgarrido
+[+] Freesound: https://freesound.org/people/carlosgarrido/
+[+] VSCO: https://vsco.co/carlosgarrido
+[+] Codementor: https://www.codementor.io/@carlosgarrido
+[+] Venmo: https://venmo.com/carlosgarrido
+[+] Xvideos: https://xvideos.com/profiles/carlosgarrido
+ ├─uid: 80399939
+ ├─username: carlosgarrido
+ ├─fullname: Carlosgarrido
+ ├─country: Venezuela
+ ├─profile_hits: 2
+ ├─follower_count: 0
+ └─created_at: 2016-10-29 00:00:00 UTC
+[+] Smule: https://www.smule.com/carlosgarrido
+[+] fixya: https://www.fixya.com/users/carlosgarrido
+[+] mastodon.social: https://mastodon.social/@carlosgarrido
+[+] Memrise: https://www.memrise.com/user/carlosgarrido/
+[+] xHamster: https://xhamster.com/users/carlosgarrido
+[+] Platzi: https://platzi.com/p/carlosgarrido/
+[+] Revolut.me: https://revolut.me/carlosgarrido
+ └─fullname: Carlos G
+[+] gloria.tv: https://gloria.tv/carlosgarrido
+[+] joyreactor.cc: https://joyreactor.cc/user/carlosgarrido
+[+] GitHubGist [GitHub]: https://gist.github.com/carlosgarrido
+[+] Pling: https://www.pling.com/u/carlosgarrido/
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for carlosgarrido saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_carlosgarrido_simple.json
+[*] Short text report:
+Search by username carlosgarrido returned 87 accounts.
+Found target's other IDs: CarlosGarrido, 76561197968406843 (steam_id).
+Extended info extracted from 30 accounts.
+Countries: us, ru, cl, fr, ve, es, fi, nl
+Interests (tags): social, business, apps, art, sharing, coding, gaming, design, music, tech, video, education, shopping, streaming, photo, messaging, finance, networking, blog, discussion, freelance, forum, porn, fintech, hobby, writing, research, stock, review, travel, archive, reading, links, documents, llm, tasks, movies, bookmarks, webcam, news, 3d, trading, books, geosocial

@@ -1,0 +1,35 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jdluther2.0 on:
+[+] Facebook: https://www.facebook.com/jdluther2.0
+ ├─uid: 100000490386561
+ ├─username: jdluther2.0
+ ├─fullname: Jeff Luther
+ ├─description: Jeff Luther. 1,173 followers · 11 talking about this. Digital creator
+ └─image: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/815630848_39771211175811736_1493911067001995173_n.jpg?stp=dst-jpg_tt6&cstp=mx1480x2048&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=3ab345&_nc_ohc=mTRj_N-KMEUQ7kNvwEOPF_H&_nc_oc=Adq3WukEwig0i0Q2IEyp4VSFYDsgvyGtc5HGVIVsVUKjpLsXa1wYu-TT7945hha4eRIEpsUt3e_1VmbDNDq_QbMf&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=FcFvsEnbyeIhioqhzHMs7w&_nc_ss=7020f&oh=00_AQM1CRgBzcg3BphlIMyLBn4uFVHxX_pHLyTuSTQP6szXBQ&oe=6AD6C7A3
+[+] Threads: https://www.threads.com/@jdluther2.0
+ ├─fullname: Jeff Luther
+ ├─username: jdluther2.0
+ ├─follower_count: 294
+ ├─posts_count: 9
+ └─bio: Father to 3 AMAZING young men
+Entrepreneur 
+Charleston
+[+] fixya: https://www.fixya.com/users/jdluther2.0
+[+] Chatujme.cz: https://profil.chatujme.cz/jdluther2.0
+[+] joyreactor.cc: https://joyreactor.cc/user/jdluther2.0
+[+] Pling: https://www.pling.com/u/jdluther2.0/
+[+] Salon24.pl: https://www.salon24.pl/u/jdluther2.0/
+[!] Too many errors of type "Unsupported username format" (10.02%)
+[!] Too many errors of type "Bot protection" (8.64%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jdluther2.0 saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_jdluther2.0_simple.json
+[*] Short text report:
+Search by username jdluther2.0 returned 7 accounts.
+Extended info extracted from 2 accounts.
+Countries: cz, nl, ru, pl
+Interests (tags): social, art, forum, tech, dating, apps, coding, design, blog, discussion, news

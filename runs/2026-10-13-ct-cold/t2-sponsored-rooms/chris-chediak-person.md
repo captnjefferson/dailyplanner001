@@ -351,7 +351,7 @@ Read: attorneys rate it well; staff complain about turnover and promotion. Nothi
 - **Directory ids:** State Bar 109275 · Mondaq author 3481580 · Meritas `Christopher-Chediak-4630` · Martindale 202583 · Avvo 302013 · Justia 185635 · FindLaw 3811001 · Super Lawyers `1233c423-fa36-40d4-b380-a700a3183f75`.
 - **Published work email** (CLA pages, 2019–2020, and Mondaq metadata; as printed; not used): chediak@weintraub.com.
 - **Candidate usernames to test:** `chediak`, `cchediak`, `chrischediak`, `christopherchediak`, `chris.chediak`.
-- **Not found:** X, Instagram, Facebook (not searched by rule), Substack, Medium, YouTube channel, personal site, podcast.
+- **Not found:** X, Instagram, Facebook (searched 10/15; see the platform pass addendum), Substack, Medium, YouTube channel, personal site, podcast.
 
 ---
 
@@ -459,3 +459,9 @@ Read: attorneys rate it well; staff complain about turnover and promotion. Nothi
 
 **Seeds**
 - `t2-candidates.md` §1; `weintraub-tobin.md`; `linkedin-reads.md`; `chris-chediak-lead-notes.md` (items marked "seed: LinkedIn")
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `chris-chediak-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). No account of his on any social platform except Pinterest @chrischediak (private interests, 2 followers, last save Jan 2024). His public words are the CLA bulletins, Comstock's quotes, and a 2013 Sacramento Entrepreneurship Academy testimonial video (69 views). On X, @chediak and @CChediak are other Chediaks. Instagram, Facebook, Threads and Reddit are walls logged out. Maigret ran on chediak, cchediak, chrischediak, christopherchediak and chris.chediak; every hit triaged.

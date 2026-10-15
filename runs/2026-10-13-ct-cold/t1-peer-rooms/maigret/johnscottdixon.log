@@ -1,0 +1,146 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username johnscottdixon on:
+[+] Substack: https://substack.com/@johnscottdixon
+ ├─uid: 34522015
+ ├─username: johnscottdixon
+ └─fullname: John-Scott Dixon
+[+] Tumblr: https://www.tumblr.com/johnscottdixon
+[+] Medium: https://medium.com/@johnscottdixon
+ ├─fullname: John-Scott Dixon
+ ├─username: JohnScottDixon
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*DuOv4y0kgB50wGhN.jpg
+ └─latest_activity_at: 2026-10-15 15:27:56 UTC
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=johnscottdixon&btnG=
+[+] YouTube: https://www.youtube.com/@johnscottdixon/about
+ ├─youtube_channel_id: UCZhbqMQc9l-0AXUuL4fItyQ
+ ├─fullname: John-Scott Dixon
+ ├─bio: I'm the CEO/Founder of an agency, Aidan Taylor Marketing. In everything we do, we work to anticipate the future. We have a can-do attitude. We approach tasks with humility and dedication. We treat your money like it’s our own. We celebrate success and own all failure. And, we’ll actually give a shit about you and your business.
+ ├─image: https://yt3.googleusercontent.com/Pwqi8P85bxLtGeba8sf7ISqSVvHb3v0NIqeYuu-nzoVdCNpksBm00biHA_8hHp8gZeWUH4jGLg=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@JohnScottDixon
+ ├─keywords: "Internet Marketing" "Online Marketing" "Web Marketing" SEO "Search Engine Optimization"
+ └─is_family_safe: True
+[+] WordPressOrg: https://profiles.wordpress.org/johnscottdixon/
+ ├─fullname: JohnScottDixon
+ ├─username: johnscottdixon
+ ├─image: https://www.gravatar.com/avatar/3606c8d21aa40c9a06709f92faf16df0?s=1024&r=g&d=mm
+ ├─gravatar_url: https://gravatar.com/3606c8d21aa40c9a06709f92faf16df0
+ ├─gravatar_username: johnscottdixon
+ └─gravatar_email_md5_hash: 3606c8d21aa40c9a06709f92faf16df0
+[+] Pinterest: https://www.pinterest.com/johnscottdixon/
+ ├─uid: 104427422518086362
+ ├─username: johnscottdixon
+ ├─fullname: John-Scott Dixon
+ ├─bio: Enjoying life with my amazing wife and our beautiful kids... just wish time would slow down a bit!
+ ├─image: https://i.pinimg.com/280x280_RS/e3/81/36/e381366783ed3ab36cd3505fa4d94e10.jpg
+ ├─website: http://about.me/JohnScottDixon
+ ├─follower_count: 114
+ ├─following_count: 169
+ ├─posts_count: 125
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sun, 12 Feb 2012 18:05:24 +0000
+ └─latest_activity_at: Mon, 29 May 2023 20:08:49 +0000
+[+] Facebook: https://www.facebook.com/johnscottdixon
+ ├─uid: 1055153043
+ ├─username: johnscottdixon
+ ├─fullname: John-Scott Dixon
+ ├─description: John-Scott Dixon is on Facebook. Join Facebook to connect with John-Scott Dixon and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/453878650_10228214609564503_374662920718011466_n.jpg?stp=dst-jpg_tt6&cstp=mx1619x2048&ctp=p720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=BCbEt-5eiUAQ7kNvwEFaj0d&_nc_oc=AdrwK1AIxtyaXZdjSXvuF7-xbi1HXSNcEd96Do1y_s9x10r_Rkvc6FKFir-tTJsAwkY&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=twKiIWQRh6-8qwB1yyjiKw&_nc_ss=7020f&oh=00_AQPv4Ppbq6865CObZB-k9NXpEWbwkUkP1O2G_bTuO15jgQ&oe=6AD6B29F
+[+] Snapchat: https://www.snapchat.com/add/johnscottdixon
+ ├─username: johnscottdixon
+ ├─fullname: John-Scott Dixon
+ ├─bio: John-Scott Dixon is on Snapchat! (@johnscottdixon)
+ ├─url: https://www.snapchat.com/@johnscottdixon
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@johnscottdixon/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=johnscottdixon&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Trello: https://trello.com/johnscottdixon
+ ├─id: 6747755230fc7b0fe29c2da9
+ ├─username: johnscottdixon
+ ├─fullname: John-Scott Dixon
+ ├─image: https://trello-members.s3.amazonaws.com/6747755230fc7b0fe29c2da9/eb03a974500cb153d0cf390662e7a531/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] DailyMotion: https://www.dailymotion.com/johnscottdixon
+ ├─uid: xb1en0
+ ├─username: JohnScottDixon
+ ├─fullname: JohnScottDixon
+ ├─image: https://s1.dmcdn.net/d/5000002HraHpp/720x720
+ ├─follower_count: 1
+ ├─following_count: 0
+ ├─videos_count: 1
+ ├─country: US
+ ├─created_at: 2008-06-07 03:18:48 UTC
+ └─is_verified: False
+[+] ThemeForest: https://themeforest.net/user/johnscottdixon
+[+] About.me: https://about.me/johnscottdixon
+[+] Twitter: https://twitter.com/johnscottdixon
+ ├─uid: VXNlcjoxMzUzNjM0Mg==
+ ├─fullname: John-Scott Dixon
+ ├─bio: Digital Marketing Professional Since 1994. Founder of @AidanTaylor – a full-service marketing agency for small businesses.
+ ├─created_at: 2008-02-15 23:30:18+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1487193697783463940/K-tZyqt-.png
+ ├─image_bg: https://pbs.twimg.com/profile_banners/13536342/1586464962
+ ├─is_protected: False
+ ├─follower_count: 5475
+ ├─following_count: 231
+ ├─location: Phoenix, AZ, USA
+ ├─favourites_count: 1352
+ └─links: 
+   └─ http://www.aidantaylor.com
+[+] Disqus: https://disqus.com/johnscottdixon
+ ├─id: 131597
+ ├─fullname: JohnScottDixon
+ ├─disqus_username: JohnScottDixon
+ ├─bio: I am an Internet Marketing Professional (I've been saying that since 1994).
+ ├─reputation: 1.2516079999999998
+ ├─reputation_label: Average
+ ├─following_count: 1
+ ├─follower_count: 1
+ ├─location: Phoenix, AZ, USA
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2008-10-29T20:59:24
+ ├─upvotes_count: 22
+ ├─website: http://www.aidantaylor.com/
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/JohnScottDixon.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 17
+[+] LinkedIn: https://linkedin.com/in/johnscottdixon
+[+] Geocaching: https://www.geocaching.com/p/?u=johnscottdixon
+[+] Instapaper: https://www.instapaper.com/p/johnscottdixon
+[+] Codecanyon: https://codecanyon.net/user/johnscottdixon
+[+] CreativeMarket: https://creativemarket.com/users/johnscottdixon
+[+] GoodReads: https://www.goodreads.com/johnscottdixon
+[+] IFTTT: https://www.ifttt.com/p/johnscottdixon
+[+] Upwork: https://upwork.com/fl/johnscottdixon
+[+] Flipboard: https://flipboard.com/@johnscottdixon
+[+] Letterboxd: https://letterboxd.com/johnscottdixon
+[+] Audiojungle: https://audiojungle.net/user/johnscottdixon
+[+] TripAdvisor: https://tripadvisor.com/members/johnscottdixon
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/johnscottdixon
+[+] Warrior Forum: https://www.warriorforum.com/members/johnscottdixon.html
+[+] VideoHive: https://videohive.net/user/johnscottdixon
+[+] fixya: https://www.fixya.com/users/johnscottdixon
+[+] Periscope: https://www.pscp.tv/johnscottdixon
+[+] Pling: https://www.pling.com/u/johnscottdixon/
+[+] joyreactor.cc: https://joyreactor.cc/user/johnscottdixon
+[!] Too many errors of type "Bot protection" (8.06%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for johnscottdixon saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_johnscottdixon_simple.json
+[*] Short text report:
+Search by username johnscottdixon returned 33 accounts.
+Found target's other IDs: JohnScottDixon.
+Extended info extracted from 11 accounts.
+Countries: in, us, nl, ru
+Interests (tags): social, business, apps, blog, art, design, video, coding, streaming, shopping, networking, tech, forum, writing, discussion, sharing, messaging, reading, stock, review, music, photo, tasks, professional, hobby, books, freelance, news, movies, travel, education

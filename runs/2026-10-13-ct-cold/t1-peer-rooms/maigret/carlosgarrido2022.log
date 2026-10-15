@@ -1,0 +1,25 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username carlosgarrido2022 on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=carlosgarrido2022&btnG=
+[+] YouTube: https://www.youtube.com/@carlosgarrido2022/about
+ ├─youtube_channel_id: UCgskOEZK3ccY7bXKojb9B-Q
+ ├─fullname: Carlos garrido
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_kZbDm4BpZrB4sdMHLz5bx8yTQKSRLjZRelS4W5PKg=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@carlosgarrido2022
+ └─is_family_safe: True
+[+] fixya: https://www.fixya.com/users/carlosgarrido2022
+[+] joyreactor.cc: https://joyreactor.cc/user/carlosgarrido2022
+[+] Pling: https://www.pling.com/u/carlosgarrido2022/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for carlosgarrido2022 saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_carlosgarrido2022_simple.json
+[*] Short text report:
+Search by username carlosgarrido2022 returned 4 accounts.
+Extended info extracted from 1 accounts.
+Countries: nl, ru
+Interests (tags): art, social, streaming, video, forum, tech, apps, coding, design

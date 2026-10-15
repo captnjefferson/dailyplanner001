@@ -1,0 +1,51 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username servicebusinessblueprint on:
+[+] linktr.ee: https://linktr.ee/servicebusinessblueprint
+ ├─id: 68723098
+ ├─username: servicebusinessblueprint
+ ├─is_active: True
+ ├─is_verified: True
+ ├─tier: free1
+ └─links: 
+   ├─ https://www.jeffluther.com
+   ├─ https://servicebusinessblueprint.myflodesk.com/b22626qkdo
+   ├─ https://podcasts.apple.com/us/podcast/service-business-blueprint/id1658627241
+   └─ https://www.youtube.com/channel/UC0pHDH68ARiTRQLm2M4WjvQ
+[+] YouTube: https://www.youtube.com/@servicebusinessblueprint/about
+ ├─youtube_channel_id: UC1K1OQ4ElKiCHCidScZJLEA
+ ├─fullname: Service Business Blueprint
+ ├─image: https://yt3.googleusercontent.com/IhX4_YydEORcDj1QouUTxHJCmR8S-bC93KEV8Se2s8TCyH4cd1q9UxGue-NxLFwa5PDSIf9zyA=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@ServiceBusinessBlueprint
+ └─is_family_safe: True
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=servicebusinessblueprint&btnG=
+[+] TikTok: https://www.tiktok.com/@servicebusinessblueprint
+ ├─tiktok_id: 7304293695997658158
+ ├─tiktok_username: servicebusinessblueprint
+ ├─fullname: Jeff
+ ├─bio: 👉🏻 Grow service based businesses through mindset, personal growth & strategy
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/2fd167fa592ba1ee245ed9771e0473b3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=6ea8f984&x-expires=1792256400&x-signature=yRFaMED%2FYvZg5VAk4F%2FrnQkqS64%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAATepIyUccy1SgU6XXoN4ccoMOUmMPpwxt_w6vtNtJBEVoNUPgQ-15o8opLv8cCaaO
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 4
+ ├─video_count: 4
+ └─digg_count: 0
+[+] Upwork: https://upwork.com/fl/servicebusinessblueprint
+[+] fixya: https://www.fixya.com/users/servicebusinessblueprint
+[+] joyreactor.cc: https://joyreactor.cc/user/servicebusinessblueprint
+[+] Pling: https://www.pling.com/u/servicebusinessblueprint/
+[!] Too many errors of type "Bot protection" (9.43%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for servicebusinessblueprint saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_servicebusinessblueprint_simple.json
+[*] Short text report:
+Search by username servicebusinessblueprint returned 7 accounts.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, video, art, links, sharing, streaming, business, freelance, networking, forum, tech, apps, coding, design

@@ -345,7 +345,7 @@ Sources: Withum REST API event records and pages listed in section 8. The Linked
 - **NJCPA speaker ID:** 564516.
 - **Candidate usernames to test:** `chrisnmangano`, `cmangano`, `chrismangano`, `chris.mangano`, `manganochris`.
 - **Name collisions to filter:** Chris Mangano, filmmaker (Tribeca, *Kentucky Call Sheet*); Chris Mangano, fitness coach (*Fit Over 40*); the *Vin and Mike Podcast* guest (unverified).
-- **Not found:** X, Instagram, Facebook (not searched by rule), Substack, Medium, personal site, podcast feed.
+- **Not found:** X, Instagram, Facebook (searched 10/15; see the platform pass addendum), Substack, Medium, personal site, podcast feed.
 
 ---
 
@@ -442,3 +442,9 @@ Sources: Withum REST API event records and pages listed in section 8. The Linked
 
 **Seeds**
 - `t2-candidates.md` §3–4 · `withum-jkj.md` · `chris-mangano-lead-notes.md` · `linkedin-reads.md`
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `chris-mangano-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). No personal producer surface anywhere public: no YouTube channel, podcast, newsletter, site, Substack or Medium, and no Instagram, TikTok, Threads or Pinterest account that can be tied to him. He appears on video made by others: NJBIA's Minding Your Business (uploaded Oct 5, 2026) and Rainmakers Roundup (2019–20). The one strong lead is X @chrisnmangano, the same handle as his LinkedIn slug; it exists, bio and timeline unseen. Facebook, Threads, Medium and Reddit were walls. Maigret ran on chrisnmangano, cmangano, chrismangano, chris.mangano and manganochris; the cmangano and chrismangano hits are other people (a filmmaker, a fitness coach). One curl followed chrismangano.com's redirect onto linkedin.com and got an empty 999; no page was read.

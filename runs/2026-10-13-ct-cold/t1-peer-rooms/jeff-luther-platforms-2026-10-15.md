@@ -1,0 +1,109 @@
+# Jeff Luther — platform pass (public pages, logged out, 2026-10-15)
+
+Method: curl with a desktop browser user agent (no login, no crawler spoofing, no browser pane), public API/embed endpoints where a platform offers one (YouTube feeds, Substack public-profile API, Facebook page plugin, Blogger and Dailymotion APIs, GitHub API, iTunes Search), WebSearch, and the Maigret reports in `maigret/`. Limits: Instagram and Threads return JavaScript shells with no metadata logged out; Facebook returns HTTP 400 to curl (only the public page plugin renders, and only for Pages); X's public syndication endpoint answered 429 (rate limit) on every attempt between 13:40 and 14:30; Reddit and Medium profile pages are behind Cloudflare. Every row was checked on 2026-10-15. "Dormant" is written only where the last activity is dated.
+
+## Matrix
+
+| Platform | Handle / URL | Status | Role | Last activity seen | Audience size seen | What was visible, logged out | Checked |
+|---|---|---|---|---|---|---|---|
+| LinkedIn | lead's lane, not opened | — | — | — | — | — | 2026-10-15 |
+| X (personal) | https://twitter.com/jdluther · https://twitter.com/jeffluther | WALL | unknown | — | — | Syndication endpoint 429 on five attempts each. Maigret marks both "Claimed" with no extracted data; identity unknown. | 2026-10-15 |
+| X (company voice) | https://twitter.com/atlinspections | WALL | unknown | — | — | Cross-linked from the https://www.home-probe.com/ footer. One syndication response was a 200 shell with no timeline data; the rest 429. | 2026-10-15 |
+| Instagram (personal) | https://www.instagram.com/jdluther2.0/ | WALL (exists; VERIFIED by cross-link) | unknown | not seen | not seen | JS shell, no og meta (page and /embed/). His own ep 133 notes (Oct 9, 2026) say "Follow on Instagram: @jdluther2.0 and @allcan_nocant" (https://podcasts.apple.com/us/podcast/id1658627241?i=1000794068558); guest-show notes link instagram.com/jdluther2.0 — BECOME Empowered (Jul 9, 2026), Sh!t That Goes On In Our Heads (Feb 5, 2026), The Great Detour (May 21, 2025), Let's Have This Conversation (Mar 5, 2025), Good Mood Revolution (Jan 13, 2025), The Revolutionary Man (Jul 28, 2024) — all via the iTunes Search API. | 2026-10-15 |
+| Instagram (show account) | https://www.instagram.com/allcan_nocant/ | WALL (exists; VERIFIED by cross-link) | unknown | not seen | not seen | JS shell. Linked from the https://www.jeffluther.com/ footer and from most 2025–26 episode notes. | 2026-10-15 |
+| Instagram (retired brand) | https://www.instagram.com/servicebusinessblueprint/ | WALL | unknown | not seen | not seen | JS shell. Named in the Sep 26, 2024 notes (per the person read). | 2026-10-15 |
+| Facebook (personal, a Page) | https://www.facebook.com/jdluther2.0 | VERIFIED (plugin + cross-link); content WALL | unknown | not seen | 1,173 followers | Page returns 400; the public plugin (https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fjdluther2.0&tabs=timeline) renders a Page named "Jeff Luther · 1,173 followers"; no posts rendered. The Sh!t That Goes On In Our Heads notes (Feb 5, 2026) list facebook.com/jdluther2.0. | 2026-10-15 |
+| Facebook (company voice) | https://www.facebook.com/homeprobe | VERIFIED (plugin + cross-link) | unknown | not seen | 931 followers | Plugin renders "Home-Probe, Inc. · 931 followers"; page itself 400. Linked from the home-probe.com footer. | 2026-10-15 |
+| Facebook (Maigret hits) | https://www.facebook.com/jdluther · https://www.facebook.com/jeffluther | WALL | unknown | — | — | 400; plugin blank (not Pages). Identity unknown. | 2026-10-15 |
+| Facebook (old company link) | https://www.facebook.com/georgiahomeinspection | NOT FOUND | — | — | — | Listed in The Revolutionary Man notes (Jul 28, 2024); the plugin renders nothing. | 2026-10-15 |
+| TikTok (retired brand) | https://www.tiktok.com/@servicebusinessblueprint | VERIFIED | unknown (retired brand) | not visible | 0 followers · 4 videos | Display name "Jeff"; bio "👉🏻 Grow service based businesses through mindset, personal growth & strategy"; created 2023-11-22. The brand is his 2024 podcast name, and https://linktr.ee/servicebusinessblueprint (same handle, created the same day) points to jeffluther.com. Video dates not rendered, so not marked dormant. | 2026-10-15 |
+| TikTok (name-match accounts) | https://www.tiktok.com/@jdluther · https://www.tiktok.com/@jeffluther | LEAD | unknown | none (0 videos each) | 2 followers · 6 followers | "Jd Luther" and "Jeff Luther", no bio, no videos. | 2026-10-15 |
+| TikTok | https://www.tiktok.com/@allcan_nocant · https://www.tiktok.com/@jdluther2.0 | NOT FOUND | — | — | — | "Couldn't find this account" (statusCode 10221). | 2026-10-15 |
+| Threads | https://www.threads.net/@jeffluther · @jdluther · @jdluther2.0 · @allcan_nocant | WALL | unknown | — | — | All four redirect to threads.com and return a JS shell with no og meta and no profile strings; existence unknown. | 2026-10-15 |
+| YouTube (show) | https://www.youtube.com/@allcan_nocant (UC0pHDH68ARiTRQLm2M4WjvQ) | VERIFIED | P | 2026-10-12 ("Joshua Waldron was told he'd never walk again and built a $70M company anyway.") | 115 subscribers · 454 videos | Title "All Can No Can't"; description "I'm your host, Jeff Luther…"; joined Feb 16, 2014. Feed: 15 uploads Sep 23–Oct 12, 2026. Channel links: "Free Business Resource" → servicebusinessblueprint.myflodesk.com/b22626qkdo, "Grow Your Service Business" → coachtoscale.com/home. | 2026-10-15 |
+| YouTube (personal, old) | https://www.youtube.com/@jdluther (UCigysmp-CD4zCr6T4w0wudQ) | VERIFIED | D (dormant since 2024-02-05) | 2024-02-05 ("GSA Teaser") | 4 subscribers · 7 videos | Joined Jul 22, 2006. Uploads: "EO Accelerator" (2023-09-18), Home Probe videos (2011: "The Buyer's Guide to Home Inspections", "Foreclosure Home Inspection", "Home Probe Social Media Presentation to Georgia Real Estate Professional"). | 2026-10-15 |
+| YouTube (name-match) | https://www.youtube.com/@JeffLuther (UCet4MjtoV1edYI9y4RKseTg) | LEAD | unknown | none (0 videos) | not shown | "Jeff Luther", joined Apr 18, 2026, no description, no links; nothing ties it to him. | 2026-10-15 |
+| YouTube (brand-name channel) | https://www.youtube.com/@servicebusinessblueprint (UC1K1OQ4ElKiCHCidScZJLEA) | LEAD | unknown | 2026-04-20 ("The Best iPhone CRM for Home Service Businesses — Built-In") | 54 subscribers · 37 videos | Joined Apr 15, 2025; recent titles are home-service software round-ups ("Best AI Estimating App for Home Service Businesses 2026"). The Linktree of the same handle points to the All Can No Can't channel, not this one, so the only tie is the handle. | 2026-10-15 |
+| Substack | https://substack.com/@jdluther | VERIFIED | C | likes only; no posts | 0 followers | Bio: "Business owner, public speaker, and executive coach. Dad to three boys, owned by a dog. New to trading and here to learn from people who know what they're doing. Mostly listening, occasionally asking good questions." Profile set up 2026-01-23. Public-profile API: hasPosts false, hasLikes true, 6 subscriptions — Tic Toc's OrderFlow Newsletter (paid subscription), Adam Mancini's S&P 500 (SPX/ES Futures) Trade Companion, Unusualwhales Newsletter, Za's Market Terminal, Stoic Wisdoms, The Substack Post. | 2026-10-15 |
+| Substack (name-match) | https://substack.com/@jeffluther | LEAD | unknown | likes only | 0 followers | "Jeff Luther", no bio, has a photo, one free subscription ("The MAD Records Monologue"); identity unknown. | 2026-10-15 |
+| Medium | https://medium.com/@jeffluther | WALL (LEAD) | unknown | none | — | Profile 403 (Cloudflare). Feed https://medium.com/feed/@jeffluther: "Stories by Jeff Luther on Medium", 0 stories. | 2026-10-15 |
+| Reddit | https://www.reddit.com/user/jdluther/about.json · /user/jeffluther/about.json | WALL | — | — | — | 403 both. | 2026-10-15 |
+| Pinterest | https://www.pinterest.com/jeffluther/ | LEAD | unknown | 2018-04-22 (last pin save) | 8 followers · 4 pins · 1 board | "Jeff Luther", no bio, no location. (https://www.pinterest.com/jdluther/ is "John Luther" — not him.) | 2026-10-15 |
+| Tumblr | https://www.tumblr.com/jeffluther · https://www.tumblr.com/jdluther | LEAD (empty) · NOT FOUND | unknown | none visible | — | jeffluther: "Untitled (@jeffluther) on Tumblr", no posts visible. jdluther: generic Tumblr shell only. | 2026-10-15 |
+| SoundCloud | https://soundcloud.com/jeffluther · https://soundcloud.com/jeff-luther | not him | — | 2020-10-25 / 2013-09-23 (last modified) | 0 followers each | Both "Jeff Luther", city Silver Spring, US, 0 tracks. | 2026-10-15 |
+| Other Maigret platforms | GitHub https://github.com/Jeffluther · Disqus https://disqus.com/by/jeffluther/ · Dailymotion https://www.dailymotion.com/jdluther · Blogger https://jdluther.blogspot.com | LEAD · WALL · LEAD · not him | — | GitHub: account 2020-02-07, no activity; Dailymotion: 0 videos, created 2020-11-16; Blogger: last post 2013-03-30 | — | GitHub: no name, bio, repos. Disqus: page needs JavaScript ("browser unsupported"). Dailymotion API: US, no description. Blogger: "500 Sit-Ups A Day" by "JD Luther", 14 posts Mar 8–30, 2013; the author describes getting a daughter onto the school bus and calls himself a writer — not him. | 2026-10-15 |
+| Personal site / blog | https://www.jeffluther.com/ | VERIFIED | P | 2026-09-29 ("How to Hold Employees Accountable Without Constantly Chasing Them", via https://www.jeffluther.com/insights?format=rss) | — | Title "All Can No Can't". Footer links: instagram.com/allcan_nocant, linkedin.com/in/jeff-luther. No newsletter sign-up found in the HTML (Squarespace boilerplate only). | 2026-10-15 |
+| Company site | https://www.home-probe.com/ | VERIFIED (company) | — | — | — | Links twitter.com/atlinspections and facebook.com/homeprobe. | 2026-10-15 |
+| Link hub | https://linktr.ee/servicebusinessblueprint | VERIFIED | — | — | — | Page title "Learn More About Jeff" → https://www.jeffluther.com; "Service Business Blueprint" → Apple Podcasts id1658627241; "Youtube Channel" → UC0pHDH68ARiTRQLm2M4WjvQ; "Free Resource: 4 Critical Questions to Ask When Building Your Business" → Flodesk form. Created 2023-11-22. | 2026-10-15 |
+| Podcast (host) | All Can No Can't \| Mastering Resilience — https://podcasts.apple.com/us/podcast/all-can-no-cant-mastering-resilience/id1658627241 · https://open.spotify.com/show/2Y4XbqMik0VrFHe1BPQ8D9 · https://www.buzzsprout.com/2086275 | VERIFIED | P | 2026-10-09 (ep 133, "Doing Hard Things That Actually Pay Off \| Joshua Waldron") | Apple: 5.0 from 12 ratings; 132 episodes listed | Apple artist "Jeff Luther"; Buzzsprout description "I'm your host, Jeff Luther, and I started this journey after dying on a CrossFit gym floor…". The same Apple id carries the show's earlier names (the Linktree still links it as "Service Business Blueprint"; Buzzsprout still links "the-inspector-alliance"). | 2026-10-15 |
+| Podcast (guest) | Apple Podcasts directory (iTunes Search API) | VERIFIED | A | 2026-07-21 (The Daily Mastermind republish); newest recording 2026-07-09 | — | BECOME Empowered, "8 Minutes Gone: Jeff Luther on Rebuilding Life 30 Seconds at a Time" (Jul 9, 2026, https://podcasts.apple.com/us/podcast/id1565571415?i=1000776159348; host Sabine Kvenberg per the notes' sabinekvenberg.com links; notes link instagram.com/jdluther2.0 and linkedin.com/in/jeff-luther). The Daily Mastermind, "Redefining Success with Jeff Luther" (Jul 21, 2026, https://podcasts.apple.com/us/podcast/id1451120629?i=1000777713493). Earlier appearances are listed in the person read. | 2026-10-15 |
+| Newsletter | Flodesk form https://servicebusinessblueprint.myflodesk.com/b22626qkdo | LEAD (sign-up exists; sending unknown) | unknown | — | — | Linked from the YouTube channel and Linktree as "Free Resource: 4 Critical Questions to Ask When Building Your Business"; the page renders only Flodesk's generic title logged out (form not submitted). His LinkedIn newsletter is the lead's lane. | 2026-10-15 |
+
+## Maigret hits triaged
+
+Reports: `maigret/report_jdluther_simple.json` (30 hits), `maigret/report_jeffluther_simple.json` (44 hits). fixya, joyreactor, Pling, Google Scholar and adult sites skipped as noise.
+
+- `jdluther2.0` → https://www.facebook.com/jdluther2.0 — **VERIFIED-his** (Page named "Jeff Luther", 1,173 followers via the public plugin; URL in his Feb 5, 2026 guest-show notes); page content **WALL**. → https://www.threads.com/@jdluther2.0 — **WALL** (JS shell; existence unknown).
+- `servicebusinessblueprint` → https://linktr.ee/servicebusinessblueprint — **VERIFIED-his** ("Learn More About Jeff" → jeffluther.com; links to his podcast and YouTube). → https://www.youtube.com/@servicebusinessblueprint/about — **LEAD** (brand-name channel, 37 home-service software videos to Apr 20, 2026; the Linktree points to his other channel, not this one). → https://www.tiktok.com/@servicebusinessblueprint — **VERIFIED-his** (display name "Jeff", bio matches the brand, 4 videos, 0 followers).
+- `jeff-luther` → https://soundcloud.com/jeff-luther — **not-him** ("Jeff Luther", Silver Spring, US, 0 tracks, last modified 2013-09-23).
+- `jdluther` → https://twitter.com/jdluther — **WALL** (429). → https://substack.com/@jdluther — **VERIFIED-his** (bio: executive coach, speaker, dad to three boys; set up Jan 23, 2026; reads trading newsletters and Stoic Wisdoms; no posts). → https://www.facebook.com/jdluther — **WALL** (400; plugin blank). → https://www.pinterest.com/jdluther/ — **not-him** ("John Luther"). → https://www.tiktok.com/@jdluther — **LEAD** ("Jd Luther", 2 followers, 0 videos, no bio). → https://jdluther.blogspot.com — **not-him** ("500 Sit-Ups A Day", 14 posts in March 2013 by "JD Luther"; the author has a daughter and calls himself a writer). → https://www.youtube.com/@jdluther/about — **VERIFIED-his** (Home Probe videos 2011, "EO Accelerator" 2023, "GSA Teaser" Feb 5, 2024; 4 subscribers; dormant since Feb 5, 2024). Also in the report, not re-opened today: Calendly https://calendly.com/jdluther (confirmed his in the person read); Dailymotion — **LEAD** (empty, API: 0 videos, created 2020-11-16); Duolingo, ThemeForest, DeviantART, Codecademy, Geocaching, Venmo, Paypal, Twitch, Instructables — name only, **LEAD (weak)**.
+- `jeffluther` → https://medium.com/@jeffluther — **WALL** (403; feed empty). → https://substack.com/@jeffluther — **LEAD** (no bio, one free subscription to a music publication). → https://www.threads.com/@jeffluther — **WALL**. → https://www.tiktok.com/@jeffluther — **LEAD** ("Jeff Luther", 6 followers, 0 videos, no bio). → https://twitter.com/jeffluther — **WALL** (429). → https://www.youtube.com/@jeffluther/about — **LEAD** (channel "Jeff Luther" joined Apr 18, 2026, no videos, no description). → https://www.pinterest.com/jeffluther/ — **LEAD** ("Jeff Luther", 4 pins, last saved Apr 22, 2018, no bio). Also: SoundCloud https://soundcloud.com/jeffluther — **not-him** (Silver Spring, US); GitHub https://github.com/Jeffluther — **LEAD** (empty, created 2020-02-07); Disqus https://disqus.com/by/jeffluther/ — **WALL** (JavaScript required); Tumblr https://www.tumblr.com/jeffluther — **LEAD** (untitled, nothing visible); LinkedIn https://linkedin.com/in/jeffluther — lead's lane, not opened (his known slug is `jeff-luther`); Telegram, Snapchat, VK, Flipboard, Chess, Clubhouse, Giphy, Imgur, Behance, iNaturalist, Smule, Periscope, Myspace, Itch.io, Ultimate-Guitar, InterPals, Gutefrage, Exophase, Picsart, IFTTT, Venmo, Paypal, Freelancer — name only, not opened, **LEAD (weak)**.
+
+## Where a comment would be seen, where a post would land
+
+Logged out, his public output is the weekly podcast (ep 133 on Oct 9, 2026, mirrored to YouTube with 454 videos and 115 subscribers) and the weekly blog on jeffluther.com (latest Sep 29, 2026); LinkedIn, where he also posts and comments, is the lead's lane. Two Instagram accounts (@jdluther2.0 personal, @allcan_nocant for the show) and a Facebook Page named "Jeff Luther" with 1,173 followers exist and are cross-linked from his own notes, but their posts could not be seen. On Substack he is a reader, not a writer: a profile set up in January 2026 that describes him as "new to trading", with likes but no posts, following four options/futures trading newsletters, a Stoicism letter and Substack's own digest. Dormant or shelved: the old @jdluther YouTube channel (last upload Feb 5, 2024) and the Service Business Blueprint brand (TikTok with 4 videos; Linktree and Flodesk form still live). What could not be seen: X (rate-limited), Threads, Reddit, Medium, the Facebook Page's timeline, and all Instagram content.
+
+## Every URL opened
+
+- https://www.instagram.com/jdluther2.0/ and /embed/ · 200, JS shell, no og meta · WALL
+- https://www.instagram.com/allcan_nocant/ and /embed/ · 200, JS shell · WALL
+- https://www.instagram.com/servicebusinessblueprint/ and /embed/ · 200, JS shell · WALL
+- https://www.youtube.com/feeds/videos.xml?channel_id=UCigysmp-CD4zCr6T4w0wudQ · 200 · 7 entries, latest 2024-02-05
+- https://www.youtube.com/feeds/videos.xml?channel_id=UC0pHDH68ARiTRQLm2M4WjvQ · 200 · 15 entries, latest 2026-10-12
+- https://www.youtube.com/feeds/videos.xml?channel_id=UCet4MjtoV1edYI9y4RKseTg · 200 · 0 entries, channel dated 2026-04-18
+- https://www.youtube.com/feeds/videos.xml?channel_id=UC1K1OQ4ElKiCHCidScZJLEA · 200 · 15 entries, latest 2026-04-20
+- https://www.youtube.com/@allcan_nocant/about · 200 · description, links, joined date; /videos · 200 · 454 videos, 115 subscribers
+- https://www.youtube.com/@jdluther/about · 200 · 4 subscribers, joined 2006
+- https://www.youtube.com/@JeffLuther/about · 200 · empty channel, joined Apr 18, 2026
+- https://www.youtube.com/@servicebusinessblueprint/about · 200 · 54 subscribers, 37 videos, joined Apr 15, 2025
+- https://www.facebook.com/homeprobe · 400 · WALL; plugin (…page.php?href=…%2Fhomeprobe…) · 200 · "Home-Probe, Inc. · 931 followers"
+- https://www.facebook.com/jdluther · 400 · WALL; plugin · 200 · blank
+- https://www.facebook.com/jeffluther · 400 · WALL; plugin · 200 · blank
+- https://www.facebook.com/jdluther2.0 · 400 · WALL; plugin · 200 · Page "Jeff Luther · 1,173 followers"
+- Facebook plugin for facebook.com/georgiahomeinspection · 200 · blank
+- https://syndication.twitter.com/srv/timeline-profile/screen-name/atlinspections · one 200 shell without data, then 429 · WALL
+- https://syndication.twitter.com/srv/timeline-profile/screen-name/jdluther · 429 ×5 · WALL
+- https://syndication.twitter.com/srv/timeline-profile/screen-name/jeffluther · 429 ×5 · WALL
+- https://substack.com/@jdluther · 200 · og meta with bio; https://substack.com/api/v1/user/jdluther/public_profile · 200 · subscriptions and flags
+- https://substack.com/@jeffluther · 200 · empty bio; https://substack.com/api/v1/user/jeffluther/public_profile · 200
+- https://medium.com/@jeffluther · 403 Cloudflare · WALL; https://medium.com/feed/@jeffluther · 200 · 0 items
+- https://www.tumblr.com/jdluther · 200 · generic shell; https://jdluther.tumblr.com/ · 200 (redirected to the same)
+- https://www.tumblr.com/jeffluther · 200 · "Untitled (@jeffluther)"; https://jeffluther.tumblr.com/ · 200 (redirected)
+- https://www.threads.net/@jeffluther, @jdluther, @jdluther2.0, @allcan_nocant (→ threads.com) · 200, JS shell · WALL
+- https://www.tiktok.com/@jdluther · 200 · profile data; @jeffluther · 200 · profile data; @allcan_nocant · 200 · not found (10221); @jdluther2.0 · 200 · not found (10221); @servicebusinessblueprint · 200 · profile data
+- https://www.reddit.com/user/jdluther/about.json · 403 · WALL; /user/jeffluther/about.json · 403 · WALL
+- https://www.pinterest.com/jdluther/ · 200 · "John Luther"; https://www.pinterest.com/jeffluther/ · 200 · "Jeff Luther", 4 pins
+- https://soundcloud.com/jeffluther · 200 · Silver Spring; https://soundcloud.com/jeff-luther · 202 then 200 · Silver Spring
+- https://api.github.com/users/jeffluther · 200 · empty account
+- https://disqus.com/by/jeffluther/ · 200 · "browser unsupported" · WALL
+- https://www.dailymotion.com/jdluther · 200 shell; https://api.dailymotion.com/user/jdluther?fields=… · 200 · 0 videos
+- https://jdluther.blogspot.com/ · 200; https://jdluther.blogspot.com/feeds/posts/default?alt=json&max-results=50 · 200 · 14 posts, 2013
+- https://www.jeffluther.com/ · 200; https://www.jeffluther.com/insights?format=rss · 200 · latest 2026-09-29
+- https://www.home-probe.com/ · 200
+- https://www.buzzsprout.com/2086275 · 200
+- https://podcasts.apple.com/us/podcast/all-can-no-cant-mastering-resilience/id1658627241 · 200 · 5.0 (12 ratings)
+- https://open.spotify.com/show/2Y4XbqMik0VrFHe1BPQ8D9 · 200 · no og meta captured
+- iTunes Search API: "all can no can't jeff luther" (podcast), "jeff luther" (episodes, 200 results) · 200
+- https://linktr.ee/servicebusinessblueprint · 200
+- https://servicebusinessblueprint.myflodesk.com/b22626qkdo · 200 · Flodesk generic title (form not submitted)
+- WebSearch ×3 ("Jeff Luther" "All Can No Can't" + platforms; "Jeff Luther" Charleston/Atlanta Home-Probe + platforms; the three handles) · search-only; nothing relevant returned
+
+## Open
+
+- X: whether `@jdluther` or `@jeffluther` is his, and whether `@atlinspections` still posts — the endpoint was rate-limited all afternoon.
+- Instagram (@jdluther2.0, @allcan_nocant, @servicebusinessblueprint) and the Facebook Page: follower counts (Instagram), post cadence and last-post dates could not be seen logged out.
+- Threads: whether any of the four handles exist.
+- YouTube @servicebusinessblueprint and @JeffLuther: identity unconfirmed.
+- Whether the Flodesk list still sends anything, and his LinkedIn newsletter (lead's lane).
+- Substack: whether the paid Tic Toc's OrderFlow subscription is still active is not exposed by the public API beyond "subscribed".
+- Search engines returned nothing for the handles; the platform pages themselves were the only evidence.

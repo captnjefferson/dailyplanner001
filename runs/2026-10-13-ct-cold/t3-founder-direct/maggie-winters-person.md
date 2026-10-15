@@ -486,3 +486,9 @@ VERIFIED-PRIMARY by name, Washington DC 20001, occupation "PARTNER," employer "T
 
 **Seed files**
 - `maggie-winters.md` (v1 scan and the Inc. verification block), `maggie-winters-lead-notes.md` (LinkedIn, DNS, ProPublica), `t3-candidates.md`, `../sweeps/chatgpt-T3-founders-report.md` (row "Maggie Winters"), `ryan-flanagan-person.md` (shape).
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `maggie-winters-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). Verified hers: X @maggiewinters_ (5,816 posts, 989 followers; dates not visible), TikTok @maggiewinters_ (15 videos), Threads @maggiewinters_ (290 followers, never posted), Pinterest maggiewinters (1,145 pins, last saved Oct 13, 2026, boards touched monthly), Medium (nine essays since 2016, last May 22, 2026), Substack (one post, Aug 2025; reads eleven letters), Behance (2019), Dribbble (2018), YouTube @moonstompmaggie (2011), maggiewinters.com (rebuilt Sept 2026). Instagram @maggiewinters_, Facebook (lookitsmaggie), Reddit and Medium's profile tabs were walls logged out; three X profile reads came through a public mirror and are labeled so. Maigret ran on maggiewinters_, maggiewinters, moonstompmaggie, maggiegaudaen, maggiewintersgaudaen and thisjanuary; the shared maggiewinters hits are the Chicago comedian and others.

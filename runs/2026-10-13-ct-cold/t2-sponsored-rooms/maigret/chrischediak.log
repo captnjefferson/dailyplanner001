@@ -1,0 +1,47 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username chrischediak on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=chrischediak&btnG=
+[+] Snapchat: https://www.snapchat.com/add/chrischediak
+ ├─username: chrischediak
+ ├─fullname: Chris Chediak
+ ├─bio: Chris Chediak is on Snapchat! (@chrischediak)
+ ├─url: https://www.snapchat.com/@chrischediak
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@chrischediak/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=chrischediak&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Pinterest: https://www.pinterest.com/chrischediak/
+ ├─uid: 560557622277752751
+ ├─username: chrischediak
+ ├─fullname: Chris Chediak
+ ├─image: https://s.pinimg.com/images/user/default_280.png
+ ├─follower_count: 2
+ ├─following_count: 15
+ ├─posts_count: 15
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 26 Feb 2015 15:17:56 +0000
+ └─latest_activity_at: Sun, 21 Jan 2024 18:01:54 +0000
+[+] last.fm: https://last.fm/user/chrischediak
+ ├─fullname: chrischediak
+ ├─bio: • scrobbling since 26 Sep 2010
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/818148bf682d429dc215c1705eb27b98.png
+ └─created_at: 2010
+[+] fixya: https://www.fixya.com/users/chrischediak
+[+] joyreactor.cc: https://joyreactor.cc/user/chrischediak
+[+] Pling: https://www.pling.com/u/chrischediak/
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for chrischediak saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_chrischediak_simple.json
+[*] Short text report:
+Search by username chrischediak returned 6 accounts.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, art, apps, design, messaging, photo, sharing, music, streaming, forum, tech, coding

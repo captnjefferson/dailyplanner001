@@ -1,0 +1,32 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jeff-luther on:
+[+] Discord: https://discord.com
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jeff-luther&btnG=
+[+] SoundCloud: https://soundcloud.com/jeff-luther
+ ├─uid: 59304130
+ ├─name: Jeff Luther
+ ├─username: Jeff Luther
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000055105250-zo0dlk-large.jpg
+[+] Pbase: https://pbase.com/jeff-luther/profile
+[+] Vivino: https://www.vivino.com/users/jeff-luther
+[+] Venmo: https://venmo.com/jeff-luther
+[+] fixya: https://www.fixya.com/users/jeff-luther
+[+] joyreactor.cc: https://joyreactor.cc/user/jeff-luther
+[+] Pling: https://www.pling.com/u/jeff-luther/
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[!] Too many errors of type "Unsupported username format" (3.54%)
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jeff-luther saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_jeff-luther_simple.json
+[*] Short text report:
+Search by username jeff-luther returned 8 accounts.
+Extended info extracted from 1 accounts.
+Countries: us, nl, ru
+Interests (tags): social, art, gaming, messaging, music, streaming, photo, sharing, review, shopping, finance, fintech, forum, tech, apps, coding, design

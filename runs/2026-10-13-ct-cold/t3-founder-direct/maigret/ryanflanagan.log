@@ -1,0 +1,312 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username ryanflanagan on:
+[+] Giphy: https://giphy.com/channel/ryanflanagan
+[+] GitHub: https://github.com/ryanflanagan
+ ├─uid: 71025291
+ ├─image: https://avatars.githubusercontent.com/u/71025291?v=4
+ ├─created_at: 2020-09-09T14:46:02Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Blogger: https://ryanflanagan.blogspot.com
+ ├─blog_id: 5906016835585880523
+ └─uid: 01002967477133105535
+[+] Substack: https://substack.com/@ryanflanagan
+ ├─uid: 96082597
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ └─bio: N/A
+[+] Imgur: https://imgur.com/user/ryanflanagan
+ ├─id: 28027549
+ ├─imgur_username: RyanFlanagan
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/vaTS6Ve_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/RyanFlanagan/avatar
+ └─created_at: 2015-12-15T22:31:23Z
+[+] Twitter: https://twitter.com/ryanflanagan
+ ├─uid: VXNlcjoyNzQwNTI1OA==
+ ├─fullname: Ryan Flanagan
+ ├─bio: Tasmania & London
+ ├─created_at: 2009-03-29 09:53:37+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1613922014548434946/sMC5FJoC.jpg
+ ├─is_protected: False
+ ├─follower_count: 26
+ ├─following_count: 105
+ ├─location: Hobart
+ └─favourites_count: 831
+[+] Trello: https://trello.com/ryanflanagan
+ ├─id: 533d8ac67ecad824562f35b5
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://trello-members.s3.amazonaws.com/533d8ac67ecad824562f35b5/ccc07d404409ba0516d9098020c5d9b8/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:ryanflanagan
+ ├─uid: 2454397
+ └─username: Ryanflanagan
+[+] Disqus: https://disqus.com/ryanflanagan
+ ├─id: 70430536
+ ├─fullname: Ryan Flanagan
+ ├─disqus_username: ryanflanagan
+ ├─reputation: 1.2327869999999999
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-08-29T17:59:19
+ ├─upvotes_count: 3
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/ryanflanagan.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 2
+[+] Medium: https://medium.com/@ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─username: ryanflanagan
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*Kwr5ngk0p9TOBxyq.
+ └─latest_activity_at: 2026-10-15 17:40:53 UTC
+[+] About.me: https://about.me/ryanflanagan
+[+] YouTube: https://www.youtube.com/@ryanflanagan/about
+ ├─youtube_channel_id: UCP5uhte7h69SWs3rO5wecUQ
+ ├─fullname: Ryan Flanagan
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lD1LHjzaQ7zDLMIMm8gtpqg9BBwRYQz7H0Uc3JuSW3W9U=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@RyanFlanagan
+ └─is_family_safe: True
+[+] Bluesky: https://bsky.app/profile/ryanflanagan.bsky.social
+ ├─uid: did:plc:g7qvymukfxrvqnj55kpgrcv6
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─bio: Former journalist now working in media relations. Living in Kitchener after a few years away.
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:g7qvymukfxrvqnj55kpgrcv6/bafkreiaxpkvvoxsz6mjk46vs5yl5olzypvfqmj7mrd5merrld43ay3oo4q
+ ├─created_at: 2023-09-18T20:55:32.288Z
+ ├─follower_count: 255
+ ├─following_count: 230
+ └─posts_count: 114
+[+] Dribbble: https://dribbble.com/ryanflanagan
+[+] ThemeForest: https://themeforest.net/user/ryanflanagan
+[+] SoundCloud: https://soundcloud.com/ryanflanagan
+ ├─uid: 5761035
+ ├─name: Ryan Flanagan
+ ├─username: Ryan Flanagan 1
+ ├─following_count: 48
+ ├─follower_count: 5
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000004574276-ky734x-large.jpg
+[+] Tumblr: https://www.tumblr.com/ryanflanagan
+[+] Threads: https://www.threads.com/@ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─username: ryanflanagan
+ ├─follower_count: 46
+ └─posts_count: 0
+[+] Vimeo: https://vimeo.com/ryanflanagan
+[+] Calendly: https://calendly.com/ryanflanagan
+ ├─uid: 50461947
+ ├─fullname: Ryan Flanagan
+ ├─username: ryanflanagan
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: dc3c6dbe-4461-4005-9f53-a253eaebf6ae
+ ├─organization_uuid: f6526a3e-034f-4f3e-a044-9a1cd88ef6e4
+ └─timezone: America/New_York
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ryanflanagan&btnG=
+[+] Twitch: https://twitchtracker.com/ryanflanagan
+ ├─twitch_channel_id: 45449702
+ ├─twitch_username: ryanflanagan
+ └─created_at: 2013-06-30 23:46:36
+[+] TikTok: https://www.tiktok.com/@ryanflanagan
+ ├─tiktok_id: 21514321
+ ├─tiktok_username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4e8ce300&x-expires=1792256400&x-signature=R1PBUZ7SYSxCyqDARufbsQnJTv0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAEy-y027bWQrhbceSWnsIt1vF2vDl5zGaVxUMejlL-LQ
+ ├─following_count: 21
+ ├─follower_count: 15
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Pinterest: https://www.pinterest.com/ryanflanagan/
+ ├─uid: 331859203700310311
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://s.pinimg.com/images/user/default_280.png
+ ├─follower_count: 10
+ ├─following_count: 1
+ ├─posts_count: 93
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Wed, 30 Oct 2013 10:24:02 +0000
+ └─latest_activity_at: Mon, 30 Jan 2023 17:31:55 +0000
+[+] Academia.edu: https://independent.academia.edu/ryanflanagan
+[+] Myspace: https://myspace.com/ryanflanagan
+ ├─uid: 103541244
+ └─username: ryanflanagan
+[+] Behance: https://www.behance.net/ryanflanagan
+ ├─uid: 382344247
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: United Kingdom
+ ├─created_at: 2019-07-03 16:16:57 UTC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Snapchat: https://www.snapchat.com/add/ryanflanagan
+ ├─bio: ryan flanagan is on Snapchat! (@ryanflanagan) | IG: rflanny     tiktok: rflanny7 | Illinois | Last updated: 10/14/2026
+ ├─url: https://www.snapchat.com/@ryanflanagan
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@ryanflanagan/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[+] DeviantART: https://ryanflanagan.deviantart.com
+ ├─country: United States
+ ├─created_at: 2014-02-21 14:09:52 UTC
+ ├─gender: male
+ └─username: ryanflanagan
+[+] 500px: https://500px.com/p/ryanflanagan
+ ├─uid: 22601153
+ ├─username: RyanFlanagan
+ ├─fullname: Ryan Flanagan
+ └─created_at: 2017-06-19T16:21:25.000+00:00
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=ryanflanagan&compact=true
+ ├─id: 3292332
+ ├─nickname: ryanflanagan
+ ├─username: ryanflanagan
+ ├─fullname: ryanflanagan
+ ├─role: freelancer
+ ├─location: Danbury, United States
+ └─created_at: 2012-03-02 03:04:16 UTC
+[+] Paypal: https://www.paypal.com/paypalme/ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─username: RyanFlanagan
+ ├─payerId: MNRBVGV9AZD7G
+ ├─address: Amesbury, MA
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/MjAwWDIwMFhQTkc/p/ODdmYWFlNmItNWE4OS00NjM1LTk5MzgtZGMyOTJiMzQyNDNk/image_58.jpg
+[+] Minecraft: https://api.mojang.com/users/profiles/minecraft/ryanflanagan
+[+] TripAdvisor: https://tripadvisor.com/members/ryanflanagan
+[+] Bandcamp: https://www.bandcamp.com/ryanflanagan
+[+] Duolingo: https://www.duolingo.com/profile/ryanflanagan
+ ├─uid: 40336471
+ ├─username: RyanFlanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-08-03 03:45:00 UTC
+ ├─url: https://www.duolingo.com/profile/RyanFlanagan
+ ├─streak: 0
+ ├─totalXp: 13
+ ├─learningLanguage: de
+ └─fromLanguage: en
+[+] MyAnimeList: https://myanimelist.net/profile/ryanflanagan
+ ├─mal_username: RyanFlanagan
+ └─mal_uid: 16244028
+[+] Codecanyon: https://codecanyon.net/user/ryanflanagan
+[+] LinkedIn: https://linkedin.com/in/ryanflanagan
+[+] Chess: https://www.chess.com/member/ryanflanagan
+ ├─chess_user_id: 3092303
+ ├─username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/3092303.abd9e821.200x200o.a3fa9edfa30a.jpeg
+ ├─country_code: US
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2008-05-26 06:11:00 UTC
+ └─latest_activity_at: 2008-05-25 23:11:00 UTC
+[+] Mix: https://mix.com/ryanflanagan
+[+] Geocaching: https://www.geocaching.com/p/?u=ryanflanagan
+[+] LeetCode: https://leetcode.com/u/ryanflanagan/
+ ├─username: RyanFlanagan
+ ├─fullname: RyanFlanagan
+ ├─image: https://assets.leetcode.com/users/default_avatar.jpg
+ └─ranking: 3007230
+[+] last.fm: https://last.fm/user/ryanflanagan
+ ├─fullname: ryanflanagan
+ ├─bio: • scrobbling since 27 Aug 2007
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/818148bf682d429dc215c1705eb27b98.png
+ └─created_at: 2007
+[+] Gog: https://www.gog.com/u/ryanflanagan
+[+] Steemit: https://steemit.com/@ryanflanagan
+ ├─uid: 233281
+ ├─username: ryanflanagan
+ ├─fullname: Jack Burton
+ ├─reputation: 25
+ ├─posts_count: 1
+ ├─follower_count: 15
+ ├─following_count: 0
+ ├─created_at: 2017-06-29T20:18:15
+ └─latest_activity_at: 2017-07-12T13:49:39
+[+] Freesound: https://freesound.org/people/ryanflanagan/
+[+] Letterboxd: https://letterboxd.com/ryanflanagan
+[+] Untappd: https://untappd.com/user/ryanflanagan
+[+] Audiojungle: https://audiojungle.net/user/ryanflanagan
+[+] Wattpad: https://www.wattpad.com/user/ryanflanagan
+[+] Imgflip: https://imgflip.com/user/ryanflanagan
+[+] Flipboard: https://flipboard.com/@ryanflanagan
+[+] Kick: https://kick.com/ryanflanagan
+[+] Clubhouse: https://www.clubhouse.com/@ryanflanagan
+[+] Couchsurfing: https://www.couchsurfing.com/people/ryanflanagan
+[+] Speedrun.com: https://speedrun.com/users/ryanflanagan
+[+] Picsart: https://picsart.com/u/ryanflanagan
+ ├─picsart_id: 222906891023102
+ ├─picsart_username: ryanflanagan
+ ├─fullname: Ryan Flanagan
+ ├─image: https://cdn21.picsart.com/145116821005201.png
+ ├─follower_count: 3
+ ├─following_count: 14
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/ryanflanagan
+[+] VideoHive: https://videohive.net/user/ryanflanagan
+[+] Ccm: https://ccm.net/profile/user/ryanflanagan
+[+] Genius: https://genius.com/ryanflanagan
+[+] Patreon: https://www.patreon.com/ryanflanagan
+[+] Periscope: https://www.pscp.tv/ryanflanagan
+ ├─id: 1eWEyvpMDgQAg
+ ├─created_at: 2016-03-18T08:38:43.095704301Z
+ ├─periscope_username: ryanflanagan
+ ├─fullname: Ryan
+ ├─follower_count: 13
+ ├─following_count: 7
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ └─is_twitter_verified: False
+[+] Upwork: https://upwork.com/fl/ryanflanagan
+[+] Depop: https://www.depop.com/ryanflanagan
+[+] Hackerrank: https://www.hackerrank.com/profile/ryanflanagan
+[+] VSCO: https://vsco.co/ryanflanagan
+[+] fixya: https://www.fixya.com/users/ryanflanagan
+[+] Smule: https://www.smule.com/ryanflanagan
+[+] Memrise: https://www.memrise.com/user/ryanflanagan/
+[+] Venmo: https://venmo.com/ryanflanagan
+[+] Jetpunk: https://www.jetpunk.com/users/ryanflanagan
+[+] Revolut.me: https://revolut.me/ryanflanagan
+ └─fullname: Ryan F
+[+] GitHubGist [GitHub]: https://gist.github.com/ryanflanagan
+[+] joyreactor.cc: https://joyreactor.cc/user/ryanflanagan
+[+] Pling: https://www.pling.com/u/ryanflanagan/
+[!] Too many errors of type "Bot protection" (9.04%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.14%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for ryanflanagan saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_ryanflanagan_simple.json
+[*] Short text report:
+Search by username ryanflanagan returned 76 accounts.
+Found target's other IDs: RyanFlanagan, Ryanflanagan.
+Extended info extracted from 33 accounts.
+Countries: us, fr, nl, ru
+Interests (tags): social, business, sharing, art, apps, music, education, coding, networking, blog, photo, design, gaming, video, streaming, discussion, shopping, finance, writing, messaging, fintech, forum, hobby, tech, professional, freelance, review, travel, news, tasks, wiki, research, anime, links, crypto, archive, movies, geosocial, reading, stock, fashion

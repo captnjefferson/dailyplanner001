@@ -1,0 +1,31 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username ryan-brickwood on:
+[+] Discord: https://discord.com
+[+] SoundCloud: https://soundcloud.com/ryan-brickwood
+ ├─uid: 421862700
+ ├─name: Ryan Brickwood
+ ├─username: Ryan Brickwood
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000421351080-fxtwpw-large.jpg
+[+] Pbase: https://pbase.com/ryan-brickwood/profile
+[+] LinkedIn: https://linkedin.com/in/ryan-brickwood
+[+] Venmo: https://venmo.com/ryan-brickwood
+[+] fixya: https://www.fixya.com/users/ryan-brickwood
+[+] joyreactor.cc: https://joyreactor.cc/user/ryan-brickwood
+[+] Pling: https://www.pling.com/u/ryan-brickwood/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[!] Too many errors of type "Unsupported username format" (3.54%)
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for ryan-brickwood saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_ryan-brickwood_simple.json
+[*] Short text report:
+Search by username ryan-brickwood returned 8 accounts.
+Extended info extracted from 1 accounts.
+Countries: us, nl, ru
+Interests (tags): social, art, gaming, messaging, music, streaming, photo, sharing, business, networking, professional, finance, fintech, forum, tech, apps, coding, design

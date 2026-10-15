@@ -372,7 +372,7 @@ The full edition table is in `rea-associates.md` section 5. Only additions and c
 - **Rea WordPress author slug:** `ryan-brickwood` (user id 153).
 - **Published work emails** (from newsletter signatures, as printed; not used): ryan.brickwood@reaadvisory.com (2025–26); ryan.brickwood@reacpa.com (2023–24).
 - **Candidate usernames to test:** `ryanbrickwood`, `ryan-brickwood`, `RyanBrickwood`, `rbrickwood`.
-- **Not found:** X, Instagram, Facebook (not searched by rule), Substack, Medium, personal site.
+- **Not found:** X, Instagram, Facebook (searched 10/15; see the platform pass addendum), Substack, Medium, personal site.
 
 ---
 
@@ -476,3 +476,9 @@ The full edition table is in `rea-associates.md` section 5. Only additions and c
 **Political giving (FEC schedule A; in bounds per Jefferson's 10/13 ruling).** No itemized federal contributions under "Brickwood" in Ohio (API 10/13 and fec.gov/data/receipts 10/13 ~11:45 PM, 2015–2026). State-level (Ohio Secretary of State campaign finance) not checked.
 
 **What the evidence says the firm has and lacks.** Has: in-house technology principals who present the AI content (Christopher Holmes, Travis Strong, Steve Grossenbaugh at Rea Information Services), a Claude for Work domain verification, Microsoft 365, a running events machine (Groundwork series, MED, GFOA sessions). Lacks, on the record: anyone whose job is adoption inside the firm, and an outside voice for the owners in the MED room who isn't selling ERP or IT services.
+
+---
+
+## Addendum 2026-10-15: platform pass and Maigret
+
+Public pages, logged out, by agents on 10/15; no login, no wall crossed, no interaction. Full matrix, every URL opened and the Maigret triage: `ryan-brickwood-platforms-2026-10-15.md` beside this file (and a child page of this row in Notion). Nothing personal in public outside firm channels. His YouTube @RyanBrickwood holds three family soccer videos, 3 subscribers, dormant since May 2024. No @ryanbrickwood exists on X (@brickwoodryan exists, unread); the TikTok, Medium, Pinterest and Snapchat accounts carrying his name are empty or other people. Instagram, Facebook, Threads and Reddit are walls logged out. Maigret ran on ryanbrickwood, ryan-brickwood and rbrickwood; every hit triaged, none his beyond YouTube.

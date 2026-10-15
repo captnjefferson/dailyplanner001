@@ -1,0 +1,57 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username cchediak on:
+[+] Twitter: https://twitter.com/cchediak
+ ├─uid: VXNlcjoyMDU1MzgxNjU=
+ ├─fullname: Carlos Chediak
+ ├─created_at: 2010-10-21 02:50:11+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 0
+ ├─following_count: 0
+ └─favourites_count: 0
+[+] Tumblr: https://www.tumblr.com/cchediak
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:cchediak
+ ├─uid: 25013900
+ └─username: Cchediak
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cchediak&btnG=
+[+] Academia.edu: https://independent.academia.edu/cchediak
+[+] Bandcamp: https://www.bandcamp.com/cchediak
+[+] Paypal: https://www.paypal.com/paypalme/cchediak
+ ├─fullname: Carlos Chediak
+ ├─username: CChediak
+ ├─payerId: WHPN6LJXRBK8C
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Pinterest: https://www.pinterest.com/cchediak/
+ ├─uid: 569424084044101635
+ ├─username: cchediak
+ ├─fullname: claudia chediak
+ ├─image: https://s.pinimg.com/images/user/default_280.png
+ ├─follower_count: 22
+ ├─following_count: 53
+ ├─posts_count: 690
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Wed, 14 Aug 2013 02:47:49 +0000
+ └─latest_activity_at: Tue, 31 Mar 2026 00:56:16 +0000
+[+] fixya: https://www.fixya.com/users/cchediak
+[+] joyreactor.cc: https://joyreactor.cc/user/cchediak
+[+] Pling: https://www.pling.com/u/cchediak/
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for cchediak saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_cchediak_simple.json
+[*] Short text report:
+Search by username cchediak returned 10 accounts.
+Found target's other IDs: Cchediak, CChediak.
+Extended info extracted from 4 accounts.
+Countries: nl, ru
+Interests (tags): social, art, sharing, education, apps, design, messaging, blog, wiki, research, music, business, finance, fintech, photo, forum, tech, coding

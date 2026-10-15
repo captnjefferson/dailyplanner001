@@ -1,0 +1,43 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username RyanBrickwood on:
+[+] YouTube: https://www.youtube.com/@RyanBrickwood/about
+ ├─youtube_channel_id: UCe1fWgyZMsPw-av1DkQ9LgQ
+ ├─fullname: Ryan Brickwood
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nhoOi8Lhcr7w0l0Ur6N0ern1n6gqe49p8sDZDsXjKezsAllwS3frRAi1p45L_qVDrCfQ=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@RyanBrickwood
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@RyanBrickwood
+ ├─tiktok_id: 7621310077156705301
+ ├─tiktok_username: ryanbrickwood
+ ├─fullname: ryanbrickwood
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e5e5eaeb6a6391a2c5d06e9cefc67e78~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=46fbb79f&x-expires=1792256400&x-signature=gKrSzxgGaoV6EU1cv9GmSsCfFBA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAuMgfIaLIBUPGVq8mzIJBMDcyq2XVD2ivQL3VGV_IhOtQUFzaCISDQWfvMNtw3E25
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Medium: https://medium.com/@RyanBrickwood
+ ├─fullname: Ryan Brickwood
+ ├─username: ryanbrickwood
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*cdLu6OG0QV8ZbIdD.
+ └─latest_activity_at: 2026-10-15 17:39:11 UTC
+[+] fixya: https://www.fixya.com/users/RyanBrickwood
+[+] joyreactor.cc: https://joyreactor.cc/user/RyanBrickwood
+[+] Pling: https://www.pling.com/u/RyanBrickwood/
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for RyanBrickwood saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_RyanBrickwood_simple.json
+[*] Short text report:
+Search by username RyanBrickwood returned 6 accounts.
+Found target's other IDs: ryanbrickwood.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, video, art, streaming, blog, discussion, writing, forum, tech, apps, coding, design

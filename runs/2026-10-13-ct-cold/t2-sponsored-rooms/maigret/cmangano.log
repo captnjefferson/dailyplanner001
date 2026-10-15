@@ -1,0 +1,191 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username cmangano on:
+[+] Twitter: https://twitter.com/cmangano
+ ├─uid: VXNlcjo0NjI1NTM1Ng==
+ ├─fullname: Christina
+ ├─created_at: 2009-06-10 23:21:04+00:00
+ ├─image: https://pbs.twimg.com/profile_images/257886336/cmm.JPG
+ ├─is_protected: True
+ ├─follower_count: 30
+ ├─following_count: 56
+ └─favourites_count: 1
+[+] Bluesky: https://bsky.app/profile/cmangano.bsky.social
+ ├─uid: did:plc:5h3aye6ldfylwv75ckflnnfp
+ ├─username: cmangano
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:5h3aye6ldfylwv75ckflnnfp/bafkreic3pylud4kvqzyw7pecimuexigdywzdnr4bcqhevy2ofkmwh5bpuy
+ ├─created_at: 2025-04-09T14:11:32.572Z
+ ├─follower_count: 18
+ ├─following_count: 2
+ └─posts_count: 0
+[+] linktr.ee: https://linktr.ee/cmangano
+ ├─id: 93551797
+ ├─username: cmangano
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: 🌟 Creative mind on a journey. Sharing joy & inspiration! 🚀✨
+ ├─tier: free1
+ └─social_links: {'email': 'mailto:cmanganoart@gmail.com'}
+[+] Substack: https://substack.com/@cmangano
+ ├─uid: 315761087
+ ├─username: cmangano
+ ├─fullname: Cassandra Mangano
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/e6843f14-95f6-4b31-96f4-150f628fe1fd_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6843f14-95f6-4b31-96f4-150f628fe1fd_144x144.png
+[+] GitHub: https://github.com/cmangano
+ ├─uid: 57172786
+ ├─image: https://avatars.githubusercontent.com/u/57172786?v=4
+ ├─created_at: 2019-10-30T08:33:20Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Weebly: http://cmangano.weebly.com/
+[+] Myspace: https://myspace.com/cmangano
+ ├─uid: 136300918
+ └─username: cmangano
+[+] WordPressOrg: https://profiles.wordpress.org/cmangano/
+ ├─fullname: cmangano
+ ├─username: cmangano
+ ├─image: https://www.gravatar.com/avatar/0630cd5a83b95430e1143430235072fb?s=1024&r=g&d=mm
+ ├─gravatar_url: https://gravatar.com/0630cd5a83b95430e1143430235072fb
+ ├─gravatar_username: cmangano
+ └─gravatar_email_md5_hash: 0630cd5a83b95430e1143430235072fb
+[+] YouTube: https://www.youtube.com/@cmangano/about
+ ├─youtube_channel_id: UCLA73U-SBxp3o7DvkHfqbHw
+ ├─fullname: CMangano
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_knVVyISs75m2KcaM4hKoWIivP-dha-yxJPlCMRXAA=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@CMangano
+ └─is_family_safe: True
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cmangano&btnG=
+[+] Calendly: https://calendly.com/cmangano
+ ├─uid: 18363410
+ ├─fullname: Casey Mangano
+ ├─username: cmangano
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: 73ab55b3-e3e1-45ba-9fc4-23daa9a740e0
+ ├─organization_uuid: 449e78a9-3882-4bba-b384-cd1ce53d1e5e
+ └─timezone: America/New_York
+[+] SoundCloud: https://soundcloud.com/cmangano
+ ├─uid: 1536678716
+ ├─username: cmangano
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ ├─image: https://a1.sndcdn.com/images/default_avatar_large.png
+ ├─location: Arlington
+ └─country_code: US
+[+] TikTok: https://www.tiktok.com/@cmangano
+ ├─tiktok_id: 6927093165376046085
+ ├─tiktok_username: cmangano
+ ├─fullname: user6890608549951
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/697245067c766e238d42d7a9d35e68af~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=9e8dd8c8&x-expires=1792256400&x-signature=R6YF0cBW6vnVGsMFW0hbC3kfwes%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAcbMtUD60UMjp16hcwQ2fSaVE9MuW5Qa7U8qK4fsiMpSlQayQmY4EhnXW02k-qXHI
+ ├─following_count: 41
+ ├─follower_count: 14
+ ├─heart_count: 118
+ ├─video_count: 18
+ └─digg_count: 0
+[+] Snapchat: https://www.snapchat.com/add/cmangano
+ ├─username: cmangano
+ ├─bio:  is on Snapchat! (@cmangano)
+ ├─url: https://www.snapchat.com/@cmangano
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@cmangano/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=cmangano&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] MixCloud: https://www.mixcloud.com/cmangano/
+ ├─username: cmangano
+ ├─created_at: 2019-11-15T02:59:38Z
+ ├─updated_at: 2019-11-15T02:59:38Z
+ ├─image: https://thumbnailer.mixcloud.com/unsafe/640x640/defaults/users/v2/6.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─cloudcast_count: 0
+ ├─favorite_count: 0
+ ├─listen_count: 2
+ ├─is_pro: False
+ └─is_premium: False
+[+] Codepen: https://codepen.io/cmangano
+[+] Bandcamp: https://www.bandcamp.com/cmangano
+[+] Pinterest: https://www.pinterest.com/cmangano/
+ ├─uid: 278871539334512749
+ ├─username: cmangano
+ ├─fullname: Christina
+ ├─image: https://i.pinimg.com/280x280_RS/c9/14/60/c9146045cebbf83360fdd43f28813d7a.jpg
+ ├─follower_count: 261
+ ├─following_count: 273
+ ├─posts_count: 2359
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Mon, 19 Sep 2011 09:43:02 +0000
+ └─latest_activity_at: Sat, 19 Sep 2026 12:57:49 +0000
+[+] Genius: https://genius.com/cmangano
+[+] TripAdvisor: https://tripadvisor.com/members/cmangano
+[+] Paypal: https://www.paypal.com/paypalme/cmangano
+ ├─fullname: Carmela Mangano
+ ├─username: CMangano
+ ├─payerId: N8E7L9YPN6BNQ
+ ├─address: Messina, ME
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: EUR
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Duolingo: https://www.duolingo.com/profile/cmangano
+[+] Chess: https://www.chess.com/member/cmangano
+ ├─chess_user_id: 457018542
+ ├─username: cmangano
+ ├─country_code: US
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2025-06-06 01:42:40 UTC
+ └─latest_activity_at: 2025-06-07 01:06:52 UTC
+[+] Wattpad: https://www.wattpad.com/user/cmangano
+[+] Twitch: https://twitchtracker.com/cmangano
+ ├─twitch_channel_id: 461980611
+ ├─twitch_username: cmangano
+ └─created_at: 2019-09-12 17:15:03
+[+] Gog: https://www.gog.com/u/cmangano
+[+] LibraryThing: https://www.librarything.com/profile/cmangano
+[+] Academia.edu: https://independent.academia.edu/cmangano
+[+] Untappd: https://untappd.com/user/cmangano
+[+] Lichess: https://lichess.org/@/cmangano
+[+] Picsart: https://picsart.com/u/cmangano
+ ├─picsart_id: 416491978049101
+ ├─picsart_username: cmangano
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Freesound: https://freesound.org/people/cmangano/
+[+] MyMiniFactory: https://www.myminifactory.com/users/cmangano
+[+] VSCO: https://vsco.co/cmangano
+[+] Venmo: https://venmo.com/cmangano
+[+] Smule: https://www.smule.com/cmangano
+[+] Memrise: https://www.memrise.com/user/cmangano/
+[+] fixya: https://www.fixya.com/users/cmangano
+[+] joyreactor.cc: https://joyreactor.cc/user/cmangano
+[+] Revolut.me: https://revolut.me/cmangano
+ └─fullname: Cesare M
+[+] Pling: https://www.pling.com/u/cmangano/
+[+] GitHubGist [GitHub]: https://gist.github.com/cmangano
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for cmangano saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_cmangano_simple.json
+[*] Short text report:
+Search by username cmangano returned 41 accounts.
+Found target's other IDs: CMangano.
+Extended info extracted from 19 accounts.
+Countries: us, in, nl, ru
+Interests (tags): social, apps, music, sharing, art, coding, design, business, streaming, gaming, messaging, photo, finance, fintech, education, hobby, blog, writing, networking, video, forum, reading, links, discussion, review, travel, books, research, geosocial, archive, 3d, shopping, tech

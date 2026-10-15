@@ -1,0 +1,154 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username chrismangano on:
+[+] Giphy: https://giphy.com/channel/chrismangano
+[+] Substack: https://substack.com/@chrismangano
+ ├─uid: 183558122
+ ├─username: chrismangano
+ └─fullname: Chris Mangano
+[+] Twitter: https://twitter.com/chrismangano
+ ├─uid: VXNlcjozOTUwOTMwMzM=
+ ├─fullname: Chris Mangano
+ ├─bio: Co-creator of Fantasy Endgame on @YouTube.
+ ├─created_at: 2011-10-21 03:38:34+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1343618524502081537/vFSx3VDx.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/395093033/1690587041
+ ├─is_protected: False
+ ├─follower_count: 4329
+ ├─following_count: 384
+ ├─location: United States
+ ├─favourites_count: 20624
+ └─links: 
+   └─ https://youtube.com/c/FantasyFootballEndgame
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=chrismangano&btnG=
+[+] Disqus: https://disqus.com/chrismangano
+ ├─id: 63963488
+ ├─fullname: Chris Mangano
+ ├─disqus_username: chrismangano
+ ├─reputation: 1.232124
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-07-24T13:26:15
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/chrismangano.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Myspace: https://myspace.com/chrismangano
+ ├─uid: 137111512
+ └─username: chrismangano
+[+] Calendly: https://calendly.com/chrismangano
+ ├─uid: 4658359
+ ├─fullname: Chris Mangano
+ ├─username: chrismangano
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: AFGHIHJITP3IHGIM
+ ├─organization_uuid: GFAAKFMMRQ7TSLCE
+ └─timezone: America/Los_Angeles
+[+] WordPressOrg: https://profiles.wordpress.org/chrismangano/
+ ├─fullname: chrismangano
+ ├─username: chrismangano
+ ├─image: https://www.gravatar.com/avatar/ff207795085dc68c6558da0e86568ced?s=1024&r=g&d=mm
+ ├─gravatar_url: https://gravatar.com/ff207795085dc68c6558da0e86568ced
+ ├─gravatar_username: chrismangano
+ └─gravatar_email_md5_hash: ff207795085dc68c6558da0e86568ced
+[+] Snapchat: https://www.snapchat.com/add/chrismangano
+ ├─username: chrismangano
+ ├─fullname: Chris Mangano
+ ├─bio: Chris Mangano is on Snapchat! (@chrismangano)
+ ├─url: https://www.snapchat.com/@chrismangano
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@chrismangano/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=chrismangano&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] YouTube: https://www.youtube.com/@chrismangano/about
+ ├─youtube_channel_id: UCSTSsALcRovDSHSwB6rHJtQ
+ ├─fullname: Chris Mangano
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nAl4EIfFCLEDwueKIVzO4ZFzXuN3sgAyZnFunO_b6OTmc=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@ChrisMangano
+ ├─keywords: "Weight loss" "lose weight" "burn fat" "fat burn" "fat burning workouts" "exercise at home" "bodyweight workouts" "nutrition advice" "diet advice" nutrition diet
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@chrismangano
+ ├─tiktok_id: 7557502838001091605
+ ├─tiktok_username: chrismangano
+ ├─fullname: Chris
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/dd7a6eba2de3e32300e095c60ee4e4af~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=0d00adc8&x-expires=1792256400&x-signature=Ll%2FHc0GtW978pX2v8BmW61Ow7Lo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAEZnSN3mpH552ZsJ5XfGCsbmmXb0C3BIdr2OLYaavBhrOX23BfPy2WaDIvGoUevfM
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Paypal: https://www.paypal.com/paypalme/chrismangano
+ ├─fullname: Chris Mangano
+ ├─username: ChrisMangano
+ ├─payerId: X86LUBM8KDVEW
+ ├─address: Waxhaw, NC
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/p/NTcyMGFiODMtZjlkYS00OGYwLTg5YzktN2FjZjkzZGZkMTkx/image_58.jpg
+[+] Chess: https://www.chess.com/member/chrismangano
+ ├─chess_user_id: 6634246
+ ├─username: chrismangano
+ ├─country_code: US
+ ├─follower_count: 35
+ ├─status: premium
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2012-02-08 00:25:05 UTC
+ └─latest_activity_at: 2026-10-15 17:03:13 UTC
+[+] Duolingo: https://www.duolingo.com/profile/chrismangano
+[+] Untappd: https://untappd.com/user/chrismangano
+[+] Letterboxd: https://letterboxd.com/chrismangano
+[+] Wattpad: https://www.wattpad.com/user/chrismangano
+[+] Freesound: https://freesound.org/people/chrismangano/
+[+] Picsart: https://picsart.com/u/chrismangano
+ ├─picsart_id: 508348698008101
+ ├─picsart_username: chrismangano
+ ├─fullname: Chris Mangano
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Clubhouse: https://www.clubhouse.com/@chrismangano
+[+] Periscope: https://www.pscp.tv/chrismangano
+ ├─id: 1raQZDPxqbpjz
+ ├─created_at: 2016-08-08T01:05:49.651401092Z
+ ├─periscope_username: ChrisMangano
+ ├─fullname: Chris Mangano
+ ├─bio: Co-creator of Fantasy Endgame on @YouTube.
+ ├─follower_count: 4329
+ ├─following_count: 384
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ ├─is_twitter_verified: False
+ ├─twitter_uid: 395093033
+ ├─twitter_screen_name: ChrisMangano
+ └─image: https://pbs.twimg.com/profile_images/1343618524502081537/vFSx3VDx_reasonably_small.jpg
+[+] fixya: https://www.fixya.com/users/chrismangano
+[+] Smule: https://www.smule.com/chrismangano
+[+] joyreactor.cc: https://joyreactor.cc/user/chrismangano
+[+] Pling: https://www.pling.com/u/chrismangano/
+[+] Academia.edu: https://independent.academia.edu/chrismangano
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for chrismangano saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_chrismangano_simple.json
+[*] Short text report:
+Search by username chrismangano returned 25 accounts.
+Found target's other IDs: ChrisMangano.
+Extended info extracted from 13 accounts.
+Countries: us, in, nl, ru
+Interests (tags): social, apps, art, video, sharing, networking, music, blog, writing, messaging, discussion, business, coding, streaming, forum, hobby, education, design, finance, fintech, gaming, geosocial, movies, review, reading, archive, photo, tech, research

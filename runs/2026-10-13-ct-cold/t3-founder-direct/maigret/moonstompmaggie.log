@@ -1,0 +1,57 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username moonstompmaggie on:
+[+] Snapchat: https://www.snapchat.com/add/moonstompmaggie
+ ├─username: moonstompmaggie
+ ├─fullname: Maggie!
+ ├─bio: Maggie! is on Snapchat! (@moonstompmaggie)
+ ├─url: https://www.snapchat.com/@moonstompmaggie
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@moonstompmaggie/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=moonstompmaggie&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Twitter: https://twitter.com/moonstompmaggie
+ ├─uid: VXNlcjoxMzE1NjIxMDUzNDgyMjcwNzI1
+ ├─fullname: Maggie Winters Gaudaen
+ ├─bio: The former internet home of @maggiewinters_
+ ├─created_at: 2020-10-12 11:52:29+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1315621428662865920/Ef44ABf5.jpg
+ ├─is_protected: False
+ ├─follower_count: 4
+ ├─following_count: 0
+ └─favourites_count: 0
+[+] YouTube: https://www.youtube.com/@moonstompmaggie/about
+ ├─youtube_channel_id: UCRhibAe2boURZb3XvNeI2lw
+ ├─fullname: moonstompmaggie
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_l0FV0Y0w6Ur09YWnMjBBaPtOLSfwtqEiZySRPEgss=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@moonstompmaggie
+ └─is_family_safe: True
+[+] Dribbble: https://dribbble.com/moonstompmaggie
+[+] 500px: https://500px.com/p/moonstompmaggie
+ ├─uid: 5842772
+ ├─username: moonstompmaggie
+ ├─fullname: Maggie Gaudaen
+ ├─bio: co-founder at Pop! Wed Co., design at iStrategyLabs, constantly searching for treats.
+ ├─city: DC
+ ├─created_at: 2013-12-16T22:20:42.000+00:00
+ ├─website: popwed.co
+ ├─twitter_username: moonstompmaggie
+ └─facebook_username: facebook.com/popwedco
+[+] ProductHunt: https://www.producthunt.com/@moonstompmaggie
+[+] VSCO: https://vsco.co/moonstompmaggie
+[+] fixya: https://www.fixya.com/users/moonstompmaggie
+[+] Periscope: https://www.pscp.tv/moonstompmaggie
+[+] joyreactor.cc: https://joyreactor.cc/user/moonstompmaggie
+[+] Pling: https://www.pling.com/u/moonstompmaggie/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.14%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for moonstompmaggie saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_moonstompmaggie_simple.json
+[*] Short text report:
+Search by username moonstompmaggie returned 11 accounts.
+Extended info extracted from 4 accounts.
+Countries: nl, ru
+Interests (tags): social, art, apps, messaging, streaming, video, business, design, photo, tech, professional, forum, coding

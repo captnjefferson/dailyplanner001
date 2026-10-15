@@ -1,0 +1,272 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username rflanagan on:
+[+] Myspace: https://myspace.com/rflanagan
+ ├─uid: 128239485
+ └─username: rflanagan
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rflanagan&btnG=
+[+] Bluesky: https://bsky.app/profile/rflanagan.bsky.social
+ ├─uid: did:plc:bq7xtm7vwrld36uqxkyakoqi
+ ├─username: rflanagan
+ ├─fullname: Richard Flanagan
+ ├─bio: Professor of Political Science, The College of Staten Island, City University of New York
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:bq7xtm7vwrld36uqxkyakoqi/bafkreicgcrj2bdtvs3snuhn45dj647awtkf7b3x4ifmyvnub5evjygyaru
+ ├─image_bg: https://cdn.bsky.app/img/banner/plain/did:plc:bq7xtm7vwrld36uqxkyakoqi/bafkreiatnkita3ytjs7hffpymx2hmnjo4hqfhdjpknscd7dcmybkwbg7j4
+ ├─created_at: 2024-11-12T14:10:19.818Z
+ ├─follower_count: 152
+ ├─following_count: 763
+ └─posts_count: 82
+[+] Medium: https://medium.com/@rflanagan
+ ├─fullname: Grace ivy
+ ├─username: rflanagan
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/1*Y3ZUGa5rmkpHh79HA8hryw@2x.jpeg
+ └─latest_activity_at: 2026-10-15 17:40:33 UTC
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:rflanagan
+ ├─uid: 12731496
+ └─username: Rflanagan
+[+] Telegram: https://t.me/rflanagan
+ └─fullname: Robert Flanagan
+[+] Twitter: https://twitter.com/rflanagan
+ ├─uid: VXNlcjoxNTQzMjc0OQ==
+ ├─fullname: Rebecca Flanagan
+ ├─bio: Today I am thankful for . . .
+ ├─created_at: 2008-07-14 21:41:31+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1380199851091095554/4QYbGL7I.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/15432749/1617900263
+ ├─is_protected: False
+ ├─follower_count: 41
+ ├─following_count: 146
+ ├─location: Portland, Oregon
+ └─favourites_count: 134
+[+] Tumblr: https://www.tumblr.com/rflanagan
+[+] GitHub: https://github.com/rflanagan
+ ├─uid: 665244
+ ├─image: https://avatars.githubusercontent.com/u/665244?v=4
+ ├─created_at: 2011-03-12T04:19:07Z
+ ├─follower_count: 1
+ ├─following_count: 1
+ ├─public_gists_count: 0
+ └─public_repos_count: 3
+[+] Trello: https://trello.com/rflanagan
+ ├─id: 5e1846e507ff88846443305e
+ ├─username: rflanagan
+ ├─fullname: rflanagan
+ ├─type: ghost
+ └─is_verified: False
+[+] Imgur: https://imgur.com/user/rflanagan
+ ├─id: 94529005
+ ├─imgur_username: rflanagan
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/vaTS6Ve_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/rflanagan/avatar
+ └─created_at: 2018-09-20T10:15:19Z
+[+] linktr.ee: https://linktr.ee/rflanagan
+ ├─id: 113667776
+ ├─username: rflanagan
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: ACR Health Linkage Specialist
+ ├─tier: free1
+ └─links: 
+   └─ https://www.facebook.com/Ron geedahk
+[+] GitLab: https://gitlab.com/rflanagan
+ ├─uid: 4397889
+ ├─fullname: Ryan Flanagan
+ ├─username: rflanagan
+ ├─state: active
+ ├─image: https://secure.gravatar.com/avatar/49b0f4907f6e9126da2cc23dc9ce02e1c57ed63586ee51cac178d71fce013c6f?s=80&d=identicon
+ ├─website: https://gitlab.com/rflanagan
+ ├─gravatar_url: https://gravatar.com/49b0f4907f6e9126da2cc23dc9ce02e1
+ ├─gravatar_username: rflanagan
+ └─gravatar_email_md5_hash: 49b0f4907f6e9126da2cc23dc9ce02e1
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=rflanagan
+ ├─uid: 13924566
+ ├─account_id: 19070233
+ ├─username: RFlanagan82
+ ├─image: https://i.sstatic.net/YIBYm.jpg?s=256
+ ├─reputation: 11
+ ├─link: https://stackoverflow.com/users/13924566/rflanagan82
+ └─created_at: 1594665113
+[+] Snapchat: https://www.snapchat.com/add/rflanagan
+ ├─username: rflanagan
+ ├─fullname: Riley Flanagan
+ ├─bio: Riley Flanagan is on Snapchat! (@rflanagan)
+ ├─url: https://www.snapchat.com/@rflanagan
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@rflanagan/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=rflanagan&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] ThemeForest: https://themeforest.net/user/rflanagan
+[+] SlideShare: https://www.slideshare.net/rflanagan
+ ├─uid: 24702743
+ ├─fullname: Thai Children's Trust
+ ├─username: rflanagan
+ ├─image: https://public.slidesharecdn.com/v2/images/profile-picture.png
+ ├─slideshow_count: 3
+ ├─follower_count: 2
+ ├─following_count: 0
+ ├─city: London
+ ├─country: United Kingdom
+ ├─organization: Thai Children's Trust
+ ├─website: http://www.thaichildrenstrust.org.uk/
+ ├─is_suspended: False
+ └─is_organization: True
+[+] Giphy: https://giphy.com/channel/rflanagan
+[+] Calendly: https://calendly.com/rflanagan
+ ├─uid: 3662662
+ ├─fullname: Robert Flanagan
+ ├─username: rflanagan
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: EFGHFZNUU6ETUZRC
+ ├─organization_uuid: HEEAH2PQZHGBJ4FG
+ └─timezone: America/Phoenix
+[+] OpenStreetMap: https://www.openstreetmap.org/user/rflanagan
+[+] SoundCloud: https://soundcloud.com/rflanagan
+ ├─uid: 10873110
+ ├─name: roger flanagan
+ ├─username: rflanagan
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ ├─image: https://a1.sndcdn.com/images/default_avatar_large.png
+ ├─location: Fredericton
+ └─country_code: CA
+[+] TikTok: https://www.tiktok.com/@rflanagan
+ ├─tiktok_id: 6795688904202044417
+ ├─tiktok_username: rflanagan
+ ├─fullname: user1740143699199
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7333281820773416965~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=82bb2e4f&x-expires=1792256400&x-signature=4%2FNpKJKxm6jWUlvZkNW%2FaZokefY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA9q-VwL6_Ydh2Gpv80VmoHOJSGYsliVeq8svbGQAEZdyshs7ul-_XKyIpUBzs3YOy
+ ├─following_count: 14
+ ├─follower_count: 9
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Flickr: https://www.flickr.com/photos/rflanagan
+[+] OP.GG LoL North America: https://op.gg/lol/summoners/search?q=rflanagan&region=na
+[+] Behance: https://www.behance.net/rflanagan
+ ├─uid: 593751
+ ├─username: rflanagan
+ ├─fullname: Rose Maffucci Flanagan
+ ├─website: https://www.behance.net/roseflanagan
+ ├─image: https://pps.services.adobe.com/api/profile/9B3F7D445361C1E40A490D4D@AdobeID/image/f5598f4c-02d0-4cb4-b1c1-1a9f58689350/276
+ ├─company: Rose Flanagan
+ ├─location: Maplewood, NJ, USA
+ ├─created_at: 2011-08-18 00:47:49 UTC
+ ├─occupation: artist, teacher, jewelry designer
+ ├─follower_count: 2
+ ├─following_count: 0
+ ├─views_count: 802
+ └─appreciations: 20
+[+] HuggingFace: https://huggingface.co/rflanagan
+[+] Instructables: https://www.instructables.com/member/rflanagan
+[+] Codepen: https://codepen.io/rflanagan
+[+] Weebly: http://rflanagan.weebly.com/
+[+] Duolingo: https://www.duolingo.com/profile/rflanagan
+ ├─uid: 20381264
+ ├─username: rflanagan
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-01-01 22:34:47 UTC
+ ├─url: https://www.duolingo.com/profile/rflanagan
+ ├─streak: 0
+ ├─totalXp: 175
+ ├─learningLanguage: fr
+ └─fromLanguage: en
+[+] Codecanyon: https://codecanyon.net/user/rflanagan
+[+] Keybase: https://keybase.io/rflanagan
+ ├─uid: 468cf87ec0b8d40c7ad1df22f3576919
+ └─username: rflanagan
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=rflanagan&compact=true
+ ├─id: 3868164
+ ├─nickname: rflanagan
+ ├─username: rflanagan
+ ├─fullname: rflanagan
+ ├─role: employer
+ └─created_at: 2009-07-08 13:51:19 UTC
+[+] last.fm: https://last.fm/user/rflanagan
+ ├─fullname: rflanagan
+ ├─bio: • scrobbling since 17 Feb 2010
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/818148bf682d429dc215c1705eb27b98.png
+ └─created_at: 2010
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=rflanagan
+[+] Chess: https://www.chess.com/member/rflanagan
+ ├─chess_user_id: 65304726
+ ├─username: rflanagan
+ ├─fullname: Riley Flanagan
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/65304726.b44fc338.200x200o.a97e67edd459.gif
+ ├─country_code: US
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2019-09-09 14:54:25 UTC
+ └─latest_activity_at: 2019-09-09 07:54:25 UTC
+[+] Codecademy: https://www.codecademy.com/profiles/rflanagan
+[+] TripAdvisor: https://tripadvisor.com/members/rflanagan
+[+] LinkedIn: https://linkedin.com/in/rflanagan
+[+] LibraryThing: https://www.librarything.com/profile/rflanagan
+[+] Paypal: https://www.paypal.com/paypalme/rflanagan
+ ├─fullname: Turn Upside Repairs
+ ├─alternative_fullname: Turn Upside Repairs
+ ├─username: RFlanagan
+ ├─payerId: 6S2Y4J8NSTN98
+ ├─address: Gray Court, SC
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Geocaching: https://www.geocaching.com/p/?u=rflanagan
+[+] Twitch: https://twitchtracker.com/rflanagan
+ ├─twitch_channel_id: 519369384
+ ├─twitch_username: rflanagan
+ └─created_at: 2020-04-23 20:34:00
+[+] Gog: https://www.gog.com/u/rflanagan
+[+] iNaturalist: https://www.inaturalist.org/people/rflanagan
+[+] Flipboard: https://flipboard.com/@rflanagan
+[+] Lichess: https://lichess.org/@/rflanagan
+[+] Discogs: https://www.discogs.com/user/rflanagan
+[+] Wattpad: https://www.wattpad.com/user/rflanagan
+[+] Letterboxd: https://letterboxd.com/rflanagan
+[+] Untappd: https://untappd.com/user/rflanagan
+[+] Audiojungle: https://audiojungle.net/user/rflanagan
+[+] Periscope: https://www.pscp.tv/rflanagan
+ ├─id: 12212767
+ ├─created_at: 2015-08-22T02:07:37.512333189Z
+ ├─periscope_username: rflanagan
+ ├─fullname: Robert
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ └─is_twitter_verified: False
+[+] Clubhouse: https://www.clubhouse.com/@rflanagan
+[+] VideoHive: https://videohive.net/user/rflanagan
+[+] Warrior Forum: https://www.warriorforum.com/members/rflanagan.html
+[+] VSCO: https://vsco.co/rflanagan
+[+] Venmo: https://venmo.com/rflanagan
+[+] Depop: https://www.depop.com/rflanagan
+[+] Windy: https://community.windy.com/user/rflanagan
+[+] Smule: https://www.smule.com/rflanagan
+[+] fixya: https://www.fixya.com/users/rflanagan
+[+] Memrise: https://www.memrise.com/user/rflanagan/
+[+] Androidforums: https://androidforums.com/members/?username=rflanagan
+[+] joyreactor.cc: https://joyreactor.cc/user/rflanagan
+[+] Pling: https://www.pling.com/u/rflanagan/
+[+] GitHubGist [GitHub]: https://gist.github.com/rflanagan
+[!] Too many errors of type "Bot protection" (9.43%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.14%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for rflanagan saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_rflanagan_simple.json
+[*] Short text report:
+Search by username rflanagan returned 65 accounts.
+Found target's other IDs: Rflanagan, RFlanagan.
+Extended info extracted from 25 accounts.
+Countries: us, gb, nl, ru
+Interests (tags): social, business, apps, coding, sharing, art, music, education, tech, design, hobby, messaging, gaming, networking, shopping, video, streaming, forum, photo, blog, discussion, writing, geosocial, maps, archive, review, reading, finance, fintech, wiki, tasks, links, documents, llm, crypto, freelance, bookmarks, research, travel, professional, books, science, news, movies, stock, fashion

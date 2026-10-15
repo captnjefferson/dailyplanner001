@@ -1,0 +1,126 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username hatchingtime on:
+[+] Twitter: https://twitter.com/hatchingtime
+ ├─uid: VXNlcjoxMTI2NTU4MDMzMDU4ODU2OTYw
+ ├─fullname: Hatching Time
+ ├─bio: Hatching Time is an industry leader in professional hatching solutions for the poultry industry: incubators, brooders, breeding cages, feather pluckers, & more.
+ ├─created_at: 2019-05-09 18:42:20+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1126558168526598145/A319SCQD.png
+ ├─image_bg: https://pbs.twimg.com/profile_banners/1126558033058856960/1613414534
+ ├─is_protected: False
+ ├─follower_count: 90
+ ├─following_count: 171
+ ├─location: Newark, DE
+ ├─favourites_count: 22
+ └─links: 
+   └─ http://www.hatchingtime.com
+[+] linktr.ee: https://linktr.ee/hatchingtime
+ ├─id: 100678055
+ ├─username: hatchingtime
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: The most hygienic poultry equipment on the market. Looking to raise happy hea...
+ ├─tier: free1
+ ├─social_links: {'facebook': 'https://www.facebook.com/hatchingtime', 'instagram': 'https://instagram.com/hatchingtime', 'tiktok': 'https://tiktok.com/@hatchingtime', 'youtube': 'https://www.youtube.com/@hatchingtime', 'linkedin': 'https://www.linkedin.com/company/hatching-time', 'pinterest': 'https://www.pinterest.com/hatchingtime', 'amazon': 'https://www.amazon.com/hatchingtime', 'snapchat': 'https://www.snapchat.com/add/hatchingtime', 'phone': 'tel:+18005111369'}
+ └─links: 
+   ├─ https://hatchingtime.com/collections/sale?page=2&srsltid=AU7gw4XMytMh7VY6sqBPnyCeCXKNvjIzQoJ2YoRxwb54Vbyd6QPYa9HF
+   ├─ https://hatchingtime.com/blogs/home/how-to-transport-chickens-safely-by-car-or-long-distance
+   ├─ https://hatchingtime.com/blogs/home/fine-tuning-chicken-egg-incubation-by-breed-egg-size-and-shell-characteristics
+   ├─ https://www.ststrk1.com/8XFSC8/9HSXKF/?sub1=
+   ├─ https://hatchingtime.com/blogs/corporate/introducing-oldfield-pets
+   ├─ https://hatchingtime.com/blogs/home/silverudd-blue-chickens-breeding-traits-and-faults
+   ├─ https://hatchingtime.com/collections/flockright-chicken-coops
+   ├─ https://hatchingtime.com/blogs/home/urban-farm-chicken-coop-special-education-success
+   ├─ https://hatchingtime.com/blogs/home/egg-candling-guide
+   ├─ https://hatchingtime.com/pages/financing
+   ├─ https://hatchingtime.com/collections/new-product-launches
+   ├─ 
+   ├─ https://hatchingtime.com/collections/all
+   ├─ https://hatchingtime.com/collections/mealworm-kits
+   ├─ https://hatchingtime.com/pages/wholesale
+   └─ https://hatchingtime.com/pages/influencer-affiliate-program
+[+] Blogger: https://hatchingtime.blogspot.com
+[+] Facebook: https://www.facebook.com/hatchingtime
+ ├─uid: 100063900764533
+ ├─username: hatchingtime
+ ├─fullname: Hatching Time | New Castle DE
+ ├─description: Hatching Time, New Castle. 43,242 followers · 107 talking about this. Innovative Chick & Game Bird Equipment for Poultry Keepers, Hobbyists, Homesteaders, Farmers and Hatcheries.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/309443699_2015900901940576_4975769757954538573_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=sGMEdyrJddQQ7kNvwH-x5Y1&_nc_oc=Adq-yCjm-cDotdHhLbZrkZIe-5-nk7PDYu49HSTW0ZBacI8sYzJBtfLkgCJ0NWqca31lHw_fgjgcw4YX6VuwSFxe&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=6lDmMy8KxxaHLkOEOwvEyw&_nc_ss=7020f&oh=00_AQO6PIGQaCbhD4awHPJOl2yvLAW7wKCzef8rJIOyE_0w8A&oe=6AD6EC18
+[+] Calendly: https://calendly.com/hatchingtime
+ ├─uid: 7506352
+ ├─fullname: Hatching Time
+ ├─username: hatchingtime
+ ├─bio: Welcome to our interview scheduling page. Please follow the instructions to add an event to the calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/7360815/714934c1.png
+ ├─owner_uuid: AAGAP3CHKPDIDX5Z
+ ├─organization_uuid: GEABRIYOJGEIGY5E
+ └─timezone: America/New_York
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=hatchingtime&btnG=
+[+] YouTube: https://www.youtube.com/@hatchingtime/about
+ ├─youtube_channel_id: UCUH3uJtutpYyPa31eea-AoA
+ ├─fullname: Hatching Time
+ ├─bio: The most hygienic poultry equipment on the market. Looking to raise happy healthy birds? From incubation to processing, Hatching Time offers everything you will need for your quail, chicken, partridge, turkey, duck, pheasant, geese or other birds.
+Hatching Time's selection of egg incubators, cages and brooders are easy to stack, power-wash and clean. The housing systems are constructed from patented plastic materials designed to be strong yet flexible to provide the cleanest, longest-lasting, automatic caging system on the market.
+ ├─image: https://yt3.googleusercontent.com/U68Z952oyViNsDXPVO7QlVxTvzFbZkmSeGDLsdG3RugX4iOeh5MuvsFrtewYqB9bZvyk7mOB458=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@HatchingTime
+ ├─keywords: "Quail Cages" "Hatching Time" "Chicken Cages" "Partridge Cages" Incubators "Chick Brooders" "quail brooder" "chick incubator" "egg incubator" "hatching time brooder" "hatching time quail cage" "feather plucker" "plucking machine" quail chickens partridge
+ └─is_family_safe: True
+[+] Snapchat: https://www.snapchat.com/add/hatchingtime
+ ├─bio: Hatching Time is on Snapchat! (@hatchingtime) | Innovative Poultry Equipment | Newark, Delaware, United States | Last updated: 06/13/2026
+ ├─url: https://www.snapchat.com/@hatchingtime
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@hatchingtime/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[+] TikTok: https://www.tiktok.com/@hatchingtime
+ ├─tiktok_id: 6912584839020905478
+ ├─tiktok_username: hatchingtime
+ ├─fullname: Hatching Time
+ ├─bio: 🥚 Innovative Poultry Equipment 🥚
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/5bec4c393b4db85f0495967c4c997a4b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=0a3c6dcb&x-expires=1792256400&x-signature=rZfRDeQut0kt0wy2kUCkl1GcW%2BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA5RnrZE7ifH2vDR4Bg5ZIKhChx1r4EEYBOjRruHNq8Ftdcqjf1kJKJBLg7qvI3klV
+ ├─following_count: 836
+ ├─follower_count: 2716
+ ├─heart_count: 9391
+ ├─video_count: 485
+ └─digg_count: 1025
+[+] Pinterest: https://www.pinterest.com/hatchingtime/
+ ├─uid: 596797525529409450
+ ├─username: hatchingtime
+ ├─fullname: Hatching Time
+ ├─bio: Hatching Time offers the most technologically advanced and easy to clean poultry raising equipment.
+ ├─image: https://i.pinimg.com/280x280_RS/db/28/d0/db28d051cc9a5ce4f82ce43b8dae5cdf.jpg
+ ├─website: http://www.hatchingtime.com
+ ├─follower_count: 335
+ ├─following_count: 20
+ ├─posts_count: 21771
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: True
+ ├─is_verified_merchant: True
+ ├─is_website_verified: True
+ ├─created_at: Thu, 27 Feb 2020 23:10:54 +0000
+ └─latest_activity_at: Sat, 26 Sep 2026 14:57:01 +0000
+[+] Threads: https://www.threads.com/@hatchingtime
+ ├─fullname: Hatching Time
+ ├─username: hatchingtime
+ ├─follower_count: 665
+ ├─posts_count: 21
+ └─bio: The most sanitary and effective poultry equipment
+[+] fixya: https://www.fixya.com/users/hatchingtime
+[+] joyreactor.cc: https://joyreactor.cc/user/hatchingtime
+[+] Pling: https://www.pling.com/u/hatchingtime/
+[!] Too many errors of type "Bot protection" (9.23%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.34%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for hatchingtime saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_hatchingtime_simple.json
+[*] Short text report:
+Search by username hatchingtime returned 13 accounts.
+Extended info extracted from 9 accounts.
+Countries: us, nl, ru
+Interests (tags): social, art, messaging, sharing, video, apps, design, links, blog, business, streaming, photo, forum, tech, coding
