@@ -1,0 +1,44 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username kirstenyurich on:
+[+] Medium: https://medium.com/@kirstenyurich
+ ├─fullname: Kirsten Yurich
+ ├─username: kirstenyurich
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*1VuWpwM5r1unL4g8
+ └─latest_activity_at: 2026-10-18 19:08:23 UTC
+[+] Calendly: https://calendly.com/kirstenyurich
+ ├─uid: 31523015
+ ├─fullname: Kirsten Yurich
+ ├─username: kirstenyurich
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add a conversation to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/31191202/31cdf6a4.jpg
+ ├─owner_uuid: cb97679e-bd46-48f7-9153-fd35318a93bc
+ ├─organization_uuid: 5e08f0f9-7f80-4bf5-9984-eddcd5951374
+ └─timezone: America/New_York
+[+] Trello: https://trello.com/kirstenyurich
+ ├─id: 5c6d2f100d84ed3915a7cbce
+ ├─username: kirstenyurich
+ ├─fullname: Kirsten Yurich
+ ├─type: ghost
+ └─is_verified: False
+[+] Substack: https://substack.com/@kirstenyurich
+ ├─uid: 125114821
+ ├─username: kirstenyurich
+ └─fullname: Kirsten Yurich
+[+] Flipboard: https://flipboard.com/@kirstenyurich
+[+] Upwork: https://upwork.com/fl/kirstenyurich
+[+] fixya: https://www.fixya.com/users/kirstenyurich
+[+] Pling: https://www.pling.com/u/kirstenyurich/
+[+] joyreactor.cc: https://joyreactor.cc/user/kirstenyurich
+[!] Too many errors of type "Bot protection" (8.06%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for kirstenyurich saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_kirstenyurich_simple.json
+[*] Short text report:
+Search by username kirstenyurich returned 9 accounts.
+Extended info extracted from 4 accounts.
+Countries: us, nl, ru
+Interests (tags): business, blog, writing, apps, social, tech, art, discussion, tasks, news, sharing, freelance, networking, forum, coding, design

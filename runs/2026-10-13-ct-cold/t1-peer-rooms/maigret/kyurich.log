@@ -1,0 +1,148 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username kyurich on:
+[+] YouTube: https://www.youtube.com/@kyurich/about
+ ├─youtube_channel_id: UCv38pEBdlfvHX6Ai_b-45sg
+ ├─fullname: Kate_X.X
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lDKpnN6pSw27KJ9CJ2CK_T_I2zmjqfKq2gUmQo2qI=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@KyuriCH
+ └─is_family_safe: True
+[+] GitHub: https://github.com/kyurich
+ ├─uid: 25777514
+ ├─image: https://avatars.githubusercontent.com/u/25777514?v=4
+ ├─created_at: 2017-02-14T19:08:05Z
+ ├─follower_count: 1
+ ├─following_count: 3
+ ├─fullname: Kirill
+ ├─public_gists_count: 0
+ └─public_repos_count: 10
+[+] Twitter: https://twitter.com/kyurich
+ ├─uid: VXNlcjo1NzA3MTU0NTQ=
+ ├─fullname: かんちゃん
+ ├─created_at: 2012-05-04 10:28:10+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 0
+ ├─following_count: 0
+ └─favourites_count: 0
+[+] Facebook: https://www.facebook.com/kyurich
+ ├─uid: 100005877993730
+ ├─username: kyurich
+ ├─fullname: Kim  Klimenko
+ ├─description: Kim  Klimenko is on Facebook. Join Facebook to connect with Kim  Klimenko and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/417405673_2408668122672431_6330720243986274540_n.jpg?stp=dst-jpg_tt6&cstp=mx522x348&ctp=s522x348&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=wTXKHbeC64wQ7kNvwG2Hj3L&_nc_oc=AdoV4zLTg3dJtrnPmuAfMWBLTfqZff1Y-6XLnm_o-Xp1-tzUjThP-6m_LYgCThh6Zj08UFCbIZxTsGWgK1JcwT-l&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=KpXLmTMQBGHHRD2u5HDF2w&_nc_ss=7020f&oh=00_AQNMOMngPSsJ_HSzpsrP2WReIWpd-K2ColBl_262vBBkPg&oe=6ADAFA55
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=kyurich
+ ├─uid: 16862249
+ ├─account_id: 22693724
+ ├─username: rickyurich0226
+ ├─image: https://www.gravatar.com/avatar/cb26d97bbb9601ee345ce01aee7b2e32?s=256&d=identicon&r=PG&f=y&so-version=2
+ ├─reputation: 1
+ ├─link: https://stackoverflow.com/users/16862249/rickyurich0226
+ ├─created_at: 1631116190
+ ├─gravatar_url: https://gravatar.com/cb26d97bbb9601ee345ce01aee7b2e32
+ ├─gravatar_username: rickyurich0226
+ └─gravatar_email_md5_hash: cb26d97bbb9601ee345ce01aee7b2e32
+[+] Snapchat: https://www.snapchat.com/add/kyurich
+ ├─username: kyurich
+ ├─fullname: steve Yurich
+ ├─bio: steve Yurich is on Snapchat! (@kyurich)
+ ├─url: https://www.snapchat.com/@kyurich
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@kyurich/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=kyurich&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Naver: https://blog.naver.com/kyurich
+[+] Pinterest: https://www.pinterest.com/kyurich/
+ ├─uid: 122652927260101826
+ ├─username: kyurich
+ ├─fullname: Kirsten Yurich
+ ├─image: https://i.pinimg.com/280x280_RS/2f/0d/53/2f0d53e8b6c46c68d7ffeb11fc8960b9.jpg
+ ├─follower_count: 42
+ ├─following_count: 9
+ ├─posts_count: 775
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sat, 25 Feb 2012 01:28:05 +0000
+ └─latest_activity_at: Tue, 23 Jun 2026 22:03:37 +0000
+[+] VK: https://vk.com/kyurich
+[+] Paypal: https://www.paypal.com/paypalme/kyurich
+ ├─fullname: Kyu
+ ├─alternative_fullname: Kyu
+ ├─username: KyuRich
+ ├─payerId: 7RV9S7WA8L7R4
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: AUD
+ └─image: https://pics.paypal.com/00/s/MjAwWDIwMFhQTkc/p/OGM3NGM1NTQtMWQ2NC00NTdhLWI0ZjMtYWVjYzY5ZWQ5OWM3/image_58.jpg
+[+] Twitch: https://twitchtracker.com/kyurich
+ ├─twitch_channel_id: 470824586
+ ├─twitch_username: kyurich
+ └─created_at: 2019-11-04 02:47:58
+[+] linktr.ee: https://linktr.ee/kyurich
+ ├─id: 61884160
+ ├─username: kyurich
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: Art Director
+ ├─tier: free1
+ ├─social_links: {'instagram': 'https://instagram.com/kyuricht', 'linkedin': 'https://www.linkedin.com/in/tamara-kjurikj-798838181/'}
+ └─links: 
+   ├─ mailto:ciao@kyurich.co
+   └─ https://kyurich.co
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=kyurich&compact=true
+ ├─id: 53105096
+ ├─nickname: KYurich
+ ├─username: KYurich
+ ├─fullname: KYurich
+ ├─role: employer
+ ├─location: Kuala Lumpur, Malaysia
+ └─created_at: 2021-02-17 07:25:20 UTC
+[+] CreativeMarket: https://creativemarket.com/users/kyurich
+[+] TikTok: https://www.tiktok.com/@kyurich
+ ├─tiktok_id: 6679161334451930118
+ ├─tiktok_username: kyurich
+ ├─fullname: Tamara Kyurich
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7326871462592610310~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=29ad71b7&x-expires=1792522800&x-signature=NO1QGcdwuusoz6QM8hYAYCFKI1c%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAZNxDlIfwUWlmiGo34Uic09cV2b6NWOy7mLK5wRnq6u6UZFxulj5uWkUPXMpgQTjt
+ ├─following_count: 32
+ ├─follower_count: 10
+ ├─heart_count: 99
+ ├─video_count: 3
+ └─digg_count: 0
+[+] MyAnimeList: https://myanimelist.net/profile/kyurich
+ ├─mal_username: Kyurich
+ └─mal_uid: 22496516
+[+] Upwork: https://upwork.com/fl/kyurich
+[+] Picsart: https://picsart.com/u/kyurich
+ ├─picsart_id: 209216369022102
+ ├─picsart_username: kyurich
+ ├─fullname: Astri Permata
+ ├─image: https://cdn21.picsart.com/145116821005201.png
+ ├─follower_count: 7
+ ├─following_count: 5
+ ├─likes_count: 0
+ ├─photos_count: 6
+ └─is_verified: False
+[+] OnlyFans: https://onlyfans.com/kyurich
+[+] VSCO: https://vsco.co/kyurich
+[+] Smule: https://www.smule.com/kyurich
+[+] fixya: https://www.fixya.com/users/kyurich
+[+] GitHubGist [GitHub]: https://gist.github.com/kyurich
+[+] Pling: https://www.pling.com/u/kyurich/
+[+] joyreactor.cc: https://joyreactor.cc/user/kyurich
+[!] Too many errors of type "Bot protection" (8.64%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for kyurich saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_kyurich_simple.json
+[*] Short text report:
+Search by username kyurich returned 24 accounts.
+Found target's other IDs: KyuRich, KYurich, Kyurich.
+Extended info extracted from 13 accounts.
+Countries: ru, kr, nl
+Interests (tags): social, art, business, apps, design, coding, photo, sharing, streaming, video, networking, messaging, freelance, finance, fintech, gaming, links, stock, anime, porn, music, forum, tech

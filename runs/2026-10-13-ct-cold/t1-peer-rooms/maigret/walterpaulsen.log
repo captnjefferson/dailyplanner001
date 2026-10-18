@@ -1,0 +1,99 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username walterpaulsen on:
+[+] Disqus: https://disqus.com/walterpaulsen
+ ├─id: 389807346
+ ├─fullname: walter paulsen
+ ├─disqus_username: walterpaulsen
+ ├─reputation: 1.23603
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2022-11-21T12:59:59
+ ├─upvotes_count: 1
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/walterpaulsen.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Substack: https://substack.com/@walterpaulsen
+ ├─uid: 98281225
+ ├─username: walterpaulsen
+ ├─fullname: Walter Paulsen
+ ├─bio: Live in Bay Area. Care about health and diet 
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/a60d8509-95b9-42f2-ae9a-88ccac2234ba_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa60d8509-95b9-42f2-ae9a-88ccac2234ba_144x144.png
+[+] Snapchat: https://www.snapchat.com/add/walterpaulsen
+ ├─username: walterpaulsen
+ ├─fullname: Walter Paulsen
+ ├─bio: Walter Paulsen is on Snapchat! (@walterpaulsen)
+ ├─url: https://www.snapchat.com/@walterpaulsen
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@walterpaulsen/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=walterpaulsen&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Paypal: https://www.paypal.com/paypalme/walterpaulsen
+ ├─fullname: Walter Paulsen
+ ├─username: WalterPaulsen
+ ├─payerId: WAVGYCBJVX3PS
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: EUR
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] LinkedIn: https://linkedin.com/in/walterpaulsen
+[+] Flipboard: https://flipboard.com/@walterpaulsen
+[+] LibraryThing: https://www.librarything.com/profile/walterpaulsen
+[+] linktr.ee: https://linktr.ee/walterpaulsen
+ ├─id: 72615889
+ ├─username: walterpaulsen
+ ├─is_active: True
+ ├─is_verified: True
+ ├─tier: free1
+ ├─social_links: {'facebook': 'https://www.facebook.com/profile.php?id=61556330285708', 'instagram': 'https://instagram.com/walterpaulsencoach', 'tiktok': 'https://tiktok.com/@walterpaulsen', 'youtube': 'https://www.youtube.com/channel/UCWu3_k0O1qDYbnl_XzSeBCw', 'linkedin': 'https://www.linkedin.com/in/walterpaulsen/'}
+ └─links: 
+   ├─ https://app.vistage.com/sites/s/chairs/0032E0000349Xl5QAE/walter-paulsen
+   └─ https://airtable.com/app0mThH7JiQrVc7m/pag5MEtmqUHoOvzfo/form
+[+] Bit.ly: https://bit.ly/walterpaulsen
+[+] Wattpad: https://www.wattpad.com/user/walterpaulsen
+[+] Upwork: https://upwork.com/fl/walterpaulsen
+[+] Smule: https://www.smule.com/walterpaulsen
+[+] fixya: https://www.fixya.com/users/walterpaulsen
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=walterpaulsen&btnG=
+[+] TikTok: https://www.tiktok.com/@walterpaulsen
+ ├─tiktok_id: 6997867650295022598
+ ├─tiktok_username: walterpaulsen
+ ├─fullname: walterpaulsen
+ ├─bio: 🚀 CEO Coach
+📈 6 Silicon Valley exits 
+👇
+https://linktr.ee/walterpaulsen
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4b36cf86310217b6b1de54c6fdf17f79~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=2449b072&x-expires=1792522800&x-signature=QPib54aS8ZQE%2Bhkro1Vyx0fcWi4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAS0fsfNIs0bVh7ezC1fMiAfArj-koZ0GP5qmAzKVpJNmBG2GYrzbzA-z1FeSKlRg_
+ ├─following_count: 4
+ ├─follower_count: 11
+ ├─heart_count: 134
+ ├─video_count: 80
+ └─digg_count: 0
+[+] joyreactor.cc: https://joyreactor.cc/user/walterpaulsen
+[+] Pling: https://www.pling.com/u/walterpaulsen/
+[+] YouTube: https://www.youtube.com/@walterpaulsen/about
+ ├─youtube_channel_id: UCWu3_k0O1qDYbnl_XzSeBCw
+ ├─fullname: Walter Paulsen
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_mve6mcA0TYzxYqGFRe4I_XckqpaPNv0YyF0obn-XcUdfk=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@WalterPaulsen
+ └─is_family_safe: True
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for walterpaulsen saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_walterpaulsen_simple.json
+[*] Short text report:
+Search by username walterpaulsen returned 17 accounts.
+Found target's other IDs: WalterPaulsen.
+Extended info extracted from 7 accounts.
+Countries: nl, ru
+Interests (tags): social, apps, business, networking, writing, sharing, tech, reading, links, video, art, discussion, blog, messaging, finance, fintech, professional, news, books, freelance, music, forum, coding, design, streaming

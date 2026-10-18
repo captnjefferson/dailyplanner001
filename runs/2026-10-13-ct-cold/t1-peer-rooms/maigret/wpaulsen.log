@@ -1,0 +1,186 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username wpaulsen on:
+[+] GitHub: https://github.com/wpaulsen
+ ├─uid: 7014941
+ ├─image: https://avatars.githubusercontent.com/u/7014941?v=4
+ ├─created_at: 2014-03-20T19:32:16Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Twitter: https://twitter.com/wpaulsen
+ ├─uid: VXNlcjoyOTEyNjkzNA==
+ ├─fullname: Jason and Melanie
+ ├─created_at: 2009-04-06 02:36:20+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: True
+ ├─follower_count: 24
+ ├─following_count: 121
+ └─favourites_count: 261
+[+] Myspace: https://myspace.com/wpaulsen
+ ├─uid: 17190314
+ └─username: wpaulsen
+[+] Substack: https://substack.com/@wpaulsen
+ ├─uid: 20292017
+ ├─username: wpaulsen
+ ├─fullname: Walter Paulsen
+ ├─bio: Bay Area runner, dad, CEO coach
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/266a479c-558a-44aa-8c36-65d3d900910e_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F266a479c-558a-44aa-8c36-65d3d900910e_144x144.png
+[+] Disqus: https://disqus.com/wpaulsen
+ ├─id: 158094099
+ ├─fullname: Jason
+ ├─disqus_username: wpaulsen
+ ├─reputation: 1.233058
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2015-05-18T18:36:43
+ ├─upvotes_count: 2
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/wpaulsen.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 3
+[+] Pinterest: https://www.pinterest.com/wpaulsen/
+ ├─uid: 486248228426097180
+ ├─username: wpaulsen
+ ├─fullname: Wanda Paulsen
+ ├─image: https://i.pinimg.com/280x280_RS/05/0d/5d/050d5d21f4299a3f5eac288032996d82.jpg
+ ├─follower_count: 18
+ ├─following_count: 2
+ ├─posts_count: 59
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sat, 02 Mar 2013 19:54:15 +0000
+ └─latest_activity_at: Wed, 30 Nov 2022 03:21:13 +0000
+[+] Calendly: https://calendly.com/wpaulsen
+ ├─uid: 459806
+ ├─fullname: Walter Paulsen
+ ├─username: wpaulsen
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar. My phone # is 650.465.7929
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/450303/ceb6a31e.jpg
+ ├─owner_uuid: DCFBFBNT7M3T4545
+ ├─organization_uuid: AGAFECLR4J7GSC4C
+ └─timezone: America/Los_Angeles
+[+] Bluesky: https://bsky.app/profile/wpaulsen.bsky.social
+ ├─uid: did:plc:uirqn3n6j63ecyhnj3aewpqd
+ ├─username: wpaulsen
+ ├─fullname: Wendy
+ ├─bio: Avid reader, nature lover, 
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:uirqn3n6j63ecyhnj3aewpqd/bafkreibkoft3qytnkwkw5liumxe5m6qbxuudlxj6tapuz2lwiu6snvwwge
+ ├─created_at: 2024-11-17T14:29:35.028Z
+ ├─follower_count: 0
+ ├─following_count: 1
+ └─posts_count: 0
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=wpaulsen
+ ├─uid: 6674431
+ ├─account_id: 8947575
+ ├─username: DennisWPaulsenJR
+ ├─image: https://i.sstatic.net/70ssI.jpg?s=256
+ ├─reputation: 483
+ ├─link: https://stackoverflow.com/users/6674431/denniswpaulsenjr
+ └─created_at: 1470262087
+[+] Snapchat: https://www.snapchat.com/add/wpaulsen
+ ├─bio: wpaulsen is on Snapchat! (@wpaulsen) | Last updated: 12/31/2025
+ ├─url: https://www.snapchat.com/@wpaulsen
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@wpaulsen/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[+] last.fm: https://last.fm/user/wpaulsen
+ ├─fullname: wpaulsen
+ ├─bio: • scrobbling since 25 Dec 2008
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/818148bf682d429dc215c1705eb27b98.png
+ └─created_at: 2008
+[+] Minecraft: https://api.mojang.com/users/profiles/minecraft/wpaulsen
+[+] Behance: https://www.behance.net/wpaulsen
+ ├─uid: 4653715
+ ├─username: wpaulsen
+ ├─fullname: Walker Paulsen
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: Sarasota, FL, USA
+ ├─created_at: 2014-01-12 01:23:20 UTC
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Chess: https://www.chess.com/member/wpaulsen
+ ├─chess_user_id: 57888948
+ ├─username: wpaulsen
+ ├─country_code: US
+ ├─follower_count: 1
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2019-02-27 19:29:04 UTC
+ └─latest_activity_at: 2024-12-22 03:54:30 UTC
+[+] Paypal: https://www.paypal.com/paypalme/wpaulsen
+ ├─fullname: Walter Paulsen
+ ├─username: WPaulsen
+ ├─payerId: FLLDMU6RV6KDE
+ ├─address: Palo Alto, CA
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/MjAzM1gyNTkxWEpQRw/p/Y2RhZDYzOTQtZDc2ZC00ZGQ2LTgyOTQtODMyM2NlYmU2N2Jk/image_58.jpg
+[+] Launchpad: https://launchpad.net/~wpaulsen
+ ├─fullname: William Paulsen
+ ├─username: wpaulsen
+ ├─languages: English
+ ├─karma: 0
+ ├─created_at: 2014-12-31
+ └─timezone: UTC (UTC+0000)
+[+] linktr.ee: https://linktr.ee/wpaulsen
+ ├─id: 51925877
+ ├─username: wpaulsen
+ ├─is_active: True
+ ├─is_verified: True
+ └─tier: free1
+[+] Letterboxd: https://letterboxd.com/wpaulsen
+[+] Duolingo: https://www.duolingo.com/profile/wpaulsen
+[+] Geocaching: https://www.geocaching.com/p/?u=wpaulsen
+[+] Flipboard: https://flipboard.com/@wpaulsen
+[+] iNaturalist: https://www.inaturalist.org/people/wpaulsen
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=wpaulsen&btnG=
+[+] Blogger: https://wpaulsen.blogspot.com
+ ├─blog_id: 5571690609198871453
+ └─uid: 05267309464438367196
+[+] TikTok: https://www.tiktok.com/@wpaulsen
+ ├─tiktok_id: 251069075001540608
+ ├─tiktok_username: wpaulsen
+ ├─fullname: Wiedaad Paulsen 
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=40777fcc&x-expires=1792522800&x-signature=IvzcnDRix30TFAntT7oTU9e4HDU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA_BmiZB5sRG_X3k_x8pY6WidQaxES0nRfXenaMLmGgi2emuFcSsuGDlB4AxW5Otrd
+ ├─following_count: 0
+ ├─follower_count: 34
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Venmo: https://venmo.com/wpaulsen
+[+] VSCO: https://vsco.co/wpaulsen
+[+] fixya: https://www.fixya.com/users/wpaulsen
+[+] Revolut.me: https://revolut.me/wpaulsen
+ └─fullname: William P
+[+] GitHubGist [GitHub]: https://gist.github.com/wpaulsen
+[+] TheSimsResource: https://www.thesimsresource.com/members/wpaulsen/
+[+] joyreactor.cc: https://joyreactor.cc/user/wpaulsen
+[+] Pling: https://www.pling.com/u/wpaulsen/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for wpaulsen saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_wpaulsen_simple.json
+[*] Short text report:
+Search by username wpaulsen returned 31 accounts.
+Found target's other IDs: WPaulsen.
+Extended info extracted from 18 accounts.
+Countries: us, nl, ru
+Interests (tags): social, art, apps, business, coding, sharing, messaging, design, gaming, forum, hobby, finance, fintech, tech, networking, music, blog, photo, writing, discussion, streaming, links, movies, review, education, news, science, video

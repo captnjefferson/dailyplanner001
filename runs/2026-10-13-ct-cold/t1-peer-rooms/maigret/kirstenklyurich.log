@@ -1,0 +1,39 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username kirstenklyurich on:
+[+] ThemeForest: https://themeforest.net/user/kirstenklyurich
+[+] Pinterest: https://www.pinterest.com/kirstenklyurich/
+ ├─uid: 802907577225785647
+ ├─username: kirstenklyurich
+ ├─fullname: Kirsten
+ ├─image: https://s.pinimg.com/images/user/default_280.png
+ ├─follower_count: 0
+ ├─following_count: 5
+ ├─posts_count: 26
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Wed, 19 Feb 2020 02:11:47 +0000
+ └─latest_activity_at: Fri, 25 Jun 2021 19:52:11 +0000
+[+] Codecanyon: https://codecanyon.net/user/kirstenklyurich
+[+] Audiojungle: https://audiojungle.net/user/kirstenklyurich
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=kirstenklyurich&btnG=
+[+] Upwork: https://upwork.com/fl/kirstenklyurich
+[+] VideoHive: https://videohive.net/user/kirstenklyurich
+[+] fixya: https://www.fixya.com/users/kirstenklyurich
+[+] joyreactor.cc: https://joyreactor.cc/user/kirstenklyurich
+[+] Pling: https://www.pling.com/u/kirstenklyurich/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for kirstenklyurich saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_kirstenklyurich_simple.json
+[*] Short text report:
+Search by username kirstenklyurich returned 9 accounts.
+Extended info extracted from 1 accounts.
+Countries: nl, ru
+Interests (tags): business, design, apps, coding, shopping, art, photo, sharing, social, music, freelance, networking, stock, video, forum, tech
