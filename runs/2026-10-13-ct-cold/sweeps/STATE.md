@@ -37,3 +37,10 @@ The report renders in a sandboxed iframe; page tools can't read it, the chat mod
 - Garrido (T1), Brickwood (T2), Vanderbloemen (T3): `*-person.md` files, each ~8,300 words, eight sections, section 2 prose 660–700 words, section 3 "right now" with confidence labels, section 4 their named problems verbatim, section 5 Humantic + the lead's LinkedIn read + the lead's own long-form read. Humantic: Garrido DI, Vanderbloemen CDI, Brickwood none (insufficient social data).
 - Cost: ~20–25 min wall clock and ~400K tokens per person read; plus the lead's own reading of one long-form per person.
 - Awaiting Jefferson's call on depth before the other six get the same treatment and before any card is written.
+
+## Wave 3 (2026-10-18, the doors-versus-direct experiment; plan: EXPERIMENT_PLAN_2026-10-18.md)
+| Sweep | Tool | Prompt file | Status | Where |
+|---|---|---|---|---|
+| T3 founders, v2 | ChatGPT Deep Research (Jefferson's account, driven in Chrome, Chat mode → "+" → Deep research) | chatgpt-deep-research-T3-founders-v2.md | STARTED ~5:05 PM ET 10/18; excludes the 13 already found; asks for 25 | https://chatgpt.com/c/6ad4f9cf-0884-83e9-acf4-d1fa83b8989c |
+| T3 founders, v2 | Manus | same prompt | BLOCKED: manus.im/app still redirects to its login page in Chrome (preflight A6) | https://manus.im/app |
+- Pool verification agents (Opus): T1 EO chairs (12) → t1-peer-rooms/pool-eo-2026-10-18.md; T2 firms (17) → t2-sponsored-rooms/pool-2026-10-18.md; doors (15) → sweeps/doors-2026-10-18.md. T1 Vistage/TAB (5) and the T3 on-file list wait for a free slot (three search-heavy agents at a time).
