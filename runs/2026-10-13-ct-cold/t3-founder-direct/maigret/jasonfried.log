@@ -1,0 +1,257 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jasonfried on:
+[+] GitHub: https://github.com/jasonfried
+ ├─uid: 166723
+ ├─image: https://avatars.githubusercontent.com/u/166723?v=4
+ ├─created_at: 2009-12-12T19:44:52Z
+ ├─follower_count: 212
+ ├─following_count: 0
+ ├─fullname: Jason Fried
+ ├─public_gists_count: 1
+ ├─public_repos_count: 0
+ └─company: @basecamp 
+[+] Twitter: https://twitter.com/jasonfried
+ ├─uid: VXNlcjoxNDM3MjE0Mw==
+ ├─fullname: Jason Fried
+ ├─bio: Started & runs 37signals (makers of Basecamp, HEY, and ONCE). Non-serial entrepreneur, serial author. DM or email me at jason@hey.com.
+ ├─created_at: 2008-04-13 01:31:17+00:00
+ ├─image: https://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1.png
+ ├─image_bg: https://pbs.twimg.com/profile_banners/14372143/1684969022
+ ├─is_protected: False
+ ├─follower_count: 5300858
+ ├─following_count: 288
+ ├─favourites_count: 14726
+ └─links: 
+   └─ http://world.hey.com/jason
+[+] Medium: https://medium.com/@jasonfried
+ ├─fullname: Jason Fried
+ ├─username: jasonfried
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*iogT6QBu33BhVdzo.png
+ └─latest_activity_at: 2026-10-18 19:18:11 UTC
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:jasonfried
+ ├─uid: 16096457
+ └─username: Jasonfried
+[+] SoundCloud: https://soundcloud.com/jasonfried
+ ├─uid: 136981132
+ ├─username: jasonfried
+ ├─following_count: 1
+ ├─follower_count: 1
+ ├─is_verified: False
+ └─image: https://a1.sndcdn.com/images/default_avatar_large.png
+[+] WordPressOrg: https://profiles.wordpress.org/jasonfried/
+ ├─fullname: Jasonfried
+ ├─username: jasonfried
+ ├─image: https://www.gravatar.com/avatar/c482e07e37354e0d391434906bc1ae08?s=1024&r=g&d=mm
+ ├─gravatar_url: https://gravatar.com/c482e07e37354e0d391434906bc1ae08
+ ├─gravatar_username: jasonfried
+ └─gravatar_email_md5_hash: c482e07e37354e0d391434906bc1ae08
+[+] Substack: https://substack.com/@jasonfried
+ ├─uid: 13276167
+ ├─username: jasonfried
+ ├─fullname: Jason Fried
+ ├─image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/96a89bc6-a22f-47c7-91b1-9038b4c3a4ab_400x400.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96a89bc6-a22f-47c7-91b1-9038b4c3a4ab_400x400.png
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=jasonfried
+ ├─uid: 3865794
+ ├─account_id: 4785043
+ ├─username: jasonjasonfried
+ ├─image: https://www.gravatar.com/avatar/512c269d92075220e66e9e28885db2cb?s=256&d=identicon&r=PG
+ ├─reputation: 25
+ ├─link: https://stackoverflow.com/users/3865794/jasonjasonfried
+ ├─created_at: 1406051595
+ ├─gravatar_url: https://gravatar.com/512c269d92075220e66e9e28885db2cb
+ ├─gravatar_username: jasonjasonfried
+ └─gravatar_email_md5_hash: 512c269d92075220e66e9e28885db2cb
+[+] ThemeForest: https://themeforest.net/user/jasonfried
+[+] Telegram: https://t.me/jasonfried
+ ├─fullname: John Horn
+ ├─image: https://cdn5.telesco.pe/file/B5mFaNih4Ncx_fFvmCVfDP7I8LU3nTllPvuQvknDxVmCQXlXPPuKU1prxV8I6ehc3g1GMt06mNEY26hdgwsSMhFxcb8ktjgRCq2P5ulB3YocD-Alh3gcNvhu7AeU9Dnrs-5nGMRkFvMq2gwjVSNJkD67WqjymeX2uJUw4b6ZnTw-vtNTlyewHJQBiO1iA47yOSmAcEIuTs62HRP1Jbi-wscbl7NglyAjTorLXQRaGjwaWQgLzoGU-KdRNQKdkhle0DrPBKG4JBDx-PCQSu8uDaynt78xXoUia39zvN8p0efVPqi86hAkOQ2nvbg1805YxazUFX65x46mtP3gY3dBDw.jpg
+ └─bio: What we see depends mainly on what we look for.
+[+] Giphy: https://giphy.com/channel/jasonfried
+[+] Flickr: https://www.flickr.com/photos/jasonfried
+[+] Behance: https://www.behance.net/jasonfried
+ ├─uid: 10245993
+ ├─username: jasonfried
+ ├─fullname: Jason Fried
+ ├─image: https://pps.services.adobe.com/api/profile/31BE41354B02A8B199201549@AdobeID/image/b8a22319-798b-4fa7-a335-bc9f4397fe3c/276
+ ├─company: EatWorkSleep
+ ├─location: Brooklyn, NY, USA
+ ├─created_at: 2014-12-09 21:21:05 UTC
+ ├─occupation: Founder EatWorkSleep
+ ├─follower_count: 4
+ ├─following_count: 3
+ ├─views_count: 0
+ └─appreciations: 0
+[+] TikTok: https://www.tiktok.com/@jasonfried
+ ├─tiktok_id: 184261598620966912
+ ├─tiktok_username: jasonfried
+ ├─fullname: Jason
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/20469d4151df7a6c5fe6cc53e7495fdd~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4db3d118&x-expires=1792522800&x-signature=dKs3lH8N31LjbRHcpltea1OM%2Bs4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAuGkgBL697r7t8IVn1PYw_oWRwZ5xXUTsb4CQ-mY00rNMf7-W-x9uavKV3j1SACTa
+ ├─following_count: 42
+ ├─follower_count: 41
+ ├─heart_count: 17
+ ├─video_count: 2
+ └─digg_count: 0
+[+] Trello: https://trello.com/jasonfried
+ ├─id: 4e70c8ce94242aaca9019f6c
+ ├─username: jasonfried
+ ├─fullname: Jason Fried
+ ├─type: normal
+ └─is_verified: True
+[+] Disqus: https://disqus.com/jasonfried
+ ├─id: 56041362
+ ├─fullname: Jason Fried
+ ├─disqus_username: jasonfried
+ ├─reputation: 1.233202
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-06-11T11:28:48
+ ├─upvotes_count: 11
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/jasonfried.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Twitch: https://twitchtracker.com/jasonfried
+ ├─twitch_channel_id: 10911091
+ ├─twitch_username: jasonfried
+ └─created_at: 2010-03-05 17:59:08
+[+] Paypal: https://www.paypal.com/paypalme/jasonfried
+ ├─fullname: Jason Fried
+ ├─username: JasonFried
+ ├─payerId: 7RA9D4L6Y3RVC
+ ├─address: Maricopa, AZ
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/NjAwWDEwNjZYSlBH/p/N2MxMTljZjgtM2I0Yi00ODdkLWE0Y2QtYWE3NjAwM2RjNmE2/image_58.jpg
+[+] Bluesky: https://bsky.app/profile/jasonfried.bsky.social
+ ├─uid: did:plc:5fapvax63hmvoa6yqajjeroq
+ ├─username: jasonfried
+ ├─fullname: Jason Fried
+ ├─bio: Founder & (sometimes) CEO at 37signals (makers of Basecamp and HEY). Non-serial entrepreneur, serial author. Email me at jason@hey.com.
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:5fapvax63hmvoa6yqajjeroq/bafkreibxwsbafw6fzfuosiq5gje2kzlah7htiid5kbuzcprji7dlnzsbou
+ ├─created_at: 2023-05-03T00:26:54.534Z
+ ├─follower_count: 4792
+ ├─following_count: 3
+ └─posts_count: 11
+[+] YouTube: https://www.youtube.com/@jasonfried/about
+ ├─youtube_channel_id: UCfgX9FcMmAAD_kGDI0_4D4Q
+ ├─fullname: Jason Fried
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nsvsfhFzBtTttVuQz23b8ZIr0nvuyE2VT7WlhWg0rnxQE=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@jasonfried
+ └─is_family_safe: True
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jasonfried&btnG=
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=jasonfried&compact=true
+ ├─id: 79542445
+ ├─nickname: jasonfried
+ ├─username: jasonfried
+ ├─fullname: Jason
+ ├─role: freelancer
+ ├─location: Germantown, United States
+ └─created_at: 2024-09-30 15:02:00 UTC
+[+] Snapchat: https://www.snapchat.com/add/jasonfried
+ ├─username: jasonfried
+ ├─fullname: Jason 🗿
+ ├─bio: Jason 🗿 is on Snapchat! (@jasonfried)
+ ├─url: https://www.snapchat.com/@jasonfried
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jasonfried/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=jasonfried&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Kickstarter: https://www.kickstarter.com/profile/jasonfried
+[+] Codecanyon: https://codecanyon.net/user/jasonfried
+[+] Slides: https://slides.com/jasonfried
+[+] Chess: https://www.chess.com/member/jasonfried
+ ├─chess_user_id: 5599465
+ ├─username: jasonfried
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/5599465.31c12e67.200x200o.e28bd7d6a7fc.jpeg
+ ├─country_code: US
+ ├─follower_count: 6
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2011-08-11 23:07:39 UTC
+ └─latest_activity_at: 2024-04-13 15:55:46 UTC
+[+] ChaturBate: https://chaturbate.com/jasonfried/
+[+] Vimeo: https://vimeo.com/jasonfried
+[+] Wattpad: https://www.wattpad.com/user/jasonfried
+[+] Instapaper: https://www.instapaper.com/p/jasonfried
+[+] ProductHunt: https://www.producthunt.com/@jasonfried
+[+] kofi: https://ko-fi.com/jasonfried
+[+] CreativeMarket: https://creativemarket.com/users/jasonfried
+[+] TripAdvisor: https://tripadvisor.com/members/jasonfried
+[+] Duolingo: https://www.duolingo.com/profile/jasonfried
+ ├─uid: 9573533
+ ├─username: jasonfried
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2013-09-10 00:20:57 UTC
+ ├─url: https://www.duolingo.com/profile/jasonfried
+ ├─streak: 0
+ ├─totalXp: 1099
+ ├─learningLanguage: pt
+ └─fromLanguage: en
+[+] Gog: https://www.gog.com/u/jasonfried
+[+] LinkedIn: https://linkedin.com/in/jasonfried
+[+] Upwork: https://upwork.com/fl/jasonfried
+[+] Flipboard: https://flipboard.com/@jasonfried
+[+] Audiojungle: https://audiojungle.net/user/jasonfried
+[+] Gumroad: https://www.gumroad.com/jasonfried
+[+] IFTTT: https://www.ifttt.com/p/jasonfried
+[+] Periscope: https://www.pscp.tv/jasonfried
+ ├─id: 16860
+ ├─created_at: 2015-03-26T14:12:28.754000139Z
+ ├─periscope_username: jasonfried
+ ├─fullname: Jason Fried
+ ├─bio: Started & runs 37signals (makers of Basecamp, HEY, and ONCE). Non-serial entrepreneur, serial author. DM or email me at jason@hey.com.
+ ├─follower_count: 5301217
+ ├─following_count: 288
+ ├─hearts_count: 74
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: True
+ ├─is_twitter_verified: True
+ ├─twitter_uid: 14372143
+ ├─twitter_screen_name: jasonfried
+ └─image: https://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_reasonably_small.png
+[+] Minds: https://www.minds.com/jasonfried
+[+] Picsart: https://picsart.com/u/jasonfried
+ ├─picsart_id: 362356976026101
+ ├─picsart_username: jasonfried
+ ├─fullname: JasonFried
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] VideoHive: https://videohive.net/user/jasonfried
+[+] Clubhouse: https://www.clubhouse.com/@jasonfried
+[+] Bit.ly: https://bit.ly/jasonfried
+[+] VSCO: https://vsco.co/jasonfried
+[+] fixya: https://www.fixya.com/users/jasonfried
+[+] Venmo: https://venmo.com/jasonfried
+[+] Untappd: https://untappd.com/user/jasonfried
+[+] Smule: https://www.smule.com/jasonfried
+[+] Zora: https://zora.co/@jasonfried
+[+] joyreactor.cc: https://joyreactor.cc/user/jasonfried
+[+] Pling: https://www.pling.com/u/jasonfried/
+[+] GitHubGist [GitHub]: https://gist.github.com/jasonfried
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jasonfried saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_jasonfried_simple.json
+[*] Short text report:
+Search by username jasonfried returned 56 accounts.
+Found target's other IDs: Jasonfried, JasonFried.
+Extended info extracted from 22 accounts.
+Countries: in, us, nl, ru
+Interests (tags): social, business, apps, art, design, video, coding, networking, sharing, streaming, messaging, shopping, freelance, tech, blog, discussion, writing, music, photo, gaming, finance, education, fintech, forum, hobby, reading, stock, wiki, tasks, porn, webcam, review, travel, professional, news, links, geosocial, crypto, nft
