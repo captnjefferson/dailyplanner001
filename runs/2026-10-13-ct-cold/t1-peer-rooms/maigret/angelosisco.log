@@ -1,0 +1,77 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username angelosisco on:
+[+] Blogger: https://angelosisco.blogspot.com
+ ├─blog_id: 9184355496840503364
+ └─uid: 13267645682389729653
+[+] YouTube: https://www.youtube.com/@angelosisco/about
+ ├─youtube_channel_id: UCjFmCbgOMRtLl92Hv40mt4g
+ ├─fullname: 🌷Moka🌷
+ ├─image: https://yt3.googleusercontent.com/uiyTsPueEM7Ts7ttu_-mhq6Df2kt2hQHe_ejhNCGKlAj6XzPJDOSJ4v9mrJxqw8WLYQ1ZWXyng=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@AngeloSisco
+ └─is_family_safe: True
+[+] Substack: https://substack.com/@angelosisco
+ ├─uid: 50938872
+ ├─username: angelosisco
+ ├─fullname: Angelo Sisco
+ ├─bio: I help B2C founders get off the treadmill and build businesses that can run without them. After building and selling multiple 7-figure companies, I discovered most founders are trapped in a cycle of constant execution that's unsustainable. 
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/31f9b423-5f58-498f-840f-b41e1a930b1d_2316x2316.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f9b423-5f58-498f-840f-b41e1a930b1d_2316x2316.jpeg
+[+] TikTok: https://www.tiktok.com/@angelosisco
+ ├─tiktok_id: 76637881376628736
+ ├─tiktok_username: angelosisco
+ ├─fullname: Angelo Sisco
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=af6b4ad6&x-expires=1792537200&x-signature=eSdC0Uwa9%2FCbfEQMK%2FywGT5j1ek%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAS2ysXMDx7ST6JmaAebzOXUibt4UQ6fm-532BSfuepcOt7mtKj12yNmQVxUr6ur16
+ ├─following_count: 0
+ ├─follower_count: 37
+ ├─heart_count: 6
+ ├─video_count: 4
+ └─digg_count: 0
+[+] Bluesky: https://bsky.app/profile/angelosisco.bsky.social
+ ├─uid: did:plc:n4yvdevkivikfoengpfj5xog
+ ├─username: angelosisco
+ ├─fullname: Angelo Sisco
+ ├─created_at: 2023-11-24T15:47:55.494Z
+ ├─follower_count: 0
+ ├─following_count: 1
+ └─posts_count: 0
+[+] Snapchat: https://www.snapchat.com/add/angelosisco
+ ├─username: angelosisco
+ ├─fullname: Angelo Sisco
+ ├─bio: Angelo Sisco is on Snapchat! (@angelosisco)
+ ├─url: https://www.snapchat.com/@angelosisco
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@angelosisco/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=angelosisco&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Facebook: https://www.facebook.com/angelosisco
+ ├─uid: 100002518705601
+ ├─username: angelo.sisco
+ ├─fullname: Angelo Sisco
+ ├─description: Angelo Sisco is on Facebook. Join Facebook to connect with Angelo Sisco and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=d00ff1&_nc_ohc=IZeZjuD71-MQ7kNvwEFF8_E&_nc_oc=AdoztdFIQlV5q5MFWi6A58sNChJ7t4UVxSDq-afTEIv01YK89I2_vqS0mxGnUiSSKoc&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_ss=7020f&oh=00_AQPHQoJpofjIt_xL_SHXF7YX9TSqzd4F9Y7tFMBszZCgjQ&oe=6AFCBEFA
+[+] Paypal: https://www.paypal.com/paypalme/angelosisco
+ ├─fullname: Angelo Sisco
+ ├─username: AngeloSisco
+ ├─payerId: VKUDJF4RR6YAQ
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] fixya: https://www.fixya.com/users/angelosisco
+[+] joyreactor.cc: https://joyreactor.cc/user/angelosisco
+[+] Pling: https://www.pling.com/u/angelosisco/
+[!] Too many errors of type "Bot protection" (9.63%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for angelosisco saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_angelosisco_simple.json
+[*] Short text report:
+Search by username angelosisco returned 11 accounts.
+Found target's other IDs: angelo.sisco, AngeloSisco.
+Extended info extracted from 8 accounts.
+Countries: nl, ru
+Interests (tags): social, apps, blog, video, messaging, art, streaming, writing, business, finance, fintech, forum, tech, coding, design
