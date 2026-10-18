@@ -1,0 +1,249 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jeffcunningham on:
+[+] GitHub: https://github.com/jeffcunningham
+ ├─uid: 4549951
+ ├─image: https://avatars.githubusercontent.com/u/4549951?v=4
+ ├─created_at: 2013-05-28T14:17:04Z
+ ├─location: STL
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─fullname: Jeff Cunningham
+ ├─public_gists_count: 0
+ ├─public_repos_count: 0
+ └─company: Object Computing
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:jeffcunningham
+ ├─uid: 16656770
+ └─username: Jeffcunningham
+[+] Tumblr: https://www.tumblr.com/jeffcunningham
+[+] Myspace: https://myspace.com/jeffcunningham
+ ├─uid: 74001572
+ └─username: jeffcunningham
+[+] Imgur: https://imgur.com/user/jeffcunningham
+ ├─id: 11729080
+ ├─imgur_username: JeffCunningham
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/cvL0J2f_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/JeffCunningham/avatar
+ └─created_at: 2014-05-14T02:05:58Z
+[+] ThemeForest: https://themeforest.net/user/jeffcunningham
+[+] Blogger: https://jeffcunningham.blogspot.com
+ ├─blog_id: 7750602615325431674
+ └─uid: 09259428864180183542
+[+] Medium: https://medium.com/@jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─username: jeffcunningham
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*W_Hw2wky1qZXR91l.jpg
+ └─latest_activity_at: 2026-10-18 19:40:04 UTC
+[+] Pinterest: https://www.pinterest.com/jeffcunningham/
+ ├─uid: 162903848929727702
+ ├─username: jeffcunningham
+ ├─fullname: Jeffrey Cunningham
+ ├─image: https://i.pinimg.com/280x280_RS/54/8a/de/548ade833fa952ecd7996fc7bc75662b.jpg
+ ├─follower_count: 29
+ ├─following_count: 7
+ ├─posts_count: 47
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Tue, 12 Jun 2012 19:43:10 +0000
+ └─latest_activity_at: Sun, 24 Jul 2022 01:39:12 +0000
+[+] Disqus: https://disqus.com/jeffcunningham
+ ├─id: 34978465
+ ├─fullname: JeffCunningham
+ ├─disqus_username: JeffCunningham
+ ├─reputation: 1.292233
+ ├─reputation_label: Average
+ ├─following_count: 2
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2012-10-23T02:07:14
+ ├─upvotes_count: 120
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/JeffCunningham.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 108
+[+] YouTube: https://www.youtube.com/@jeffcunningham/about
+ ├─youtube_channel_id: UC_Z8XMcMWWKH-qlxTjEgUaw
+ ├─fullname: Jeff Cunningham
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_ksXiiJhiVwDLynl-d4E8k_n7bFrpxPZQuJgmjbt18KjPKl=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@JeffCunningham
+ └─is_family_safe: True
+[+] Telegram: https://t.me/jeffcunningham
+ └─fullname: Jeff Cunningham
+[+] Steam: https://steamcommunity.com/id/jeffcunningham
+ ├─steam_id: 76561198012068622
+ ├─nickname: Buster Friendly2077
+ └─username: jeffcunningham
+[+] TikTok: https://www.tiktok.com/@jeffcunningham
+ ├─tiktok_id: 54961439282569216
+ ├─tiktok_username: jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=40777fcc&x-expires=1792522800&x-signature=IvzcnDRix30TFAntT7oTU9e4HDU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAUir1G-WlMEAKPQT8OD6Cl_36Getr-X2AhxLSCdPfspWF7Q99svVJk4DPrGOsUZBA
+ ├─following_count: 7
+ ├─follower_count: 32
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Giphy: https://giphy.com/channel/jeffcunningham
+[+] MixCloud: https://www.mixcloud.com/jeffcunningham/
+ ├─username: Jeffcunningham
+ ├─created_at: 2023-11-21T01:25:38Z
+ ├─updated_at: 2023-11-21T01:25:38Z
+ ├─image: https://thumbnailer.mixcloud.com/unsafe/640x640/defaults/users/v2/4.png
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─cloudcast_count: 0
+ ├─favorite_count: 0
+ ├─listen_count: 0
+ ├─is_pro: False
+ └─is_premium: False
+[+] Calendly: https://calendly.com/jeffcunningham
+ ├─uid: 19711637
+ ├─fullname: Jeff Cunningham
+ ├─username: jeffcunningham
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: 194d5873-83b6-45fc-91d4-157eba20c970
+ ├─organization_uuid: 86b78edf-6c3c-456f-9936-6bea31f4e63c
+ └─timezone: America/New_York
+[+] Academia.edu: https://independent.academia.edu/jeffcunningham
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jeffcunningham&btnG=
+[+] Discogs: https://www.discogs.com/user/jeffcunningham
+[+] Behance: https://www.behance.net/jeffcunningham
+ ├─uid: 1046370501
+ ├─username: jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: USA
+ ├─created_at: 2021-08-14 21:48:15 UTC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Twitch: https://twitchtracker.com/jeffcunningham
+ ├─twitch_channel_id: 33293897
+ ├─twitch_username: jeffcunningham
+ └─created_at: 2012-08-13 07:46:44
+[+] Artstation: https://www.artstation.com/jeffcunningham
+[+] Snapchat: https://www.snapchat.com/add/jeffcunningham
+ ├─username: jeffcunningham
+ ├─bio:  is on Snapchat! (@jeffcunningham)
+ ├─url: https://www.snapchat.com/@jeffcunningham
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jeffcunningham/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=jeffcunningham&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Facebook: https://www.facebook.com/jeffcunningham
+ ├─uid: 1316202917
+ ├─username: jeff.cunningham
+ ├─fullname: Jeff Cunningham
+ ├─description: Jeff Cunningham. 585 followers. Dad, husband, friend, son, brother, attorney, counselor, advisor...not necessarily in that order at any given time.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/509603712_10239204435071974_1127771095148613658_n.jpg?stp=dst-jpg_tt6&cstp=mx295x295&ctp=s295x295&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=uinz_BzCEwIQ7kNvwEOn51e&_nc_oc=AdqvyBDn0hKl9UQ43SU2xd3vcAEOettINyIYsu6_DAqZ9mZONNmPofx1ZkmcQshVfSQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=MioXugOd7MYBRKm2x6oHsQ&_nc_ss=7020f&oh=00_AQPqrZKHMt3ohAJzvvWtxPBGl3WUduJNTZPh6wZVosn-NQ&oe=6ADB0E89
+[+] Paypal: https://www.paypal.com/paypalme/jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─username: JeffCunningham
+ ├─payerId: 8XMB56LDWKJHG
+ ├─address: Portsmouth, OH
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/NjAwWDYwMFhKUEc/p/NGM5YzA2MDUtZmY5NS00NmU3LWIxNTYtZGI5ZmIyZTg1OTdi/image_58.jpg
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=jeffcunningham&compact=true
+ ├─id: 8768224
+ ├─nickname: jeffcunningham
+ ├─username: jeffcunningham
+ ├─fullname: Jeff
+ ├─role: employer
+ ├─location: Audubon, United States
+ └─created_at: 2013-09-06 03:12:51 UTC
+[+] Codecanyon: https://codecanyon.net/user/jeffcunningham
+[+] TripAdvisor: https://tripadvisor.com/members/jeffcunningham
+[+] iStock: https://www.istockphoto.com/ru/portfolio/jeffcunningham
+[+] Geocaching: https://www.geocaching.com/p/?u=jeffcunningham
+[+] Duolingo: https://www.duolingo.com/profile/jeffcunningham
+ ├─uid: 20730188
+ ├─username: JeffCunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-01-04 11:04:54 UTC
+ ├─url: https://www.duolingo.com/profile/JeffCunningham
+ ├─streak: 0
+ ├─totalXp: 22
+ ├─learningLanguage: de
+ └─fromLanguage: en
+[+] Bandcamp: https://www.bandcamp.com/jeffcunningham
+[+] Chess: https://www.chess.com/member/jeffcunningham
+ ├─chess_user_id: 99082916
+ ├─username: jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/99082916.85a2b563.200x200o.9545d4c187e2.jpeg
+ ├─country_code: CA
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2020-11-24 14:36:24 UTC
+ └─latest_activity_at: 2020-11-24 06:39:32 UTC
+[+] Mix: https://mix.com/jeffcunningham
+[+] BuzzFeed: https://buzzfeed.com/jeffcunningham
+ ├─uuid: 50ddf192-07eb-4b98-b9c7-aaa7f734708b
+ ├─id: 10509343
+ ├─fullname: Jeff Cunningham
+ ├─username: jeffcunningham
+ ├─posts_count: 0
+ ├─created_at: 2021-05-16 20:54:08 UTC
+ ├─is_community_user: True
+ ├─is_deleted: False
+ └─image: https://img.buzzfeed.com/buzzfeed-static/static/avatars/bernese_large.jpg
+[+] CreativeMarket: https://creativemarket.com/users/jeffcunningham
+[+] Flipboard: https://flipboard.com/@jeffcunningham
+[+] MyMiniFactory: https://www.myminifactory.com/users/jeffcunningham
+[+] Audiojungle: https://audiojungle.net/user/jeffcunningham
+[+] Picsart: https://picsart.com/u/jeffcunningham
+ ├─picsart_id: 185681590000102
+ ├─picsart_username: jeffcunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://lh3.googleusercontent.com/-3sX9BKnQZlw/AAAAAAAAAAI/AAAAAAAANOw/3tV_n0-BCQg/photo.jpg?sz=400
+ ├─follower_count: 2
+ ├─following_count: 5
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/jeffcunningham
+[+] Imgflip: https://imgflip.com/user/jeffcunningham
+[+] Clubhouse: https://www.clubhouse.com/@jeffcunningham
+[+] VideoHive: https://videohive.net/user/jeffcunningham
+[+] TradingView: https://www.tradingview.com/u/jeffcunningham
+[+] Untappd: https://untappd.com/user/jeffcunningham
+[+] Upwork: https://upwork.com/fl/jeffcunningham
+[+] Codementor: https://www.codementor.io/@jeffcunningham
+[+] Freesound: https://freesound.org/people/jeffcunningham/
+[+] Venmo: https://venmo.com/jeffcunningham
+[+] Genius: https://genius.com/jeffcunningham
+[+] Smule: https://www.smule.com/jeffcunningham
+[+] fixya: https://www.fixya.com/users/jeffcunningham
+[+] clarity.fm: https://clarity.fm/jeffcunningham
+[+] {username}.portfoliobox.net: https://jeffcunningham.portfoliobox.net
+[+] joyreactor.cc: https://joyreactor.cc/user/jeffcunningham
+[+] Pling: https://www.pling.com/u/jeffcunningham/
+[+] EasyEDA: https://easyeda.com/jeffcunningham/topics
+[+] GitHubGist [GitHub]: https://gist.github.com/jeffcunningham
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jeffcunningham saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jeffcunningham_simple.json
+[*] Short text report:
+Search by username jeffcunningham returned 59 accounts.
+Found target's other IDs: Jeffcunningham, JeffCunningham, 76561198012068622 (steam_id), jeff.cunningham.
+Extended info extracted from 24 accounts.
+Countries: us, nl, ru, de, mx
+Interests (tags): social, art, business, sharing, design, music, apps, coding, networking, photo, tech, education, blog, shopping, discussion, video, stock, streaming, gaming, finance, freelance, hobby, forum, messaging, archive, fintech, news, wiki, writing, research, review, travel, links, 3d, trading, geosocial, professional

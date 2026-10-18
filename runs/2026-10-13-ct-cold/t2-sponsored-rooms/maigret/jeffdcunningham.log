@@ -1,0 +1,69 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jeffdcunningham on:
+[+] Twitter: https://twitter.com/jeffdcunningham
+ ├─uid: VXNlcjoyMzI4MjUyMjc3
+ ├─fullname: Jeff Cunningham
+ ├─created_at: 2014-02-05 05:20:08+00:00
+ ├─image: https://pbs.twimg.com/profile_images/635970005348122624/YVyGrfv6.jpg
+ ├─is_protected: False
+ ├─follower_count: 210
+ ├─following_count: 1534
+ ├─location: Brooklyn, NY
+ └─favourites_count: 2225
+[+] Pinterest: https://www.pinterest.com/jeffdcunningham/
+ ├─uid: 399342829366688899
+ ├─username: jeffdcunningham
+ ├─fullname: Jeff Cunningham
+ ├─image: https://i.pinimg.com/280x280_RS/04/23/93/0423936bbaf2c12eb8b5caef7930070a.jpg
+ ├─follower_count: 22
+ ├─following_count: 10
+ ├─posts_count: 14
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 19 Sep 2013 15:17:21 +0000
+ └─latest_activity_at: Sat, 10 Dec 2016 17:35:38 +0000
+[+] Threads: https://www.threads.com/@jeffdcunningham
+ ├─fullname: Jeff Cunningham
+ ├─username: jeffdcunningham
+ ├─follower_count: 37
+ └─posts_count: 0
+[+] OnlyFans: https://onlyfans.com/jeffdcunningham
+[+] Clubhouse: https://www.clubhouse.com/@jeffdcunningham
+[+] Periscope: https://www.pscp.tv/jeffdcunningham
+ ├─id: 6330027
+ ├─created_at: 2015-06-28T19:52:37.075860788Z
+ ├─periscope_username: JeffDCunningham
+ ├─fullname: Jeff Cunningham
+ ├─follower_count: 210
+ ├─following_count: 1534
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ ├─is_twitter_verified: False
+ ├─twitter_uid: 2328252277
+ ├─twitter_screen_name: JeffDCunningham
+ └─image: https://pbs.twimg.com/profile_images/635970005348122624/YVyGrfv6_reasonably_small.jpg
+[+] VSCO: https://vsco.co/jeffdcunningham
+[+] Venmo: https://venmo.com/jeffdcunningham
+[+] Upwork: https://upwork.com/fl/jeffdcunningham
+[+] fixya: https://www.fixya.com/users/jeffdcunningham
+[+] joyreactor.cc: https://joyreactor.cc/user/jeffdcunningham
+[+] Pling: https://www.pling.com/u/jeffdcunningham/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jeffdcunningham saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jeffdcunningham_simple.json
+[*] Short text report:
+Search by username jeffdcunningham returned 12 accounts.
+Found target's other IDs: JeffDCunningham.
+Extended info extracted from 4 accounts.
+Countries: us, nl, ru
+Interests (tags): social, art, design, photo, networking, messaging, sharing, porn, discussion, streaming, video, finance, fintech, business, freelance, forum, tech, apps, coding
