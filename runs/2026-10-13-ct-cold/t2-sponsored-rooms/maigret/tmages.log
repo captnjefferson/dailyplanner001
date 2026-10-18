@@ -1,0 +1,135 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username tmages on:
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=tmages
+ ├─uid: 11363587
+ ├─account_id: 15690789
+ ├─username: Meetmagesh
+ ├─image: https://www.gravatar.com/avatar/9a0b14c1ce2534515265438fb043ef62?s=256&d=identicon&r=PG&f=y&so-version=2
+ ├─reputation: 31
+ ├─link: https://stackoverflow.com/users/11363587/meetmagesh
+ ├─created_at: 1555335603
+ ├─gravatar_url: https://gravatar.com/9a0b14c1ce2534515265438fb043ef62
+ ├─gravatar_username: Meetmagesh
+ └─gravatar_email_md5_hash: 9a0b14c1ce2534515265438fb043ef62
+[+] GitHub: https://github.com/tmages
+ ├─uid: 325663762
+ ├─image: https://avatars.githubusercontent.com/u/325663762?v=4
+ ├─created_at: 2026-09-06T14:08:19Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Twitter: https://twitter.com/tmages
+ ├─uid: VXNlcjoyOTU0NTQ1ODQ=
+ ├─fullname: Mages
+ ├─bio: hi, im vry frenly. im understanding n caring...
+ ├─created_at: 2011-05-09 02:07:11+00:00
+ ├─image: https://pbs.twimg.com/profile_images/776336482231394304/Sj4kNS7E.jpg
+ ├─is_protected: False
+ ├─follower_count: 1
+ ├─following_count: 2
+ ├─location: malaysia
+ └─favourites_count: 0
+[+] Trello: https://trello.com/tmages
+ ├─id: 5e558962c4702d8389fd55db
+ ├─username: tmages
+ ├─fullname: t.mages
+ ├─type: ghost
+ └─is_verified: False
+[+] Imgur: https://imgur.com/user/tmages
+ ├─id: 34078747
+ ├─imgur_username: tmages
+ ├─reputation_count: -40
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/qCjr5Pi_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/tmages/avatar
+ └─created_at: 2016-04-09T13:47:28Z
+[+] Blogger: https://tmages.blogspot.com
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=tmages&btnG=
+[+] Steam (Group) [Steam]: https://steamcommunity.com/groups/tmages
+[+] Steam: https://steamcommunity.com/id/tmages
+ ├─steam_id: 76561198076276539
+ ├─nickname: Thor2022
+ └─username: tmages
+[+] WordPressOrg: https://profiles.wordpress.org/tmages/
+ ├─fullname: TMages
+ ├─username: tmages
+ ├─image: https://www.gravatar.com/avatar/939529de3510c13f8d4fcc45836ef20b?s=1024&r=g&d=mm
+ ├─gravatar_url: https://gravatar.com/939529de3510c13f8d4fcc45836ef20b
+ ├─gravatar_username: tmages
+ └─gravatar_email_md5_hash: 939529de3510c13f8d4fcc45836ef20b
+[+] Academia.edu: https://independent.academia.edu/tmages
+[+] OP.GG LoL North America: https://op.gg/lol/summoners/search?q=tmages&region=na
+[+] TikTok: https://www.tiktok.com/@tmages
+ ├─tiktok_id: 6907514826961421318
+ ├─tiktok_username: tmages
+ ├─fullname: Tm اعصار
+ ├─image: https://p16-commonlite-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7329872206463238151~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9724&refresh_token=6565ff88&x-expires=1792522800&x-signature=mJ06ZP7R2AkY5637ZqhiIS9a8jA%3D&t=4d5b0474&ps=82dc5187&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: True
+ ├─sec_uid: MS4wLjABAAAAhLk5citnQJ-K6bMkbfx9R0UBTiDSu6d_AtWFrgxxxrLvu6ucKrak7GqN4fyB9o6A
+ ├─following_count: 2
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Discogs: https://www.discogs.com/user/tmages
+[+] Steemit: https://steemit.com/@tmages
+ ├─uid: 1045808
+ ├─username: tmages
+ ├─reputation: 25
+ ├─posts_count: 0
+ ├─follower_count: 6
+ ├─following_count: 0
+ ├─created_at: 2018-06-14T16:30:21
+ └─latest_activity_at: 2018-06-14T16:30:21
+[+] Snapchat: https://www.snapchat.com/add/tmages
+ ├─username: tmages
+ ├─fullname: Teri Mages
+ ├─bio: Teri Mages is on Snapchat! (@tmages)
+ ├─url: https://www.snapchat.com/@tmages
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@tmages/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=tmages&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Twitch: https://twitchtracker.com/tmages
+ ├─twitch_channel_id: 1274019862
+ ├─twitch_username: tmages
+ └─created_at: 2025-03-04 14:54:44
+[+] Telegram: https://t.me/tmages
+ ├─fullname: Tan Mageswari
+ └─image: https://cdn5.telesco.pe/file/YlS62_YdUjHiAic-IF_GC8TQUaK2vBlCEDcnLFTgVqER6zlnVgugboFlnFR6SC37vx7o_rrShqUWO0k9k4Z8fylV7ePtf7R5gvOzXAsMzAeENIhqr-cWWAJs1BaWjLDvXFnb0Z2-Gfb7zlhHjzAu0Q-NDwVdw9GFX1VIwQl4L3ULLzwc1ypqsMnkdG8tCLRsDXAb5KhjYhiezXcVsRbnESf4E--VcyJTWOEcIY5J5R7zMFC-BcNJeWP19gRtr6EwYfhls9aOepEgWpbLyXjA1ugBkVhiynlzwiuB-Jf78brHZYP5uqVojvkgWcMiQHBnDQ7sbWiLJhvxQ_5QnMGE-Q.jpg
+[+] Chess: https://www.chess.com/member/tmages
+ ├─chess_user_id: 241246333
+ ├─username: tmages
+ ├─country_code: IN
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2023-02-07 16:50:00 UTC
+ └─latest_activity_at: 2023-02-07 08:50:00 UTC
+[+] ImageShack: https://imageshack.com/user/tmages
+[+] Letterboxd: https://letterboxd.com/tmages
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/tmages
+[+] Venmo: https://venmo.com/tmages
+[+] Upwork: https://upwork.com/fl/tmages
+[+] Smule: https://www.smule.com/tmages
+[+] fixya: https://www.fixya.com/users/tmages
+[+] xHamster: https://xhamster.com/users/tmages
+[+] GitHubGist [GitHub]: https://gist.github.com/tmages
+[+] joyreactor.cc: https://joyreactor.cc/user/tmages
+[+] Pling: https://www.pling.com/u/tmages/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for tmages saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_tmages_simple.json
+[*] Short text report:
+Search by username tmages returned 28 accounts.
+Found target's other IDs: 76561198076276539 (steam_id).
+Extended info extracted from 12 accounts.
+Countries: us, in, nl, ru
+Interests (tags): social, gaming, coding, apps, sharing, business, messaging, blog, music, forum, networking, photo, education, art, tasks, research, video, archive, crypto, news, streaming, hobby, movies, review, finance, fintech, freelance, tech, porn, design

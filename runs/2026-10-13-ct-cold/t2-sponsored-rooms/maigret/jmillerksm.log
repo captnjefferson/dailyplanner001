@@ -1,0 +1,18 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jmillerksm on:
+[+] fixya: https://www.fixya.com/users/jmillerksm
+[+] joyreactor.cc: https://joyreactor.cc/user/jmillerksm
+[+] Pling: https://www.pling.com/u/jmillerksm/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jmillerksm saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jmillerksm_simple.json
+[*] Short text report:
+Search by username jmillerksm returned 3 accounts.
+Extended info extracted from 0 accounts.
+Countries: nl, ru
+Interests (tags): art, forum, tech, apps, coding, design

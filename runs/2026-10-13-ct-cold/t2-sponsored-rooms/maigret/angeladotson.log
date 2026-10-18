@@ -1,0 +1,142 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username angeladotson on:
+[+] Twitter: https://twitter.com/angeladotson
+ ├─uid: VXNlcjo0NDQ2MTcwNA==
+ ├─fullname: Angela Dotson
+ ├─created_at: 2009-06-03 21:25:42+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 7
+ ├─following_count: 3
+ └─favourites_count: 0
+[+] Blogger: https://angeladotson.blogspot.com
+ ├─blog_id: 2592218558721854569
+ └─uid: 10741313193123457306
+[+] Substack: https://substack.com/@angeladotson
+ ├─uid: 420902505
+ ├─username: angeladotson
+ ├─fullname: Angela Dotson
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/b7d03676-5053-4ff0-a471-5c09d4460f9d_874x1600.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7d03676-5053-4ff0-a471-5c09d4460f9d_874x1600.jpeg
+[+] Myspace: https://myspace.com/angeladotson
+ ├─uid: 208353660
+ └─username: angeladotson
+[+] Academia.edu: https://independent.academia.edu/angeladotson
+[+] Disqus: https://disqus.com/angeladotson
+ ├─id: 198881365
+ ├─fullname: Angela Dotson
+ ├─disqus_username: angeladotson
+ ├─reputation: 1.235932
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2016-03-02T12:56:27
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/angeladotson.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Facebook: https://www.facebook.com/angeladotson
+ ├─uid: 100006878611799
+ ├─username: angela.dotson
+ ├─fullname: Angela Dotson
+ ├─description: Angela Dotson is on Facebook. Join Facebook to connect with Angela Dotson and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-1/83477391_2476156692623594_5931321312898187264_n.jpg?stp=dst-jpg_tt6&cstp=mx523x523&ctp=s523x523&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=WSl2lbBMOucQ7kNvwHh9kWs&_nc_oc=AdqgHsCz9C_sojfy0o-ZP2fWCcPrGQ9Pew5ke3984ueIOcoHl0LLIzfctEupkhNz5hk&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=UhJMde27o1_G4YCjyinodg&_nc_ss=7020f&oh=00_AQNVSFPcTJ85O1wECyPLnEsdSjhfovBETX1JXdIQy2vNvQ&oe=6AFC828E
+[+] Pinterest: https://www.pinterest.com/angeladotson/
+ ├─uid: 92253629775351298
+ ├─username: angeladotson
+ ├─fullname: Angie Dotson
+ ├─bio: 💕Just.. Livin..Lovin..Learnin💕
+ ├─image: https://i.pinimg.com/280x280_RS/fe/1a/ce/fe1acec96ca90fb08ea052f3882cfa12.jpg
+ ├─follower_count: 71
+ ├─following_count: 61
+ ├─posts_count: 48
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sun, 04 Mar 2012 17:07:35 +0000
+ └─latest_activity_at: Sat, 21 May 2022 12:41:44 +0000
+[+] Giphy: https://giphy.com/channel/angeladotson
+[+] Behance: https://www.behance.net/angeladotson
+ ├─uid: 1091012005
+ ├─username: angeladotson
+ ├─fullname: Angela Dotson
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: USA
+ ├─created_at: 2021-10-01 03:37:32 UTC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Twitch: https://twitchtracker.com/angeladotson
+ ├─twitch_channel_id: 1126115527
+ ├─twitch_username: angeladotson
+ └─created_at: 2024-08-11 06:40:09
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=angeladotson&btnG=
+[+] YouTube: https://www.youtube.com/@angeladotson/about
+ ├─youtube_channel_id: UCEgduFVaVhWCEPNkfzUl3yw
+ ├─fullname: Angela Dotson
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lE-2v4pt1Am5Vt4Pedf4xjFjaVCExlg_cJVl7OY2xcwvV1BhXRzUSHIHLwFa5dONFuTw=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@angeladotson
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@angeladotson
+ ├─tiktok_id: 7603838264248943629
+ ├─tiktok_username: angeladotson
+ ├─fullname: angeladotson
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d199cc9d59abc0669e9189f8fc31c539~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=524b3a0d&x-expires=1792522800&x-signature=PJw1oZrh7UBmozspnuU4vWZuRL4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA201QY0IIUsrbyPIjYx6sKXA_uMYW8A5eT72fhXgMJHIJQHIjaBZyftcNyUTVJ-rb
+ ├─following_count: 4
+ ├─follower_count: 5
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=angeladotson
+[+] CreativeMarket: https://creativemarket.com/users/angeladotson
+[+] TripAdvisor: https://tripadvisor.com/members/angeladotson
+[+] Snapchat: https://www.snapchat.com/add/angeladotson
+ ├─username: angeladotson
+ ├─fullname: Angie Dotson
+ ├─bio: Angie Dotson is on Snapchat! (@angeladotson)
+ ├─url: https://www.snapchat.com/@angeladotson
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@angeladotson/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=angeladotson&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Flipboard: https://flipboard.com/@angeladotson
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/angeladotson
+[+] VSCO: https://vsco.co/angeladotson
+[+] Picsart: https://picsart.com/u/angeladotson
+ ├─picsart_id: 223224374033102
+ ├─picsart_username: angeladotson
+ ├─fullname: Angela Dotson
+ ├─image: https://graph.facebook.com/100002016640879/picture?type=normal
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 46
+ ├─is_verified: False
+ └─facebook_uid: 100002016640879
+[+] Smule: https://www.smule.com/angeladotson
+[+] fixya: https://www.fixya.com/users/angeladotson
+[+] joyreactor.cc: https://joyreactor.cc/user/angeladotson
+[+] Pling: https://www.pling.com/u/angeladotson/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for angeladotson saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_angeladotson_simple.json
+[*] Short text report:
+Search by username angeladotson returned 25 accounts.
+Found target's other IDs: angela.dotson.
+Extended info extracted from 13 accounts.
+Countries: nl, ru
+Interests (tags): social, art, design, sharing, music, photo, video, apps, messaging, blog, education, research, business, streaming, tech, forum, writing, discussion, networking, gaming, archive, bookmarks, stock, review, travel, news, coding

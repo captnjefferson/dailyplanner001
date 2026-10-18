@@ -1,0 +1,131 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username madisonchaney on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=madisonchaney&btnG=
+[+] YouTube: https://www.youtube.com/@madisonchaney/about
+ ├─youtube_channel_id: UCtbvpbfxxZJhFabq7r3WMLA
+ ├─fullname: MadisonChaney
+ ├─bio: Im a siunger yayer
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_kd_BKC4fof_NHY8QoFB5ELPHbi4VC-tR4w8lhnYwg=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@MadisonChaney
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@madisonchaney
+ ├─tiktok_id: 7651238890083304462
+ ├─tiktok_username: madisonchaney
+ ├─fullname: maddie!
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/e83aece076474ee8f965ea9852f891c6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=51471f6e&x-expires=1792522800&x-signature=TSrkqF%2Bt8OfGBcGHfRadTOlXM1E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: True
+ ├─sec_uid: MS4wLjABAAAAgdLBRK6kPaF_ibwGwyEubZc6yET5NO_J783xJQNm-YSiWV7vrJ4bhYO2KsII_lQ_
+ ├─following_count: 160
+ ├─follower_count: 38
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Snapchat: https://www.snapchat.com/add/madisonchaney
+ ├─username: madisonchaney
+ ├─fullname: Madison Holidy
+ ├─bio: Madison Holidy is on Snapchat! (@madisonchaney)
+ ├─url: https://www.snapchat.com/@madisonchaney
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@madisonchaney/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=madisonchaney&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Substack: https://substack.com/@madisonchaney
+ ├─uid: 503228895
+ ├─username: madisonchaney
+ ├─fullname: Madison Chaney
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/cc38920a-abfd-4023-90ae-36bc2f1780eb_1320x2346.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc38920a-abfd-4023-90ae-36bc2f1780eb_1320x2346.jpeg
+[+] Trello: https://trello.com/madisonchaney
+ ├─id: 6a3a8b01f738cd77b37283ed
+ ├─username: madisonchaney
+ ├─fullname: Madison Chaney
+ ├─image: https://trello-members.s3.amazonaws.com/6a3a8b01f738cd77b37283ed/95d074a5cda8a54cf4061b282acdea10/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] Twitch: https://twitchtracker.com/madisonchaney
+ ├─twitch_channel_id: 581922311
+ ├─twitch_username: madisonchaney
+ └─created_at: 2020-09-11
+[+] Threads: https://www.threads.com/@madisonchaney
+ ├─fullname: Madison Holidy
+ ├─username: madisonchaney
+ ├─follower_count: 26
+ └─posts_count: 0
+[+] Flipboard: https://flipboard.com/@madisonchaney
+[+] Paypal: https://www.paypal.com/paypalme/madisonchaney
+ ├─fullname: madison chaney
+ ├─username: madisonchaney
+ ├─payerId: M864KWXJSNXP8
+ ├─address: Las Vegas, NV
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Duolingo: https://www.duolingo.com/profile/madisonchaney
+ ├─uid: 24175509
+ ├─username: MadisonChaney
+ ├─fullname: Madison Chaney
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-02-05 19:31:21 UTC
+ ├─url: https://www.duolingo.com/profile/MadisonChaney
+ ├─streak: 0
+ ├─totalXp: 2478
+ ├─learningLanguage: es
+ └─fromLanguage: en
+[+] linktr.ee: https://linktr.ee/madisonchaney
+ ├─id: 50114802
+ ├─username: madisonchaney
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: President of The FSU Real Estate Society - CBRE Intern
+ ├─tier: free1
+ └─links: 
+   ├─ https://www.amazon.com/shop/madison.chaney
+   └─ https://www.linkedin.com/in/madisontchaney/
+[+] kofi: https://ko-fi.com/madisonchaney
+[+] Chess: https://www.chess.com/member/madisonchaney
+ ├─chess_user_id: 266750383
+ ├─username: madisonchaney
+ ├─fullname: Madison Chaney
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/266750383.59f6c336.200x200o.3b15e1b85347.jpg
+ ├─country_code: US
+ ├─follower_count: 1
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2023-03-25 20:24:46 UTC
+ └─latest_activity_at: 2026-05-22 16:33:26 UTC
+[+] TheOdysseyOnline: https://www.theodysseyonline.com/user/@madisonchaney
+[+] Picsart: https://picsart.com/u/madisonchaney
+ ├─picsart_id: 272597857028101
+ ├─picsart_username: madisonchaney
+ ├─fullname: Madison Chaney
+ ├─image: https://cdn140.picsart.com/272597860043201.jpg
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Imgflip: https://imgflip.com/user/madisonchaney
+[+] Venmo: https://venmo.com/madisonchaney
+[+] Upwork: https://upwork.com/fl/madisonchaney
+[+] Depop: https://www.depop.com/madisonchaney
+[+] VSCO: https://vsco.co/madisonchaney
+[+] Memrise: https://www.memrise.com/user/madisonchaney/
+[+] Smule: https://www.smule.com/madisonchaney
+[+] fixya: https://www.fixya.com/users/madisonchaney
+[+] joyreactor.cc: https://joyreactor.cc/user/madisonchaney
+[+] Pling: https://www.pling.com/u/madisonchaney/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for madisonchaney saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_madisonchaney_simple.json
+[*] Short text report:
+Search by username madisonchaney returned 25 accounts.
+Found target's other IDs: MadisonChaney.
+Extended info extracted from 12 accounts.
+Countries: us, nl, ru
+Interests (tags): social, apps, art, business, sharing, photo, streaming, video, blog, gaming, tech, finance, fintech, education, freelance, forum, design, messaging, writing, tasks, news, links, hobby, discussion, networking, fashion, shopping, music, coding

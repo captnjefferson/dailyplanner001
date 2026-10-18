@@ -1,0 +1,49 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jasonmillercpa on:
+[+] Twitter: https://twitter.com/jasonmillercpa
+ ├─uid: VXNlcjoxMzUzMDkzMDgw
+ ├─fullname: Jason Miller
+ ├─created_at: 2013-04-15 00:31:37+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: True
+ ├─follower_count: 1
+ ├─following_count: 857
+ └─favourites_count: 4
+[+] YouTube: https://www.youtube.com/@jasonmillercpa/about
+ ├─youtube_channel_id: UCZH_1xUFUbS4EG9cPvkrDsg
+ ├─fullname: Accounting Basics
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nmtsXDHjV3vsi3WJxNLeR6_m62bNa4V324lnRtnFy0u-rpS5RDcRIx863T-hajBZ4JOA=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@JasonMillerCPA
+ └─is_family_safe: True
+[+] Periscope: https://www.pscp.tv/jasonmillercpa
+ ├─id: 1drQewaoWbjbG
+ ├─created_at: 2015-12-06T02:21:29.296311332Z
+ ├─periscope_username: jasonmillercpa
+ ├─fullname: Jason Miller
+ ├─follower_count: 1
+ ├─following_count: 857
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ ├─is_twitter_verified: False
+ ├─twitter_uid: 1353093080
+ ├─twitter_screen_name: jasonmillercpa
+ └─image: https://abs.twimg.com/sticky/default_profile_images/default_profile_reasonably_small.png
+[+] Upwork: https://upwork.com/fl/jasonmillercpa
+[+] fixya: https://www.fixya.com/users/jasonmillercpa
+[+] joyreactor.cc: https://joyreactor.cc/user/jasonmillercpa
+[+] Pling: https://www.pling.com/u/jasonmillercpa/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jasonmillercpa saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jasonmillercpa_simple.json
+[*] Short text report:
+Search by username jasonmillercpa returned 7 accounts.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, streaming, video, art, messaging, business, freelance, networking, forum, tech, apps, coding, design
