@@ -1,0 +1,307 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username christinalim on:
+[+] GitHub: https://github.com/christinalim
+ ├─uid: 35072688
+ ├─image: https://avatars.githubusercontent.com/u/35072688?v=4
+ ├─created_at: 2018-01-03T16:10:37Z
+ ├─follower_count: 2
+ ├─following_count: 2
+ ├─public_gists_count: 0
+ └─public_repos_count: 3
+[+] Twitter: https://twitter.com/christinalim
+ ├─uid: VXNlcjoyNTA4MTA5OQ==
+ ├─fullname: Christina Lim
+ ├─created_at: 2009-03-18 14:30:21+00:00
+ ├─image: https://pbs.twimg.com/profile_images/103242742/HardRock3.jpg
+ ├─is_protected: False
+ ├─follower_count: 4
+ ├─following_count: 2
+ ├─location: Singapore
+ └─favourites_count: 0
+[+] YouTube: https://www.youtube.com/@christinalim/about
+ ├─youtube_channel_id: UC3sdSCslxI44wavBaNhSr6w
+ ├─fullname: CHRISTINA LIM
+ ├─bio: The Lord is my refuge ✝️
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_lTiuI_fFK7ZUcKm5Tt6X3HiXoAnxHF7AhCn4aIWpQ2s-I=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@CHRISTINALIM
+ ├─is_family_safe: True
+ └─facebook_username: christinalim
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=christinalim&btnG=
+[+] Myspace: https://myspace.com/christinalim
+ ├─uid: 29191723
+ └─username: christinalim
+[+] Dribbble: https://dribbble.com/christinalim
+[+] Bluesky: https://bsky.app/profile/christinalim.bsky.social
+ ├─uid: did:plc:gks7sxfnpr7ckoyfxuwi36uz
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─bio: CA born/bred, Tar Heel dead. PhD student. Marine microbe enthusiast
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:gks7sxfnpr7ckoyfxuwi36uz/bafkreieaqu6a4daf7ixsoy6rpzyag57tfevtbspobnanp2rfln63i7taqe
+ ├─image_bg: https://cdn.bsky.app/img/banner/plain/did:plc:gks7sxfnpr7ckoyfxuwi36uz/bafkreifx6pwwjms6pejai27wngbpgqsb2yb63hana5ck25d443ulpt2ueq
+ ├─created_at: 2023-11-08T16:35:12.040Z
+ ├─follower_count: 14
+ ├─following_count: 10
+ └─posts_count: 0
+[+] TikTok: https://www.tiktok.com/@christinalim
+ ├─tiktok_id: 97651085934202881
+ ├─tiktok_username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/smg149f35988db681ad9d64e236c6a1af78~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8e838bd9&x-expires=1792522800&x-signature=7tIhyU8v%2B0T7Lkq2jMTpMf9k0%2Bs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAApt0y51banbR_KFyAM1_qMXo46RuB6RzSsp7e74xp7yMfFOSNVf2OD_uymLDz3B7q
+ ├─following_count: 9
+ ├─follower_count: 15
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Medium: https://medium.com/@christinalim
+ ├─fullname: Christina Lim
+ ├─username: christinalim
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*ViWLB14hG1S2aHCE.jpg
+ └─latest_activity_at: 2026-10-18 19:34:16 UTC
+[+] ThemeForest: https://themeforest.net/user/christinalim
+[+] Substack: https://substack.com/@christinalim
+ ├─uid: 168346754
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/d70c2a64-574b-4fec-993c-6929b11c82c3_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd70c2a64-574b-4fec-993c-6929b11c82c3_144x144.png
+[+] GitLab: https://gitlab.com/christinalim
+ ├─uid: 9431111
+ ├─fullname: Christina Lim
+ ├─username: ChristinaLim
+ ├─state: active
+ ├─image: https://secure.gravatar.com/avatar/213787ac184c8397ba79896056d8df1e042bd96b2d65809b23b94bdb9b13278f?s=80&d=identicon
+ ├─website: https://gitlab.com/ChristinaLim
+ ├─gravatar_url: https://gravatar.com/213787ac184c8397ba79896056d8df1e
+ ├─gravatar_username: ChristinaLim
+ └─gravatar_email_md5_hash: 213787ac184c8397ba79896056d8df1e
+[+] SoundCloud: https://soundcloud.com/christinalim
+ ├─uid: 4051443
+ ├─name: Christina Lim
+ ├─username: christina_omd
+ ├─following_count: 1
+ ├─follower_count: 2
+ ├─is_verified: False
+ ├─image: https://a1.sndcdn.com/images/default_avatar_large.png
+ ├─location: Los Angeles
+ └─country_code: US
+[+] Calendly: https://calendly.com/christinalim
+ ├─uid: 5981912
+ ├─fullname: Christina Lim
+ ├─username: christinalim
+ ├─bio: Let's get you scheduled for a quick call. Please follow the instructions to add an event to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/5861563/c1cbd5bf.jpg
+ ├─owner_uuid: FADDKMUMIZAFRYS6
+ ├─organization_uuid: EEEBMMULXCNC5R2T
+ └─timezone: America/Los_Angeles
+[+] Academia.edu: https://independent.academia.edu/christinalim
+[+] Trello: https://trello.com/christinalim
+ ├─id: 529c09c4e7e7c6043e000496
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─type: ghost
+ └─is_verified: False
+[+] Disqus: https://disqus.com/christinalim
+ ├─id: 4270203
+ ├─fullname: christinalim
+ ├─disqus_username: christinalim
+ ├─reputation: 1.231755
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2010-09-10T06:45:24
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/christinalim.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 0
+[+] Snapchat: https://www.snapchat.com/add/christinalim
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─bio: Christina Lim is on Snapchat! (@christinalim)
+ ├─url: https://www.snapchat.com/@christinalim
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@christinalim/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=christinalim&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Telegram: https://t.me/christinalim
+ ├─fullname: Christina
+ └─image: https://cdn4.telesco.pe/file/l_1pCbW0ksxV4jBUbNRnUR0UJ566jl_VcZ1uc36c94Op2mTswXe8OGfSpq0vGsVs3tPay2ukWHx7AOpBor4Llx5zPUyToNMkLsV4ohIuccbzYYZTkCANQLwg8OoPoT-2Nv3060qWJQXOJgdRGEM0lCTTLJc8t0IQ1Tn7RFPK-VZSyRlRayNl6bCyzS11njwk4kZYnJ5vScINjuwSAvnZSwL1ZiM2Enbh5nZ9WtE_zGZFjsYP_1joIe0Fqbuidu24sNN2VCdLBUCU0AQqtAi2wqmAVIzpo8dIh_Kviy9w0NKPXMY8krSmV3njRYC1BU6J4hAKBY9g2aAsXh1QmQ1q7g.jpg
+[+] Giphy: https://giphy.com/channel/christinalim
+[+] Pinterest: https://www.pinterest.com/christinalim/
+ ├─uid: 110549503261541853
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: https://i.pinimg.com/280x280_RS/63/36/06/633606e87c6551a46b11fcebcdcc7625.jpg
+ ├─follower_count: 99
+ ├─following_count: 15
+ ├─posts_count: 4
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 29 Dec 2011 02:15:24 +0000
+ └─latest_activity_at: Thu, 09 Aug 2012 05:13:18 +0000
+[+] Imgur: https://imgur.com/user/christinalim
+ ├─id: 80249061
+ ├─imgur_username: ChristinaLim
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/IZF0wHC_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/ChristinaLim/avatar
+ └─created_at: 2018-01-18T21:57:47Z
+[+] Twitch: https://twitchtracker.com/christinalim
+ ├─twitch_channel_id: 264581728
+ ├─twitch_username: christinalim
+ └─created_at: 2018-10-04 07:55:32
+[+] linktr.ee: https://linktr.ee/christinalim
+ ├─id: 15960505
+ ├─username: christinalim
+ ├─is_active: True
+ ├─is_verified: True
+ └─tier: free
+[+] Codepen: https://codepen.io/christinalim
+[+] Facebook: https://www.facebook.com/christinalim
+ ├─uid: 100001860769392
+ ├─username: christina.lim
+ ├─fullname: Christina Lim
+ ├─description: Christina Lim is on Facebook. Join Facebook to connect with Christina Lim and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/490191892_29030541236591183_4196864046368587367_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=clf07CiVNvAQ7kNvwEs2FtE&_nc_oc=AdoR4hLWyS3ZFcionlntbpXpJ_u_xwFDtRAlN-OTmeyjv7fHRJo7_9yAZEyDPkyQOeM&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=DTbxCgedAyiGQzem_55HBw&_nc_ss=7020f&oh=00_AQM2K7Bo5CtpusSKUbzY-oPfVS5NkdvKGmCDlEJY7Sb2hg&oe=6ADAEDD4
+[+] Behance: https://www.behance.net/christinalim
+ ├─uid: 1952731
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: https://pps.services.adobe.com/api/profile/DBF87D445361E3540A490D4D@AdobeID/image/ba19160c-d053-418d-bf55-6f44b9f24cb2/276
+ ├─location: Winnipeg, Manitoba, Canada
+ ├─created_at: 2012-12-14 00:18:18 UTC
+ ├─occupation: Production/News Editor, Visual Effects Artist
+ ├─follower_count: 2
+ ├─following_count: 2
+ ├─views_count: 128
+ └─appreciations: 0
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=christinalim&compact=true
+ ├─id: 8805628
+ ├─nickname: Christinalim
+ ├─username: Christinalim
+ ├─fullname: Christina
+ ├─role: freelancer
+ └─created_at: 2013-09-09 10:23:47 UTC
+[+] Codecanyon: https://codecanyon.net/user/christinalim
+[+] Codecademy: https://www.codecademy.com/profiles/christinalim
+[+] HuggingFace: https://huggingface.co/christinalim
+[+] Duolingo: https://www.duolingo.com/profile/christinalim
+ ├─uid: 19246900
+ ├─username: ChristinaLim
+ ├─fullname: Christina Lim
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2013-12-25 04:13:52 UTC
+ ├─url: https://www.duolingo.com/profile/ChristinaLim
+ ├─streak: 0
+ ├─totalXp: 99
+ ├─learningLanguage: fr
+ └─fromLanguage: en
+[+] JSFiddle: https://jsfiddle.net/u/christinalim/
+[+] Paypal: https://www.paypal.com/paypalme/christinalim
+ ├─fullname: Christina Lim
+ ├─username: ChristinaLim
+ ├─payerId: LTK8TPTT6JEKY
+ ├─address: MILPITAS, CA
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/NjAwWDYwMFhKUEc/p/MDY2NDk0YjUtNjRkOC00OGQzLTljYmQtNjBhZWE0MWI1YTdk/image_58.jpg
+[+] OP.GG LoL Turkey: https://op.gg/lol/summoners/search?q=christinalim&region=tr
+[+] Bandcamp: https://www.bandcamp.com/christinalim
+[+] OpenSea: https://opensea.io/christinalim
+[+] TripAdvisor: https://tripadvisor.com/members/christinalim
+[+] LeetCode: https://leetcode.com/u/christinalim/
+ ├─username: christinalim
+ ├─fullname: christinalim
+ ├─image: https://assets.leetcode.com/users/christinalim/avatar_1548443792.png
+ └─ranking: 5000001
+[+] DeviantART: https://christinalim.deviantart.com
+ ├─country: Malaysia
+ ├─created_at: 2015-02-08 15:36:42 UTC
+ ├─gender: female
+ ├─username: christinalim
+ └─image: https://a.deviantart.net/avatars-big/c/h/christinalim.jpg?4
+[+] LiveInternet: https://www.liveinternet.ru/users/christinalim/profile
+[+] Chess: https://www.chess.com/member/christinalim
+ ├─chess_user_id: 3295734
+ ├─username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/3295734.72719fa7.200x200o.3483e12b3950.jpeg
+ ├─country_code: AU
+ ├─location: Melbourne, Victoria
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2009-10-03 04:11:13 UTC
+ └─latest_activity_at: 2017-09-03 01:45:45 UTC
+[+] Flipboard: https://flipboard.com/@christinalim
+[+] ChaturBate: https://chaturbate.com/christinalim/
+[+] CreativeMarket: https://creativemarket.com/users/christinalim
+[+] Slides: https://slides.com/christinalim
+[+] Mix: https://mix.com/christinalim
+[+] Couchsurfing: https://www.couchsurfing.com/people/christinalim
+[+] Audiojungle: https://audiojungle.net/user/christinalim
+[+] Freesound: https://freesound.org/people/christinalim/
+[+] Kick: https://kick.com/christinalim
+[+] Wattpad: https://www.wattpad.com/user/christinalim
+[+] Depop: https://www.depop.com/christinalim
+[+] Upwork: https://upwork.com/fl/christinalim
+[+] Picsart: https://picsart.com/u/christinalim
+ ├─picsart_id: 53334507
+ ├─picsart_username: christinalim
+ ├─fullname: Christina Lim
+ ├─image: http://cdn.picsart.com/3222021733.png
+ ├─follower_count: 3
+ ├─following_count: 4
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] VideoHive: https://videohive.net/user/christinalim
+[+] TradingView: https://www.tradingview.com/u/christinalim
+[+] Periscope: https://www.pscp.tv/christinalim
+ ├─id: 1VGjvoLJgoGEO
+ ├─created_at: 2017-03-10T13:38:37.453779474Z
+ ├─periscope_username: ChristinaLim
+ ├─fullname: Lim
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ └─is_twitter_verified: False
+[+] VSCO: https://vsco.co/christinalim
+[+] fixya: https://www.fixya.com/users/christinalim
+[+] Venmo: https://venmo.com/christinalim
+[+] Stihi.ru: https://www.stihi.ru/avtor/christinalim
+[+] Smule: https://www.smule.com/christinalim
+[+] joyreactor.cc: https://joyreactor.cc/user/christinalim
+[+] Pling: https://www.pling.com/u/christinalim/
+[+] Tinder: https://www.tinder.com/@christinalim
+[+] Revolut.me: https://revolut.me/christinalim
+ └─fullname: Bee Chin Christina L
+[+] Soop: https://www.sooplive.co.kr/station/christinalim
+[+] GitHubGist [GitHub]: https://gist.github.com/christinalim
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for christinalim saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_christinalim_simple.json
+[*] Short text report:
+Search by username christinalim returned 68 accounts.
+Found target's other IDs: ChristinaLim, christina_omd, christina.lim, Christinalim.
+Extended info extracted from 30 accounts.
+Countries: ru, us, tr, my, nl, kr
+Interests (tags): social, business, apps, sharing, coding, design, art, tech, streaming, video, music, photo, networking, messaging, writing, shopping, education, gaming, finance, blog, fintech, discussion, links, freelance, travel, forum, stock, professional, research, tasks, llm, crypto, nft, review, hobby, news, porn, webcam, archive, reading, fashion, trading, dating

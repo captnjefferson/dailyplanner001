@@ -1,0 +1,177 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username cindyfree on:
+[+] GitHub: https://github.com/cindyfree
+ ├─uid: 27859271
+ ├─image: https://avatars.githubusercontent.com/u/27859271?v=4
+ ├─created_at: 2017-04-21T14:01:44Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ ├─public_repos_count: 3
+ └─bio: i am little snow
+[+] Twitter: https://twitter.com/cindyfree
+ ├─uid: VXNlcjoyMTU2OTU2NQ==
+ ├─fullname: Cindy Free
+ ├─created_at: 2009-02-22 14:55:53+00:00
+ ├─image: https://pbs.twimg.com/profile_images/880032599162449922/hJNBKWGK.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/21569565/1498651117
+ ├─is_protected: False
+ ├─follower_count: 25
+ ├─following_count: 24
+ ├─location: Frisco, TX
+ └─favourites_count: 7
+[+] Myspace: https://myspace.com/cindyfree
+ └─uid: 404216092
+[+] Substack: https://substack.com/@cindyfree
+ ├─uid: 367900530
+ ├─username: cindyfree
+ └─fullname: Cindy French
+[+] Telegram: https://t.me/cindyfree
+ ├─fullname: Cindy Oliver
+ └─image: https://cdn1.telesco.pe/file/IEdulPScIyyKweMvv6GJogjjQ9-IOYsEy3DmnEdjmX8CZnWqGTnYdRPqX2U1EKEC0zjk8jkIRngMvA0VTzEAF562Sp8qHcV7dqVzwVXYhwY-tsLHl8dHXvEamLzBD-Fi-BUotLDKKSMR_FLXjOwhBO9a6PKNWAJQHtBzmWsTBMAi5dq4pCEsI9D8CbmJnCXZOfpnj1_epIQNo6uyqynD9nb8kuR5STc984FXUvO5roXF7CplgC32UhnLuKQH-TfnaTpUt94fuE2pdjfmqcCpdZ9Y7Ydck31Pu_2OsJAGOpnm_jdwzTERF_3bFytE5CP5Cg_Q6s4GFI5D50OnjWheLA.jpg
+[+] Giphy: https://giphy.com/channel/cindyfree
+[+] Flickr: https://www.flickr.com/photos/cindyfree
+[+] Weibo: https://weibo.com/n/cindyfree
+ ├─weibo_id: 1653578533
+ ├─fullname: CINdyFRee
+ ├─image: https://tvax1.sinaimg.cn/crop.0.0.1242.1242.1024/628f9b25ly8fdkonac7a4j20yi0yitcy.jpg?KID=imgbed,tva&Expires=1792362747&ssig=THJ7i9DaIi
+ ├─gender: f
+ ├─location: 其他
+ ├─verified: False
+ ├─follower_count: 991
+ ├─following_count: 330
+ └─statuses_count: 4349
+[+] Snapchat: https://www.snapchat.com/add/cindyfree
+ ├─username: cindyfree
+ ├─fullname: Cindy Free
+ ├─bio: Cindy Free is on Snapchat! (@cindyfree)
+ ├─url: https://www.snapchat.com/@cindyfree
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@cindyfree/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=cindyfree&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] TripAdvisor: https://tripadvisor.com/members/cindyfree
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=cindyfree
+[+] Twitch: https://twitchtracker.com/cindyfree
+ ├─twitch_channel_id: 132200016
+ ├─twitch_username: cindyfree
+ └─created_at: 2016-08-14 18:14:06
+[+] Bluesky: https://bsky.app/profile/cindyfree.bsky.social
+ ├─uid: did:plc:wi5ytxbnx5tqm3h677ukdxbz
+ ├─username: cindyfree
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:wi5ytxbnx5tqm3h677ukdxbz/bafkreie2vhtr2hnhdc6umzyz4ejwpyhs5hqlvo2d2ymicsx3vxqsaluuwq
+ ├─created_at: 2025-01-27T02:03:50.842Z
+ ├─follower_count: 204
+ ├─following_count: 1
+ └─posts_count: 0
+[+] Naver: https://blog.naver.com/cindyfree
+[+] Duolingo: https://www.duolingo.com/profile/cindyfree
+ ├─uid: 34482808
+ ├─username: cindyfree
+ ├─fullname: Cindy
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-06-04 12:38:42 UTC
+ ├─url: https://www.duolingo.com/profile/cindyfree
+ ├─streak: 0
+ ├─totalXp: 40
+ ├─learningLanguage: en
+ └─fromLanguage: ko
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=cindyfree&compact=true
+ ├─id: 49020616
+ ├─nickname: Cindyfree
+ ├─username: Cindyfree
+ ├─fullname: Cindyfree
+ ├─role: freelancer
+ ├─location: Johannesburg, South Africa
+ └─created_at: 2020-08-13 21:46:47 UTC
+[+] Paypal: https://www.paypal.com/paypalme/cindyfree
+ ├─fullname: Cindy Free
+ ├─username: CindyFree
+ ├─payerId: XZ9X4XR4CGFCU
+ ├─address: Jacksonville, FL
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/ODk5WDYwMFhKUEc/p/ZWIxMjQxYTctOTMyYS00MzI1LTgwMGMtNzA0ZGY3YmYyZjAz/image_58.jpg
+[+] Disqus: https://disqus.com/cindyfree
+ ├─id: 110734758
+ ├─fullname: Cindy Free
+ ├─disqus_username: cindyfree
+ ├─reputation: 1.231755
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2014-06-14T23:16:09
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/cindyfree.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 0
+[+] DeviantART: https://cindyfree.deviantart.com
+ ├─country: United States
+ ├─created_at: 2021-05-19 04:29:19 UTC
+ ├─gender: other
+ └─username: cindyfree
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=cindyfree&btnG=
+[+] Geocaching: https://www.geocaching.com/p/?u=cindyfree
+[+] YouTube: https://www.youtube.com/@cindyfree/about
+ ├─youtube_channel_id: UCa-GR3WnYUsRZihhfStkbEg
+ ├─fullname: cindyfree
+ ├─bio: 大家好！我叫Cindy。我想在这里分享我的感悟、想法、有趣的事情，以及在英国的工作与生活。
+
+ ├─image: https://yt3.googleusercontent.com/ZsDWJWjErTlYeWM4gVzHHFtiYJBBKqgLZUGVLMVmP-uA9lum-DfkWpGIYYXlCiaEa9IcN6X0=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@cindyfree
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@cindyfree
+ ├─tiktok_id: 1683844
+ ├─tiktok_username: cindyfree
+ ├─fullname: CindyFree
+ ├─image: https://pbs.twimg.com/profile_images/81375793/l_78df78b2db2c1151d126f117a2e76aec.jpg
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAkBVrM8ABaWub281qdCKu_v7DJIRaSIZ3zlCHJLgx2ko
+ ├─following_count: 0
+ ├─follower_count: 6
+ ├─heart_count: 1
+ ├─video_count: 1
+ └─digg_count: 0
+[+] Pinterest: https://www.pinterest.com/cindyfree/
+ ├─uid: 247768554407986312
+ ├─username: cindyfree
+ ├─fullname: Cindy Allen
+ ├─image: https://i.pinimg.com/280x280_RS/de/26/83/de2683986d5bc4f03470c2b5c4a0d0f3.jpg
+ ├─follower_count: 63
+ ├─following_count: 29
+ ├─posts_count: 117
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sun, 11 Dec 2011 23:30:15 +0000
+ └─latest_activity_at: Thu, 23 Jul 2026 15:51:25 +0000
+[+] Venmo: https://venmo.com/cindyfree
+[+] Smule: https://www.smule.com/cindyfree
+[+] VSCO: https://vsco.co/cindyfree
+[+] Upwork: https://upwork.com/fl/cindyfree
+[+] ImageShack: https://imageshack.com/user/cindyfree
+[+] fixya: https://www.fixya.com/users/cindyfree
+[+] Typeracer: https://data.typeracer.com/pit/profile?user=cindyfree
+[+] GitHubGist [GitHub]: https://gist.github.com/cindyfree
+[+] joyreactor.cc: https://joyreactor.cc/user/cindyfree
+[+] Pling: https://www.pling.com/u/cindyfree/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for cindyfree saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_cindyfree_simple.json
+[*] Short text report:
+Search by username cindyfree returned 33 accounts.
+Found target's other IDs: Cindyfree, CindyFree.
+Extended info extracted from 17 accounts.
+Countries: us, cn, kr, nl, ru
+Interests (tags): social, art, apps, photo, business, messaging, sharing, coding, networking, video, music, gaming, streaming, education, freelance, finance, fintech, hobby, design, blog, writing, review, travel, archive, bookmarks, research, discussion, forum, tech

@@ -1,0 +1,50 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username otrdriveschool on:
+[+] Calendly: https://calendly.com/otrdriveschool
+ ├─uid: 27443539
+ ├─fullname: Casey Forbes
+ ├─username: otrdriveschool
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/branding/logo/34fcb7d1-765b-4e9d-908b-a2bc413ab1b7/3b7ed7bd.png
+ ├─owner_uuid: 3e80bcee-ccfa-4e62-9613-e33224301dd6
+ ├─organization_uuid: b59881d9-87d5-4577-8820-e9a75beafed7
+ └─timezone: America/Los_Angeles
+[+] Facebook: https://www.facebook.com/otrdriveschool
+ ├─uid: 100085004775742
+ ├─username: OTRDriveSchool
+ ├─fullname: OTR Drive School | Las Vegas NV
+ ├─description: OTR Drive School, Las Vegas. 234 followers · 10 talking about this · 9 were here. On The Road Drive School is your gateway to a new future in the trucking industry.
+ └─image: https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/400336846_304358749074282_8482743103532865573_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1707&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=EwGpIz5OJqgQ7kNvwFgXhRU&_nc_oc=AdolL00sLg9luEZVCzJEk_mHZT_UT-aoB3iGGNN4ZkLp2p5oZY9Lqyx9Q2eN01qlom4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=JPDEY8rQIknBcGFpHcQssg&_nc_ss=7020f&oh=00_AQMXHrT0QretJ9zSAriJFLSsbB8XYBJq1DGpHa1QTqDxuw&oe=6ADADADB
+[+] Upwork: https://upwork.com/fl/otrdriveschool
+[+] fixya: https://www.fixya.com/users/otrdriveschool
+[+] TikTok: https://www.tiktok.com/@otrdriveschool
+ ├─tiktok_id: 7106336718530823210
+ ├─tiktok_username: otrdriveschool
+ ├─fullname: OTR Driving School
+ ├─bio: Getting you on the road to a new future! 🚚💯🔥 
+www.otrdriveschool.com Call 702-560-6362
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7349094966104162346~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c614362b&x-expires=1792522800&x-signature=ZJ9mCQKi1fJtGoyc57jme5f0j%2Bs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAEmtZEiv8HHT05ONSPFZEqF6HplAHLjAHoTEP6FI3y9iw9TTdN2pPaVUlfjDb5Dj8
+ ├─following_count: 16
+ ├─follower_count: 54
+ ├─heart_count: 623
+ ├─video_count: 30
+ └─digg_count: 0
+[+] joyreactor.cc: https://joyreactor.cc/user/otrdriveschool
+[+] Pling: https://www.pling.com/u/otrdriveschool/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for otrdriveschool saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_otrdriveschool_simple.json
+[*] Short text report:
+Search by username otrdriveschool returned 7 accounts.
+Found target's other IDs: OTRDriveSchool.
+Extended info extracted from 3 accounts.
+Countries: us, nl, ru
+Interests (tags): business, social, art, freelance, networking, forum, tech, video, apps, coding, design

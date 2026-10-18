@@ -1,0 +1,68 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username hrannieconsulting on:
+[+] Disqus: https://disqus.com/hrannieconsulting
+ ├─id: 421923772015062
+ ├─fullname: HR Annie Consulting
+ ├─disqus_username: hrannieconsulting
+ ├─bio: HR Annie Consulting delivers expert HR Consulting, from HR Hotlines, fractional HR support, recruitment, employee, manager and leadership training and development.
+ ├─reputation: 1.231755
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─location: 633 SE Clay St. Suite 2 Portland, OR 97214
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2025-11-22T02:08:53
+ ├─upvotes_count: 0
+ ├─website: https://www.hrannieconsulting.com
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/hrannieconsulting.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 0
+[+] linktr.ee: https://linktr.ee/hrannieconsulting
+ ├─id: 4659903
+ ├─username: hrannieconsulting
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: Custom HR Support - Training - Career Coaching - Recruitment - Background Check Services
+ ├─tier: free
+ ├─social_links: {'instagram': 'https://instagram.com/hrannieconsulting', 'linkedin': 'https://www.linkedin.com/company/hr-annie-consulting'}
+ └─links: 
+   ├─ https://hrannieconsulting.ticketspice.com/ghost-your-job-search-anxiety
+   ├─ https://hrannieconsulting.ticketspice.com/manager-crash-course-2-0
+   ├─ 
+   ├─ https://www.hrannieconsulting.com/events/
+   ├─ https://www.hrannieconsulting.com/hr-annie-in-action/
+   ├─ https://www.hrannietraining.com/
+   ├─ https://www.hrannieconsulting.com/career-coaching-services
+   ├─ https://recruiterflow.com/db_0bb9d349da9304c113b4b0245eb63545/jobs/56
+   ├─ https://www.hrannieconsulting.com/category/blog/
+   ├─ https://view.flodesk.com/pages/627458311e8046b2202545c3
+   ├─ https://www.hrannieconsulting.com
+   └─ https://www.backgroundbrief.com/
+[+] Facebook: https://www.facebook.com/hrannieconsulting
+ ├─uid: 100063699334763
+ ├─username: HRAnnieConsulting
+ ├─fullname: HR Annie Consulting Inc | Portland OR
+ ├─description: HR Annie Consulting Inc, Portland. 389 followers · 1 talking about this · 15 were here. HR Annie Consulting provides much needed and cost-effective human resource knowledge.
+ └─image: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/326360708_875479747043901_772653325342936848_n.png?stp=dst-png&cstp=mx882x882&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=8WMjAt7bAS8Q7kNvwGzHMzm&_nc_oc=AdqG0VWzBEqcz3vPzHaGYORdhibiWZmoShdZt-6UbwiEf8frdCA_EG3smgPquSaYpyM&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=k53Oqb9ARcm0v70WxJuCBA&_nc_ss=7020f&oh=00_AQNMwlcFnFmZSW_x5Q4IzXsMDIZtdv9va254GhZJRaYYgw&oe=6ADB04D1
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=hrannieconsulting&btnG=
+[+] Upwork: https://upwork.com/fl/hrannieconsulting
+[+] fixya: https://www.fixya.com/users/hrannieconsulting
+[+] Pling: https://www.pling.com/u/hrannieconsulting/
+[+] joyreactor.cc: https://joyreactor.cc/user/hrannieconsulting
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for hrannieconsulting saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_hrannieconsulting_simple.json
+[*] Short text report:
+Search by username hrannieconsulting returned 7 accounts.
+Found target's other IDs: HRAnnieConsulting.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, networking, art, discussion, links, sharing, business, freelance, forum, tech, apps, coding, design

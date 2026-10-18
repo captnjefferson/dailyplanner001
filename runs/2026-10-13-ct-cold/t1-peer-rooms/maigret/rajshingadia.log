@@ -1,0 +1,48 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username rajshingadia on:
+[+] Twitter: https://twitter.com/rajshingadia
+ ├─uid: VXNlcjo2MDEyODY2NzM=
+ ├─fullname: rajesh shingadia
+ ├─created_at: 2012-06-06 18:58:25+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 0
+ ├─following_count: 1
+ └─favourites_count: 0
+[+] Trello: https://trello.com/rajshingadia
+ ├─id: 6a0727509b0ab024ba3a82c9
+ ├─username: rajshingadia
+ ├─fullname: Raj Shingadia
+ ├─image: https://trello-members.s3.amazonaws.com/6a0727509b0ab024ba3a82c9/5d73718db829b8ff3d410cb5387b8222/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] TikTok: https://www.tiktok.com/@rajshingadia
+ ├─tiktok_id: 7094660477968024581
+ ├─tiktok_username: rajshingadia
+ ├─fullname: Raj Shingadia897
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7094662232566398982~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=34ee9ab6&x-expires=1792522800&x-signature=Qk2P5L%2FvKncoFmVxSSCRW7IbK7U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAfNVvppyvzWBtHBU4ZVdvUMRWOKnZVY94PUbVNHu8q0daC3JUIcMV48C4ZhX2gPlI
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Upwork: https://upwork.com/fl/rajshingadia
+[+] fixya: https://www.fixya.com/users/rajshingadia
+[+] joyreactor.cc: https://joyreactor.cc/user/rajshingadia
+[+] Pling: https://www.pling.com/u/rajshingadia/
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for rajshingadia saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_rajshingadia_simple.json
+[*] Short text report:
+Search by username rajshingadia returned 7 accounts.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, apps, business, art, messaging, tasks, video, freelance, networking, forum, tech, coding, design

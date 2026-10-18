@@ -1,0 +1,292 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jasonpotts on:
+[+] Myspace: https://myspace.com/jasonpotts
+ ├─uid: 420102867
+ └─username: jasonpotts
+[+] Disqus: https://disqus.com/jasonpotts
+ ├─id: 54237179
+ ├─fullname: Jason Potts
+ ├─disqus_username: jasonpotts
+ ├─reputation: 1.232885
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-06-03T03:12:48
+ ├─upvotes_count: 4
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/jasonpotts.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 2
+[+] GitHub: https://github.com/jasonpotts
+ ├─uid: 77517636
+ ├─image: https://avatars.githubusercontent.com/u/77517636?v=4
+ ├─created_at: 2021-01-16T00:36:34Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Medium: https://medium.com/@jasonpotts
+ ├─fullname: Jason Potts
+ ├─username: jasonpotts
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*18K2R6m49z8-iPLo.
+ └─latest_activity_at: 2026-10-18 19:31:54 UTC
+[+] Twitter: https://twitter.com/jasonpotts
+ ├─uid: VXNlcjoxOTUxNTM2OQ==
+ ├─fullname: jason potts
+ ├─created_at: 2009-01-26 01:47:33+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 5
+ ├─following_count: 1
+ └─favourites_count: 0
+[+] Substack: https://substack.com/@jasonpotts
+ ├─uid: 125058782
+ ├─username: jasonpotts
+ ├─fullname: Jason Potts
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/1c2de842-954c-4ead-9d0c-b7aa6fb5058a_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c2de842-954c-4ead-9d0c-b7aa6fb5058a_144x144.png
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:jasonpotts
+ ├─uid: 5219417
+ └─username: Jasonpotts
+[+] Twitch: https://twitchtracker.com/jasonpotts
+ ├─twitch_channel_id: 151501127
+ ├─twitch_username: jasonpotts
+ └─created_at: 2017-03-26
+[+] Telegram: https://t.me/jasonpotts
+ ├─fullname: Jason Potts
+ ├─image: https://cdn5.telesco.pe/file/qUCbv4VkhgALs-AJ2Ti2khqr4Sh_2YScprYz2SJ38eKN6PD0h23myVZNw2y0XDWpE42Dm_ShByZNehQKhZ-t_tSvUpTZNnSXgTmiNNclzCGnH3viPx8obfYU9Xs0QHDYReaXUhMhRUGByEUbwzVpxU4b28eqj4Xl6TMoCXFirv-8kuQNNfk1_v7t8tUKxf9-JAdVphIyE5qWc7hoEGNlJAj5xhn9dZkVl_v_hDxMhwWX-BGIe3FXRBT4ngk7u3r9N3xrzjklD1dPEEGSL5t7VEOGgArHdY8Srnn6DKKsJyV7CwL3Vq4oiSa1uji0oObkuP1tCsOa5Hk891VfD0Lsow.jpg
+ └─bio: Institutional cryptoeconomist at RMIT Blockchain Innovation Hub
+[+] MixCloud: https://www.mixcloud.com/jasonpotts/
+ ├─username: Jasonpotts
+ ├─created_at: 2021-07-19T15:43:55Z
+ ├─updated_at: 2021-07-19T15:43:55Z
+ ├─image: https://thumbnailer.mixcloud.com/unsafe/640x640/defaults/users/v2/2.png
+ ├─follower_count: 1
+ ├─following_count: 1
+ ├─cloudcast_count: 0
+ ├─favorite_count: 0
+ ├─listen_count: 0
+ ├─is_pro: False
+ └─is_premium: False
+[+] SoundCloud: https://soundcloud.com/jasonpotts
+ ├─uid: 8120154
+ ├─name: Jason Potts
+ ├─username: Jason Potts 2
+ ├─following_count: 1
+ ├─follower_count: 3
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000006674379-ylelij-large.jpg
+[+] Giphy: https://giphy.com/channel/jasonpotts
+[+] SlideShare: https://www.slideshare.net/jasonpotts
+ ├─uid: 26223516
+ ├─fullname: JasonPotts
+ ├─username: jasonpotts
+ ├─image: https://public.slidesharecdn.com/v2/images/profile-picture.png
+ ├─slideshow_count: 1
+ ├─follower_count: 2
+ ├─following_count: 8
+ ├─city: London
+ ├─country: United Kingdom
+ ├─is_suspended: False
+ └─is_organization: False
+[+] Academia.edu: https://independent.academia.edu/jasonpotts
+[+] WordPressOrg: https://profiles.wordpress.org/jasonpotts/
+[+] Pinterest: https://www.pinterest.com/jasonpotts/
+ ├─uid: 382806174484927982
+ ├─username: jasonpotts
+ ├─fullname: Jason Potts
+ ├─bio: Just here for tattoo ideas
+ ├─image: https://i.pinimg.com/280x280_RS/8c/39/2a/8c392ae971ed90c55c98f305c73ea4ca.jpg
+ ├─follower_count: 114
+ ├─following_count: 12
+ ├─posts_count: 218
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sun, 25 Nov 2012 02:42:08 +0000
+ └─latest_activity_at: Sat, 17 Oct 2026 00:17:16 +0000
+[+] Calendly: https://calendly.com/jasonpotts
+ ├─uid: 7912567
+ ├─fullname: Jason Potts
+ ├─username: jasonpotts
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: GAHDP7MRKS2MNWVL
+ ├─organization_uuid: EDFBI2JXQCND45EW
+ └─timezone: America/New_York
+[+] Flickr: https://www.flickr.com/photos/jasonpotts
+[+] HubPages: https://hubpages.com/@jasonpotts
+[+] About.me: https://about.me/jasonpotts
+[+] Instructables: https://www.instructables.com/member/jasonpotts
+[+] last.fm: https://last.fm/user/jasonpotts
+ ├─fullname: jasonpotts
+ ├─bio: • scrobbling since 10 Apr 2008
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/74e368122bdb4c01ccd1d4566f8dbcb0.png
+ └─created_at: 2008
+[+] Snapchat: https://www.snapchat.com/add/jasonpotts
+ ├─bio: jasonpotts is on Snapchat! (@jasonpotts) | Last updated: 04/11/2026
+ ├─url: https://www.snapchat.com/@jasonpotts
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jasonpotts/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[+] Keybase: https://keybase.io/jasonpotts
+ ├─uid: 115ff51f711432d1798d22d0a0ac0b19
+ ├─username: jasonpotts
+ ├─name: jason potts
+ ├─location: melbourne
+ ├─bio: economist
+ └─twitter_username: profjasonpotts
+[+] Weebly: http://jasonpotts.weebly.com/
+[+] Paypal: https://www.paypal.com/paypalme/jasonpotts
+ ├─fullname: Jason Potts
+ ├─username: JasonPotts
+ ├─payerId: D84LT2YYYT6ZW
+ ├─address: Oakland, MI
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/MjAwWDIwMA==/$(KGrHqF,!l8E-i)77ViMBP3)UI1t3g~~60_58.jpg
+[+] Duolingo: https://www.duolingo.com/profile/jasonpotts
+ ├─uid: 35176620
+ ├─username: JasonPotts
+ ├─fullname: Jason Potts
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-06-14 00:44:41 UTC
+ ├─url: https://www.duolingo.com/profile/JasonPotts
+ ├─streak: 0
+ ├─totalXp: 4102
+ ├─learningLanguage: fr
+ └─fromLanguage: en
+[+] Geocaching: https://www.geocaching.com/p/?u=jasonpotts
+[+] Bluesky: https://bsky.app/profile/jasonpotts.bsky.social
+ ├─uid: did:plc:vqf7hhcszkfblgvw6tn7bxni
+ ├─username: jasonpotts
+ ├─fullname: Jason Potts
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:vqf7hhcszkfblgvw6tn7bxni/bafkreie7sml2yztpfgzm42pfu7ukljybsijpgwbp4hnjuhfi35pt46dzsi
+ ├─created_at: 2024-11-17T18:26:10.329Z
+ ├─follower_count: 71
+ ├─following_count: 1
+ └─posts_count: 0
+[+] Bandcamp: https://www.bandcamp.com/jasonpotts
+[+] Letterboxd: https://letterboxd.com/jasonpotts
+[+] Behance: https://www.behance.net/jasonpotts
+ ├─uid: 624670789
+ ├─username: jasonpotts
+ ├─fullname: Jason Potts
+ ├─image: https://pps.services.adobe.com/api/profile/image/default/bb99dbb8-eab4-438d-ab41-f2f9f1b8ead3/276
+ ├─location: USA
+ ├─created_at: 2020-07-16 00:38:46 UTC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─views_count: 0
+ └─appreciations: 0
+[+] Chess: https://www.chess.com/member/jasonpotts
+ ├─chess_user_id: 6376298
+ ├─username: jasonpotts
+ ├─country_code: GB
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2011-12-25 08:26:43 UTC
+ └─latest_activity_at: 2013-01-20 01:31:15 UTC
+[+] Steemit: https://steemit.com/@jasonpotts
+ ├─uid: 117526
+ ├─username: jasonpotts
+ ├─reputation: 25
+ ├─posts_count: 1
+ ├─follower_count: 5
+ ├─following_count: 1
+ ├─created_at: 2016-12-09T02:35:39
+ └─latest_activity_at: 2016-12-09T03:16:42
+[+] iNaturalist: https://www.inaturalist.org/people/jasonpotts
+[+] ChaturBate: https://chaturbate.com/jasonpotts/
+[+] Gog: https://www.gog.com/u/jasonpotts
+[+] Patreon: https://www.patreon.com/jasonpotts
+[+] Minds: https://www.minds.com/jasonpotts
+[+] TradingView: https://www.tradingview.com/u/jasonpotts
+[+] Wattpad: https://www.wattpad.com/user/jasonpotts
+[+] OnlyFans: https://onlyfans.com/jasonpotts
+[+] Minecraft: https://api.mojang.com/users/profiles/minecraft/jasonpotts
+[+] DeviantART: https://jasonpotts.deviantart.com
+ ├─country: United States
+ ├─created_at: 2008-11-30 20:44:36 UTC
+ ├─username: jasonpotts
+ └─tagline: Jason Potts
+[+] Freesound: https://freesound.org/people/jasonpotts/
+[+] MyMiniFactory: https://www.myminifactory.com/users/jasonpotts
+[+] Flipboard: https://flipboard.com/@jasonpotts
+[+] Picsart: https://picsart.com/u/jasonpotts
+ ├─picsart_id: 266962077032101
+ ├─picsart_username: jasonpotts
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 2
+ └─is_verified: False
+[+] Hack MD: https://hackmd.io/@jasonpotts
+[+] Imgflip: https://imgflip.com/user/jasonpotts
+[+] Clubhouse: https://www.clubhouse.com/@jasonpotts
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/jasonpotts
+[+] Upwork: https://upwork.com/fl/jasonpotts
+[+] Venmo: https://venmo.com/jasonpotts
+[+] Amazon: https://amazon.com/author/jasonpotts
+ ├─author_name: Jason Potts
+ ├─author_id: B001K8741Y
+ └─store_id: 8e74f64e-9343-328b-a29f-4d02b0eda586
+[+] VSCO: https://vsco.co/jasonpotts
+[+] Xvideos: https://xvideos.com/profiles/jasonpotts
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jasonpotts&btnG=
+[+] Smule: https://www.smule.com/jasonpotts
+[+] fixya: https://www.fixya.com/users/jasonpotts
+[+] YouPic: https://youpic.com/photographer/jasonpotts/
+[+] Warpcast: https://warpcast.com/jasonpotts
+ ├─uid: 211910
+ ├─username: jasonpotts
+ ├─fullname: Jason potts 
+ ├─bio: Director RMIT Blockchain Innovation Hub
+ ├─image: https://i.imgur.com/J5gy5Jl.jpg
+ ├─follower_count: 5
+ └─following_count: 74
+[+] 23hq: http://www.23hq.com/jasonpotts
+[+] Revolut.me: https://revolut.me/jasonpotts
+ └─fullname: Jason P
+[+] GitHubGist [GitHub]: https://gist.github.com/jasonpotts
+[+] TikTok: https://www.tiktok.com/@jasonpotts
+ ├─tiktok_id: 7272843608267949098
+ ├─tiktok_username: jasonpotts
+ ├─fullname: jasonpotts
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7272843882637819946~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=5608379d&x-expires=1792522800&x-signature=0yAjAk3uOaCpeRgW75bhs4beXMk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAqKU9LiJNjAyeECDBA9L3eR1iAOXgv6BrUFWHNXYW5jul0q4At2RTWTKy732pHorv
+ ├─following_count: 4
+ ├─follower_count: 1
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] YouTube: https://www.youtube.com/@jasonpotts/about
+ ├─youtube_channel_id: UCLI9epoG90eeBJWR9lt7cPg
+ ├─fullname: Jason Potts
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nkHMdD8-iph0EM_9XXOHFTX5yr1_08Pyl5RsRmTC8NcKJnWauEhfigEgk72JRwumN-OA=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@jasonpotts
+ └─is_family_safe: True
+[+] Pling: https://www.pling.com/u/jasonpotts/
+[+] joyreactor.cc: https://joyreactor.cc/user/jasonpotts
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jasonpotts saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_jasonpotts_simple.json
+[*] Short text report:
+Search by username jasonpotts returned 68 accounts.
+Found target's other IDs: Jasonpotts, profjasonpotts, JasonPotts.
+Extended info extracted from 30 accounts.
+Countries: us, in, gb, nl, ru
+Interests (tags): social, art, sharing, business, music, photo, apps, blog, education, streaming, design, networking, coding, messaging, finance, discussion, writing, gaming, video, hobby, tech, crypto, fintech, forum, porn, news, shopping, wiki, documents, research, movies, review, science, webcam, trading, reading, archive, 3d, freelance
