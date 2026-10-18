@@ -41,6 +41,6 @@ The report renders in a sandboxed iframe; page tools can't read it, the chat mod
 ## Wave 3 (2026-10-18, the doors-versus-direct experiment; plan: EXPERIMENT_PLAN_2026-10-18.md)
 | Sweep | Tool | Prompt file | Status | Where |
 |---|---|---|---|---|
-| T3 founders, v2 | ChatGPT Deep Research (Jefferson's account, driven in Chrome, Chat mode → "+" → Deep research) | chatgpt-deep-research-T3-founders-v2.md | STARTED ~5:05 PM ET 10/18; excludes the 13 already found; asks for 25 | https://chatgpt.com/c/6ad4f9cf-0884-83e9-acf4-d1fa83b8989c |
+| T3 founders, v2 | ChatGPT Deep Research (Jefferson's account, driven in Chrome, Chat mode → "+" → Deep research) | chatgpt-deep-research-T3-founders-v2.md | DONE ~5:25 PM ET (about 15 min); 2 returned (Kassar, Marcos) + 5 borderline leads; captured via Space → 'Ask about this file' to chatgpt-T3-founders-v2-report.md | https://chatgpt.com/c/6ad4f9cf-0884-83e9-acf4-d1fa83b8989c |
 | T3 founders, v2 | Manus | same prompt | BLOCKED: manus.im/app still redirects to its login page in Chrome (preflight A6) | https://manus.im/app |
 - Pool verification agents (Opus): T1 EO chairs (12) → t1-peer-rooms/pool-eo-2026-10-18.md; T2 firms (17) → t2-sponsored-rooms/pool-2026-10-18.md; doors (15) → sweeps/doors-2026-10-18.md. T1 Vistage/TAB (5) and the T3 on-file list wait for a free slot (three search-heavy agents at a time).
