@@ -1,0 +1,251 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username michaelmccarty on:
+[+] Myspace: https://myspace.com/michaelmccarty
+ ├─uid: 75030805
+ └─username: michaelmccarty
+[+] Disqus: https://disqus.com/michaelmccarty
+ ├─id: 51547297
+ ├─fullname: Michael McCarty
+ ├─disqus_username: michaelmccarty
+ ├─reputation: 1.231755
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 1
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-05-22T15:11:55
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/michaelmccarty.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 0
+[+] Medium: https://medium.com/@michaelmccarty
+ ├─fullname: Michael McCarty
+ ├─username: michaelmccarty
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*3BYKy4LSN0mWuuzQ.
+ └─latest_activity_at: 2026-10-18 19:42:44 UTC
+[+] Twitter: https://twitter.com/michaelmccarty
+ ├─uid: VXNlcjoxNzIzMzEwNw==
+ ├─fullname: Michael McCarty
+ ├─bio: Producer/Publisher/Singer/Songwriter/Composer/Underscore & Source/Audio Engineer/Mixer/Voice-Over Actor/SAG/ASCAP/AF of M/AFTRA/ATOMIC FOOT RECORDS/M.Mc Pro
+ ├─created_at: 2008-11-07 15:54:04+00:00
+ ├─image: https://pbs.twimg.com/profile_images/2489124881/Blue_Mac.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/17233107/1360932524
+ ├─is_protected: False
+ ├─follower_count: 128
+ ├─following_count: 246
+ ├─location: L.A. / California
+ ├─favourites_count: 222
+ └─links: 
+   └─ http://www.michaelmccarty.hearnow.com
+[+] ThemeForest: https://themeforest.net/user/michaelmccarty
+[+] Tumblr: https://www.tumblr.com/michaelmccarty
+[+] Snapchat: https://www.snapchat.com/add/michaelmccarty
+ ├─username: michaelmccarty
+ ├─fullname: Michael McCarty
+ ├─bio: Michael McCarty is on Snapchat! (@michaelmccarty)
+ ├─url: https://www.snapchat.com/@michaelmccarty
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@michaelmccarty/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=michaelmccarty&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] About.me: https://about.me/michaelmccarty
+[+] Trello: https://trello.com/michaelmccarty
+ ├─id: 6a2c65627d5b61aadaa55111
+ ├─username: michaelmccarty
+ ├─fullname: michael.mccarty
+ ├─image: https://trello-members.s3.amazonaws.com/6a2c65627d5b61aadaa55111/7a96b35f7190cfa3af253117635c6ca9/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] Substack: https://substack.com/@michaelmccarty
+ ├─uid: 269449592
+ ├─username: michaelmccarty
+ ├─fullname: Michael McCarty
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/021e0d2f-ed22-4291-b401-726c2525b1aa_144x144.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F021e0d2f-ed22-4291-b401-726c2525b1aa_144x144.png
+[+] Imgur: https://imgur.com/user/michaelmccarty
+ ├─id: 6587720
+ ├─imgur_username: MichaelMcCarty
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/E0fXx4R_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/MichaelMcCarty/avatar
+ └─created_at: 2013-09-10T03:09:40Z
+[+] Giphy: https://giphy.com/channel/michaelmccarty
+[+] Calendly: https://calendly.com/michaelmccarty
+ ├─uid: 3187612
+ ├─fullname: Michael McCarty
+ ├─username: michaelmccarty
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/3118252/b360b123.png
+ ├─owner_uuid: FACHGSY6XJNDTSYG
+ ├─organization_uuid: BFHFCQY5VWAE4KQN
+ └─timezone: America/Los_Angeles
+[+] Steam: https://steamcommunity.com/id/michaelmccarty
+ ├─steam_id: 76561199060943362
+ ├─nickname: michaelmccarty490
+ └─username: michaelmccarty
+[+] YouTube: https://www.youtube.com/@michaelmccarty/about
+ ├─youtube_channel_id: UCiYeXqM6O_AXNzKCAw8aOYQ
+ ├─fullname: Michael McCarty
+ ├─image: https://yt3.googleusercontent.com/ZbRhH0Bk0KygsWi1lhP3j8Mp6O1HbPg2iqoDpAXuUMYEEWo1pENZyoJGT9y-NYuIgO3w6diQ8xI=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@michaelmccarty
+ └─is_family_safe: True
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=michaelmccarty&btnG=
+[+] Bluesky: https://bsky.app/profile/michaelmccarty.bsky.social
+ ├─uid: did:plc:uoav4onom3mc4qlru33i3eql
+ ├─username: michaelmccarty
+ ├─fullname: Mike McCarty
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:uoav4onom3mc4qlru33i3eql/bafkreicyfjguj4bszns5hvhgzdsspbec5lbz6w3efk2c3cm7e7o2tramva
+ ├─created_at: 2024-11-15T05:23:10.541Z
+ ├─follower_count: 3
+ ├─following_count: 7
+ └─posts_count: 0
+[+] Dribbble: https://dribbble.com/michaelmccarty
+[+] Academia.edu: https://independent.academia.edu/michaelmccarty
+[+] TikTok: https://www.tiktok.com/@michaelmccarty
+ ├─tiktok_id: 7328796574943200287
+ ├─tiktok_username: michaelmccarty
+ ├─fullname: Michael
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/14bad0fe2bf6aefabcda0f7909b84691~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=dc1cff66&x-expires=1792522800&x-signature=%2FDICapOyvMUJVNjxmSTExXuR4no%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAALcnMSvbiwB8WMISh-hgwUV6YdCo8GW9e2JhMkKieOhD_YVjNfQhSXGJHWv24YcGl
+ ├─following_count: 59
+ ├─follower_count: 1347
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Twitch: https://twitchtracker.com/michaelmccarty
+ ├─twitch_channel_id: 197703752
+ ├─twitch_username: michaelmccarty
+ └─created_at: 2018-02-22 01:54:21
+[+] Flickr: https://www.flickr.com/photos/michaelmccarty
+[+] HubPages: https://hubpages.com/@michaelmccarty
+[+] linktr.ee: https://linktr.ee/michaelmccarty
+ ├─id: 62171583
+ ├─username: michaelmccarty
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: It has been my honor and privilege to assist you with your real estate needs.
+ ├─tier: free1
+ └─links: 
+   ├─ https://michaelgmccarty.kw.com/leave-a-review
+   ├─ https://zillow.com/reviews/write/?s=X1-ZU135xtrgpdpe6h_3cswb
+   └─ https://www.facebook.com/profile.php?viewas=100000686899395&id=100092395706035
+[+] Codecanyon: https://codecanyon.net/user/michaelmccarty
+[+] LinkedIn: https://linkedin.com/in/michaelmccarty
+[+] TripAdvisor: https://tripadvisor.com/members/michaelmccarty
+[+] Codecademy: https://www.codecademy.com/profiles/michaelmccarty
+[+] Chess: https://www.chess.com/member/michaelmccarty
+ ├─chess_user_id: 39723158
+ ├─username: michaelmccarty
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/39723158.58387c08.200x200o.a2744b1467ed.jpeg
+ ├─country_code: XX
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2017-10-24 12:32:01 UTC
+ └─latest_activity_at: 2020-03-11 10:39:22 UTC
+[+] Figma: https://www.figma.com/@michaelmccarty
+[+] Duolingo: https://www.duolingo.com/profile/michaelmccarty
+ ├─uid: 27038278
+ ├─username: MichaelMccarty
+ ├─fullname: Michael Mccarty
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2014-03-11 13:21:07 UTC
+ ├─url: https://www.duolingo.com/profile/MichaelMccarty
+ ├─streak: 0
+ ├─totalXp: 133
+ ├─learningLanguage: fr
+ └─fromLanguage: en
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=michaelmccarty
+[+] Paypal: https://www.paypal.com/paypalme/michaelmccarty
+ ├─fullname: Michael McCarty
+ ├─username: MichaelMcCarty
+ ├─payerId: 9ZMPUQ8X2KCKA
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/p/N2VkYzlhZGQtZmE4Yy00ZDQzLWJiZWQtN2VhMjQ5ZDUxNTgx/$_58.jpg
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=michaelmccarty&compact=true
+ ├─id: 9393320
+ ├─nickname: michaelmccarty
+ ├─username: michaelmccarty
+ ├─fullname: Michael
+ ├─role: freelancer
+ ├─location: Elizabeth, United States
+ └─created_at: 2013-11-06 20:39:14 UTC
+[+] Genius: https://genius.com/michaelmccarty
+[+] iNaturalist: https://www.inaturalist.org/people/michaelmccarty
+[+] Gog: https://www.gog.com/u/michaelmccarty
+[+] ChaturBate: https://chaturbate.com/michaelmccarty/
+[+] CreativeMarket: https://creativemarket.com/users/michaelmccarty
+[+] Mix: https://mix.com/michaelmccarty
+[+] Slides: https://slides.com/michaelmccarty
+[+] Wattpad: https://www.wattpad.com/user/michaelmccarty
+[+] Flipboard: https://flipboard.com/@michaelmccarty
+[+] Audiojungle: https://audiojungle.net/user/michaelmccarty
+[+] Untappd: https://untappd.com/user/michaelmccarty
+[+] Picsart: https://picsart.com/u/michaelmccarty
+ ├─picsart_id: 255641357021102
+ ├─picsart_username: michaelmccarty
+ ├─fullname: Michael Mccarty
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 7
+ ├─following_count: 5
+ ├─likes_count: 5
+ ├─photos_count: 1
+ └─is_verified: False
+[+] MyMiniFactory: https://www.myminifactory.com/users/michaelmccarty
+[+] Amazon: https://amazon.com/author/michaelmccarty
+ ├─author_name: Michael McCarty
+ ├─author_id: B001JS0L06
+ └─store_id: c1561a67-eaff-32b9-8eae-7ed810d76d45
+[+] Venmo: https://venmo.com/michaelmccarty
+[+] Periscope: https://www.pscp.tv/michaelmccarty
+ ├─id: 1qLQGMLzvyMjJ
+ ├─created_at: 2018-07-06T01:34:16.445659771Z
+ ├─periscope_username: michaelmccarty
+ ├─fullname: Michael McCarty
+ ├─follower_count: 3
+ ├─following_count: 12
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ ├─is_twitter_verified: False
+ └─image: https://lh4.googleusercontent.com/-PBpAdnBNkWE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq2mFpImE9ANG_0ex27dyuB7A_V74g/s96-c/photo.jpg
+[+] VideoHive: https://videohive.net/user/michaelmccarty
+[+] Clubhouse: https://www.clubhouse.com/@michaelmccarty
+[+] Imgflip: https://imgflip.com/user/michaelmccarty
+[+] Upwork: https://upwork.com/fl/michaelmccarty
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/michaelmccarty
+[+] Codementor: https://www.codementor.io/@michaelmccarty
+[+] VSCO: https://vsco.co/michaelmccarty
+[+] Memrise: https://www.memrise.com/user/michaelmccarty/
+[+] Smule: https://www.smule.com/michaelmccarty
+[+] YouPic: https://youpic.com/photographer/michaelmccarty/
+[+] ReverbNation: https://www.reverbnation.com/michaelmccarty
+[+] Zora: https://zora.co/@michaelmccarty
+[+] clarity.fm: https://clarity.fm/michaelmccarty
+[+] fixya: https://www.fixya.com/users/michaelmccarty
+[+] Bandcamp: https://www.bandcamp.com/michaelmccarty
+[+] joyreactor.cc: https://joyreactor.cc/user/michaelmccarty
+[+] Pling: https://www.pling.com/u/michaelmccarty/
+[+] YouPorn: https://youporn.com/uservids/michaelmccarty
+[+] ImageShack: https://imageshack.com/user/michaelmccarty
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for michaelmccarty saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t1-peer-rooms/maigret/report_michaelmccarty_simple.json
+[*] Short text report:
+Search by username michaelmccarty returned 68 accounts.
+Found target's other IDs: MichaelMcCarty, 76561199060943362 (steam_id), MichaelMccarty.
+Extended info extracted from 22 accounts.
+Countries: us, nl, ru
+Interests (tags): social, business, apps, art, sharing, design, music, photo, networking, blog, video, discussion, coding, shopping, education, writing, gaming, streaming, professional, messaging, forum, hobby, freelance, tech, research, links, finance, fintech, porn, stock, tasks, review, travel, archive, bookmarks, science, webcam, reading, news, geosocial, 3d, crypto, nft
