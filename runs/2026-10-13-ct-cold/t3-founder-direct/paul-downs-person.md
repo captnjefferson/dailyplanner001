@@ -418,6 +418,8 @@ done 2026-10-18; see 5a and 5b
 
 ## 7. Handles
 
+- **Public email (added 2026-10-18 while drafting):** pauldowns@pauldowns.net, printed under "Meet Our President" at https://pauldowns.net/contact/.
+
 - **Domains he owns (his statement, 2026-03-24):** pauldowns.com (redirects to the company site), pauldowns.net (company portfolio site), and custom-conference-tables.com (company). Company email: jobs@pauldowns.com.
 - **Company handles (VERIFIED, site footer):** Instagram `pauldownscustom`; Facebook `PaulDownsCustom`; YouTube `PaulDownsTables`; LinkedIn company `paul-downs-cabinetmakers`; Pinterest `pauldownscustom` (Maigret, bio names the Bridgeport shop).
 - **Personal handles:** none verified.
