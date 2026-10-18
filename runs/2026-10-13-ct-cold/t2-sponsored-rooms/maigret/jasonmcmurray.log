@@ -1,0 +1,161 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jasonmcmurray on:
+[+] Twitter: https://twitter.com/jasonmcmurray
+ ├─uid: VXNlcjozNDUxMDkyNA==
+ ├─fullname: Jason Mcmurray
+ ├─created_at: 2009-04-23 03:08:33+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 2
+ ├─following_count: 21
+ └─favourites_count: 0
+[+] Medium: https://medium.com/@jasonmcmurray
+ ├─fullname: Jason McMurray
+ ├─username: jasonmcmurray
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*os9tnUxNJj2R-7ro.
+ └─latest_activity_at: 2026-10-18 19:12:08 UTC
+[+] Myspace: https://myspace.com/jasonmcmurray
+ ├─uid: 367863153
+ └─username: jasonmcmurray
+[+] SoundCloud: https://soundcloud.com/jasonmcmurray
+ ├─uid: 6979108
+ ├─name: Jason McMurray
+ ├─username: Jason McMurray 1
+ ├─following_count: 4
+ ├─follower_count: 5
+ ├─is_verified: False
+ ├─image: https://i1.sndcdn.com/avatars-000005650135-c8nyb1-large.jpg
+ ├─location: Rochester
+ └─country_code: US
+[+] Disqus: https://disqus.com/jasonmcmurray
+ ├─id: 45460905
+ ├─fullname: Jason McMurray
+ ├─disqus_username: jasonmcmurray
+ ├─reputation: 1.2338939999999998
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2013-03-11T22:19:05
+ ├─upvotes_count: 3
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/jasonmcmurray.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 5
+[+] Academia.edu: https://independent.academia.edu/jasonmcmurray
+[+] Giphy: https://giphy.com/channel/jasonmcmurray
+[+] OP.GG LoL Europe West: https://op.gg/lol/summoners/search?q=jasonmcmurray&region=euw
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jasonmcmurray&btnG=
+[+] YouTube: https://www.youtube.com/@jasonmcmurray/about
+ ├─youtube_channel_id: UCg1B4-tcDKivJ3ICOvlMOiQ
+ ├─fullname: Jason McMurray
+ ├─bio: I want to share all my sledding adventures, how to's and reviews.
+
+With support from:
+Freerider filmz 
+Bikeman Performance
+Kyber One
+GGB Exhaust
+Cobra Pull Cords
+509 
+Pind Performance
+Backus Racing
+Backwoods BMP
+Prevail Empire
+Poire.Wraps
+Stomp Grip
+BWC Powersports
+
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_mIKpkEkJGDtf_en2Ii7vMElbI-oR_YTE2thWd3SJYmnA=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@JasonMcMurray
+ ├─keywords: boondocking sledden wawa topsecretboondocking m8000 arcticcat prormk summit polaris skidoo sudbury backcountry quebec gaspesie sledding powder "tree riding" slednecks snowbike 705snowmobiles
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@jasonmcmurray
+ ├─tiktok_id: 308411842446393344
+ ├─tiktok_username: jasonmcmurray
+ ├─fullname: Jason Mcmurray
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=40777fcc&x-expires=1792522800&x-signature=IvzcnDRix30TFAntT7oTU9e4HDU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAiWiEDKOwVBDvdjZk1yUi8JpdvOV_lRH4yCb5y2zL-Bx4ajmyq93Yk_I-LVtWRdj7
+ ├─following_count: 37
+ ├─follower_count: 190
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Twitch: https://twitchtracker.com/jasonmcmurray
+ ├─twitch_channel_id: 97081695
+ ├─twitch_username: jasonmcmurray
+ └─created_at: 2015-07-24 15:50:11
+[+] Snapchat: https://www.snapchat.com/add/jasonmcmurray
+ ├─username: jasonmcmurray
+ ├─fullname: Jason McMurray
+ ├─bio: Jason McMurray is on Snapchat! (@jasonmcmurray)
+ ├─url: https://www.snapchat.com/@jasonmcmurray
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jasonmcmurray/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=jasonmcmurray&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Threads: https://www.threads.com/@jasonmcmurray
+[+] Letterboxd: https://letterboxd.com/jasonmcmurray
+[+] Paypal: https://www.paypal.com/paypalme/jasonmcmurray
+ ├─fullname: Jason  McMurray 
+ ├─username: JasonMcMurray
+ ├─payerId: NZ3FPNTPQQ2P4
+ ├─address: Rockland, ON
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: CAD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Flipboard: https://flipboard.com/@jasonmcmurray
+[+] Genius: https://genius.com/jasonmcmurray
+[+] Picsart: https://picsart.com/u/jasonmcmurray
+ ├─picsart_id: 193043194002102
+ ├─picsart_username: jasonmcmurray
+ ├─fullname: Jason Mcmurray
+ ├─image: https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=400
+ ├─follower_count: 0
+ ├─following_count: 5
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] OnlyFans: https://onlyfans.com/jasonmcmurray
+[+] Amazon: https://amazon.com/author/jasonmcmurray
+ ├─author_name: Jason McMurray
+ ├─author_id: B008LWXLFA
+ └─store_id: 1d04305b-e360-3c5a-aa32-47d7999ee304
+[+] Upwork: https://upwork.com/fl/jasonmcmurray
+[+] Periscope: https://www.pscp.tv/jasonmcmurray
+ ├─id: 1DLEBAxmVXajJ
+ ├─created_at: 2018-02-11T19:55:57.023473525Z
+ ├─periscope_username: jasonmcmurray
+ ├─fullname: Jason McMurray
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ └─is_twitter_verified: False
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/jasonmcmurray
+[+] Smule: https://www.smule.com/jasonmcmurray
+[+] fixya: https://www.fixya.com/users/jasonmcmurray
+[+] Memrise: https://www.memrise.com/user/jasonmcmurray/
+[+] Revolut.me: https://revolut.me/jasonmcmurray
+ └─fullname: Jason M
+[+] joyreactor.cc: https://joyreactor.cc/user/jasonmcmurray
+[+] Pling: https://www.pling.com/u/jasonmcmurray/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jasonmcmurray saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jasonmcmurray_simple.json
+[*] Short text report:
+Search by username jasonmcmurray returned 29 accounts.
+Found target's other IDs: JasonMcMurray.
+Extended info extracted from 14 accounts.
+Countries: us, nl, ru
+Interests (tags): social, apps, music, streaming, art, video, discussion, education, sharing, messaging, networking, gaming, business, finance, fintech, tech, design, forum, blog, writing, research, movies, review, news, photo, porn, shopping, freelance, coding

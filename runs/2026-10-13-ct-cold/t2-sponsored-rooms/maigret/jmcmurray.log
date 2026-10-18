@@ -1,0 +1,256 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jmcmurray on:
+[+] GitHub: https://github.com/jmcmurray
+ ├─uid: 625214
+ ├─image: https://avatars.githubusercontent.com/u/625214?v=4
+ ├─created_at: 2011-02-18T13:04:57Z
+ ├─follower_count: 1
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 3
+[+] Medium: https://medium.com/@jmcmurray
+ ├─fullname: Jodi McMurray
+ ├─username: jmcmurray
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*Rho3oUtwyh79hYM_.jpg
+ └─latest_activity_at: 2026-10-18 19:12:58 UTC
+[+] Wikipedia: https://en.wikipedia.org/wiki/User:jmcmurray
+ ├─uid: 9233929
+ └─username: Jmcmurray
+[+] GitLab: https://gitlab.com/jmcmurray
+ ├─uid: 22079615
+ ├─fullname: John McMurray
+ ├─username: jmcmurray
+ ├─state: active
+ ├─image: https://secure.gravatar.com/avatar/ecdd1f057feb321077a2a8c8f070b5534aaa56e4d3275240a004954f55face63?s=80&d=identicon
+ ├─website: https://gitlab.com/jmcmurray
+ ├─gravatar_url: https://gravatar.com/ecdd1f057feb321077a2a8c8f070b553
+ ├─gravatar_username: jmcmurray
+ └─gravatar_email_md5_hash: ecdd1f057feb321077a2a8c8f070b553
+[+] Tumblr: https://www.tumblr.com/jmcmurray
+[+] Discord: https://discord.com
+[+] SlideShare: https://www.slideshare.net/jmcmurray
+ ├─uid: 27090038
+ ├─fullname: Julie McMurray
+ ├─username: jmcmurray
+ ├─image: https://public.slidesharecdn.com/v2/images/profile-picture.png
+ ├─slideshow_count: 4
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─city: Blackfalds
+ ├─country: Canada
+ ├─organization: Julie McMurray
+ ├─website: http://lchssocial30-1.ning.com/
+ ├─is_suspended: False
+ └─is_organization: True
+[+] Twitter: https://twitter.com/jmcmurray
+ ├─uid: VXNlcjoxNTI3NTE2NA==
+ ├─fullname: jmcmurray
+ ├─created_at: 2008-06-30 02:00:55+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1250833027/jimmcmu.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/15275164/1606921131
+ ├─is_protected: False
+ ├─follower_count: 19
+ ├─following_count: 57
+ └─favourites_count: 9
+[+] Imgur: https://imgur.com/user/jmcmurray
+ ├─id: 58445901
+ ├─imgur_username: jmcmurray
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/cvL0J2f_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/jmcmurray/avatar
+ └─created_at: 2017-04-06T19:36:23Z
+[+] Substack: https://substack.com/@jmcmurray
+ ├─uid: 28443563
+ ├─username: jmcmurray
+ ├─fullname: Jenavieve McMurray
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/df9a3c89-b40f-42d4-8d68-a1f0dba64189_96x96.png
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf9a3c89-b40f-42d4-8d68-a1f0dba64189_96x96.png
+[+] Calendly: https://calendly.com/jmcmurray
+ ├─uid: 579482
+ ├─fullname: Josephine McMurray
+ ├─username: jmcmurray
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: EFHCFDUHQVE32OJ7
+ ├─organization_uuid: DGCDEFRBUQEUCTTE
+ └─timezone: America/New_York
+[+] SoundCloud: https://soundcloud.com/jmcmurray
+ ├─uid: 103010155
+ ├─username: JMcMurray
+ ├─following_count: 0
+ ├─follower_count: 1
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000158728179-v4mrgx-large.jpg
+[+] Giphy: https://giphy.com/channel/jmcmurray
+[+] HuggingFace: https://huggingface.co/jmcmurray
+[+] Academia.edu: https://independent.academia.edu/jmcmurray
+[+] Pinterest: https://www.pinterest.com/jmcmurray/
+ ├─uid: 258886815988058081
+ ├─username: jmcmurray
+ ├─fullname: Jasmine Mc
+ ├─image: https://i.pinimg.com/280x280_RS/19/6a/79/196a79a278b5eedd8e7e782c71e9e959.jpg
+ ├─follower_count: 35
+ ├─following_count: 19
+ ├─posts_count: 50
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Sun, 22 Jan 2012 13:12:27 +0000
+ └─latest_activity_at: Thu, 30 Aug 2012 13:58:57 +0000
+[+] Flickr: https://www.flickr.com/photos/jmcmurray
+[+] Instructables: https://www.instructables.com/member/jmcmurray
+[+] Snapchat: https://www.snapchat.com/add/jmcmurray
+ ├─bio: John Mcmurray is on Snapchat! (@jmcmurray) | Last updated: 05/08/2026
+ ├─url: https://www.snapchat.com/@jmcmurray
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jmcmurray/preview/square.jpeg?xp_id=1
+ └─profile_type: publicProfileInfo
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jmcmurray&btnG=
+[+] Bluesky: https://bsky.app/profile/jmcmurray.bsky.social
+ ├─uid: did:plc:ezvomuwg5llkis7iufs2emnv
+ ├─username: jmcmurray
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:ezvomuwg5llkis7iufs2emnv/bafkreic7wqiuccdofvkhdszobp552kgzcbl2d2ylnjip4mf6zagn4ifqku
+ ├─created_at: 2024-11-14T02:32:14.176Z
+ ├─follower_count: 41
+ ├─following_count: 129
+ └─posts_count: 0
+[+] Threads: https://www.threads.com/@jmcmurray
+ ├─fullname: Janice McMurray
+ ├─username: jmcmurray
+ ├─follower_count: 0
+ └─posts_count: 0
+[+] Discogs: https://www.discogs.com/user/jmcmurray
+[+] DigitalOcean: https://www.digitalocean.com/community/users/jmcmurray
+[+] Paypal: https://www.paypal.com/paypalme/jmcmurray
+ ├─fullname: JAMES McMURRAY
+ ├─username: JMcMURRAY
+ ├─payerId: APWYW2J5V24UQ
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: GBP
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] Twitch: https://twitchtracker.com/jmcmurray
+ ├─twitch_channel_id: 19498643
+ ├─twitch_username: jmcmurray
+ └─created_at: 2011-01-13 22:30:40
+[+] BuzzFeed: https://buzzfeed.com/jmcmurray
+ ├─uuid: bbeca9c8-206e-41b8-b943-6b6143bbaed0
+ ├─id: 11480053
+ ├─fullname: jmcmurray
+ ├─username: jmcmurray
+ ├─posts_count: 0
+ ├─created_at: 2022-12-28 18:09:17 UTC
+ ├─is_community_user: True
+ ├─is_deleted: False
+ └─image: https://img.buzzfeed.com/buzzfeed-static/static/avatars/maincoon_large.jpg
+[+] TripAdvisor: https://tripadvisor.com/members/jmcmurray
+[+] Smugmug: https://jmcmurray.smugmug.com/
+[+] Bit.ly: https://bit.ly/jmcmurray
+[+] Chess: https://www.chess.com/member/jmcmurray
+ ├─chess_user_id: 244537017
+ ├─username: jmcmurray
+ ├─country_code: AU
+ ├─follower_count: 2
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2023-02-12 08:40:26 UTC
+ └─latest_activity_at: 2026-04-04 02:15:40 UTC
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=jmcmurray&compact=true
+ ├─id: 38991725
+ ├─nickname: jmcmurray
+ ├─username: jmcmurray
+ ├─fullname: Joyce
+ ├─role: freelancer
+ ├─location: Invermere, Canada
+ └─created_at: 2019-09-03 03:39:27 UTC
+[+] Codecademy: https://www.codecademy.com/profiles/jmcmurray
+[+] Geocaching: https://www.geocaching.com/p/?u=jmcmurray
+[+] Flipboard: https://flipboard.com/@jmcmurray
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=jmcmurray
+[+] Duolingo: https://www.duolingo.com/profile/jmcmurray
+ ├─uid: 4051202
+ ├─username: jmcmurray
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2013-06-10 15:39:31 UTC
+ ├─url: https://www.duolingo.com/profile/jmcmurray
+ ├─streak: 0
+ ├─totalXp: 41023
+ ├─learningLanguage: es
+ └─fromLanguage: en
+[+] DeviantART: https://jmcmurray.deviantart.com
+ ├─country: United States
+ ├─created_at: 2013-01-19 01:31:51 UTC
+ ├─gender: male
+ └─username: jmcmurray
+[+] iNaturalist: https://www.inaturalist.org/people/jmcmurray
+[+] Letterboxd: https://letterboxd.com/jmcmurray
+[+] LibraryThing: https://www.librarything.com/profile/jmcmurray
+[+] ChaturBate: https://chaturbate.com/jmcmurray/
+[+] Bandcamp: https://www.bandcamp.com/jmcmurray
+[+] CreativeMarket: https://creativemarket.com/users/jmcmurray
+[+] Gog: https://www.gog.com/u/jmcmurray
+[+] LinkedIn: https://linkedin.com/in/jmcmurray
+[+] eBaumsWorld: https://www.ebaumsworld.com/user/profile/jmcmurray
+[+] Freesound: https://freesound.org/people/jmcmurray/
+[+] Picsart: https://picsart.com/u/jmcmurray
+ ├─picsart_id: 246038342006102
+ ├─picsart_username: jmcmurray
+ ├─fullname: jmcmurray
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Clubhouse: https://www.clubhouse.com/@jmcmurray
+[+] Venmo: https://venmo.com/jmcmurray
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/jmcmurray
+[+] Depop: https://www.depop.com/jmcmurray
+[+] Untappd: https://untappd.com/user/jmcmurray
+[+] VSCO: https://vsco.co/jmcmurray
+[+] Brusheezy: https://www.brusheezy.com/members/jmcmurray
+[+] YouTube: https://www.youtube.com/@jmcmurray/about
+ ├─youtube_channel_id: UCiU_4ZscvUirJy9XnQb4p6A
+ ├─fullname: Jase mcmurray 😎
+ ├─image: https://yt3.googleusercontent.com/DW03Z8A6ls6sPnlGZkQ1G2pNCdRfT_bM_cl2dj4MA5YpsGSn6EBBmdLTEa_MPCbYvNCN55_l=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@Jmcmurray
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@jmcmurray
+ ├─tiktok_id: 11970995
+ ├─tiktok_username: jmcmurray
+ ├─fullname: jmcmurray
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=40777fcc&x-expires=1792522800&x-signature=IvzcnDRix30TFAntT7oTU9e4HDU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAcsHWVuIx54TvE_SDSGJWd50b7Xf1dcjmtshG07JpXCU
+ ├─following_count: 22
+ ├─follower_count: 7
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Smule: https://www.smule.com/jmcmurray
+[+] Xvideos: https://xvideos.com/profiles/jmcmurray
+[+] Itch.io: https://jmcmurray.itch.io/
+[+] fixya: https://www.fixya.com/users/jmcmurray
+[+] Revolut.me: https://revolut.me/jmcmurray
+ └─fullname: Jonathan M
+[+] joyreactor.cc: https://joyreactor.cc/user/jmcmurray
+[+] Pling: https://www.pling.com/u/jmcmurray/
+[+] GitHubGist [GitHub]: https://gist.github.com/jmcmurray
+[+] YouPorn: https://youporn.com/uservids/jmcmurray
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[!] Too many errors of type "Access denied" (3.14%). It's recommended to use --cloudflare-bypass or a proxy, e.g. https://www.rapidproxy.io/?ref=soxoj
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jmcmurray saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jmcmurray_simple.json
+[*] Short text report:
+Search by username jmcmurray returned 66 accounts.
+Found target's other IDs: Jmcmurray, JMcMurray, JMcMURRAY.
+Extended info extracted from 25 accounts.
+Countries: us, ca, nl, ru
+Interests (tags): social, art, sharing, business, apps, photo, education, coding, music, design, tech, gaming, hobby, networking, messaging, streaming, video, forum, blog, archive, finance, fintech, news, porn, discussion, writing, research, review, stock, wiki, documents, llm, travel, links, freelance, bookmarks, science, movies, books, reading, webcam, professional, fashion, shopping, geosocial

@@ -1,0 +1,52 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jason.mcmurray on:
+[+] Codepen: https://codepen.io/jason.mcmurray
+[+] Calendly: https://calendly.com/jason.mcmurray
+ ├─uid: 70
+ ├─fullname: Jason Mikael Pittam
+ ├─username: jason
+ ├─bio: Welcome to my Calendly scheduling page. Scheduling time with me is as easy as 1-2-3. To find out more about my work, please visit http://sumry.me/jason
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/86/f1891734.jpg
+ ├─owner_uuid: 6361438aff52abf978044e1a7a476e67
+ ├─organization_uuid: BHDBDCACFGJJ77SC
+ └─timezone: America/Los_Angeles
+[+] OP.GG LoL Europe West: https://op.gg/lol/summoners/search?q=jason.mcmurray&region=euw
+[+] TikTok: https://www.tiktok.com/@jason.mcmurray
+ ├─tiktok_id: 6737590895716303873
+ ├─tiktok_username: jason.mcmurray
+ ├─fullname: Bikash_Prasad
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7328151273033695240~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a8499187&x-expires=1792522800&x-signature=s6f%2FRQewOo70uBd7xziJcBfg7Qw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAABP3hY0vezfZRyNFPGv3KMWChNSOorS26KqmmvqLImIMC5ul67MJPMyTCdyjzAD5_
+ ├─following_count: 0
+ ├─follower_count: 14
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Pbase: https://pbase.com/jason.mcmurray/profile
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jason.mcmurray&btnG=
+[+] Genius: https://genius.com/jason.mcmurray
+[+] Lobsters: https://lobste.rs/u/jason.mcmurray
+[+] Tistory: https://jason.mcmurray.tistory.com/
+[+] fixya: https://www.fixya.com/users/jason.mcmurray
+[+] Chatujme.cz: https://profil.chatujme.cz/jason.mcmurray
+[+] joyreactor.cc: https://joyreactor.cc/user/jason.mcmurray
+[+] picturepush.com: https://jason.mcmurray.picturepush.com/
+[+] Pling: https://www.pling.com/u/jason.mcmurray/
+[+] Salon24.pl: https://www.salon24.pl/u/jason.mcmurray/
+[!] Too many errors of type "Unsupported username format" (10.02%)
+[!] Too many errors of type "Bot protection" (7.66%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jason.mcmurray saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jason.mcmurray_simple.json
+[*] Short text report:
+Search by username jason.mcmurray returned 14 accounts.
+Found target's other IDs: jason.
+Extended info extracted from 2 accounts.
+Countries: us, kr, cz, nl, ru, pl
+Interests (tags): coding, art, discussion, apps, design, social, photo, sharing, news, tech, blog, business, gaming, video, music, forum, dating

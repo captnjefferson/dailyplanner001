@@ -1,0 +1,20 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username mcmurrayjason on:
+[+] Academia.edu: https://independent.academia.edu/mcmurrayjason
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=mcmurrayjason&btnG=
+[+] fixya: https://www.fixya.com/users/mcmurrayjason
+[+] joyreactor.cc: https://joyreactor.cc/user/mcmurrayjason
+[+] Pling: https://www.pling.com/u/mcmurrayjason/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for mcmurrayjason saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_mcmurrayjason_simple.json
+[*] Short text report:
+Search by username mcmurrayjason returned 4 accounts.
+Extended info extracted from 0 accounts.
+Countries: nl, ru
+Interests (tags): art, education, research, sharing, forum, tech, apps, coding, design

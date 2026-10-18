@@ -1,0 +1,71 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username jason_mcmurray on:
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jason_mcmurray&btnG=
+[+] Disqus: https://disqus.com/jason_mcmurray
+ ├─id: 159436709
+ ├─fullname: Jason McMurray
+ ├─disqus_username: jason_mcmurray
+ ├─reputation: 1.2057259999999999
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2015-05-28T15:30:06
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/jason_mcmurray.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 3
+[?] StackOverflow: https://stackoverflow.com/users/filter?search=jason_mcmurray
+ ├─uid: 16800532
+ ├─account_id: 22621916
+ ├─username: Jason McMurray
+ ├─image: https://www.gravatar.com/avatar/38ec3a7498c8b8842da3e211f217b732?s=256&d=identicon&r=PG&f=y&so-version=2
+ ├─reputation: 1
+ ├─link: https://stackoverflow.com/users/16800532/jason-mcmurray
+ ├─created_at: 1630455011
+ ├─gravatar_url: https://gravatar.com/38ec3a7498c8b8842da3e211f217b732
+ ├─gravatar_username: Jason McMurray
+ └─gravatar_email_md5_hash: 38ec3a7498c8b8842da3e211f217b732
+[+] Snapchat: https://www.snapchat.com/add/jason_mcmurray
+ ├─username: jason_mcmurray
+ ├─fullname: Jason McMurray
+ ├─bio: Jason McMurray is on Snapchat! (@jason_mcmurray)
+ ├─url: https://www.snapchat.com/@jason_mcmurray
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@jason_mcmurray/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=jason_mcmurray&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] OP.GG LoL Europe West: https://op.gg/lol/summoners/search?q=jason_mcmurray&region=euw
+[+] Pinterest: https://www.pinterest.com/jason_mcmurray/
+ ├─uid: 770678692392275627
+ ├─username: jason_mcmurray
+ ├─fullname: Jason McMurray
+ ├─image: https://s.pinimg.com/images/user/default_280.png
+ ├─follower_count: 0
+ ├─following_count: 8
+ ├─posts_count: 0
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ └─created_at: Sat, 13 Jan 2018 23:29:34 +0000
+[+] Genius: https://genius.com/jason_mcmurray
+[+] fixya: https://www.fixya.com/users/jason_mcmurray
+[+] joyreactor.cc: https://joyreactor.cc/user/jason_mcmurray
+[+] Pling: https://www.pling.com/u/jason_mcmurray/
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for jason_mcmurray saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/report_jason_mcmurray_simple.json
+[*] Short text report:
+Search by username jason_mcmurray returned 8 accounts.
+Extended info extracted from 3 accounts.
+Countries: nl, ru
+Interests (tags): social, art, discussion, apps, design, networking, messaging, gaming, photo, sharing, music, forum, tech, coding
