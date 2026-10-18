@@ -57,6 +57,36 @@ The Jul 9, 2026 release is labeled "Advertorial" by the host paper; the award it
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## David Case — read 2026-10-18 ~4:06 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("David Case Advastar"; one match, Kansas City) · /in/davidcaseadvastar/ · /details/experience/ · /recent-activity/all/ (20, 3mo back to 8mo) · /recent-activity/comments/ (19, 8mo back to 2yr) · /recent-activity/reactions/ (20, 2w back to 8mo) · /details/interests/ (Top Voices, Companies, Groups, Newsletters, Schools via label click) · /details/recommendations/ (Received and Given). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/davidcaseadvastar/ · 3rd · 15,201 followers · 500+ connections · "President - Advastar Engineering Services - Data Center, Utilities, Industrial & Manufacturing Projects" · Kansas City Metropolitan Area · Kansas State University. About: "I am the President of Advastar, Inc., a nationwide recruiting & staffing company headquartered in Kansas City… Prior to my current role I was an account executive and professional recruiter with a large global staffing company… I am active in numerous community, charity and fundraising organizations. I can be reached at dcase@AdvastarGroup.com"
+- **Experience:** President, Advastar Engineering Services (Feb 2023–present; "Owner's Representation supporting complex CAPEX projects… Data Centers, Mission Critical, Utilities, Industrial, & Manufacturing"); President, TruMED Healthcare Staffing (Jan 2021–present); President, Advastar, Inc. (Jan 2012–present, Leawood KS); **"Member of the Board of Directors, Entrepreneurs' Organization, 2013 – Present, Kansas City Metropolitan Area"** (no seat named; the entry is EO's boilerplate description); Aerotek Energy, regional account manager and recruiter, 2006–2012.
+- **Cadence:** NO OWN POSTS. All 20 recent items are reposts of Advastar job ads (from Tim Shearer, Amanda M and the company page), 3mo to 8mo ago; nothing in the last 3 months. Comments: one-line congratulations, latest 8mo. Reactions: sparse, latest 2w.
+- **Themes:** hiring only (BIM specialist, piping estimator, SPMT operator, electrical systems director for a data-center product line, PMs in KC, Birmingham, Phoenix, Atlanta, Pittsburgh).
+- **AI:** none, in posts, comments or reactions. The adjacent signal: reactions to Eric Jorgenson's posts on *The Book of Elon* (six reactions, 4–8mo: "Hired an editor to work on The Book of Elon with me," "@elonmusk measures his success by usefulness").
+- **His comments (voice):** "Congrats Eric- I looking forward to reading!" (Eric Jorgenson's pre-order post, 8mo) · "I enjoyed the conversation- thank you Zack!" (Zack Gallinger, "Most big recruiting wins don't start with a perfec[t]…", 8mo) · "Welcome Christen Trent! We're excited to have you on the Advastar… team!" · a dozen "Congrats ___! 🎉" on new-position posts.
+- **The circle:** Eric Jorgenson (the most-engaged name; author); Jay Caldwell (Bridgewood Cabinetry; "Thank you, Chanute!" → "Congratulations guys- well done!"); Kara Guinotte (Dwellworks award) and David Guinotte (past Advastar board member, Newton Crouch, Fort Collins); Thomas Case (new regional role, 8mo; family name match, relation not stated); Aaron Adcock (SME Chapter 57); Christian Arnold; Trevor Flannigan (Flint Group KC); Dawn Deeter-Schmelz (K-State sales professor; Fred Diamond, Nate Lindsey); Travis Worden; David Brucker, P.E.; Brandon Smith (Flexblue Staffing); Zack Gallinger; Advastar team: Tim Shearer, Amanda M, Christen Trent, Robert Cornelio, Jared Young, Jaime Summers.
+- **EO Kansas City on the profile:** reactions to the chapter page's "first EO Kansas City Tenured Mem[ber]…" event (6mo) and "Welcome Core Bank as One of Our Exclusive Strategic Alliance Partners" (8mo).
+- **Interests:** Top Voices: Michael Arougheti, Richard Branson, Jeff Weiner, Martina Cheung, Simon Sinek, Ivan Tornos, Mark Smucker. Companies: CST Industries, National Strategic Selling Institute, Contractor Verified, Back2KC, The Planet Group, Terracon, Pearce Services, Vizient, OVERWATCH, Data Center Infrastructure. Groups: HEMP (Helzberg Entrepreneurial Mentoring Program), travel-nurse and healthcare recruiter networks, Healthcare Executives Network, civil-engineering and APWA groups. Newsletters: PioneerCast (DeWayne Ables, "Build and Scale"), The Growth League (Diana Kander, a Kansas City keynote speaker on curiosity). School: Kansas State.
+- **Recommendations:** received one, John Bakarich III (Baron Contracting, 2014): "His attention to detail and desire to exceed expectations has been par for the course." Given: Justin Eastwood (2016, managed directly: "able to quickly build rapport"), Kasey Ourada (text not captured).
+- **Register:** almost none on LinkedIn; short, warm, emoji-light congratulations with a dash ("Congrats Eric- I…"). He uses LinkedIn as a job board, not a voice.
+- **Open question:** none was set. EO tie stated on the profile: "Member of the Board of Directors, Entrepreneurs' Organization, 2013 – Present"; the learning-chair title is not on LinkedIn.
+- **Read for the note:** LinkedIn gives nothing to quote; email (dcase@AdvastarGroup.com is on the profile) is the channel. His business is moving toward data-center and mission-critical owner's representation; his newsletters (Diana Kander, PioneerCast) show he reads speaker and growth material, which fits a learning chair. Lead with something useful to his chapter's program, short and plain.
+- **Humantic:** no read ("Can't open this profile"; 3rd-degree). See humantic/david-case.md.
+
+### 5b. Humantic
+
+# Humantic: David Case (attempted in Jefferson's Chrome, 2026-10-18 ~3:59 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/davidcaseadvastar/ (React-safe setter, submit, 30 s wait): "Can't open this profile. Well, seems we do not have any information about this user."
+- He is 3rd-degree from the account. Register for the note comes from the LinkedIn read (t1-peer-rooms/linkedin-reads.md): terse congratulations, almost no first-person writing on LinkedIn.
+
 No personal need is on record. The problem his name is attached to is his clients' problem:
 
 **1. Too few skilled people, too late.** 2025-07-26: "The demand for these experts is sky-high, and as a result the talent pool can feel shockingly shallow." 2025-07-16: "The worst phone call I get is, 'We're starting construction next week and now we need people.' At that point, you're already behind." https://advastargroup.com/blog/blueprint-recruiting-top-specialty-contractors/ · https://advastargroup.com/blog/helping-owners-developers-recruit-construction-teams/
@@ -107,4 +137,4 @@ Alternates: **Stephanie Foote**, Chapter Manager, published address on the board
 - https://baroncontracting.com/contact/ · https://www.builtinchicago.org/company/collectiv
 - Searches with no match to him: https://filemaker.livecode.com/lcfm-native-on-the-adatasol-podcast/ (different David Case) · https://elementix.ai/investors/mo/david-case (aggregator; links a David Case to WALNUT CREEK INVESTMENTS LLC, Kansas City, MO; AI-linked public records, lead only)
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

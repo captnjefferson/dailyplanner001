@@ -49,6 +49,45 @@ On himself: "I have a very huge fatal flaw that no matter what it is, I'm going 
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Raj Shingadia — read 2026-10-18 ~3:58 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Raj Shingadia"; one match in the US, Buford GA; the others are UK and India namesakes) · /in/raj-shingadia/ · /details/experience/ · /recent-activity/all/ (17 items, 1mo back to 2yr) · /recent-activity/comments/ (20, 2w back to 5mo) · /recent-activity/reactions/ (20, 2d back to 1mo) · /details/interests/ (Top Voices, Companies, Groups, Newsletters, Schools via label click) · /details/recommendations/ (Received and Given). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/raj-shingadia/ · 3rd · 651 followers · 500+ connections · He/Him · "Aquarium Extraordinaire | Keynote Speaker | Sales Leader" · Buford, Georgia · The University of Georgia. No About section.
+- **Experience:** CEO, Reef Builders (Feb 2023–present: "We obsessively cover the saltwater aquarium industry"); President, Alchemy (Jan 2013–present, "TV and film set production and design"); Owner, MRC (Oct 2008–present); Owner, Southeast Aquariums (2008–present, Atlanta, on-site); Atlanta Reef Club board 2009–2019 (president 2009); Owner, SEA Atlanta 2011–15; President, SaltwaterU 2009. **No EO role in the experience section.**
+- **The open question, does the profile tie the EO Atlanta board seat to the aquarium businesses? Yes, in his own posts, not in the experience section.** The exact lines:
+  - 7mo (~Mar 2026): "Leading a huge group of leaders was not in my 2026 bingo card, but here we are. Getting the vote of confidence from amazing entrepreneurs is a special feeling that I'm still having difficulty describing. It's an honour and the pressure is on!… Check out the EO Atlanta announcement here: https://lnkd.in/gfJHxgZY" (the post does not name the seat; "leading a huge group of leaders" reads larger than learning chair, so worth a check against eoatlanta.com/about, which says Learning Chair).
+  - 1mo (Georgia State talk): the post ends with the tags "EO Atlanta Entrepreneurs' Organization Southeast Aquariums MRC" in one line, the same post, his own account.
+  - 5mo, his comment on April Lickovitch's post ("Grateful for the opportunity to serve on the EO At[lanta board]"): "You're going to lead this chapter one day and I can't wait for that day."
+  - Newsletters: he subscribes to "EO Atlanta Update."
+- **Cadence:** LOW, about monthly: 5 posts in 2026 (1mo, 2mo, 3mo, 4mo, 7mo), six at ~1yr, three at ~2yr. Comments a few a week; reactions several a week.
+- **Themes, dated:**
+  - 1mo, Georgia State ENI talk with Jeremy Legg and Nathan Culver: "from having absolute certainty in my legal career to realizing I didn't want a career in law at all and now had no plan." Thanks Joy Harris, Ph.D.
+  - 2mo: "Last night I shared something with a large group of peers that I've never shared in public before… talking about one of my biggest failures… I knew I'd be judged… But when I started to make eye contact, I saw something I wasn't expecting: shock, empathy, and love… To those thinking you have to go through the bad times alone, please speak up. And remember, you can't make millions without a couple of L's." (A peer room; likely EO.)
+  - 3mo: Dana Mauriello's NYU Stern interview ("I was so uncharacteristically nervous… my mind go blank"); her post: coral grown "in his basement," the 2008 commercial real-estate collapse as his "now-or-never moment," "he also designed sets for Black Panther."
+  - 4mo: a champagne toast for Minorities In Aquarium and Zoo Science (MIAZS), founders Jennie Dee Janssen and Meghan Holst: "I have had some challenging moments in my life and many purely due to the colour of my skin… there are still people and moments within it that remind me that obstacles still exist."
+  - ~1yr: keynote at UGA Franklin College convocation ("over 2,000 in attendance"; "Next week, I get to see my son deliver his Valedictorian speech. He better not steal any of my material!"); fourth Bulldog 100 honor: "If you would've told me that a kid living in a weekly motel would one day make the Bulldog 100 list, I would've laughed in your face"; Shoutout Atlanta feature; Tenji rescue of an abandoned 4,500-gallon build ("Sad because someone was taken advantage of"); "If you had $1,440 and a few dollars got ruined, would you throw out the remaining cash? There are 1,440 minutes in a day."
+  - ~2yr: a 10,000-gallon residential project; an interview with diver Brian Greene.
+- **AI:** none in posts. The nearest: 4w comment on Greg Asman's "Help me understand this LinkedIn trend…": "It's proving dead internet theory and for some reason, LinkedIn is the worst offender." 2mo, on Ethan Deng's AI-style aquarium render: "How does an incorrect visualization help anybody? Showing an aquarium being fabricated in a way it 100% will not and cannot be fabricated only confuses everyone involved." (Skeptical of generated content that misstates his craft.)
+- **His comments (voice):** to Ron Perry, 2w: "Ron, sending you an uncomfortably long hug. Thinking of you and your family, my friend." To Sadie Kent: "you do an amazing job of masking the chaos that is the journey of scaling a small business!" To Danny Donaldson after cervical disc surgery: "Soooo, was I right about the anesthesia?" On Canadian salmon: "chicken is sent to China to be processed and shipped back. It disgusts me on many levels." To Vinit D.: "I've learned more from my failures than I've ever learned from my wins."
+- **The circle:** EO Atlanta: April Lickovitch, Danny Donaldson ("you were missed, my friend"), Vinit D., Ben Hansen, Sarah Tourville, Christina M. (Make Your Move Summit, Braselton, Oct 20–22), Alina Lee (Aspire Law), Steven Pope, Greg Asman, Ron Perry, Sadie Kent; Georgia State: Joy Harris, Jeremy Legg (Atlanta Falcons mascot manager), Nathan Culver, Isaac Kim; UGA: William Fogler, Jon Ostenson (fellow Bulldog 100); the aquarium trade: Quality Marine, Tenji Aquarium Design + Build, Marijke Puts, Nancy Pham, Gregory Barord, Bailey Marquardt (Coral Reef Futures Lab, U. Miami), Brian Greene, Terence Fugazzi; Dana Mauriello (NYU Stern).
+- **Interests:** Top Voices: Sara Blakely. Companies: Southeast Aquariums, Reef Builders, Quality Marine, RAVEN Automation, OptiBrand Rx, UGA Psychology. Groups: Aquarium Related Professionals, The Marine Mammal Center. Newsletters: EO Atlanta Update, UGA Franklin College News, Bulldog Beat. Schools: UGA, Franklin College.
+- **Recommendations:** received none. Given one, Terence Fugazzi (2023): "Terence sets his eyes on his target and then proceeds to achieve it without excuses."
+- **Register:** warm, story-led, self-deprecating ("my most divisive headshot," "we'll add that as another fail! 🤦🏽‍♂️"); British spellings ("honour," "colour"); moderate emoji (👊🏽 🍾 🙏🏽); open about failure, race, and nerves; short comments that read like a friend.
+- **Read for the note:** his 2mo post is the door: he told a peer room about a failure and found "shock, empathy, and love," and he urges others to "speak up." A note that shares a real pattern (not a pitch) and respects his craft fits; he dislikes generated content that gets the craft wrong ("How does an incorrect visualization help anybody?"). He is a keynote speaker himself and a UGA/Georgia State regular, so he knows the speaker slot from both sides.
+- **Humantic:** no read ("Can't open this profile"; 3rd-degree). See humantic/raj-shingadia.md.
+
+### 5b. Humantic
+
+# Humantic: Raj Shingadia (attempted in Jefferson's Chrome, 2026-10-18 ~3:55 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/raj-shingadia/ (React-safe setter, submit, 30 s wait): "Can't open this profile. Well, seems we do not have any information about this user."
+- He is 3rd-degree from the account. Register for the note comes from the LinkedIn read (t1-peer-rooms/linkedin-reads.md): warm, story-led, self-deprecating, emoji in moderation, British spellings ("honour," "colour").
+
 **1. A new market for what MRC already makes.** *THIS is a Thing*, 2026-07-02 (about 21:43):
 > "I've been working on this for over five years now, leveraging what I do right now and what we make and our technology, but again, going outside of the scope… What markets can we serve? So instead of expanding our operations horizontally, how can we go vertical?… we made a lot of different attempts at different markets… within the next couple of years, what I'm working on right now will be very exciting." https://www.youtube.com/watch?v=vpg-Q4DBoyQ
 
@@ -100,4 +139,4 @@ Alternates: Jeremy Legg (Vice Learning Chair, same board page; no public contact
 - https://www.mrcamerica.com/ · https://www.mrcamerica.com/contact/ · https://tidalgardens.com/about-us
 - https://member.eonetwork.org/atlanta/ · https://projects.propublica.org/nonprofits/organizations/582355941 (both via seed)
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

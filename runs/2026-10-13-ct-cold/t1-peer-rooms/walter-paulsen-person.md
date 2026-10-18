@@ -49,6 +49,110 @@ A father, "one of my daughters went to Yale"; his daughters live in "Brooklyn an
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Walter Paulsen — read 2026-10-18 ~3:45 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Walter Paulsen Vistage"; one match, Bay Area) · /in/walterpaulsen/ · /details/experience/ · /recent-activity/all/ (20 posts, 4h back to 2w) · /recent-activity/comments/ (~20) · /recent-activity/reactions/ (20, 5d back to 9mo) · /details/interests/ (Top Voices, Companies, Groups, Newsletters via label click) · /details/recommendations/ (Received and Given). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/walterpaulsen/ · 2nd · 4,548 followers · Premium · mutuals Sarena Diamond, Justin, Merideth Mehlberg · headline "Most CEO coaches have never been a CEO. I've built and sold four companies, including a unicorn. Now I coach Bay Area founders ($5M-$50M)." · San Francisco Bay Area · Harvard. About: "I've sat in your chair at 2 a.m. wondering whether the money would hit in time to make payroll… Some are venture backed, most are not." Lists GO GROW AI ("Top-tier strategy rigor for middle-market companies and mission-driven organizations") and Outgrow ("Behavior change and sales doing, not another playbook"). Outside work: "Eight marathons total, five sub 3:00. Twenty-plus years running the Dipsea. 2017 Spartan World Age Group Champion. WHOOP streak at 2,000+ days."
+- **Experience — the open fact:** **"Vistage Chair, Vistage Worldwide, Inc. · May 2022 - Jul 2026 · 4 yrs 3 mos"**, written in the past tense ("Led a peer advisory group of CEOs and business owners… Deepened my craft as an executive coach"). The About also says "Led a Vistage CEO peer group in Palo Alto." People search shows "Past: Vistage Chair." Current roles: Certified GO GROW AI Advisor (Jan 2026–present), Executive Coach, own practice (2020–present), Certified Outgrow Advisor (2025–present). His own site and Humantic still say he chairs; LinkedIn says the room ended in July. Earlier: CEO and co-founder Alula Hydrontrients [sic] (indoor-farm nutrient control, 2016–19); Redbox Gift Card Exchange GM; SkuLoop; CardFact president; Blackhawk Network founding team at Safeway ($0 to $500M); NEC corporate VC; 20th Century Fox.
+- **Cadence:** DAILY, often twice a day: 20 posts in two weeks, each ending in the same close ("DM me if… I have a ton of experience in this and would love to spend 30 minutes chatting about it. At worst it would be great to connect about…") with three hashtags. Several posts are the same idea reworded within days (the "996 hustle cycle," agents versus assistants, AI outbound "slop," patience). Two 8-page document carousels. Plus 1–3 comments a day on others' posts.
+- **AI, verbatim (he writes about it more than any other topic):**
+  - 1d: "I am doing my own version of moving away from token maxing. That is the instinct that AI can do all of this, so I should just use it for everything… I caught it in myself before I caught it in anyone else, which is why I stopped recording my own calls. AI is a fabulous new toy… this is not a case against the technology. **It is a case for asking the question one use at a time.**"
+  - 4d: "I changed my mind about this one. I used to think AI agents were going to obviate the need for any virtual assistance… There are absolutely specific functions where agents can be put to work, and I use one… That is not a scheduling problem. That is a judgment problem."
+  - 1w: "as teams outsource their written correspondence and documentation to AI… If you let your team get lazy and have AI do everything for them, you are actually doing them a disservice… before you decide where an agent sits on the org chart, decide what you still want your people getting better at."
+  - 2w: "People can now develop AI generative slop of tens of thousands, hundreds of thousands of outbound communications. And in response, buyers are deploying AI to read and screen all the slop… Coding is a great place to deploy AI in depth… Sales motions are where it is a lot less valuable… For the people who are not afraid to have conversations… there is actually a big opportunity right now."
+  - 1w: "Even the best AI is not going to be very supportive in that moment [eight weeks of runway]… Not the workload. The camaraderie." Reply to Hasan Afridi: "The solopreneurs I've met (and read about) who surround themselves with AI Agents end up being lonely and kind of sad."
+  - 2d, comment on Vistage chair Andy Scott's post (a Vistage member, an electrical-contracting CEO, built a bids/jobs/crew tool "in a few weeks with Claude"): "Great post Andy Scott and highlights the value of a Vistage Worldwide, Inc. peer group. Start small, target a real pain point, see how it works, repeat. **In a sense we're all now AI Product Managers** with incredible capabilities at our fingertips."
+  - 5d, comment to Dr. Paul Fang (Bay Area Founders Club AI researchers roundtable, Atherton, Oct 18): "I'm working with a former Level 10 DeepMind researcher who's about to come out of stealth with her new AI research company. What's the best way to introduce her to you and your community?"
+  - Reacted 5d to Aracely Lara's "new certification: Claude Acad[emy]." Newsletters include Agentic AI Showdown and AI Governance + Data Security.
+- **Other themes, dated:** 4h motion versus progress ("the hour that looks least like work and is often worth the most") · 2d "Every company tops out somewhere, and usually it is at the founder" · 3d delegation, "I will use this as a parent, because I am a parent… Give them rope" · 5d and 2w the three-year North Star plus habits (James Clear, BJ Fogg) · 1w "Patience is for optimists and winners" · 2w retention ("five nines worth of people are not getting overlapping nine figure offers").
+- **His comments (voice, warmer than the posts):** to Mark Boulding on a Boston qualifier: "I ran Boston 2x in college and it's truly worthy of all the mystique and hoopla." To Ken Fenyo on Albertsons: "I shop regularly at some big Safeway stores regularly in Menlo Park and Carmel, and the pricing is distressingly uncompetitive… What am I missing?" To Mark Cumicek on race medals: his Hood To Coast medal with "my friend Jeffrey Amell" and "our teammate Mike Lemberger"; "the roads are always open." To Andrew Fritts: "the best bump is one that sounds authentically human and informs or helps them in an interesting way… more personal is usually better." To Josh Holtzman on culture: "the hardest part is almost always making the value actionable," and points to David J. Friedman (CultureWise). To Anne Lyons Johnston: "you're definitely someone who will make titanic efforts in life."
+- **The circle:** Andy Scott (Vistage chair, Scott Summit Group; he reacts to and comments on Andy's posts repeatedly); Krisztina Kohlhaas ("Chairworld," the Vistage chair community; reacted 8mo); Hasan Afridi (Frost Media; comments on his posts, he replies each time); David J. Friedman (CultureWise); Josh Holtzman; Dr. Paul Fang (Bay Area Founders Club); Peter Curran (Coveo: "a rare ability to break down complex AI systems"); Walt Duflock (Western Growers AgTech) and Ignacio Albornoz (Cattler), his ag-tech thread; Aaron Basch (SPARKET; he holds equity from the UCLA Venture Accelerator, reacted to SPARKET's post); Rob Mihalko, Taissa Maleh (1752vc), Joanna Strober, Lenny Mendonca; runners Mark Boulding, Mark Cumicek, Jeffrey Amell, Mike Lemberger, Oliver Wang (Runbuk).
+- **Interests:** Top Voices: Roxanne Varza, George Arison, David Ko, Hussein Fazal, Rishabh Jain, David J. Katz, Matt Lerner, Richard Bliss, Hemant Taneja, Tomás Maldonado. Companies: GO GROW AI, OUTGROW, his own coaching page, Apex Clean Energy, geCKo Materials, Noro, Athlete To Athlete, LinkedIn Guide to Creating. Groups: LunchClub, Danish American Chamber of Commerce of Northern California, Innovation in Payments, BayPay Forum, All Payments Professionals, Coro National Alumni, Harvard Alumni. Newsletters: Grow CEO (Tom Cuthbert), Vistage Research and Insights, Agentic AI Showdown (Rishi Yadav), AI Governance + Data Security (Arti Arora Raman), Optimize for Profit, CareerCapital, Branded Thoughts, Infused Insights, Paid in Full, Create Possibilities.
+- **Recommendations:** received ~15, most from 2008–09 (gift-card era: Chris LaPlante, Tom Broadbent, David Berglass, Leigh Anne Ambrose, Eric Mokover "known Walter for 20 years," Colin Reid, Paul Black) plus 2024 clients (Radhika Sundar: "a great connector"; Aaron Basch: "we granted him equity"; Alfredo Coppola, US Market Access Center) and Siddharth Bhavsar 2026: "his generosity of spirit. He freely shares his time, perspective, and network." Given: Jim Cohen (2019), Garrett Dallas (2015), Leila C. B. (2012, "a child care provider for our three daughters"), Brian Rigney (CashStar advisory board), Allison Bradley, Gregory J. Sneed.
+- **Register:** two voices. Posts: short one-sentence paragraphs, plain declaratives, a stock close and a 30-minute ask on every post, recycled themes (reads as a content system). Comments: informal, warm, first-person, quick typos ("chimichuirri," "IMHO"), runner and dad asides, often ends on a real question.
+- **Open question:** none was set; the fact that matters is above: **LinkedIn ends his Vistage chair role in Jul 2026.** No current Vistage group is named anywhere on the profile.
+- **Read for the note:** quote his own test, "asking the question one use at a time," and the Andy Scott comment ("Start small, target a real pain point… repeat"); write like a person, not like the outbound "slop" he posts against, and do not mirror his 30-minute ask back at him. Before any T1 note, settle whether he still has a Vistage room: LinkedIn says the chair role ended in July 2026.
+- **Humantic:** ID "The Trailblazer," D81 I78 S69 C48, High 100% (career data stale, still "Vistage Chair… Present"). See humantic/walter-paulsen.md.
+
+### 5b. Humantic
+
+# Humantic: Walter Paulsen (pulled in Jefferson's Chrome, 2026-10-18 ~3:49 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/walterpaulsen)
+
+**DISC: ID "The Trailblazer"** · D 81 · I 78 · S 69 · C 48 · analysis confidence **High (100%)** · Humantic's career data is stale: it still shows "Vistage Chair, Vistage Worldwide, 5-2022 – Present"; his LinkedIn now dates that role May 2022 – Jul 2026 · "12 yrs · Junior" is Humantic's mis-level (he is a four-time founder).
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+Walter Paulsen
+ID · The Trailblazer
+Vistage Chair
+Vistage Worldwide, Inc.
+Palo Alto, California, United States
+12 yrs · Junior
+linkedin.com/in/walterpaulsen
+
+PERSONALITY OVERVIEW
+They are charming and can persuade others to support their decisions. They prefer to ensure that they are in control of the situation. They are more likely to accept new and exciting technologies.
+
+HOW THEY SHOW UP
+Values Relationships · Charismatic · Informal
+
+DURING A CALL OR MEETING
+Do
+- Showcase existing customers and use case-studies to grab their attention
+- Help them visualize the impact of their decision
+- Talk about yourself and some of your achievements at the start of the conversation
+Avoid
+- Avoid unnecessary negativity or slowness
+- Do not look like someone who doesn't know what they are talking about
+- Don't hesitate from asking questions or pushing them, but take a friendly approach
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Confident style, with a mix of informality and formality gets their attention.
+PACE: Speak slightly fast. Sound like a 'gets shit done' person.
+TONE: Do not sound too eager, as if you have met a friend suddenly after a long time. Keep the tone calm but confident.
+TACTICS TO WIN: Strong words, focus on results, respectful confidence
+MISTAKES TO AVOID: Apologizing, nervousness, information overload, social proof
+MAKING THE ASK: Confidently, ask for 10-15 minutes. Allude to the results and outcomes that are possible. They care about the ends more than the means.
+SUBCONSCIOUS DRIVER: Results and outcomes are what matter to them. Any credible shot at getting results will appeal to them quickly.
+
+WHEN WRITING AN EMAIL
+SUBJECT: Exciting, direct (e.g. John, quantum jump', 'Is it game over?' etc.)
+SALUTATION: No (e.g. Skip 'Hi', 'Hey' etc., use only the first name)
+GREETING: No (Or say something unique)
+LENGTH OF MAIL: Short (e.g. Ideally upto 100-120 words)
+TONE OF WORDS: Informal, direct
+BULLET POINTS: Could use
+CLOSING LINE: Informally state your ask
+COMPLIMENTARY CLOSE: Unique, casual (e.g. 'Looking forward!', 'To new beginnings!')
+OVERALL MESSAGING: Focused on personal achievement
+
+NEGOTIATING & CLOSING
+The secret to closing: Relationship and product conviction matter equally, followed by a sense of achievement.
+How fast will he move: They can reach decisions quickly if they develop trust and confidence in the product.
+
+DISC PROFILE
+ID · D 81 · I 78 · S 69 · C 48 · Analysis confidence High · 100%
+
+COMPATIBILITY (verdict only): Partial fit
+
+AT A GLANCE
+Experience 12 yrs · Job level Junior · Education Masters · Based in Palo Alto, California, United States · Company Vistage Worldwide, Inc.
+
+CAREER HISTORY (as Humantic holds it)
+- Vistage Chair — Vistage Worldwide, Inc., 5-2022 – Present
+- Certified Outgrow Advisor — OUTGROW, 1-2025 – Present
+- Executive Coach — Walter Paulsen Executive Coaching, 1-2020 – Present
+- Chief Executive Officer and Co-Founder — Alula Hydrontrients, Inc., 1-2016 – 12-2019
+- VP & General Manager, Gift Card Exchange — Redbox Automated Retail, LLC, 4-2011 – 8-2013
+
+EDUCATION
+A.B. — Harvard University · M.B.A. — UCLA Anderson School of Management
+
 **1. Teams that will actually use AI, pulled rather than pushed.** YouTube Short, 2026-06-18 (his most-viewed Short, 564 views):
 > "people are ignoring AI tools because they're either not helping them do their job or they're actively worried that it's going to put them out of a job… AI doesn't fail because of the tool, it fails because the team wasn't really ready to use it… instead of a push strategy, do a pull strategy that helps your best people work better." https://www.youtube.com/shorts/jTsC3FRXj3Y
 
@@ -93,4 +197,4 @@ Alternates: Alex Goldfayn (Outgrow author, link inferred; https://goldfayn.com/c
 - https://talentharbor.com · https://confessions.fm · https://goldfayn.com · https://www.simonandschuster.ca/books/Outgrow/Alex-Goldfayn/9781637746394
 - https://www.couparconsulting.com/journal/2023/01/18/2023-1-17-take-10-with-walter-paulsen-c6wjp (timed out; not read)
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

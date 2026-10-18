@@ -55,6 +55,35 @@ No family, health, faith or community context is on the public record. Not found
 
 ## 5. What she has said she needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Christina Lim — read 2026-10-18 ~4:27 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Christina Lim OTR Drive School"; one match, Las Vegas) · /in/christinalim-otr/ · /details/experience/ · /recent-activity/all/ (8 items, all there is; 1yr back to 6yr) · /recent-activity/comments/ (2) · /recent-activity/reactions/ (20, 2mo back to 5yr) · /details/interests/ (Top Voices, Companies, Groups, Newsletters, Schools via label click; opened twice to capture Groups and Newsletters) · /details/recommendations/ (none either way). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/christinalim-otr/ · 3rd · 519 followers · 474 connections · She/Her · Las Vegas · UNLV.
+- **The open question, her company and role as the profile states them:** headline, verbatim: **"Founder & CEO at OTR Drive School | Helping companies grow CDL drivers from within | Las Vegas's #1-rated CDL school (300+ five-star reviews) | EO Learning Chair."** Experience: "Founder/CEO, OTR Drive School · Full-time · Jun 2022 - Present… USDOT# 3913053 | Minority & Women-Owned Business | Nevada Licensed." About: "Outside of OTR, I serve as Learning Chair for the Las Vegas chapter of Entrepreneurs Organization and I'm a graduate of Leadership Las Vegas 2025." Contact on the profile: christina@otrdriveschool.com, 702-560-6362.
+- **About, her words:** "Four years ago, I started OTR Drive School after seeing how broken CDL training was for drivers I worked with. Too many people were paying thousands for training that didn't prepare them. Too many were failing the test the first time because their school cut corners… So I built something different." Students: "veterans transitioning to civilian careers, single parents who needed a path to stability, and corporate teams who needed a license to keep their jobs." The model: "We partner with employers. We train your existing employees for their CDL… Trucking companies, dealerships, municipalities, government agencies, and the U.S. Air Force Reserve already partner with us." "I'm also one of those people who genuinely believes that skilled trades are the most underrated career path in America right now, and I'll happily defend that position to anyone who asks."
+- **Experience, the rest:** Co-Founder/CEO, TravelStar Transport (regional trucking, Jan 2021–**May 2026**, ended); Founder, CleanLivingTechnology (UVC products, 2019–23); **Director Sales Operations, Remark Holdings (May 2020–Jun 2022: "Improving safety and security with behavioral detection and AI")**; Managing Director, Team Lee Foundation (2019–21); nonprofit and foundation consultant (2018–21).
+- **Cadence:** NEAR-SILENT. "Christina has no recent posts." 8 items in total; the newest are ~1yr old. Comments: 2 ever (2yr, 6yr). Reactions: a handful a year, latest 2mo.
+- **Themes, dated:** ~1yr, a visit from Tristan Bordallo ("Visiting my felow EOer, Christina Lim, and her awesome trucking school"); her line: "Amazing having a fellow EO member and someone so dedicated to improving our industry come by." ~1yr: "The future of trucking isn't about replacing drivers but redefining and evolving their skill se[ts]," sharing a Truck N' Hustle clip, "The Dark Side of Autonomous Trucks." ~2yr: Truck N' Hustle podcast interview ("CDL School Teaches The Business Of Trucking!"); Leadership Las Vegas class announcement.
+- **AI, verbatim:** ~2yr: "I'm excited to announce my participation in the upcoming AI Revolution Panel Discussion! As we delve into the future of artificial intelligence, I look forward to engaging with thought leaders… Let's embrace the future together! 🚀 #AIRevolution #FutureLeadership" (a Global Entrepreneurship Week 2023 panel in Vegas; reactions to TitanAI Panel, AXES.ai, Megan Buckley, Earle G. Hall, Don Jacobson, Jamie R. Collyer, Jason Wang about it). ~1yr: autonomous trucks, "not about replacing drivers." Reactions: EO's "🤖 What if your next hire wasn't a person" (2mo); Mark W Lamplugh Jr, "CLAWDBOT IS DEAD. LONG LIVE MOLTBOT" (8mo). Worked two years at an AI behavioral-detection company (Remark Holdings); 6yr comment on Remark Thermal AI in schools: "Incredible to see our students returning to school safely!" Companies she follows: AXES.ai, WARE AI, Engenai, Titan Email.
+- **The circle:** Tristan Bordallo (fellow EOer, trucking founder); Veronica Gabriele (2mo); Juanny Romero ("You are incredible!"); Earle G. Hall and Megan Buckley (AXES.ai / GEW Vegas); Jason Wang; John Giordano; Mark W Lamplugh Jr; Elizabeth Xu, Ph.D. (Remark); Leadership Las Vegas; Truck N' Hustle.
+- **Interests:** Top Voices: Gary Vaynerchuk, Chris Williamson, Tim Ferriss, Angela Duckworth, Brad Jacobs, Lewis Howes, Mark Cuban, Ray Dalio, Andrew Huberman, Simon Sinek. Companies: Leadership Las Vegas, Truck N' Hustle, Engenai, YPO, Entrepreneurs' Organization, Vegas Chamber, AXES.ai, WARE AI, Titan Email, Global Entrepreneurship Network. Groups: Logistics and Supply Chain professionals, Nonprofit Governance, Nonprofit Network International, The Chronicle of Philanthropy. Newsletters: The January Money Challenge (Business Insider). School: UNLV.
+- **Recommendations:** none received, none given.
+- **Register:** plain, direct, mission-first, short sentences with repetition for force ("Too many… Too many… Too many…"); conviction stated as a dare ("I'll happily defend that position to anyone who asks"); emoji rare.
+- **Read for the note:** she has been on an AI panel, worked at an AI company, and holds a public line on AI and work: trucking's future is "not about replacing drivers but redefining and evolving their skill sets." A note that takes the skilled-trades and workforce side seriously meets her where she stands; email (on the profile) is the channel, since LinkedIn is near-silent.
+- **Humantic:** no read ("Can't open this profile"; 3rd-degree). See humantic/christina-lim.md.
+
+### 5b. Humantic
+
+# Humantic: Christina Lim (attempted in Jefferson's Chrome, 2026-10-18 ~4:07 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/christinalim-otr/ (React-safe setter, submit, 30 s wait): "Can't open this profile. Well, seems we do not have any information about this user."
+- She is 3rd-degree from the account. Register for the note comes from the LinkedIn read (t1-peer-rooms/linkedin-reads.md): plain, direct, mission-first ("I built something different"), almost no posting.
+
 **None public.** No first-person statement of a problem was found.
 
 The company's record shows two live needs, in company voice:
@@ -112,4 +141,4 @@ Lateral, not a door to her: **Chandler Varone**, EO Long Island Learning Co-Chai
 - https://www.youtube.com/channel/UC3ig60twhtEGRSQjSkeMW1A (chapter channel; 8 old videos, dormant, none with her)
 - Not found by search: any first-person words, interview, bio, or personal social account for Christina Lim.
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.
