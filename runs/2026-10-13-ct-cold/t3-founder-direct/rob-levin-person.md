@@ -57,6 +57,118 @@ Sources: Ep. 313 · https://thenewtalentplaybook.com/ · https://newtalentplaybo
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Rob Levin — read 2026-10-18 ~3:42 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Rob Levin WorkBetterNow"; one match, NYC) · /in/robertslevin/ · /recent-activity/all/ (20, 2d back to ~1w) · /recent-activity/comments/ (20) · /recent-activity/reactions/ (20) · /details/interests/ (Companies, Groups, Newsletters via label click; no Top Voices tab) · /details/experience/ · /details/recommendations/. No connection requests, follows, messages, reactions, subscribes or saves made.
+
+- **Profile:** https://www.linkedin.com/in/robertslevin/ · 2nd · 4,839 followers · 500+ connections · "Your Team is Either Your Greatest Competitive Advantage — Or Your Biggest Problem | I Help Business Owners Fix That | Founder, WorkBetterNow | Author | Podcast Host | Speaker" · New York · UCLA Anderson (MBA; Humantic adds BS, University at Albany) · mutuals: Sarena Diamond, Robert Glenn Kanter · Premium · posted in the past 30 days. About: "After 30+ years working alongside business owners… as a CPA, as an entrepreneur, as the publisher of the New York Enterprise Report, and now as Co-Founder of WorkBetterNow… the business owners who win are the ones who treat talent as a strategy, not an afterthought." WorkBetterNow places full-time remote talent from Latin America with companies of 25–300 employees ("accepts less than 2% of applicants"). His newsletter, The New Talent Playbook (LinkedIn: weekly, 603 subscribers; also Substack newtalentplaybook.substack.com), a book of the same name, and a weekly podcast (Season 7 just ended; break before Season 8).
+- **Experience:** Chairman/Co-founder, WorkBetterNow, since May 2018 ("Most business owners I work with hit a ceiling — not because of their strategy, but because of their team"; 35+ roles, from executive assistants to bookkeepers); Host & Author, The New Talent Playbook, since Feb 2025; Managing Member, The Oasis Strategy Group (life-settlement asset management), since Feb 2020; CEO, RSL Media, 2003–Oct 2023 (B2SMB content for Aetna, Citi, Constant Contact, TriNet; speakSMB.com); founder, Editor in Chief and Publisher, The New York Enterprise Report, 2003–2014. Chairman, not CEO (pool flag: co-founder Andrew Cohen is CEO).
+- **Cadence:** near-daily. 20 items in about ten days: newsletter essays, podcast clips, WorkBetterNow reposts. Comments several a week, mostly replies on his own posts. LinkedIn-native, workmanlike.
+- **AI, verbatim:**
+  - 1w, 21 Hats podcast with Sarah Segal, Jaci Russo and Loren Feldman: "about how WorkBetterNow is becoming an AI-first company." Episode title: **"We Had to Become an AI-First Company"** (21hats.com). WorkBetterNow's repost: "Giving people access to AI tools is a start, but they also need the training and room to figure out where those tools can make a real difference… preparing our talent to take on a growing role in building and overseeing AI workflows for clients." Loren Feldman's Morning Report: "Rob Levin explains why he concluded WorkBetterNow had to become an AI-first company."
+  - His comments: "Ai could certainly play a part in improving a company's cash flow - from collections to accurate invoicing. **The starting point has to be the right practices.**" (1w, to Cheryl Tibbs). "**The probabilistic piece is manageable with humans.**" (3w). "Upskilling is the secret arrow in a business owners's quiver." (2w).
+  - 5d, Season 7 recap: "the people challenges that AI won't solve" (Jeff Hyman), "Bones Ijeoma's take on business decisions around AI." He reacted to Bones Ijeoma (AllSafe IT, 1mo): "AI can create real value. But the first question isn't, 'What can we automate?' It's 'What would break first if the bu[siness]…'" Pool quote (21 Hats, Oct 6, 2026): "It was tough to keep up with that."
+- **Other themes, dated:** 2d, firing: "I knew within three months he was not a good fit… I let him go about 20 months later… for 20 months I was in agony and disappointed in myself… the reaction from the team is almost always the same: 'What took you so long?'" 1w: "If money is the only reason someone stays, theyll leave the day someone else pays more." 5d: "You only grow as fast as your leaders grow" (David Schnurman, Lawline). 1w: "Candidates are your first customers." Remote talent and office requirements, repeatedly. 5d: "whether business owners are changing how they think about talent as quickly as the people they want to attract are changing how they think about work." WorkBetterNow at the Rockheads (stone fabricators) fall event, Portland, Oct 16–18, and at Nexstar (home services).
+- **Personal and community, on record:** 1w "Congratulations to my friends Ken Giddon and Jim Giddon on Rothmans' 100 Year Anniversary… a NYC bedrock"; reacted to an Israel Defense Forces post (2w) and to Evan Kaplan (MLB Players Inc.) on his high-school Hall of Fame; Humantic adds he ran the University Concert Board at Albany and "turned down an opportunity in the live music business to pursue a career in accounting." Comment: "#staythirsty."
+- **The circle:** Loren Feldman and the 21 Hats panel (Sarah Segal, Jaci Russo, Liz Picarazzi, who thanked him); Shawn Busse (Certified Vistage speaker; he comments and reacts on Shawn's posts repeatedly); podcast guests Bones Ijeoma (AllSafe IT), Jeff Hyman, Don Gregori (First Factory), David Schnurman (Lawline), Kevin Donnelly; Stephan Bajaio (amplifies his posts), Carlos Abler; NYC owners: Ken and Jim Giddon (Rothmans), Marc Glosserman (Hill Country Hospitality), Andrew Hazen (Bagel Boss), Larry Zogby (RDS Same Day Delivery), Peter Morandi (Eastman Cooke Construction), Eric "ET" Tecosky; Shelby Joy Scarbrough (GSE), Alex Hayes (Boost Pricing), Chase Steinberg (Valley Bank), Brian Weinberger (Justworks; Uncharted Family Office Retreat, "running into Ramon Ray is a nice bonus").
+- **Interests:** Companies: Teamshares, Nearshore Americas, NAPEO, Point Road Group, Amalga Group, Kingfisher Investment Advisors, Polyvagal Institute, Natural Healthcare Center, SERVPRO Team Allen, Fractional CMO. Groups: **Vistage / TEC - CEO Leadership**, The B2SMB Institute Partners Circle, CMO Executive Network, Sales Management Executives, Connect4, UAlbany NYC Alumni, ISBM B2B Marketing. Newsletters: Coaching Entrepreneurs (Evan Carmichael), Think First (Will Polston), Sales Flourishing (Darrell Amy), Revenue Ready (Raffi Yardemian), Get There, Stay There (Lisa Broderick), The Revenue Engine Insider (Kara Smith Brown), Titus Talent Weekly, SERVPRO Restoration, Create Possibilities.
+- **Recommendations:** received 5+ (clients from RSL Media and NYER: Jeff Greenberg, Time Warner Cable Business Class, "SOLVE helped TWCBC improve our customer churn goals by about 12%"; Jill Nelson: "Rob under promises and over delivers"; Hilary Whidden: "A sincerely valued mentor"). Given 7+, specific and generous (to an employee: "something that I cherish from team members: an owner's mentality"); one to Jesse Torres, now a construction-risk "AI Guy."
+- **Register:** plain, calm, first-person; opens on a quote or a confession, gives a stat, ends with "Here is where to start"; dry asides ("not to imply that they had a bad weekend, of course," "likely similar to how ducks look so calm in the water"). Comments short and courteous ("Well done, Andrew.", "Thanks for sharing your insights, Don"). Few emoji.
+- **Read for the note:** lead with his own position, "the starting point has to be the right practices," and the 21 Hats episode "We Had to Become an AI-First Company," and ask what it took to get his people (and his placed talent) building and overseeing AI workflows, or what owners ask him about it. He is chairman, not CEO, so the question is about the company he shapes and the owners he serves; he also takes podcast questions for Season 8 in the comments. Avoid AI basics and avoid anything that reads as a staffing or vendor pitch.
+
+### 5b. Humantic
+
+# Humantic: Rob Levin (pulled in Jefferson's Chrome, 2026-10-18 ~3:44 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/robertslevin)
+
+**DISC: DIS "The Pioneer"** · D 92 · I 84 · S 79 · C 51 · analysis confidence High (100%) · uppercase badge "DIS" in Recent Searches · New York · "31 yrs." Humantic lists him as Robert Levin, Chairman/Co-founder, WorkBetterNow.
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+Robert Levin
+DIS · The Pioneer
+Chairman/Co-founder
+WorkBetterNow
+New York, New York, United States
+31 yrs
+linkedin.com/in/robertslevin
+
+PUBLIC OVERVIEW
+
+Robert Levin is the Co-Founder and Chairman of Work Better Now, leveraging over 30 years of experience as a CPA and advisor to small and mid-size businesses. He is also a Member of the Forbes Business Council, contributing insights on finance and marketing.
+
+Beyond his professional life, Robert is a proud alumnus of the University at Albany, where he was President of the University Concert Board, producing shows for major artists. He also pursued an MBA at UCLA Anderson School of Management.
+
+An interesting fact about Robert is that he once turned down an opportunity in the live music business to pursue a career in accounting.
+
+PERSONALITY OVERVIEW
+
+If they are convinced, they can become very strong champions for your product They have the unique ability to win both love and respect from their team (or outsiders) They combine a unique set of diverse traits where they are fast and friendly but can slow down to be thorough when needed
+
+HOW THEY SHOW UP
+Driven But Considerate
+Friendly But Fast
+Decisive But Friendly
+
+TALKING POINTS
+Topics they care about
+1 Small Business Growth — With over 30 years of experience supporting small and mid-size businesses, including publishing the New York Enterprise Report, this is a core focus.
+2 Talent Solutions — As Co-founder and Chairman of Work Better Now, he is dedicated to connecting companies with top talent to streamline operations and improve administrative capabilities.
+3 Content Strategy — As CEO of RSL Media and Editor In Chief & Publisher of The New York Enterprise Report, he has extensive experience in creating effective content and audience development programs.
+4 Executive Assistants — Robert strongly advocates for the transformative power of hiring assistants, having experienced it himself and building a company around providing this service.
+5 Live Music Production — As President of the University Concert Board, he produced and promoted concerts for major artists, demonstrating a strong interest in the music industry.
+6 Financial Asset Management — As Managing Member of The Oasis Strategy Group, he specialized in asset management, particularly life settlements, providing compelling non-correlated returns.
+
+RECENT APPEARANCES
+Rob Levin – The New Talent Playbook Podcast (multiple episodes). Featured in The New Talent Playbook Podcast
+Finsights Podcast – Special Guest Rob Levin of WorkBetterNow. Featured in Finsights Podcast
+The New Talent Playbook with Rob Levin. Featured in The Better Leadership Team Show
+How WBN Is Becoming an AI‑First Company. Featured in Spotify (The New Talent Playbook Podcast)
+Rob Levin - Chairman & Co-Founder at WorkBetterNow. Featured in Thinkers360
+Rob Levin Of WorkBetterNow On The Labor Shortage & The 5 Things We Must Do To Attract & Retain Great Talent. Featured in Medium (Authority Magazine)
+Rob Levin | Co-Founder and Chairman, WorkBetterNow. Featured in Forbes Business Council
+WorkBetterNow Named a 2025 Inc. Power Partner and Earns Second Consecutive Inc. 5000 Honor. Featured in PRNewswire
+Webinars Archive – WorkBetterNow (featuring Rob Levin). Featured in WorkBetterNow
+The Remote Work Revolution: Rob Levin of WorkBetterNow On Building Strong Cultures in a Digital World. Featured in Authority Magazine (Medium)
+
+PREPARE FOR: Meeting / Cold call / Email / Closing
+
+DURING A CALL OR MEETING
+✓ Do
+Mostly stick to your standard pitch and qualifying script, but add some stories or anecdotes to it
+Build a trustworthy relationship while keeping the product center-stage
+Showcase existing customers and use case-studies to grab their attention
+✕ Avoid
+Don't lean very heavily into providing too much information, sharing whitepapers etc.
+Avoid focusing only on the product or its ROI, keep building trust subtly
+Don't be too verbose or overly friendly; a little bit, however, is fine
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Confident style, with a mix of informality and formality gets their attention.
+PACE: Speak slightly fast. Sound like a 'gets shit done' person.
+TONE: Do not sound too eager, as if you have met a friend suddenly after a long time. Keep the tone calm but confident.
+TACTICS TO WIN: Strong words, focus on results, respectful confidence
+MISTAKES TO AVOID: Apologizing, nervousness, information overload, social proof
+MAKING THE ASK: Confidently, ask for 10-15 minutes. Allude to the results and outcomes that are possible. They care about the ends more than the means.
+SUBCONSCIOUS DRIVER: Results and outcomes are what matter to them. Any credible shot at getting results will appeal to them quickly.
+
+WHEN WRITING AN EMAIL
+SUBJECT: Exciting, direct (e.g. John, quantum jump', 'Is it game over?' etc.)
+SALUTATION: No (e.g. Skip 'Hi', 'Hey' etc., use only the first name)
+GREETING: No (Or say something unique) (e.g. Skip anything, or say something unique like 'What an exciting discussion it's been!')
+LENGTH OF MAIL: Short (e.g. Ideally upto 100-120 words)
+TONE OF WORDS: Informal, direct
+BULLET POINTS: Could use
+CLOSING LINE: Informally state your ask (e.g. Something like 'John, if you are on, let's finalize tomorrow?')
+COMPLIMENTARY CLOSE: Unique, casual (e.g. Something like 'Looking forward!', 'To new beginnings!' etc.)
+OVERALL MESSAGING: Focused on personal achievement
+
+NEGOTIATING & CLOSING
+The secret to closing Robert fast: Nothing less than a strong combination of proof of resul
+
 **1. Turning his own workforce from doers into overseers of AI.** 2026-09-24:
 > "What does our team need to become to go from doing the work to overseeing the AI that does the work, and how do we get them there? I do not have that one fully answered yet, but I know that retraining our people is a big part of it." https://newtalentplaybook.substack.com/p/what-the-ai-experts-say-to-tackle
 
@@ -99,4 +211,4 @@ Alternates: Jeff Hyman (https://www.recruitrockstars.com/); Jaci Russo, CEO of b
 - https://www.ownerrx.com/ · https://allsafeintelligence.com/ · https://www.recruitrockstars.com/
 - https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad (collision check)
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

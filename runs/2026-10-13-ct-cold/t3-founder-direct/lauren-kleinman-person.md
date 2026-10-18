@@ -57,6 +57,125 @@ Speaking (her posts): Inc. Founder House with Ari Bloom (A-frame) on AI search (
 
 ## 5. What she has said she needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Lauren Kleinman — read 2026-10-18 ~3:27 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Lauren Kleinman Dreamday"; one match, LA) · /in/laurenkleinman/ · /recent-activity/all/ (20, 1d back to 2w) · /recent-activity/comments/ (19) · /recent-activity/reactions/ (20) · /details/interests/ (Top Voices, Companies, Groups, Newsletters via label click) · /details/experience/ · /details/recommendations/. No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/laurenkleinman/ · 2nd · "Founder of Dreamday, Co-Founder of The Quality Edit / Quality Media, Creator of Performance PR" · Los Angeles · USC · mutuals: Jenna, Genevieve Harrison, Allison Davis and one more · Premium · posted in the past 30 days. About: "my core competencies lie in PR and Partnership Marketing, pioneering the best of both worlds with Performance PR… commitment to empowering diverse voices in business."
+- **Experience:** Dreamday, Founder & CEO since May 2019 ("Award-winning PR, affiliate, influencer and AEO/GEO agency… Original creators of Performance PR"); Quality Media co-founder (Jul 2020; "1B+ impressions, $50M in incremental revenue"; clients HelloFresh, Our Place, Ritual, The Bouqs, Hyperice) and The Quality Edit (Jan 2020; co-founders Lee Joselowitz, Scott Silver); **YPO member since Oct 2025, Santa Monica Bay**; angel investor (Omsom, Olipop, Ghia, Italic, Pacaso, Angel City Football and others) and advisor (Fatty15, Kroma Wellness, Cayton Children's Museum and others); Ritual, founding team and VP Marketing, Dec 2015–Apr 2019; Scopely, Director of Corporate Communications, 2012–2015; StartEngine, first employee, 2011–12.
+- **Featured:** Dreamday's Arizona desert offsite with 50 team members ("some people had never rode a horse or shot a gun!… we all walked away with 50 new best friends"); the Inc. feature on PR in 2026; her Inc. column launch ("Trust Is the New KPI"); speaking at USC to 75 MBAs "with my mom and son, Alexander (on his 8th birthday!) in the audience… Five years ago, I could've never imagined having the courage to speak in front of crowds… it's a muscle"; ADWEEK Fastest Growing Agencies (Quality Media #17, Dreamday #28; "Dreamday grow into a team of 40+").
+- **Cadence:** an original post every few days to weekly, plus frequent reposts of clients (Ritual, Quince, The Bouqs, AG1) and her team. Comments several a week, short. LinkedIn-native.
+- **The live signal (1d):** "Dreamday is hiring a General Manager / President 🎉 I'm looking for a partner to help lead Dreamday through our next stage of growth. This is one of the most important hires we've made to date… over $1B in attributable revenue for our clients… you'll own how the business runs: P&L, operations, client delivery… EOS experience, ideally as an Integrator, is a plus." 4d (Green-ish podcast): "One of the most important things I've learned as a founder is how to become a fly on the wall in my own businesses… At what point do you know it's time to step back, making yourself the least important part of the business."
+- **AI, verbatim:**
+  - 5d, after moderating the Female Founder Collective's Cabinette Ascent Summit panel (Sheila Lirio Marcelo of Care.com and Ohai; Misbah Uraizee of Nectar; Lauren Abney, AI Business Strategist at Google): "AI has been coming up a lot with founders, specifically, **how to move beyond experimenting with one-off tools and start thinking about building a business with AI at its core**… what AI adoption looks like when you're already running a scaling business with teams to manage, customers to serve, and systems in place for years… It made me think about our own infrastructures at Dreamday and Quality Media. **We've invested heavily in AI over the past year, and I'm constantly learning how to make it more useful across our teams.** One thing I feel strongly about is that the technology is only as valuable as the people and systems behind it… quality control, taste, and human judgment remain important."
+  - Featured Inc. piece: "Trust signals matter more than ever in an AI-driven world, and credible brands are the ones showing up across ChatGPT and Google AI Overviews… we're building custom GPTs trained on our best pitches, case studies, and founder stories to improve speed and consistency so the team can focus on deeper storytelling and stronger relationships."
+  - Reposted BeautyScale (AI agents capturing discovery); reacted to Fast Company on AI talent, Inna Tumarin (AI systems architect), Bo Young Lee ("Women are the solution to ethical and human-aligned AI").
+- **Other themes:** trust over vanity metrics; Substack as an earned channel ("more than 150 Substack hits this year"); Gift Guide Ready holiday PR bootcamp with the Female Founder Collective, Oct 27, 12 PM PT, which she leads with Taylor Osumi and Veronica R. Gauthier; comment 3d: "With the paradox of sooo much choice online, I crave excellent curation and IRL shopping experiences."
+- **Personal, on record:** son Alexander (8); "a working mother of two" (Kevin Miller's recommendation); her mom at the USC talk; Humantic adds she raised donations for LAFD after the fires. Pool quote (Substack, Jun 12, 2026): "the late nights stopped feeling like progress and started feeling like a wall."
+- **The circle:** The Female Founder Collective (Rebecca Minkoff, Alison Koplar Wyatt, Avary Bradford); Quality Media partners Lee Joselowitz and Scott Silver; Robin Berzin (Parsley Health; "Beyond proud of you friend 💛💛💛"); Kevin Miller (GR0; client both ways since Ritual 2018); Melinda Moore, Kelly Kaufmann, Max Ninthara (cheered the GM post); clients and client-side marketers: Ritual, Quince (Dakota Kate Isaacs), AG1 (Ashlin Walshe), The Bouqs, Lauren Sherman-Kaoud; founders she congratulates: Allison Luvera (Juliet Wine), Jiake Liu (Outer), Nate Rosen and Jenna Movsowitz (Express Checkout to Morning Brew), Becca Millstein (Fishwife); press: Mark Stenberg (Adweek), Morgan Smith (WSJ), Annabel Burba and Rebecca Deczynski (Inc.).
+- **Interests:** Top Voices: Christina Farr, Scott Galloway, Gary Vaynerchuk, Heather Hartnett (Human Ventures), Mickey Drexler, Sara Wilson, Barack Obama, Jamie Heller (Business Insider), Reid Hoffman, Steven Bartlett. Companies: Fortune, The Clios, CNBC, CPG Wire, PRNEWS, Cosmetics Business, Jeni's, The Boring Company, Skanska, terranore. Groups: PR and branding groups, Silicon Beach Startups, old mobile-games groups from the Scopely years. Newsletters: Shoptalk (three), Inevitable CX & Retention (Zoe Kahn), The Loreal Edit, Why We Choose (Cynthia Ferngren), The Total Sales Engine (Mat Boyle), Master Your Presence (Kate Ziuz), Unlock Longevity (Simone Gibertoni), Create Possibilities.
+- **Recommendations:** received 7 (Kevin Miller 2022: "an exceptional start up builder… a working mother of two… with grace"; the rest 2014–2016 from Scopely and StartEngine colleagues: "never meets a stranger," "eternally upbeat"). Given 7, all 2014 (Scopely), generous and specific.
+- **Register:** upbeat, warm, exclamation-heavy, emoji (💛 🎉 ✨ ➡️ 👏), "pinch me," "Let's go!!!", gratitude and name-tagging in every post; polished PR structure with arrows; personal notes about her son and mom. Comments: "Huge congrats!!", "Love this 😂😂", "Beyond well deserved!!"
+- **Read for the note:** lead with her own panel line, how founders "move beyond experimenting with one-off tools" to a business with AI at its core, and ask what she heard in that room or what has been hardest to make useful across a 40–50 person team; the GM/President search (step back, EOS Integrator) is the moment. Avoid AI basics (custom GPTs, "invested heavily") and anything that reads like an agency or PR pitch; keep it warm and short.
+
+### 5b. Humantic
+
+# Humantic: Lauren Kleinman (pulled in Jefferson's Chrome, 2026-10-18 ~3:30 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/laurenkleinman)
+
+**DISC: DIS "The Pioneer"** · D 80 · I 78 · S 74 · C 48 · analysis confidence High (100%) · Los Angeles · "13 yrs · Leadership."
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+Lauren Kleinman
+DIS · The Pioneer
+Founder & CEO
+Dreamday
+Los Angeles, California, United States
+13 yrs · Leadership
+linkedin.com/in/laurenkleinman
+
+PUBLIC OVERVIEW
+
+Lauren Kleinman is the Founder & CEO of Dreamday, an award-winning PR and affiliate agency, and Co-Founder of Quality Media, powered by The Quality Edit®. A University of Southern California alumna, she specializes in Performance PR and Performance Publishing™.
+
+She is an active investor and advisor for various consumer brands, demonstrating a keen interest in supporting emerging companies and innovative products. Lauren is known for her entrepreneurial drive and versatile skill set.
+
+Lauren was named a 2025 Trailblazer by Ragan Communications and PR Daily as one of their Top Women in Communications.
+
+PERSONALITY OVERVIEW
+
+They have the unique ability to win both love and respect from their team (or outsiders) They combine a unique set of diverse traits where they are fast and friendly but can slow down to be thorough when needed If they are convinced, they can become very strong champions for your product
+
+HOW THEY SHOW UP
+Driven But Considerate
+Dynamic But Sincere
+Decisive But Friendly
+
+TALKING POINTS
+Topics they care about
+1 Performance PR — Lauren founded Dreamday, an agency specializing in Performance PR, and created the concept in 2019, showcasing her dedication to measurable PR impact.
+2 Performance Publishing — As Co-Founder of Quality Media, she developed Performance Publishing™, driving significant revenue and efficiency improvements for clients.
+3 Early Stage Investments — Lauren is an active investor and advisor for numerous direct-to-consumer and health technology startups like Omsom, Clevr Blends, and Ritual.
+4 Entrepreneurship & Innovation — Praised for her entrepreneurial traits and ability to navigate complex challenges, she consistently demonstrates a passion for innovation.
+5 Community Support — She has actively supported the LA community, including facilitating donations and donating to the LAFD, especially after local devastation.
+
+RECENT APPEARANCES
+Replay: Why 2 PR Moguls Say: 'F**k Being Liked By Everyone' (featuring Lauren Kleinman, Founder & CEO of Dreamday). Featured in WorkParty (Apple Podcasts)
+Ep 391 | Lauren Kleinman – Behind Her Empire. Featured in Behind Her Empire (Podcast)
+Lauren Kleinman, Founder of Dreamday, on the point of PR, maximizing results, and industry changes!. Featured in YouTube
+Lauren Kleinman – Los Angeles Times Profile. Featured in Los Angeles Times
+141. Lauren Kleinman, Founder, The Quality Edit on .... Featured in YouTube
+Dreamday Put a Cash Register Behind the Press Clipping. Featured in YesPress
+Lauren Kleinman – Author at Inc.com. Featured in Inc.com
+PR Pros: Lauren Kleinman Of Dreamday On The 5 Things You Need To Create A Highly Successful Career As A Public Relations Pro. Featured in Authority Magazine (Medium)
+Living your Dreamday Every Day: An Interview with Lauren Kleinman. Featured in Mailbutler Blog
+Replay: Quality Content + The Power of PR with Lauren Kleinman. Featured in Female Founder Collective – The 10th House
+
+PREPARE FOR: Meeting / Cold call / Email / Closing
+
+DURING A CALL OR MEETING
+✓ Do
+Use phrases like 'your decision will', 'you will impact' etc.
+Build a trustworthy relationship while keeping the product center-stage
+Keep your pitch focused on the impact but nurture the relationship too
+✕ Avoid
+Don't hesitate from asking questions or pushing them, but take a formal approach
+Avoid focusing only on the product or its ROI, keep building trust subtly
+Don't be very informal during the early interactions even if they are being so themselves
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Informal style, where you are talking in a friendly & casual manner, with a big smile on makes them want to speak to you.
+PACE: Don't be too fast or too slow, stay in the middle. Sound like a 'brings happiness to others' person.
+TONE: Speak with high energy and in a personal manner, as if you have met a friend suddenly after a long time.
+TACTICS TO WIN: Giving social proof, personal rapport, usage of superlatives, repeating their name.
+MISTAKES TO AVOID: Information overload, use of negations
+MAKING THE ASK: Use positivity and/or humor to make the ask. It appeals to them, as if you are bringing a cheer to their day. (Avoid doing this with Dominant or Calculative types)
+SUBCONSCIOUS DRIVER: They are driven by emotion more than any other type. Hence a proposition that excites them will immediately get their attention.
+
+WHEN WRITING AN EMAIL
+SUBJECT: Personalized, clear (e.g. John, let's close this tomorrow?', 'You will get this!' etc.)
+SALUTATION: Yes (Something formal) (e.g. Use 'Hi', 'Hello' etc. (along with the first name))
+GREETING: Yes (Say something usual) (e.g. Say something usual and friendly, like 'It's a real pleasure')
+LENGTH OF MAIL: Medium (e.g. Ideally upto 130-150 words)
+TONE OF WORDS: Friendly, exciting
+BULLET POINTS: Avoid
+CLOSING LINE: Close on a positive note (e.g. Something like 'I am excited to discuss this tomorrow, does 11 am work well?')
+COMPLIMENTARY CLOSE: Unique, pleasant (e.g. Something like 'Looking forward!', 'To new beginnings!' etc.)
+OVERALL MESSAGING: Focused on social proof
+
+NEGOTIATING & CLOSING
+The secret to closing Lauren fast: Nothing less than a strong combination of proof of results, relationship and high levels of professionalism is effective with them.
+How fast will Lauren move? They are generally fast movers and can take quick decisions
+
+DISC PROFILE
+DIS · D 80 · I 78 · S 74 · C 48 · Analysis confidence High · 100%
+
+COMPATIBILITY (verdic
+
 **1. She hit the ceiling of building AI tools herself.** 2026-06-12:
 > "I'd spent months teaching myself Claude Code… I built things I was [somewhat] proud of, but at one point, the late nights stopped feeling like progress and started feeling like a wall. I am the founder and CEO of two agencies, but I was also trying to be an AI engineer, and that just wasn't working for my mental health or bloodshot eyes. So we made a hire." https://laurenakleinman.substack.com/p/were-not-a-tech-company-we-hired
 
@@ -104,4 +223,4 @@ Strongest direction but no contact path: **Devin Karpes**, the AI consultant who
 - https://www.instagram.com/lauren.kleinman/ (logged-out; no profile data shown)
 - https://www.drdeepikachopra.com/ · https://findyournorth.co/advisors/joan-nguyen · https://www.audible.com.au/pd/B0FR93GKVT · https://talentcommercesummit.com (named in her post; not fetched)
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

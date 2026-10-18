@@ -57,6 +57,138 @@ Sources: https://joel.is/about/ · https://joel.is/now/ · https://joel.is/posts
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Joel Gascoigne — read 2026-10-18 ~3:23 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/joelgascoigne/ (slug already in the run files; profile confirms Founder CEO, Buffer) · /recent-activity/all/ (20 items, 2d back to ~4mo) · /recent-activity/comments/ (20) · /recent-activity/reactions/ (20) · /details/interests/ (Top Voices, Companies, Groups, Newsletters, Schools via label click) · /details/recommendations/ (none shown). No connection requests, follows, messages, reactions, subscribes or saves made.
+
+- **Profile:** https://www.linkedin.com/in/joelgascoigne/ · 2nd · 33,054 followers · 500+ connections · "Founder CEO, Buffer" · **Chicago, IL** (moved this summer; Humantic still says Boulder) · mutuals: Joey and Genevieve · has a LinkedIn newsletter · Premium. About: "I founded the company in 2010; Buffer now generates over $19m in annual revenue and is a fully remote team of 80+ spread across 50+ cities." Angel investor (Unsplash, Outsite, Tettra, 1 Second Everyday and others). Hobbies: "exercising, reading, surfing, mountain biking, skiing, and traveling." **"Note: The best way to get in touch is by emailing me at joel@buffer.com."**
+- **Featured:** his newsletter launch ("insight into how I operate while building a long term, independent, profitable business"; archive at joel.is/newsletter); the Open Salary System ("For over a decade, all Buffer salaries have been transparent"); the 13-year post (lifetime revenue $159.16M, raised only $4M, profitable 8 of 13 years, "$4.5M buying back the majority of our VC investors to build a long-term company with no exit plan," 49% of 79 teammates there 5+ years, 49 babies born to teammates); his /now page ("being a toddler parent, my wife opening her cafe… note taking systems and digital gardens").
+- **Cadence:** 4–6 posts a month in his own voice, short (2–6 sentences, often ending in a question), plus replies to nearly every substantive comment on his posts. LinkedIn-native and responsive.
+- **AI, verbatim (he is a builder and has a stated strategy):**
+  - 2w, quote-share of Jason Lemkin: "This is a great example of when people will rebuild with AI instead of continue using your product. How do you avoid this happening to your SaaS? **I don't have all the answers**, but my approach right now with Buffer is that we need to eliminate as much friction as possible, and add as much flexibility and customizability as possible (which includes the existing API, MCP, CLI)… They'll wonder whether they can build something better for themselves."
+  - 1w, on designer Ismail El Azizi's Proto tool: "one of our most important tooling and workflow changes at Buffer during this chapter of AI-driven transformation. We now regularly discuss both big ideas and the fine details of implementation by looking at thoughtfully crafted prototypes vs design mockups."
+  - 1mo: "We all have a choice to make right now: build your own tooling around AI, or wait to adopt tooling someone else builds. I often discover and build a workflow that eventually someone does better (and then I upgrade to theirs). It can feel wasteful, but I'd rather be at the forefront than behind."
+  - 2mo: "I haven't yet explored local models… Have you tried local models? Where would you suggest I start?" 2mo: "One of my favorite side effects of AI is that it's making the web much more open again."
+  - 3mo: "We've recently shifted our AI strategy at Buffer. Rather than packing AI features into the product, our focus is making Buffer great to use with AI. It's about flexibility, interoperability and extensibility."
+  - 2d: Buffer Commit, a community build contest on the Buffer API (Public API launched ~4mo; Jenny Terry: "MCP adoption more than doubling day-over-day at its peak").
+  - Reactions: Wade Foster's Zapier "Next Gen Zaps… Now you can use any AI (Clau…" (3w, twice); Philip Sørensen (Brew, "agentic email marketing"). Group: The Business Technology Forum (CIO, CTO, CISO, AI…).
+- **Other themes, dated:** 1mo "We don't do quarterly planning at Buffer… we revisit strategy in an area when it feels needed." 1mo "lagging metrics… you're kind of chasing your tail." 2mo "Many companies say they're mission-driven. I think most are actually growth-driven… comes down to who controls the company." 3mo on generosity and freemium ("I've felt called to be generous in the product, pricing, and our customer service"). 1mo the 4-day workweek ("one of the most significant contributors" to people feeling energized on Monday). 4mo "If you feel worried about competitors knowing your strategy, it's probably weak." 4mo reading Eric Ries's *Incorruptible* ("I already know it's going to make a real difference to Buffer").
+- **Personal, on record:** 1mo "Moved to Chicago with the family this summer. **Who should I know here?** I'm looking to get plugged into the community - especially founders, builders, and people who write online." 1mo "Before becoming a Dad, I worried that with young kids I'd see a decline in my productivity… Buffer had started to decline prior to our first kid being born, and was at it's bottom by the time the second arrived… **I hit a patch of depression within this phase too which I've recently emerged from.**" His replies on that post: "since the second kid it's been more of a focus on my mental health"; "In our case, having kids also coincided with my wife embarking on her own entr[epreneurship]"; to Jennifer Haas on women founders: "Women already get a fraction of the funding vs men… It needs to change." 2w to Jay Acunzo: "My kids are 2 and 5… I go through a low most likely related to lack of sleep and recharge time." 3mo relearning Japanese ("I lived there as a kid… WaniKani is awesome").
+- **The circle:** Buffer team he cheers by name (Hailley Griffis, Director of Communications; Carolyn Kopprasch, Chief of Staff; Amanda Marochko; Ismail El Azizi; Arek Panek; Sara Almeida; Jenny Terry, VP Finance & Ops; Ignacio Elola Villar); bootstrapped/PLG founders: Marie Martens (Tally), Bhavin Parikh (Magoosh, first dividend: "Thanks for continuing to be an inspiration"), Wade Foster (Zapier), Philip Sørensen (Brew; ran with Colin of Customer.io), Jason M. Lemkin (SaaStr), Jay Acunzo, Maggie Glascott ("Per my last email"; he'll "be an active user of How We Marketed It"), Davang Shah (LinkedIn VP Marketing, Buffer-on-LinkedIn partnership), José M. Gilgado, Yoni Frenkel.
+- **Interests:** Top Voices: Anne-Laure Le Cunff (Ness Labs, *Tiny Experiments*), Jay Clouse (Creator Science), Anil Dash, Dave Kerpen, Vinh Giang, Marc Randolph, Andrew Capland, Richard Branson, Eric Ries, Jeff Weiner. Companies: LinkedIn Guide to Creating, University of Warwick, Buffer. Groups: Business Technology Forum, Launch48, Entrepreneurs for the Future, Techcelerate, CUTEC (Cambridge), PHP Developers, Warwick Entrepreneurs, Startup Addict and others (mostly old UK startup groups). Newsletters: Create Possibilities (LinkedIn), Buffer's Bottom Line, Per my last email (Maggie Glascott), Savage Mindset (Chris Savage, Wistia), Buffer's Social Media Newsletter. School: Warwick.
+- **Recommendations:** none shown, received or given.
+- **Register:** calm, plain, first-person, short paragraphs; ends posts with a real question ("Who should I know here?", "Where would you suggest I start?"); light emoji (🙏🏻 👏🏻 🧱 🚀 🥂); precise when challenged ("I just highlighted the correlation (did not claim causation)"); warm and specific in praise of his team. He says "I don't have all the answers" in public.
+- **Read for the note:** he asked two open questions in public that a note can answer with a give: "Who should I know here?" (Chicago founders, builders, people who write online) and how to keep customers from rebuilding with AI. Lead with one of those and give something real, by email (his stated channel). Avoid explaining AI to him (he builds his own AI tooling and reshaped Buffer around API, MCP and CLI), and avoid Humantic's "ask for 10–15 minutes" advice; his feed rewards a short, honest, generous note.
+
+### 5b. Humantic
+
+# Humantic: Joel Gascoigne (pulled in Jefferson's Chrome, 2026-10-18 ~3:25 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/joelgascoigne)
+
+**DISC: D "The Commander"** · D 57 · I 45 · S 50 · C 55 · analysis confidence **Medium (57%)**, flatter scores than a strong read · Humantic location is stale (Boulder, CO; LinkedIn says Chicago since summer 2026) · "14 yrs · Leadership."
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+Joel Gascoigne
+D · The Commander
+Founder CEO
+Buffer
+Boulder, Colorado, United States
+14 yrs · Leadership
+linkedin.com/in/joelgascoigne
+
+PUBLIC OVERVIEW
+
+Joel Gascoigne is the Co-founder and CEO of Buffer, a social media platform he launched in 2010. With over $19 million in annual revenue, Buffer operates as a fully remote team and is recognized for its transparency with salaries and revenue.
+
+Outside of work, Joel is an avid exerciser, reader, surfer, mountain biker, skier, and traveler. He also engages in angel investing, supporting various startups.
+
+Joel earned his Master of Engineering degree from the University of Warwick.
+
+PERSONALITY OVERVIEW
+
+They put a lot of effort into ensuring personal success. They are less concerned about the product and more about its potential impact. They prefer to move quickly, and expect the same from others.
+
+HOW THEY SHOW UP
+Risk-Taker
+Impact-Driven
+Decisive
+
+TALKING POINTS
+Topics they care about
+1 Remote Work — As CEO of Buffer, a fully remote team of 80+ across 50+ cities, Joel has extensive experience in building and managing distributed workforces.
+2 Company Culture — Buffer is known for experimenting with company culture and radical transparency, often sharing insights on their unique approach.
+3 Social Media Strategy — Buffer provides tools for businesses to plan, analyze, and engage on social media, indicating Joel's focus on effective social media utilization.
+4 Angel Investing — Joel is an active angel investor in several startups, showing an interest in supporting new ventures and technological innovation.
+5 Surfing and Skiing — Joel lists surfing and skiing as personal interests, indicating a passion for outdoor and adventure sports.
+
+RECENT APPEARANCES
+Joel Gascoigne Discusses Fatherhood, Transparency, and Business Strategy at Buffer – The Startup CEO Show. Featured in The Startup CEO Show (Apple Podcasts)
+13 Questions with Buffer Founder Joel Gascoigne. Featured in Buffer Blog
+Buffer Story: CEO Joel Gascoigne's Side Project to $1 Million/mo Business. Featured in Side Hustle Lab
+Building a remote, profitable, transparent and sustainable company with Joel Gascoigne, CEO of Buffer. Featured in SaaStock
+Building a Company Differently: The Buffer Story. Featured in Business of Software
+A BoS Talk That Changed How Founders Think About Growth – Joel Gascoigne (Buffer). Featured in Business of Software
+Interview with Joel Gascoigne of Buffer. Featured in WhoAPI
+Joel Gascoigne – Founder & CEO, Buffer (Habits of Entrepreneurs). Featured in Habits of Entrepreneurs
+Building a remote, profitable, transparent and sustainable company with Joel Gascoigne, CEO, Buffer. Featured in SaaStock (YouTube)
+
+PREPARE FOR: Meeting / Cold call / Email / Closing
+
+DURING A CALL OR MEETING
+✓ Do
+Be respectful but crisp
+Make sure that you circle back fast on any action items, it wins their trust
+Hold your ground without indulging in one-upmanship
+✕ Avoid
+Avoid being too verbose
+Don't try too hard to forge relationships with them
+Don't take too much time in sending them information if they ask for any
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Confident style, with a mix of informality and formality gets their attention.
+PACE: Speak slightly fast. Sound like a 'gets shit done' person.
+TONE: Do not sound too eager, as if you have met a friend suddenly after a long time. Keep the tone calm but confident.
+TACTICS TO WIN: Strong words, focus on results, respectful confidence
+MISTAKES TO AVOID: Apologizing, nervousness, information overload, social proof
+MAKING THE ASK: Confidently, ask for 10-15 minutes. Allude to the results and outcomes that are possible. They care about the ends more than the means.
+SUBCONSCIOUS DRIVER: Results and outcomes are what matter to them. Any credible shot at getting results will appeal to them quickly.
+
+WHEN WRITING AN EMAIL
+SUBJECT: To the point (e.g. Personalization', 'Sales conversion' etc.)
+SALUTATION: No (e.g. Skip 'Hi', 'Hey' etc., use only the first name)
+GREETING: No (e.g. Skip lines like 'I hope you are doing well')
+LENGTH OF MAIL: Very Short (e.g. Less than 75 words)
+TONE OF WORDS: Confident, challenging
+BULLET POINTS: Could use
+CLOSING LINE: Clearly state your ask (e.g. Something like 'Can we get on a call tomorrow at 1100 hours and finalize this?')
+COMPLIMENTARY CLOSE: None or standard (e.g. Skip 'Warm regards', 'Best wishes' etc., just write your name)
+OVERALL MESSAGING: Focused on results
+
+NEGOTIATING & CLOSING
+The secret to closing Joel fast: Conviction around the impact matters the most to them, followed by a sense of achievement and ROI.
+How fast will Joel move? If convinced, they can reach decisions quite fast.
+
+DISC PROFILE
+D · D 57 · I 45 · S 50 · C 55 · Analysis confidence Medium · 57%
+
+COMPATIBILITY (verdict only): Partial fit.
+
+AT A GLANCE
+Experience 14 yrs · Job level Leadership · Education Masters · Based in Boulder, Colorado, United States · Company Buffer
+
+CAREER HISTORY
+Founder CEO — Buffer, 10-2010 – Present
+
+EDUCATION
+Master of Engineering — University of Warwick, 2005 – 2009
+
+CONTACT
+linkedin.com/in/joelgascoigne
+
 **1. Keeping customers from rebuilding Buffer with AI.** 2026-09-28:
 > "This is a great example of when people will rebuild with AI instead of continue using your product. How do you avoid this happening to your SaaS? I don't have all the answers, but my approach right now with Buffer is that we need to eliminate as much friction as possible, and add as much flexibility and customizability as possible (which includes the existing API, MCP, CLI)." https://joel.is/posts/1790602419/
 
@@ -99,4 +231,4 @@ Alternate inside Buffer: Ismail El Azizi, whose Proto work Joel amplified on 202
 - https://john.onolan.org/about/ · https://john.onolan.org/open-source-in-the-age-of-ai/ · https://tactac.substack.com/about · https://blog.migueldavid.eu/about · https://blog.migueldavid.eu/posts/the-pressure-valve · https://bethanythebuilder.com/blog/opting-out-of-unicorn-economics (script-rendered; no text read)
 - https://felixonline.co.uk/articles/2011-6-23-buffer-because-you-want-to-tweet-better/
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

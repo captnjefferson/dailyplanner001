@@ -321,7 +321,129 @@ Problems she has named in her own words that are still open. Not angles.
 
 ## 5. Humantic and LinkedIn
 
-PENDING — lead pulls in Chrome. (Her LinkedIn profile URL was not found by search. Her own words show she posts there: "I said this recently on LinkedIn, I think" [EH-SOLO3].)
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Kirsten Yurich — read 2026-10-18 ~2:55 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Kirsten Yurich Vistage", one match) · /in/kirstenyurich/ · /recent-activity/all/ (22 items, 5d back to ~4mo) · /recent-activity/comments/ · /recent-activity/reactions/ (20) · /details/interests/ (Top Voices, Companies, Groups, Newsletters via label click) · /details/recommendations/ (received and given) · /details/experience/. No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/kirstenyurich/ · 2nd · 2,256 followers · "Executive Mentor | Vistage Chair | Speaker | Performance Improvement Expert | Author" · Hershey, PA · banner "Live well. Lead well. Learn well." · mutual: Emily Crookston · Sales Navigator: posted in the past 30 days. About, her words: "I mentor leaders who are done performing and ready to become." "I started in direct care. I was a CEO before 40." "I don't coach the 'role.' I coach the whole person. If you hide parts of yourself at work, we are probably not the right fit." "The credential that matters most: I've been where you are." Public contact on the profile: kirsten@kirstenyurich.com, 717.497.7762, calendly.com/kirstenyurich/30min; Vistage address kirsten.yurich@vistagechair.com (experience entry).
+- **Experience:** Vistage Chair since Jul 2021 ("non-competing industries… transform their companies, families, and communities"); Founding Practitioner, Be Generative (Jun 2024–); board member, Morehouse Instrument Company, York PA (Nov 2025–); Organizational Performance Management Consultant, The Performance Thinking Network (Jan 2021–; ABA and behavioral-health companies); adjunct, Felician University (Dec 2020–); VP, The ABA in PA Initiative (2016–); CEO, The Vista School (Jan 2018–Feb 2020: "+$3 million" operating revenue, three new programs, 300+ clients, 460+ staff; "Drafted legislation for licensure of Behavior Analysts" in PA); Chief Clinical Officer 2011–2017; Clinical Director 2004–2011; clinical adjunct faculty, Penn State Hershey Psychiatry 2009–2020.
+- **Featured:** Confessions of a Vistage Chair (Ryan Hogan's show, Talent Harbor: "behavior analyst turned CEO turned Vistage Chair… her group is referral-only and requires no goat sacrifice (mostly)"); her own Executive Hustle podcast (Buzzsprout: "balancing the demands of home, kids, aging parents… MAYBE finding time for yourself"; Season 3 opened ~2w ago); The Thoughtful Entrepreneur; Allies4Me ep. 78; Stories With Traction (Matt Zaun, learning tours).
+- **Cadence:** 1–2 original posts a week in her own voice (22 items across ~4 months), plus near-daily comments. LinkedIn-native.
+- **Themes, dated:**
+  - The leader as bottleneck. 3mo: "When you're the answer to everything, everyone downstream waits on you. That wait has a price. I call it the waiting tax." Same post: "Controller of Circumstance" vs. "Choreographer of Possibility" (#GenerativeLeadership). 3mo: "You might be the most expensive 'middleman' in your own company."
+  - 1w: "Your growth problem might be a permission problem… Capacity is usually discovered, not assigned." (with Cheryl T.; Oct 27 EarliPoint Exchange ethics CE on Illinois' autism-diagnosis pathway.)
+  - 1w, Be Generative room of 60+ leaders: "These are not resource constraints, they are CONVERSATIONAL constraints."
+  - 2mo: "The fastest way to build trust on your team is to think out loud." (Talk Aloud Problem Solving.) 2mo: the three-question debrief, "What's not working? … What's working? … What's missing?" 2mo: "Loyalty to one person can quietly cost you loyalty from everyone else." 2mo: "The best way to win an argument is to make it in the other person's words."
+  - Vistage, 3mo: "Before Vistage I was a workaholic, micromanager, who was disconnected and distant at home and drank too much. This group saves me each month." #thegroupistheprize. A member quoted: "I'm with Vistage for life."
+  - Personal, on record: 1mo, Alaska trip, "intentional spousal reconnection," a monthly blood donation ("this month's batch 🩸"), "I have a count down until I'm 100… 18,855 days to go!"; 1mo "Is a marrriage like a business? I think so."; 1mo "What's going on in your world that helps me be a better (mom, wife, coach) for you?" (opens with a Proverbs 18:2 paraphrase); 5d "Some days YOU get the Bear… (And they will, have, and did this week)… I can love those in front of me. And I can serve." Comment "God Bless." on a storm-crew post. Shila Ulrich (CEO, Central PA Food Bank) says they met "on the sidelines at our sons' baseball games."
+- **AI, verbatim:** no AI post of her own in the 22 read. Closest, 2mo: "you read the headline, 'more bots are on the internet than humans.' That either strikes fear or curiosity." Her comment 1w on Kevin Busher's public-education advocacy post (Congress with COSSBA, Keystone Education Report): **"What did the conversations around AI sound like?"** She replied "Thanks for the reminder!" to Vistage Chair Sue Tinnish's post on Marc Emmer's 2027 trends ("AI is a force multiplier"). Reacted (found a comment funny) on a Betsy Tong post (Tong: "I show you how AI works in real life… 8 books, 3 on AI"). Top Voices include Richard Bliss ("LinkedIn + AI Strategy for Executives") and Marshall Goldsmith (MarshallGoldsmith.ai). Group: "Tech Leadership - Founder, CEO, CTO, Directors, AI Engineer…". So: curious and asking, not posting.
+- **Evidence standard:** comment 3d on Sean Flaherty's personality-assessment post: "I would value validity information (particularly construct) and listings of independent replication of study results."
+- **The circle:** Cheryl T. (CMO, EarliPoint Health; "known each other… for over a decade"; co-led PA ABA legislation; co-host Oct 27; mutual recommendations); Vistage chairs and speakers who comment on her: Honor Belew, Sue Tinnish, Dean Minuto ("Vistage CEO Speaker"), A. R. Smith (suggested profile), Marc Emmer (she reacts to him and subscribes to The Strategy Page); Andrea Jones (Executagility; "my early Vistage Worldwide colleagues"); Ryan Hogan (Talent Harbor; Confessions of a Vistage Chair); Sara Best (thanked 5d, emotions session for her members); Shila Ulrich; Frances Marvel (Chief Executive Network; mutual recommendations); behavior analysts Callie Plattner, Ryan O'Donnell, Carl Binder, Shane Isley, Cathy Scutta (her mentor), Vicci Tucci; central-PA ties: Dan Hayward (Novak Strategic Advisors; congratulated on the For Pete's Sake board), Kevin Busher, Nathan Flood (KINBER), Carol Ferenz (RCPA), Lanie Pinkerton (CFO, Morehouse), Seltzer's Smokehouse Meats; CPENG (executives in transition; "It's about WHO you know!!!").
+- **Interests:** Top Voices: Tony Robbins, Scott Galloway, Tim Ferriss, Angela Duckworth, Mel Robbins, Marshall Goldsmith, Richard Bliss, Bill Gates, Daniel Pink, Kim Scott. Companies (several look like her members): Entrepreneur Stories, Chad Harvey & The Result Center, WomenExecs on Boards, 2 Hour Learning, Permag, The EOB Podcast, Morehouse Instrument Company, Highwater, EarliPoint Health, ProCFO Partners. Groups: The Behavior Analysis Network, APBA, Vistage / TEC Chairs, Women in the Boardroom, Leadership Development Group (Dick Daniels), Tech Leadership (AI Engineer…), ChocolateTowneCEs (7 members), Felician School of Education. Newsletters: Brokerage Tech Notes (In-Woo Park), Debrief to Win (Robert "Cujo" Teschner), Create the Next (ProCFO Partners), KQV Unplugged (Kathleen Quinn Votaw), Strategic IMPLICATIONS (Sherrin Ross Ingram), Put People First! (TalenTrust), High-Ticket Marketing Magic (Craig Andrews), HBS Ideas and Insights, The Strategy Page (Marc Emmer), Winning Workforce (Lauren Holubec).
+- **Recommendations:** received 6 (Frances Marvel, Cheryl T., Carl Binder, Zippy Juni as client, Vicci Tucci, Cathy Scutta as mentor: "asks smart questions and creates an atmosphere of possibilities"). Given 5. The one that reads as her speaker standard, to Kathleen Quinn Votaw, Aug 2022, as her client: **"Kathleen was a dynamic speaker who individualized content to respond to the leaders in the audience."** To Shane Isley, Mar 2026: "he doesn't default to 'just train them' as the answer. He digs into the system."
+- **Register:** hook line, short lines, two or three ❓ questions to close, "💾 Save this…" sign-off, emoji throughout (🐻 🤦‍♀️ ➡️ 👉), ALL-CAPS for stress, self-deprecating humor ("tub-of-ice-cream, bad-TV kind of escaper," "My tongue is bleeding I have to bite it so often 😂"), frank self-disclosure. Comments are short, warm, exclamatory ("Congratulations!!!", "YES YES YES"). Humantic (CDS, below) says formal and objective by email; her own writing is warmer than that.
+- **Read for the note:** lead with her own question back to her: she asked a peer "What did the conversations around AI sound like?"; ask what they sound like in her group, in her frame (waiting tax, permission, "what's missing"). Avoid superlatives, social proof and any claim without evidence; she grades speakers on whether they "individualized content… to the leaders in the audience."
+
+### 5b. Humantic
+
+# Humantic: Kirsten Yurich (pulled in Jefferson's Chrome, 2026-10-18 ~3:05 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/kirstenyurich)
+
+**DISC: CDS "The Evaluator"** · D 78 · I 58 · S 76 · C 73 · analysis confidence High (100%) · uppercase type (not a low-data read) · Hershey, PA · "21 yrs · Senior" · Humantic lists current company as Morehouse Instrument Company (board seat).
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+• Kirsten Yurich
+CDS · The Evaluator
+Member Board of Directors
+Morehouse Instrument Company
+Hershey, Pennsylvania, United States
+21 yrs · Senior
+linkedin.com/in/kirstenyurich
+
+PUBLIC OVERVIEW
+
+Kirsten Yurich is an executive mentor, Vistage Chair, and author with over 20 years of experience integrating behavioral science with leadership. A former non-profit CEO and Board Certified Behavior Analyst, she holds an M.A. from Penn State University. People often describe her as a motivated, strategic, and wise leader.
+
+Living near Hershey, PA, Kirsten is a mother of four who also raises chickens, dogs, and cats. She hosts the "Executive Hustle" podcast, where she interviews local business leaders about their professional and personal journeys, aiming to help high-performing executives "do better" and "live better."
+
+She co-authored "The Precision Teaching Book," a definitive text on a data-based method for improving learning and behavioral outcomes.
+
+PERSONALITY OVERVIEW
+
+They are not very likely to become strong advocates of your product or service They focus on the results, but can still be quite procedural and analytical about how to get there They have a unique set of diverse traits where they are decisive and methodical but can sometimes be extra cautious and skeptical
+
+HOW THEY SHOW UP
+Fast But Analytical
+Quality Focused
+Thorough Evaluator
+
+TALKING POINTS
+Topics they care about
+1 Executive Mentorship — As a Vistage Chair and founder of Be Generative, she coaches CEOs and executives on navigating uncertainty, fostering psychological safety, and building high-performing teams.
+2 Performance Improvement — With a background as a Board Certified Behavior Analyst and author on Precision Teaching, she applies behavioral science to improve business processes and leadership.
+3 Critical Conversations — She is a certified trainer in crucial conversations and helps leaders and teams navigate complex discussions to enhance communication and strategic alignment.
+4 Autism & Neurodiversity — As the former CEO of Vista Autism Services and VP of an ABA advocacy group, she has a deep professional interest in supporting neurodiverse individuals.
+5 Work-Life Integration — Her "Executive Hustle" podcast and personal bio emphasize the challenge for leaders to balance work, family, and personal wellness, calling herself a "recovering work-aholic."
+6 Leadership Storytelling — Her podcast focuses on the personal journeys, successes, and failures of local leaders, highlighting the lessons learned along the way.
+
+RECENT APPEARANCES
+We could not find public media appearances for this person.
+
+PREPARE FOR: Meeting / Cold call / Email / Closing
+
+DURING A CALL OR MEETING
+✓ Do
+Use phrases like 'the ROI of this', 'X% more' etc.
+Be prepared for comments or questions that are critical of your product or your claims
+Showcase your competitive superiority clearly when possible or address it at the minimum
+✕ Avoid
+Avoid making strong statements, instead invite them to agree with you by asking them questions
+Don't nudge them to do something by using the logic that others have done the same
+Avoid too much small talk, just a few formal pleasantries should be fine
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Speaking in a slightly hesitant manner, and seeking their permission at the start through a negation can get you a chance.
+PACE: Speak slightly fast, especially if you tend to be calm and confident. Sound like a 'knows their domain' person.
+TONE: Keep your tone slightly apprehensive, as if you are a little unsure about calling them.
+TACTICS TO WIN: Use of negations, giving full information
+MISTAKES TO AVOID: Use of superlatives, overusing social proof
+MAKING THE ASK: Use negations, it is extra effective with them. It gives them a chance to say no, they like doing that.
+SUBCONSCIOUS DRIVER: They believe they know a lot, so it needs to make sense as well as make them curious. They need to think that it is something worth investigation.
+
+WHEN WRITING AN EMAIL
+SUBJECT: Precise (e.g. Measurable results', '6.2% more sales' etc.)
+SALUTATION: Yes (Something formal) (e.g. Use 'Hi' (along with the first name))
+GREETING: Yes (Say something formal/usual) (e.g. Use standard lines, like 'I hope that you are doing well' etc.)
+LENGTH OF MAIL: Medium (e.g. Ideally upto 120-130 words)
+TONE OF WORDS: Objective, informational
+BULLET POINTS: Recommended
+CLOSING LINE: Logically summarize/ask (e.g. Something like 'If these points make it clear, shall we speak tomorrow at 11am?')
+COMPLIMENTARY CLOSE: Formal (e.g. Something simple like 'Thanks', 'Regards' etc.)
+OVERALL MESSAGING: Focused on removing doubts
+
+NEGOTIATING & CLOSING
+The secret to closing Kirsten fast: ROI matters the most to them, followed by process and finally proof of results
+How fast will Kirsten move? They are unlikely to move very fast, especially when it comes to new products or services
+
+DISC PROFILE
+CDS · D 78 · I 58 · S 76 · C 73 · Analysis confidence High · 100%
+
+COMPATIBILITY (verdict only): Strong fit.
+
+AT A GLANCE
+Experience 21 yrs · Job level Senior · Education Masters · Based in Hershey, Pennsylvania, United States · Company Morehouse Instrument Company
+
+CAREER HISTORY
+Member Board of Directors — Morehouse Instrument Company, 11-2025 – Present
+Founding Practitioner — Be Generative, 6-2024 – Present
+Vistage Chair • Performance Improvement Expert • Influencer — Vistage Worldwide, Inc., 7-2021 – Present
+Adjunct Professor of Applied Behavior Analysi — Capella Univers
+
+done 2026-10-18; see 5a and 5b. (Her LinkedIn profile URL was not found by search. Her own words show she posts there: "I said this recently on LinkedIn, I think" [EH-SOLO3].)
 
 
 ## 6. The room (T1: her Vistage group, and The Circle)
