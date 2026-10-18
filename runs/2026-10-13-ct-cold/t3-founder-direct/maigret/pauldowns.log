@@ -1,0 +1,230 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username pauldowns on:
+[+] Disqus: https://disqus.com/pauldowns
+ ├─id: 6632902
+ ├─fullname: pauldowns
+ ├─disqus_username: pauldowns
+ ├─reputation: 0.90012
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2011-01-25T05:12:06
+ ├─upvotes_count: 6
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/pauldowns.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 17
+[+] Trello: https://trello.com/pauldowns
+ ├─id: 6a638ca6bfde670c7d562b1c
+ ├─username: pauldowns
+ ├─fullname: Paul Downs
+ ├─image: https://trello-members.s3.amazonaws.com/6a638ca6bfde670c7d562b1c/f967cd657c9e4438b0844deab655e42e/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] Substack: https://substack.com/@pauldowns
+ ├─uid: 59356504
+ ├─username: pauldowns
+ ├─fullname: Paul Downs
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/b5280e3e-445a-4f74-8f9d-da31272565e5_408x521.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5280e3e-445a-4f74-8f9d-da31272565e5_408x521.jpeg
+[+] GitHub: https://github.com/pauldowns
+ ├─uid: 57688962
+ ├─image: https://avatars.githubusercontent.com/u/57688962?v=4
+ ├─created_at: 2019-11-12T22:23:35Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Discord: https://discord.com
+[+] Medium: https://medium.com/@pauldowns
+ ├─fullname: Paul Downs
+ ├─username: pauldowns
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*OT4foNiJsqutI4Gz.
+ └─latest_activity_at: 2026-10-18 19:09:14 UTC
+[+] Twitter: https://twitter.com/pauldowns
+ ├─uid: VXNlcjo4NDk1MzI0Ng==
+ ├─fullname: Paul Downs
+ ├─created_at: 2009-10-24 22:31:14+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: False
+ ├─follower_count: 0
+ ├─following_count: 0
+ └─favourites_count: 0
+[+] Telegram: https://t.me/pauldowns
+ └─fullname: Paul
+[+] Snapchat: https://www.snapchat.com/add/pauldowns
+ ├─username: pauldowns
+ ├─fullname: Paul Jones
+ ├─bio: Paul Jones is on Snapchat! (@pauldowns)
+ ├─url: https://www.snapchat.com/@pauldowns
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@pauldowns/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=pauldowns&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Giphy: https://giphy.com/channel/pauldowns
+[+] Calendly: https://calendly.com/pauldowns
+ ├─uid: 27762097
+ ├─fullname: Paul Downs
+ ├─username: pauldowns
+ ├─bio: Welcome!  I keep appointments available from 3 to 5 PM EST on weekdays.   Follow the instructions to schedule your slot.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/27451264/cfc060e2.jpg
+ ├─owner_uuid: 8f39b839-04e2-43ec-9731-20c701002271
+ ├─organization_uuid: 9baa13ed-40f6-4c17-a919-f6b2ed91fc31
+ └─timezone: America/New_York
+[+] SoundCloud: https://soundcloud.com/pauldowns
+ ├─uid: 5789565
+ ├─name: Paul Downs
+ ├─username: Paul Downs
+ ├─following_count: 4
+ ├─follower_count: 19
+ ├─is_verified: False
+ └─image: https://i1.sndcdn.com/avatars-000004599798-v7eags-large.jpg
+[+] MixCloud: https://www.mixcloud.com/pauldowns/
+ ├─username: PaulDowns
+ ├─created_at: 2020-12-25T12:29:37Z
+ ├─updated_at: 2020-12-25T12:29:37Z
+ ├─image: https://thumbnailer.mixcloud.com/unsafe/640x640/defaults/users/v2/5.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─cloudcast_count: 0
+ ├─favorite_count: 1
+ ├─listen_count: 2
+ ├─is_pro: False
+ └─is_premium: False
+[+] Academia.edu: https://independent.academia.edu/pauldowns
+[+] Behance: https://www.behance.net/pauldowns
+ ├─uid: 62279833
+ ├─username: pauldowns
+ ├─fullname: Paul Downs
+ ├─image: https://pps.services.adobe.com/api/profile/975858B55873C3EA0A495EBD@AdobeID/image/4fb73c02-2323-42ff-94b5-d0dc57257a3d/276
+ ├─location: United Kingdom
+ ├─created_at: 2017-01-24 15:52:24 UTC
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─views_count: 120
+ └─appreciations: 0
+[+] Twitch: https://twitchtracker.com/pauldowns
+ ├─twitch_channel_id: 514142657
+ ├─twitch_username: pauldowns
+ └─created_at: 2020-04-14 18:08:18
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=pauldowns
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=pauldowns&compact=true
+ ├─id: 19198788
+ ├─nickname: pauldowns
+ ├─username: pauldowns
+ ├─fullname: pauldowns
+ ├─role: freelancer
+ └─created_at: 2016-04-01 15:02:23 UTC
+[+] TripAdvisor: https://tripadvisor.com/members/pauldowns
+[+] Bluesky: https://bsky.app/profile/pauldowns.bsky.social
+ ├─uid: did:plc:6gpayqfcfpkywnarvbs5fip3
+ ├─username: pauldowns
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:6gpayqfcfpkywnarvbs5fip3/bafkreibvcsi42xwnly567k5x3ae3shnjtgfiiu5hzy7yzps7t2sgerb7b4
+ ├─created_at: 2024-11-22T03:32:31.454Z
+ ├─follower_count: 0
+ ├─following_count: 2
+ └─posts_count: 0
+[+] Chess: https://www.chess.com/member/pauldowns
+ ├─chess_user_id: 30752926
+ ├─username: pauldowns
+ ├─fullname: Paul Downs
+ ├─image: https://images.chesscomfiles.com/uploads/v1/user/30752926.fa445767.200x200o.7f0d50199379.jpeg
+ ├─country_code: AU
+ ├─follower_count: 1
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2016-11-05 03:52:30 UTC
+ └─latest_activity_at: 2025-03-26 03:29:16 UTC
+[+] Duolingo: https://www.duolingo.com/profile/pauldowns
+ ├─uid: 14185109
+ ├─username: PaulDowns
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2013-10-30 09:57:21 UTC
+ ├─url: https://www.duolingo.com/profile/PaulDowns
+ ├─streak: 0
+ ├─totalXp: 11
+ ├─learningLanguage: it
+ └─fromLanguage: en
+[+] Weebly: http://pauldowns.weebly.com/
+[+] Paypal: https://www.paypal.com/paypalme/pauldowns
+ ├─fullname: Paul Downs
+ ├─username: PaulDowns
+ ├─payerId: 9AKRJDCR6N5AU
+ ├─address: Denver, CO
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/MTA2Nlg2MDBYSlBH/p/OGU5NTQyMjYtN2Y1Yi00ZjQ4LTg4ZDItOTBmYjEzYjliMDll/image_58.jpg
+[+] iNaturalist: https://www.inaturalist.org/people/pauldowns
+[+] Flickr: https://www.flickr.com/photos/pauldowns
+[+] Gog: https://www.gog.com/u/pauldowns
+[+] Flipboard: https://flipboard.com/@pauldowns
+[+] Myspace: https://myspace.com/pauldowns
+ ├─uid: 93152160
+ └─username: pauldowns
+[+] DeviantART: https://pauldowns.deviantart.com
+ ├─country: United States
+ ├─created_at: 2018-02-15 07:21:01 UTC
+ ├─gender: male
+ └─username: PaulDowns
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=pauldowns&btnG=
+[+] YouTube: https://www.youtube.com/@pauldowns/about
+ ├─youtube_channel_id: UC2oXl9BobzntIcOnRCMizBw
+ ├─fullname: pauldowns
+ ├─bio: DA BEST YOUTUBE CHANNEL EVA
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_nenFIS1Vr0V88Id4wD5km5K1y6_-0tSaLGczKNydw=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@pauldowns
+ ├─keywords: Paul paul PAUL Downs downs DOWNS
+ └─is_family_safe: True
+[+] Untappd: https://untappd.com/user/pauldowns
+[+] Upwork: https://upwork.com/fl/pauldowns
+[+] Picsart: https://picsart.com/u/pauldowns
+ ├─picsart_id: 302893068850101
+ ├─picsart_username: pauldowns
+ ├─image: https://cdn190.picsart.com/232804661007900.png
+ ├─follower_count: 0
+ ├─following_count: 1
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Genius: https://genius.com/pauldowns
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/pauldowns
+[+] Venmo: https://venmo.com/pauldowns
+[+] TikTok: https://www.tiktok.com/@pauldowns
+ ├─tiktok_id: 7383423526672729134
+ ├─tiktok_username: pauldowns
+ ├─fullname: pauldowns
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7387518777396559918~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=6fe6a894&x-expires=1792522800&x-signature=T0wPwSDbBZMy971VFsnDZCZUNUI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAA9Tfy8LbasMcOkzn7l3Q8zv-c9p422wADO0dSh5tr3GLcBX-2sv4YdJ__DTOEgeSW
+ ├─following_count: 24
+ ├─follower_count: 18
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Smule: https://www.smule.com/pauldowns
+[+] fixya: https://www.fixya.com/users/pauldowns
+[+] xHamster: https://xhamster.com/users/pauldowns
+[+] Revolut.me: https://revolut.me/pauldowns
+ └─fullname: Paul D
+[+] joyreactor.cc: https://joyreactor.cc/user/pauldowns
+[+] GitHubGist [GitHub]: https://gist.github.com/pauldowns
+[+] Pling: https://www.pling.com/u/pauldowns/
+[+] YouPorn: https://youporn.com/uservids/pauldowns
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for pauldowns saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_pauldowns_simple.json
+[*] Short text report:
+Search by username pauldowns returned 46 accounts.
+Found target's other IDs: PaulDowns.
+Extended info extracted from 24 accounts.
+Countries: us, nl, ru
+Interests (tags): social, apps, business, art, music, messaging, networking, gaming, sharing, streaming, discussion, coding, video, education, design, forum, hobby, finance, fintech, photo, blog, writing, research, freelance, tech, porn, tasks, archive, bookmarks, review, travel, science, news, geosocial

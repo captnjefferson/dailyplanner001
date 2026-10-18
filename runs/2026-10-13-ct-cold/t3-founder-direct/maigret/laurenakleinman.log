@@ -1,0 +1,64 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username laurenakleinman on:
+[+] Substack: https://substack.com/@laurenakleinman
+ ├─uid: 13213950
+ ├─username: laurenakleinman
+ ├─fullname: The Founder Flow
+ ├─bio: Founder & CEO of Dreamday and Co-Founder of Quality Media, redefining how brands scale through PR, media, and affiliates. She shares raw insights on entrepreneurship, leadership, and balancing business with motherhood.
+ ├─image: https://substack-post-media.s3.amazonaws.com/public/images/d21886c0-8daf-4247-87f7-64f9c876117f_1793x1793.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21886c0-8daf-4247-87f7-64f9c876117f_1793x1793.jpeg
+[+] Twitter: https://twitter.com/laurenakleinman
+ ├─uid: VXNlcjoyMTE3Njk3Mw==
+ ├─fullname: Lauren Kleinman
+ ├─bio: old soul, young spirit. mom of 2. wife. founder @dreamdayla, co-founder @thequalityedit. formerly founding team @ritual. inc female founder 200 2023.
+ ├─created_at: 2009-02-18 07:26:24+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1331100051599355905/hxitSJLU.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/21176973/1649366582
+ ├─is_protected: False
+ ├─follower_count: 5056
+ ├─following_count: 3702
+ ├─location: Los Angeles
+ ├─favourites_count: 37930
+ └─links: 
+   └─ http://dreamday.la
+[+] Calendly: https://calendly.com/laurenakleinman
+ ├─uid: 16289502
+ ├─fullname: Lauren Kleinman
+ ├─username: laurenakleinman
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/16049389/7f66659f.jpg
+ ├─owner_uuid: 16eec2ed-e7c9-491c-bc6d-fc029a0eb66e
+ ├─organization_uuid: 57d3a453-1e11-45c2-9078-4f89ddb7cf79
+ └─timezone: America/Los_Angeles
+[+] TikTok: https://www.tiktok.com/@laurenakleinman
+ ├─tiktok_id: 7123321360545956910
+ ├─tiktok_username: laurenakleinman
+ ├─fullname: laurenakleinman
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7353165870224867370~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=1dec5117&x-expires=1792522800&x-signature=AGDdnZ3mWWxvv3QTj%2FCpbnOzjvs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAACrg6OC7PTrnXw18x2yjNqgJE7BHjKGzoOe6B9nNj-iwDO-jWEvQx6aVhK7q9ogAQ
+ ├─following_count: 20
+ ├─follower_count: 9
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Upwork: https://upwork.com/fl/laurenakleinman
+[+] fixya: https://www.fixya.com/users/laurenakleinman
+[+] Periscope: https://www.pscp.tv/laurenakleinman
+[+] joyreactor.cc: https://joyreactor.cc/user/laurenakleinman
+[+] Pling: https://www.pling.com/u/laurenakleinman/
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/laurenakleinman
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for laurenakleinman saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_laurenakleinman_simple.json
+[*] Short text report:
+Search by username laurenakleinman returned 10 accounts.
+Extended info extracted from 4 accounts.
+Countries: us, nl, ru
+Interests (tags): social, video, business, art, apps, blog, writing, messaging, freelance, networking, forum, tech, streaming, coding, design

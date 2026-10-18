@@ -1,0 +1,43 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username pauldownscustom on:
+[+] Pinterest: https://www.pinterest.com/pauldownscustom/
+ ├─uid: 423408939875475193
+ ├─username: pauldownscustom
+ ├─fullname: Paul Downs Cabinetmakers
+ ├─bio: We started making furniture in 1986 in a small shop. Now, we operate a 33,000 square-foot shop in Bridgeport, PA and specialize in custom conference tables.
+ ├─image: https://i.pinimg.com/280x280_RS/94/1f/62/941f6224ded60877e04a08c27695cdea.jpg
+ ├─website: http://www.custom-conference-tables.com
+ ├─follower_count: 25
+ ├─following_count: 16
+ ├─posts_count: 112
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: True
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 30 Oct 2014 14:59:25 +0000
+ └─latest_activity_at: Mon, 15 Feb 2016 16:21:46 +0000
+[+] Facebook: https://www.facebook.com/pauldownscustom
+ ├─uid: 100063654474301
+ ├─username: PaulDownsCustom
+ ├─fullname: Paul Downs Custom Furniture | Bridgeport PA
+ ├─description: Paul Downs Custom Furniture, Bridgeport. 509 followers · 25 were here. Designer and Manufacturer of Custom Boardroom Furniture
+ └─image: https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/326561757_522596093295822_8309952211713567506_n.jpg?stp=dst-jpg_tt6&cstp=mx385x385&ctp=s385x385&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=WP_9Ya5QNnAQ7kNvwGF2NDQ&_nc_oc=AdoWKuQ2fB8cNtW0usSfrL45r0-Phx70JZw6afrBtPAIwdXqnqrc0noGPZoLLAMxMX8&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=ogP_ys8DwfH15Pkjg1fDHA&_nc_ss=7020f&oh=00_AQPgH9urPz9AfsFgce5B9AnQ08bjkyzg9O0sfOGYbuIyog&oe=6ADAD22B
+[+] Upwork: https://upwork.com/fl/pauldownscustom
+[+] fixya: https://www.fixya.com/users/pauldownscustom
+[+] Pling: https://www.pling.com/u/pauldownscustom/
+[+] joyreactor.cc: https://joyreactor.cc/user/pauldownscustom
+[!] Too many errors of type "Bot protection" (8.64%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for pauldownscustom saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_pauldownscustom_simple.json
+[*] Short text report:
+Search by username pauldownscustom returned 6 accounts.
+Found target's other IDs: PaulDownsCustom.
+Extended info extracted from 2 accounts.
+Countries: nl, ru
+Interests (tags): art, design, social, photo, sharing, business, freelance, networking, forum, tech, apps, coding

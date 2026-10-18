@@ -1,0 +1,109 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username laurenkleinman on:
+[+] Medium: https://medium.com/@laurenkleinman
+ ├─fullname: Lauren
+ ├─username: laurenkleinman
+ ├─image: https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png
+ └─latest_activity_at: 2026-10-18 19:06:41 UTC
+[+] Substack: https://substack.com/@laurenkleinman
+ ├─uid: 5981221
+ ├─username: laurenkleinman
+ └─fullname: Lauren Kleinman
+[+] Discord: https://discord.com
+[+] linktr.ee: https://linktr.ee/laurenkleinman
+ ├─id: 87116536
+ ├─username: laurenkleinman
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: building @dreamday.la & @thequalityedit. formerly @ritual.
+ ├─tier: free1
+ ├─social_links: {'instagram': 'https://instagram.com/lauren.kleinman'}
+ └─links: 
+   ├─ https://www.inc.com/lauren-kleinman/i-was-taught-to-grow-faster-it-nearly-burned-me-out-heres-what-actually-works/91295614
+   ├─ https://www.dreamday.la/
+   ├─ https://www.thequalityedit.com/
+   ├─ https://www.qualitymedia.com/
+   ├─ https://substack.com/@laurenakleinman?utm_source=profile-page
+   ├─ https://www.thecut.com/2022/11/minding-our-business-dreamday-lauren-kleinman.html
+   ├─ https://www.forbes.com/sites/serenitygibbons/2024/09/17/3-tips-for-a-healthy-remote-culture-according-to-dreamdays-exec-team/
+   ├─ https://www.usatoday.com/story/special/contributor-content/2024/09/05/how-this-agency-is-pioneering-performance-pr-and-future-proofing-the-industry/75085783007/
+   └─ https://www.forbes.com/sites/serenitygibbons/2024/06/20/performance-publishing-quality-medias-strategy-for-winning-customers/
+[+] Twitter: https://twitter.com/laurenkleinman
+ ├─uid: VXNlcjoxNDg2NjMwNzcy
+ ├─fullname: Lauren Kleinman
+ ├─created_at: 2013-06-06 02:39:40+00:00
+ ├─image: https://abs.twimg.com/sticky/default_profile_images/default_profile.png
+ ├─is_protected: True
+ ├─follower_count: 5
+ ├─following_count: 0
+ └─favourites_count: 0
+[+] Calendly: https://calendly.com/laurenkleinman
+ ├─uid: 11323769
+ ├─fullname: Lauren Kleinman
+ ├─username: laurenkleinman
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─owner_uuid: CGBHVSWK7NXUW32Z
+ ├─organization_uuid: AAGETSWP4ZMKN4E5
+ └─timezone: America/Los_Angeles
+[+] Pinterest: https://www.pinterest.com/laurenkleinman/
+ ├─uid: 415246165550830109
+ ├─username: laurenkleinman
+ ├─fullname: Lauren Kleinman
+ ├─image: https://i.pinimg.com/280x280_RS/b9/9d/63/b99d638193479860b042353a1822534b.jpg
+ ├─follower_count: 139
+ ├─following_count: 32
+ ├─posts_count: 2402
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Fri, 26 Oct 2012 01:47:01 +0000
+ └─latest_activity_at: Mon, 12 Oct 2026 21:14:51 +0000
+[+] Academia.edu: https://independent.academia.edu/laurenkleinman
+[+] Paypal: https://www.paypal.com/paypalme/laurenkleinman
+ ├─fullname: Lauren Kleinman
+ ├─username: LaurenKleinman
+ ├─payerId: 72486AV6KHSVQ
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://www.paypalobjects.com/p2p/personalProfileImage.jpg
+[+] LinkedIn: https://linkedin.com/in/laurenkleinman
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=laurenkleinman
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=laurenkleinman&btnG=
+[+] CreativeMarket: https://creativemarket.com/users/laurenkleinman
+[+] TikTok: https://www.tiktok.com/@laurenkleinman
+ ├─tiktok_id: 7658159194654950414
+ ├─tiktok_username: laurenkleinman
+ ├─fullname: laurenkleinman
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9e104f7f12a459f21089cd3d6c6c36b9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=f6dbe908&x-expires=1792522800&x-signature=ZT0IbOxIWORQyiuNSzZ5gAB4dag%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAnIk501A13vTBEMw4oNEu8hJ26spN4BvQyxsXgSWpqKN_1duhM-a4uJH_w5Wvj4H8
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 29
+ ├─video_count: 5
+ └─digg_count: 0
+[+] Clubhouse: https://www.clubhouse.com/@laurenkleinman
+[+] Upwork: https://upwork.com/fl/laurenkleinman
+[+] VSCO: https://vsco.co/laurenkleinman
+[+] fixya: https://www.fixya.com/users/laurenkleinman
+[+] TheSimsResource: https://www.thesimsresource.com/members/laurenkleinman/
+[+] joyreactor.cc: https://joyreactor.cc/user/laurenkleinman
+[+] Pling: https://www.pling.com/u/laurenkleinman/
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/laurenkleinman
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for laurenkleinman saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_laurenkleinman_simple.json
+[*] Short text report:
+Search by username laurenkleinman returned 21 accounts.
+Found target's other IDs: LaurenKleinman.
+Extended info extracted from 8 accounts.
+Countries: us, nl, ru
+Interests (tags): social, business, art, sharing, design, apps, networking, blog, discussion, writing, gaming, messaging, photo, research, video, forum, links, education, finance, fintech, professional, archive, bookmarks, stock, freelance, tech, coding

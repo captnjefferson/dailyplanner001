@@ -1,0 +1,233 @@
+[*] DB auto-update: checking for updates...
+[*] DB auto-update: database is up to date (8144 sites)
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username joelgascoigne on:
+[+] Discord: https://discord.com
+[+] YouTube: https://www.youtube.com/@joelgascoigne/about
+ ├─youtube_channel_id: UC9qJ3UtntyPMpHdtiWFJikA
+ ├─fullname: Joel Gascoigne
+ ├─image: https://yt3.googleusercontent.com/wl-RUBm9Hna1K2WDkySCvEtqmWN2DCRG7Ehjo-Wgjvcq3RAyXyDFjTxfa8NjcV35Fn5wtdqgeQ=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@JoelGascoigne
+ └─is_family_safe: True
+[+] Substack: https://substack.com/@joelgascoigne
+ ├─uid: 319224
+ ├─username: joelgascoigne
+ └─fullname: Joel
+[+] Medium: https://medium.com/@joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─username: joelgascoigne
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/1*x0GkFgNYaDK6tnIhuAB7GQ.jpeg
+ └─latest_activity_at: 2026-10-18 19:01:53 UTC
+[+] Calendly: https://calendly.com/joelgascoigne
+ ├─uid: 145883
+ ├─fullname: Joel Gascoigne
+ ├─username: joelgascoigne
+ ├─bio: Hi! Please click below to schedule a sync :)
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/145033/a359c8ef.jpg
+ ├─owner_uuid: 11f8897355f0f2403f0a635236afd620
+ ├─organization_uuid: GGEDFEDUC4AZZVC3
+ └─timezone: America/Denver
+[+] SlideShare: https://www.slideshare.net/joelgascoigne
+ ├─uid: 66971865
+ ├─fullname: Joel Gascoigne
+ ├─username: joelgascoigne
+ ├─image: https://cdn.slidesharecdn.com/profile-photo-joelgascoigne-96x96.jpg?cb=1777121741
+ ├─slideshow_count: 1
+ ├─follower_count: 4
+ ├─following_count: 0
+ ├─organization: Buffer
+ ├─occupation: Co-founder & CEO
+ ├─website: joel.is
+ ├─is_suspended: False
+ └─is_organization: False
+[+] SoundCloud: https://soundcloud.com/joelgascoigne
+ ├─uid: 31949646
+ ├─name: Joel Gascoigne
+ ├─username: Joel Gascoigne
+ ├─following_count: 249
+ ├─follower_count: 298
+ ├─is_verified: False
+ ├─image: https://i1.sndcdn.com/avatars-000130305991-qq93bk-large.jpg
+ ├─location: CA
+ ├─country_code: US
+ └─bio: Founder/CEO at Buffer.
+
+Learning every day.
+[+] Trello: https://trello.com/joelgascoigne
+ ├─id: 5110453c16d0567a380026ba
+ ├─username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─image: https://trello-members.s3.amazonaws.com/5110453c16d0567a380026ba/f3915880e25be23d372ce389eced2277/170.png
+ ├─type: normal
+ └─is_verified: True
+[+] Telegram: https://t.me/joelgascoigne
+ └─fullname: Joel Gascoigne
+[+] Disqus: https://disqus.com/joelgascoigne
+ ├─id: 272815
+ ├─fullname: Joel Gascoigne
+ ├─disqus_username: joelgascoigne
+ ├─bio: Co-founder and CEO of Buffer
+ ├─reputation: 2.4647170000000003
+ ├─reputation_label: Average
+ ├─following_count: 227
+ ├─follower_count: 4
+ ├─location: San Francisco, CA
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2009-04-05T13:01:45
+ ├─upvotes_count: 543
+ ├─website: http://joel.is/
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/joelgascoigne.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 772
+[+] Snapchat: https://www.snapchat.com/add/joelgascoigne
+ ├─username: joelgascoigne
+ ├─fullname: Joel 
+ ├─bio: Joel  is on Snapchat! (@joelgascoigne)
+ ├─url: https://www.snapchat.com/@joelgascoigne
+ ├─image: https://www.snapchat.com/web-capture/www.snapchat.com/@joelgascoigne/preview/square.jpeg?xp_id=1
+ ├─snapcode_image: https://app.snapchat.com/web/deeplink/snapcode?username=joelgascoigne&type=SVG&bitmoji=enable
+ └─profile_type: userInfo
+[+] Threads: https://www.threads.com/@joelgascoigne
+[+] Twitch: https://twitchtracker.com/joelgascoigne
+ ├─twitch_channel_id: 794553607
+ ├─twitch_username: joelgascoigne
+ └─created_at: 2022-05-12 17:51:37
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=joelgascoigne&btnG=
+[+] linktr.ee: https://linktr.ee/joelgascoigne
+ ├─id: 12345299
+ ├─username: joelgascoigne
+ ├─is_active: True
+ ├─is_verified: True
+ ├─tier: free
+ └─links: 
+   └─ https://joel.is
+[+] LinkedIn: https://linkedin.com/in/joelgascoigne
+[+] TikTok: https://www.tiktok.com/@joelgascoigne
+ ├─tiktok_id: 6850891114603480070
+ ├─tiktok_username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─bio: Founder CEO of @bufferapp. Long term thinker, customer focused, ambitious.
+ ├─image: https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7350924403632242730~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=93e676b1&x-expires=1792522800&x-signature=ZiPhMeJul1nRtpwZwOr80tinVLc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAYTadeIC2Tk8cv5EdOMm_cVkcAbItBBoyasZLS1AAkOMHY2NZlsi3K8FKExocE8MJ
+ ├─following_count: 48
+ ├─follower_count: 62
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] TripAdvisor: https://tripadvisor.com/members/joelgascoigne
+[+] TradingView: https://www.tradingview.com/u/joelgascoigne
+[+] Twitter: https://twitter.com/joelgascoigne
+ ├─uid: VXNlcjoxNzQ0NDMwOQ==
+ ├─fullname: Joel Gascoigne
+ ├─bio: Founder CEO @Buffer. Building a long term, independent, profitable business with big ambitions. Love building for entrepreneurs and small businesses.
+ ├─created_at: 2008-11-17 16:22:29+00:00
+ ├─image: https://pbs.twimg.com/profile_images/1212260099604897792/OU6OulZj.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/17444309/1559675965
+ ├─is_protected: False
+ ├─follower_count: 71522
+ ├─following_count: 1205
+ ├─location: Chicago, IL
+ ├─favourites_count: 24527
+ └─links: 
+   └─ https://joel.is
+[+] Instapaper: https://www.instapaper.com/p/joelgascoigne
+[+] Chess: https://www.chess.com/member/joelgascoigne
+ ├─chess_user_id: 114675760
+ ├─username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─country_code: GB
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2021-01-22 04:55:43 UTC
+ └─latest_activity_at: 2025-04-19 16:33:51 UTC
+[+] Duolingo: https://www.duolingo.com/profile/joelgascoigne
+ ├─uid: 345303258
+ ├─username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2017-12-28 11:59:23 UTC
+ ├─url: https://www.duolingo.com/profile/joelgascoigne
+ ├─streak: 0
+ ├─totalXp: 2241
+ ├─learningLanguage: ja
+ └─fromLanguage: en
+[+] DeviantART: https://joelgascoigne.deviantart.com
+ ├─country: India
+ ├─created_at: 2014-12-02 10:23:45 UTC
+ ├─gender: male
+ └─username: JoelGascoigne
+[+] Patreon: https://www.patreon.com/joelgascoigne
+[+] OpenSea: https://opensea.io/joelgascoigne
+[+] Pinterest: https://www.pinterest.com/joelgascoigne/
+ ├─uid: 102105253960222097
+ ├─username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─bio: Co-founder & CEO of Buffer. Focused on the lean startup, company culture and customer happiness. I'm always learning and love to help :) me@joel.is
+ ├─image: https://i.pinimg.com/280x280_RS/f3/91/58/f3915880e25be23d372ce389eced2277.jpg
+ ├─website: http://joel.is/
+ ├─follower_count: 925
+ ├─following_count: 68
+ ├─posts_count: 63
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: True
+ ├─created_at: Sat, 24 Dec 2011 16:35:40 +0000
+ └─latest_activity_at: Thu, 21 May 2015 17:22:01 +0000
+[+] Clubhouse: https://www.clubhouse.com/@joelgascoigne
+[+] GoodReads: https://www.goodreads.com/joelgascoigne
+[+] Untappd: https://untappd.com/user/joelgascoigne
+[+] Depop: https://www.depop.com/joelgascoigne
+[+] Periscope: https://www.pscp.tv/joelgascoigne
+ ├─id: 1MWEwkGXrREbY
+ ├─created_at: 2016-02-06T22:01:43.636047461Z
+ ├─periscope_username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─bio: Founder CEO @Buffer. Building a long term, independent, profitable business with big ambitions. Love building for entrepreneurs and small businesses.
+ ├─follower_count: 71523
+ ├─following_count: 1205
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: True
+ ├─is_twitter_verified: True
+ ├─twitter_uid: 17444309
+ ├─twitter_screen_name: joelgascoigne
+ └─image: https://pbs.twimg.com/profile_images/1212260099604897792/OU6OulZj_reasonably_small.jpg
+[+] VSCO: https://vsco.co/joelgascoigne
+[+] Venmo: https://venmo.com/joelgascoigne
+[+] fixya: https://www.fixya.com/users/joelgascoigne
+[+] Memrise: https://www.memrise.com/user/joelgascoigne/
+[+] Picuki [TikTok]: https://www.tikvib.com/profile/joelgascoigne
+[+] joyreactor.cc: https://joyreactor.cc/user/joelgascoigne
+[+] Warpcast: https://warpcast.com/joelgascoigne
+ ├─uid: 19694
+ ├─username: joelgascoigne
+ ├─fullname: Joel Gascoigne
+ ├─bio: Founder CEO, Buffer
+ ├─image: https://i.imgur.com/0HK7boG.jpg
+ ├─follower_count: 4
+ └─following_count: 3
+[+] Pling: https://www.pling.com/u/joelgascoigne/
+[!] Too many errors of type "Bot protection" (8.25%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for joelgascoigne saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_joelgascoigne_simple.json
+[*] Short text report:
+Search by username joelgascoigne returned 39 accounts.
+Found target's other IDs: JoelGascoigne.
+Extended info extracted from 20 accounts.
+Countries: us, in, nl, ru
+Interests (tags): social, apps, art, business, networking, messaging, streaming, video, gaming, discussion, education, sharing, finance, photo, blog, writing, tech, reading, forum, hobby, crypto, design, documents, music, tasks, links, professional, review, travel, trading, nft, books, geosocial, fashion, shopping, fintech, coding

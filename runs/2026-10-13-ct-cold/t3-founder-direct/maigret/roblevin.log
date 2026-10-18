@@ -1,0 +1,299 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username roblevin on:
+[+] Imgur: https://imgur.com/user/roblevin
+ ├─id: 4185032
+ ├─imgur_username: RobLevin
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/vaTS6Ve_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/RobLevin/avatar
+ └─created_at: 2013-04-10T17:04:52Z
+[+] GitHub: https://github.com/roblevin
+ ├─uid: 75038835
+ ├─image: https://avatars.githubusercontent.com/u/75038835?v=4
+ ├─created_at: 2020-11-25T17:47:57Z
+ ├─follower_count: 0
+ ├─following_count: 0
+ ├─public_gists_count: 0
+ └─public_repos_count: 0
+[+] Substack: https://substack.com/@roblevin
+ ├─uid: 6441198
+ ├─username: roblevin
+ ├─fullname: Rob Levin
+ ├─bio: Writer. Editor. Hawks fan. Cookie monster. Overly self-critical baker. 
+ ├─image: https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/744599cb-5aa8-4e35-b246-f3969605e83d_500x561.jpeg
+ └─image_cdn: https://substackcdn.com/image/fetch/w_224,h_224,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F744599cb-5aa8-4e35-b246-f3969605e83d_500x561.jpeg
+[+] Medium: https://medium.com/@roblevin
+ ├─fullname: Rob Levin
+ ├─username: roblevin
+ ├─image: https://cdn-images-1.medium.com/fit/c/150/150/0*7vAG7NZTVVPIB7o9.jpg
+ └─latest_activity_at: 2026-10-18 19:14:11 UTC
+[+] Discord: https://discord.com
+[+] ThemeForest: https://themeforest.net/user/roblevin
+[+] Twitter: https://twitter.com/roblevin
+ ├─uid: VXNlcjo4OTYxMDMy
+ ├─fullname: Rob Levin | RobLevin.bsky.social
+ ├─bio: The Methuselah of Comic Books. 🦇Group Editor @ DC. Occasional writer. Hawks fan. Cookie monster. Opinions/puns are my own. #BelieveAtlanta He/Him
+
+Outta here.
+ ├─created_at: 2007-09-18 22:28:03+00:00
+ ├─image: https://pbs.twimg.com/profile_images/974343473/Rob_Levin_kr.jpg
+ ├─image_bg: https://pbs.twimg.com/profile_banners/8961032/1624566294
+ ├─is_protected: False
+ ├─follower_count: 2182
+ ├─following_count: 888
+ ├─location: LA via ATL
+ ├─favourites_count: 25321
+ └─links: 
+   └─ http://www.roblev.in
+[+] Bluesky: https://bsky.app/profile/roblevin.bsky.social
+ ├─uid: did:plc:72lr2f4apiomq5pz24vjgbhg
+ ├─username: roblevin
+ ├─fullname: Rob Levin
+ ├─bio: The Methuselah of Comic Books. 🦇Group Editor @ DC. Occasional writer. Hawks fan. Cookie monster. Opinions/puns are my own. #BelieveAtlanta He/Him
+
+The Internet was a mistake. 
+
+www.roblev.in
+ ├─image: https://cdn.bsky.app/img/avatar/plain/did:plc:72lr2f4apiomq5pz24vjgbhg/bafkreia53zggrpmrsdiuv43q22g7dp46757nv3uyyh2amaizlebg7aeagy
+ ├─image_bg: https://cdn.bsky.app/img/banner/plain/did:plc:72lr2f4apiomq5pz24vjgbhg/bafkreifwc5vbiynqjusu4hbmp4367kj7ocpjpxjxhoytnxxgl4dgclfnce
+ ├─created_at: 2023-05-30T01:38:09.554Z
+ ├─follower_count: 1247
+ ├─following_count: 408
+ └─posts_count: 375
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=roblevin&btnG=
+[+] Disqus: https://disqus.com/roblevin
+ ├─id: 1815989
+ ├─fullname: roblevin
+ ├─disqus_username: roblevin
+ ├─reputation: 1.249674
+ ├─reputation_label: Average
+ ├─following_count: 2
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2010-02-05T02:47:53
+ ├─upvotes_count: 11
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/roblevin.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 25
+[+] Calendly: https://calendly.com/roblevin
+ ├─uid: 38211283
+ ├─fullname: Rob Levin
+ ├─username: roblevin
+ ├─bio: Welcome to my scheduling page. Please follow the instructions to add an event to my calendar.
+ ├─image: https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/37862119/780fcb68.jpeg
+ ├─owner_uuid: 6bc93487-a3b4-4d0e-aef4-d5cde3ab8ab5
+ ├─organization_uuid: b2739c90-2130-49c8-ad9f-7103f45eff56
+ └─timezone: America/Chicago
+[+] Giphy: https://giphy.com/channel/roblevin
+[+] SoundCloud: https://soundcloud.com/roblevin
+ ├─uid: 2014022
+ ├─name: Gordon Sumner
+ ├─username: roblevin
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_verified: False
+ ├─image: https://a1.sndcdn.com/images/default_avatar_large.png
+ ├─location: Alexandria
+ └─country_code: US
+[+] About.me: https://about.me/roblevin
+[+] Academia.edu: https://independent.academia.edu/roblevin
+[+] Behance: https://www.behance.net/roblevin
+ ├─uid: 4857297
+ ├─username: roblevin
+ ├─fullname: Rob Levin
+ ├─website: https://roblevin.myportfolio.com/work
+ ├─image: https://pps.services.adobe.com/api/profile/225E3DBF4A626479992015B9@AdobeID/image/aa10e287-c3db-4217-ad76-2ffb58b24205/276
+ ├─image_bg: https://mir-s3-cdn-cf.behance.net/fa330bc05fa9ab8452fa11964bf83ad4/713d032c-a015-48de-b853-e212421c4a0c_rwc_0x869x2000x165x2000.png?h=b9d2fef8aad728cfb617c6a65ff95b8b
+ ├─company: Freelance Illustrator
+ ├─location: Austin, TX, USA
+ ├─created_at: 2014-01-27 13:56:32 UTC
+ ├─occupation: Illustrator, Lead Designer & Frontend Developer
+ ├─follower_count: 613
+ ├─following_count: 124
+ ├─views_count: 10345
+ └─appreciations: 1652
+[+] Tumblr: https://www.tumblr.com/roblevin
+[+] HuggingFace: https://huggingface.co/roblevin
+[+] Pinterest: https://www.pinterest.com/roblevin/
+ ├─uid: 102738572657819747
+ ├─username: roblevin
+ ├─fullname: Rob Levin
+ ├─bio: Writer. Hawks fan. Other stuff.
+ ├─image: https://i.pinimg.com/280x280_RS/e1/1c/67/e11c671711e671d6886295cbc25ccc0c.jpg
+ ├─website: http://www.roblev.in/
+ ├─follower_count: 147
+ ├─following_count: 57
+ ├─posts_count: 420
+ ├─is_private: False
+ ├─is_indexed: True
+ ├─is_partner: False
+ ├─is_verified_merchant: False
+ ├─is_website_verified: False
+ ├─created_at: Thu, 23 Jun 2011 02:29:11 +0000
+ └─latest_activity_at: Sun, 17 Jun 2018 17:22:32 +0000
+[+] Codepen: https://codepen.io/roblevin
+[+] NPM: https://www.npmjs.com/~roblevin
+[+] Telegram: https://t.me/roblevin
+ └─fullname: Robert
+[+] last.fm: https://last.fm/user/roblevin
+ ├─fullname: roblevin
+ ├─bio: • scrobbling since 18 Nov 2006
+ ├─image: https://lastfm-img.freetls.fastly.net/i/u/avatar170s/86972a97397448c9c8a4594fce6e63f7.png
+ └─created_at: 2006
+[+] Artstation: https://www.artstation.com/roblevin
+[+] Flickr: https://www.flickr.com/photos/roblevin
+[+] Codecanyon: https://codecanyon.net/user/roblevin
+[+] Chess: https://www.chess.com/member/roblevin
+ ├─chess_user_id: 16373514
+ ├─username: roblevin
+ ├─fullname: Rob Levin
+ ├─country_code: US
+ ├─location: Maryland
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2014-03-08 20:00:04 UTC
+ └─latest_activity_at: 2014-03-09 06:42:47 UTC
+[+] Freelancer.com: https://www.freelancer.com/api/users/0.1/users?usernames%5B%5D=roblevin&compact=true
+ ├─id: 7627034
+ ├─nickname: roblevin
+ ├─username: roblevin
+ ├─fullname: Rob
+ ├─role: employer
+ ├─location: Oakland, United States
+ └─created_at: 2013-05-31 04:22:35 UTC
+[+] Twitch: https://twitchtracker.com/roblevin
+ ├─twitch_channel_id: 500088949
+ ├─twitch_username: roblevin
+ └─created_at: 2020-03-16 23:23:43
+[+] Threads: https://www.threads.com/@roblevin
+ ├─fullname: Rob Levin
+ ├─username: roblevin
+ ├─follower_count: 200
+ ├─posts_count: 2
+ └─bio: Writer
+[+] DeviantART: https://roblevin.deviantart.com
+ ├─country: United States
+ ├─created_at: 2015-12-25 16:12:47 UTC
+ ├─gender: male
+ ├─username: roblevin
+ ├─website: svgimmersion.com
+ └─image: https://a.deviantart.net/avatars-big/r/o/roblevin.png?4
+[+] Paypal: https://www.paypal.com/paypalme/roblevin
+ ├─fullname: robin levin
+ ├─username: roblevin
+ ├─payerId: H38W9NX6T5W2U
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/NDI4WDQyOFhKUEc/p/MmUwZjIzOGEtNjc1Mi00NTA0LTljYmQtOWRkODMyYjU2NmU2/image_58.jpg
+[+] kofi: https://ko-fi.com/roblevin
+[+] LinkedIn: https://linkedin.com/in/roblevin
+[+] Mix: https://mix.com/roblevin
+[+] iNaturalist: https://www.inaturalist.org/people/roblevin
+[+] Duolingo: https://www.duolingo.com/profile/roblevin
+ ├─uid: 18580589
+ ├─username: RobLevin
+ ├─fullname: Rob Levin
+ ├─image: https://simg-ssl.duolingo.com/avatar/default_2
+ ├─created_at: 2013-12-20 05:13:52 UTC
+ ├─url: https://www.duolingo.com/profile/RobLevin
+ ├─streak: 0
+ ├─totalXp: 132
+ ├─learningLanguage: de
+ └─fromLanguage: en
+[+] Slides: https://slides.com/roblevin
+[+] ChaturBate: https://chaturbate.com/roblevin/
+[+] Flipboard: https://flipboard.com/@roblevin
+[+] HackerOne: https://hackerone.com/roblevin
+[+] YouTube: https://www.youtube.com/@roblevin/about
+ ├─youtube_channel_id: UC2OmT35v6uCXuK7v5t0noIQ
+ ├─fullname: Brent Blevins
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_mMH9EdrUW035BAqbGtuEqzjqbm6SSaELGU12TyU19hMea3=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@roblevin
+ └─is_family_safe: True
+[+] TikTok: https://www.tiktok.com/@roblevin
+ ├─tiktok_id: 7381548023111599109
+ ├─tiktok_username: roblevin
+ ├─fullname: roblevin
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7381548626109005829~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3b12b5b2&x-expires=1792522800&x-signature=dl%2FZEcuG3dhLpY7zu3wtNeqpU6c%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAZWfskTWYJbJaGGEOsYuP8mNj_T-o1y25xTUPVrdhZMRHokLYeV06Hn1ohM2DqcBH
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[+] Audiojungle: https://audiojungle.net/user/roblevin
+[+] Letterboxd: https://letterboxd.com/roblevin
+[+] Kickstarter: https://www.kickstarter.com/profile/roblevin
+[+] VideoHive: https://videohive.net/user/roblevin
+[+] Untappd: https://untappd.com/user/roblevin
+[+] Ultimate-Guitar: https://ultimate-guitar.com/u/roblevin
+[+] Clubhouse: https://www.clubhouse.com/@roblevin
+[+] Amazon: https://amazon.com/author/roblevin
+ ├─author_name: Rob Levin
+ ├─author_id: B00EDO71E2
+ └─store_id: 3c9f6e47-c819-385d-914c-3bab587fb75e
+[+] pixelfed.social: https://pixelfed.social/roblevin/
+[+] Periscope: https://www.pscp.tv/roblevin
+ ├─id: 1edjngwdbAqEo
+ ├─created_at: 2017-08-27T04:45:52.680521626Z
+ ├─periscope_username: roblevin
+ ├─fullname: Rob Levin | RobLevin.bsky.social
+ ├─bio: The Methuselah of Comic Books. 🦇Group Editor @ DC. Occasional writer. Hawks fan. Cookie monster. Opinions/puns are my own. #BelieveAtlanta He/HimOutta here.
+ ├─follower_count: 2182
+ ├─following_count: 888
+ ├─hearts_count: 0
+ ├─is_beta_user: False
+ ├─is_employee: False
+ ├─is_verified: False
+ ├─is_twitter_verified: False
+ ├─twitter_uid: 8961032
+ ├─twitter_screen_name: roblevin
+ └─image: https://pbs.twimg.com/profile_images/974343473/Rob_Levin_kr_reasonably_small.jpg
+[+] AlternativeTo: https://alternativeto.net/user/roblevin
+[+] VSCO: https://vsco.co/roblevin
+[+] Venmo: https://venmo.com/roblevin
+[+] Warrior Forum: https://www.warriorforum.com/members/roblevin.html
+[+] Gumroad: https://www.gumroad.com/roblevin
+[+] Depop: https://www.depop.com/roblevin
+[+] linktr.ee: https://linktr.ee/roblevin
+ ├─id: 143086756
+ ├─username: RobLevin
+ ├─is_active: True
+ ├─is_verified: True
+ ├─bio: Conversations and resources for building stronger teams.
+ ├─tier: paid2
+ ├─social_links: {'youtube': 'https://www.youtube.com/@Thenewtalentplaybook', 'linkedin': 'https://www.linkedin.com/in/robertslevin/'}
+ └─links: 
+   ├─ https://newtalentplaybook.substack.com/
+   ├─ https://www.youtube.com/@Thenewtalentplaybook
+   ├─ https://www.amazon.com/New-Talent-Playbook-Ultimate-Building-ebook/dp/B0FYRHJXZ5/ref=sr_1_1?crid=1TLJO21L4ZM27&dib=eyJ2IjoiMSJ9._jhWWaac95673pnZZXyIahuRyB4tF5KHAob3CZabKnKxjJjp5tt4-vLFVYOrIrRoY-7l5sBPou8DRqWF-GqDY8bu2LEi3d5f9EzGEuHmjRlNx0_SIWU-ZN4q3cfWKfuO
+   ├─ https://thenewtalentplaybook.com/roblevin#author
+   └─ https://www.workbetternow.com
+[+] ImageShack: https://imageshack.com/user/roblevin
+[+] Smule: https://www.smule.com/roblevin
+[+] GitHubGist [GitHub]: https://gist.github.com/roblevin
+[+] fixya: https://www.fixya.com/users/roblevin
+[+] joyreactor.cc: https://joyreactor.cc/user/roblevin
+[+] Pling: https://www.pling.com/u/roblevin/
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for roblevin saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_roblevin_simple.json
+[*] Short text report:
+Search by username roblevin returned 65 accounts.
+Found target's other IDs: RobLevin.
+Extended info extracted from 25 accounts.
+Countries: us, nl, ru
+Interests (tags): social, business, apps, art, sharing, coding, design, photo, networking, shopping, video, streaming, tech, blog, music, discussion, messaging, forum, gaming, education, hobby, freelance, finance, writing, stock, fintech, links, research, llm, professional, science, porn, webcam, news, hacking, movies, review, geosocial, fashion

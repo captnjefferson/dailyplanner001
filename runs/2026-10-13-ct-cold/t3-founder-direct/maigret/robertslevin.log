@@ -1,0 +1,103 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username robertslevin on:
+[+] Imgur: https://imgur.com/user/robertslevin
+ ├─id: 155786697
+ ├─imgur_username: RobertSlevin
+ ├─reputation_count: 0
+ ├─reputation_name: Neutral
+ ├─image: https://i.imgur.com/vaTS6Ve_d.png?maxwidth=290&fidelity=grand
+ ├─imgur_profile_avatar_url: https://imgur.com/user/RobertSlevin/avatar
+ └─created_at: 2021-10-13T05:45:47Z
+[+] Disqus: https://disqus.com/robertslevin
+ ├─id: 397685523
+ ├─fullname: roberts levin
+ ├─disqus_username: robertslevin
+ ├─reputation: 1.232124
+ ├─reputation_label: Average
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─is_power_contributor: False
+ ├─is_anonymous: False
+ ├─created_at: 2023-08-24T18:36:04
+ ├─upvotes_count: 0
+ ├─forums_count: 0
+ ├─image: https://disqus.com/api/users/avatars/robertslevin.jpg
+ ├─forums_following_count: 0
+ ├─is_private: False
+ └─comments_count: 1
+[+] Blogger: https://robertslevin.blogspot.com
+[+] Paypal: https://www.paypal.com/paypalme/robertslevin
+ ├─fullname: Robert Slevin
+ ├─username: RobertSlevin
+ ├─payerId: 4RRUK6EQZD7H6
+ ├─address: Albuquerque, NM
+ ├─isProfileStatusActive: True
+ ├─primaryCurrencyCode: USD
+ └─image: https://pics.paypal.com/00/s/MjgwWDI4MFhKUEc/p/NTMwNmZmNmQtOTMzMC00NWJjLWEzNjgtYmI4ZmQzNTBkZTlk/image_58.jpg
+[+] Giphy: https://giphy.com/channel/robertslevin
+[+] Chess: https://www.chess.com/member/robertslevin
+ ├─chess_user_id: 45109014
+ ├─username: robertslevin
+ ├─country_code: US
+ ├─follower_count: 0
+ ├─status: basic
+ ├─is_streamer: False
+ ├─is_verified: False
+ ├─created_at: 2018-04-08 20:21:13 UTC
+ └─latest_activity_at: 2018-04-20 18:59:03 UTC
+[+] Diigo: https://www.diigo.com/interact_api/load_profile_info?name=robertslevin
+[+] LinkedIn: https://linkedin.com/in/robertslevin
+[+] CreativeMarket: https://creativemarket.com/users/robertslevin
+[+] Twitch: https://twitchtracker.com/robertslevin
+ ├─twitch_channel_id: 85959358
+ ├─twitch_username: robertslevin
+ └─created_at: 2015-03-23 20:34:56
+[+] Picsart: https://picsart.com/u/robertslevin
+ ├─picsart_id: 176193817000102
+ ├─picsart_username: robertslevin
+ ├─fullname: Robert Slevin
+ ├─image: http://cdn21.picsart.com/145116821005201.png
+ ├─follower_count: 1
+ ├─following_count: 5
+ ├─likes_count: 0
+ ├─photos_count: 0
+ └─is_verified: False
+[+] Depop: https://www.depop.com/robertslevin
+[+] Smule: https://www.smule.com/robertslevin
+[+] TikTok: https://www.tiktok.com/@robertslevin
+ ├─tiktok_id: 7691598871998989314
+ ├─tiktok_username: robertslevin
+ ├─fullname: robertslevin
+ ├─image: https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/91777ffc0232b7be30535f39a51bf9c7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=003221e5&x-expires=1792522800&x-signature=6Q1fwA8BB0bvxgyatYyCSFEIMaU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5
+ ├─is_verified: False
+ ├─is_secret: False
+ ├─sec_uid: MS4wLjABAAAAKn9BCIcEhksgKWB_dwaFxn4DNToemjkkeggHWIWn-6ZenwJ0to1A8J4ndqOXCfL2
+ ├─following_count: 0
+ ├─follower_count: 0
+ ├─heart_count: 0
+ ├─video_count: 0
+ └─digg_count: 0
+[?] Google Scholar: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=robertslevin&btnG=
+[+] YouTube: https://www.youtube.com/@robertslevin/about
+ ├─youtube_channel_id: UCk2XnLkG3OMH6Imv2YWyhVg
+ ├─fullname: Robert Slevin
+ ├─image: https://yt3.googleusercontent.com/OA0zAeNgMBuNLWV9SvssJiQRIM-ZFH-Afz3ZNDKf3-jlGTaWkrtrva0u6Gg_ypERXjTn91AJAw=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@RobertSlevin
+ └─is_family_safe: True
+[+] fixya: https://www.fixya.com/users/robertslevin
+[+] Pling: https://www.pling.com/u/robertslevin/
+[+] joyreactor.cc: https://joyreactor.cc/user/robertslevin
+[!] Too many errors of type "Bot protection" (7.86%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for robertslevin saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_robertslevin_simple.json
+[*] Short text report:
+Search by username robertslevin returned 18 accounts.
+Found target's other IDs: RobertSlevin.
+Extended info extracted from 8 accounts.
+Countries: nl, ru
+Interests (tags): social, art, apps, business, video, design, photo, sharing, networking, forum, gaming, streaming, discussion, blog, finance, fintech, hobby, archive, bookmarks, research, professional, stock, fashion, shopping, music, tech, coding

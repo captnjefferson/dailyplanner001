@@ -1,0 +1,28 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username PaulDownsTables on:
+[+] YouTube: https://www.youtube.com/@PaulDownsTables/about
+ ├─youtube_channel_id: UCly5FvRJU7z0ZPU4Ew55j7A
+ ├─fullname: Paul Downs Cabinetmakers
+ ├─bio: At Paul Downs, we have been creating custom corporate and residential furniture since 1986. We specialize in large conference and boardroom tables and build every piece of furniture with precision and care. Over the years, we have completed thousands of pieces of furniture and still believe that the best furniture is created by a craftsperson at a bench.
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_mWdauGQ3pZAPPXotmdRuNTgxbqQncicm53F0F8d0QKsgk=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@PaulDownsTables
+ ├─keywords: custom conference tables
+ ├─is_family_safe: True
+ └─facebook_username: PaulDownsCustom
+[+] fixya: https://www.fixya.com/users/PaulDownsTables
+[+] joyreactor.cc: https://joyreactor.cc/user/PaulDownsTables
+[+] Pling: https://www.pling.com/u/PaulDownsTables/
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for PaulDownsTables saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_PaulDownsTables_simple.json
+[*] Short text report:
+Search by username PaulDownsTables returned 4 accounts.
+Found target's other IDs: PaulDownsCustom.
+Extended info extracted from 1 accounts.
+Countries: nl, ru
+Interests (tags): art, social, streaming, video, forum, tech, apps, coding, design
