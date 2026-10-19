@@ -55,6 +55,110 @@ Sources: https://basecamp.com/about · https://world.hey.com/jason/feed.atom · 
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Jason Fried — read 2026-10-18 ~8:23 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Jason Fried 37signals"; one match) · /in/jason-fried/ · /details/experience/ · /recent-activity/all/ (20 items, 3d back to 3mo) · /recent-activity/comments/ (20, all replies on his own posts, 2d to 2w) · /recent-activity/reactions/ (20, 6d back to 3mo) · /details/interests/ (label click) · /details/recommendations/ (none either way). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/jason-fried/ · 2nd · **166,976 followers** · Premium · "View my newsletter" (world.hey.com/jason) · United States (Humantic and Experience: Chicago) · University of Arizona. **He is present and active on LinkedIn**, despite "I just despise it" (person read, REWORK Ep. 200). Headline: "Started and runs 37signals." About: "Founder & CEO at 37signals (makers of Basecamp and HEY). Non-serial entrepreneur, serial author (Getting Real, REWORK, REMOTE, It Doesn't Have to Be Crazy at Work). Email me at jason@hey.com." Featured: "The 37signals" (37 ideas and observations) and his newsletter/blog.
+- **Experience:** 37signals, 27 yrs: "Started & runs 37signals," Aug 1999–Present (remote); Co-founder & CEO, Aug 1999–Present (and an older Chicago entry to Jun 2022). Fellow, Edmund Hillary Fellowship (New Zealand), Aug 2020–Present. Columnist, Inc. Magazine ("Getting Real"), Apr 2010–Jun 2022.
+- **Cadence:** VERY ACTIVE. About 20 posts in 3 months (one to three a week), short to mid-length, many with a video or image. Replies to commenters on his own posts in bursts, short and direct. Reacts mostly to 37signals colleagues.
+- **Themes, dated:** 3d: "Since we started offering employee profit sharing in 2020, we've paid out over $24,000,000 to employees. We've never offered stock options. Not a fan of future maybe money." 1mo: a customer breakfast in Chicago ("Woodworkers, music biz folks, publishers, educators, logistics pros, product designers, painters, medical device makers…"); the paid-RSVP experiment ("$5300 in $100s please… 55 people paid $100 to attend. 50 of those people showed up. So we distributed $5000 back at the door… We will donate the $500 from no-shows"; the free event before had a 45% no-show rate). 1mo: "Paper is a feature!"; an email from a new Basecamp 5 customer, "why I'm still doing this work after 27 years." 2mo: the published 37signals Manager Playbook ("our 'Hell Yeah' standard… termination"); posting every promotion company-wide; twice-yearly all-company meetups; "The speed at which a product is developed doesn't inherently make the product better or worse… The number of people or agents working on it doesn't make it better or worse." 3mo: "I'm thrilled to announce that I have absolutely no fucking idea what our valuation is"; wasted feedback; "I gave this talk 15 years ago. Could give the same one day. Most things don't change."
+- **AI, verbatim:** 2w: "For years, maybe a decade, I've wanted to build a writing tool… It never made sense to make it a 37signals product because it's not commercially viable… Plus, it would have taken months the old way. **So this weekend I just made it myself, with Claude's help.** It's called Write_On… 'alternative control' at the word, sentence, and paragraph level" (1,101 reactions, 202 comments); his reply: "Just me. And Claude. About 4 hours work." 1mo: "Just built my first Omarchy plugin! This also happens to be **the first piece of software I've ever made solo entirely with AI.** Back-and-forth over English and nothing else. So two firsts for me. Super fun experience." 1mo: "as we continue to make Basecamp even more Agent native. It's quickly becoming the best platform for humans to be humans, agents to be agents, and for each to work together in one shared space." Reactions: 37signals, "HEY is now fully agent accessible 🦾"; Jorge Manrubia, "Driving agents from Basecamp turned out to be a night-and-day improvement" and "from supervising agents' work to figuring out how…"; Jorge Manrubia on "the next Slack for agents."
+- **The circle:** David Heinemeier Hansson (co-founder; Omarchy, the Omacom Foundation's $8 million launch; "Jason and I have been making the same argument for over a quarter of a century"); Jorge Manrubia (Director of Product Development; agents); Ryan Singer; Mike Dalessio (Rails Core); Jason Zimdars; True Ventures (in memory of "our friend Om"); Wes Bush; Masab Gadit; Jesse Pujji ("the first book I read was 'Rework'"); David Aujero; Lars Christian Wilde; Jesse Cole. Commenters he answered by name: Levi Belnap ("hey buddy!"), Seth Kravitz ("Been a while"), Serge Kruppa, Alberto Sadde, A. Michael Sherman, Axel Molist, Amanda Perino, Mathieu Leblanc, Celso de Sá, Brandon Giella.
+- **Interests:** Top Voices: Brad Keywell, Jonathan Mildenhall, Scott Galloway, Gary Vaynerchuk, Kevin O'Leary, Ryan Hoover, Chip Cutter, Daniel Ek, Ben Gilbert, Dave Kerpen. Companies: Barrelhand, Rethink, Product Collective, teenage engineering, A. Lange & Söhne, Edmund Hillary Fellowship. Groups: Cartype; Beachheads North America. Newsletters: Create Possibilities; What's new at 37signals. School: University of Arizona.
+- **Recommendations:** none received, none given.
+- **Register:** blunt, plain, contrarian, funny; short declaratives, the occasional profanity for effect, and numbers to make the point ($24,000,000; 55 paid, 50 came). Replies are one line ("Go for it!", "Rules are more fun to break.").
+- **Read for the note:** he is building with AI himself and saying so in public: Write_On "with Claude's help… About 4 hours work," and his "first piece of software… made solo entirely with AI." He also holds the line that speed and "the number of people or agents" do not make a product better. A note in his register (short, concrete, no hype, an actual observation) is the only kind that fits.
+- **Humantic:** **read.** "ic · The Observer," D 53 · I 64 · S 46 · C 53, analysis confidence High (100%). See humantic/jason-fried.md.
+
+### 5b. Humantic
+
+# Humantic: Jason Fried (pulled in Jefferson's Chrome, 2026-10-18 ~8:21 PM ET; app.humantic.ai, LinkedIn URL linkedin.com/in/jason-fried)
+
+**DISC: ic "The Observer"** · D 53 · I 64 · S 46 · C 53 · analysis confidence **High (100%)** · The badge is lowercase ("ic"); the brief reads a lowercase badge as a low-data read, but Humantic states High (100%) confidence here. Humantic's current role is "Fellow, Edmund Hillary Fellowship (EHF)," which is one of his LinkedIn roles; it still runs 37signals as his main job. "26 yrs · Mid-senior" is Humantic's level label. The "Psychedelic Research" (MAPS) and "Deskpass" points are Humantic's inferences from his follows, not his posts; they are unverified.
+
+Full page text follows (the account-holder compatibility block is reduced to its verdict; nothing about the account holder is kept).
+
+---
+
+Jason Fried
+ic · The Observer
+Fellow
+Edmund Hillary Fellowship (EHF)
+Chicago, Illinois, United States
+26 yrs · Mid-senior
+linkedin.com/in/jason-fried
+
+PUBLIC OVERVIEW
+Jason Fried is the Co-founder & CEO of 37signals, a company known for its emphasis on remote work and building products like Basecamp. He also contributes as a columnist for Inc. Magazine, sharing insights on business and work culture.
+He has a keen interest in the Multidisciplinary Association for Psychedelic Studies (MAPS) and Deskpass. Fried also frequently discusses the challenges and benefits of remote work and efficient organizational practices.
+Fried is the author of a monthly column for Inc. Magazine called "Getting Real."
+
+PERSONALITY OVERVIEW
+They can sound friendly and charming but can quickly change gears to become inquisitive and probing. They are generally strong communicators and are not easy to convince. They are likely to ask many questions and look heavily for supporting information.
+
+HOW THEY SHOW UP
+Assertive · Example Seeker · Value Driven
+
+TALKING POINTS (topics they care about, Humantic's words)
+1. Remote Work Culture: As the CEO of a fully remote company, 37signals, he frequently shares insights and experiences on making remote work effective and enjoyable, as seen in recent posts about company meet-ups.
+2. Productivity & Efficiency: He often discusses the importance of minimizing wasted energy in organizations and optimizing workflows, advocating for tools like Basecamp to streamline communication and task management.
+3. Small Business Support: Fried emphasizes serving "the Fortune 5,000,000" (small and medium-sized businesses) over large enterprises, highlighting a focus on tools that benefit creative shops and freelancers.
+4. Psychedelic Research: His interest in the Multidisciplinary Association for Psychedelic Studies (MAPS) indicates a personal engagement with advancements and discussions in psychedelic science and therapy.
+5. Collaborative Workspaces: His interest in Deskpass, a flexible workspace solution, suggests an appreciation for varied work environments and the flexibility they offer to individuals and companies.
+6. Arizona Wildcats: [Predicted] Attended the University of Arizona, indicating a potential affinity for their sports teams.
+
+RECENT APPEARANCES (as Humantic lists them)
+- The REWORK Podcast – 37signals
+- Rapid Fire Questions with Jason Fried & David Heinemeier Hansson (37signals)
+- Give it a name — REWORK (37signals)
+- Jason Fried, 37signals (makers of Basecamp, HEY and ONCE) (Spotify)
+- Ep. 28 – Jason Fried, Co-founder/CEO of 37signals (Metacast)
+- Jason Fried — REWORK Podcast Guest (37signals)
+- Bootstrapped Legends: Jason Fried, Co-founder and CEO of 37signals (Tidemark)
+- Jason Fried at INDUSTRY 2017 (REWORK Podcast)
+- Building in public — REWORK (Podcast)
+- Interview with Jason Fried on the past, present & future of Basecamp and 37Signals (YouTube)
+- Video: Interview With 37signals' Jason Fried (Ron Stauffer Blog)
+- Jason Fried on 20 Years Bootstrapping BaseCamp at 37signals (Practical Founders Podcast)
+- Product Strategy Q&A with Jason Fried and Ryan Singer (REWORK Podcast)
+
+DURING A CALL OR MEETING
+Do
+- Invite them for a social do but don't rely solely on the relationship
+- Ask them questions to understand their needs better while staying affable
+- Help them realize that there is no personal risk in making this decision
+Avoid
+- Don't rely excessively on your relationship with them to win the deal
+- Don't brush off any concerns, take all questions seriously
+- Avoid making offhand commitments
+
+WHEN COLD CALLING
+PATTERN INTERRUPT: Informal style, where you are talking in a friendly & casual manner, with a big smile on makes them want to speak to you.
+PACE: Don't be too fast or too slow, stay in the middle. Sound like a 'brings happiness to others' person.
+TONE: Speak with high energy and in a personal manner, as if you have met a friend suddenly after a long time.
+TACTICS TO WIN: Giving social proof, personal rapport, usage of superlatives, repeating their name.
+MISTAKES TO AVOID: Information overload, use of negations
+MAKING THE ASK: Use positivity and/or humor to make the ask. It appeals to them, as if you are bringing a cheer to their day.
+SUBCONSCIOUS DRIVER: They are driven by emotion more than any other type. Hence a proposition that excites them will immediately get their attention.
+
+WHEN WRITING AN EMAIL
+SUBJECT: Exciting but objective (e.g. 'Making it personalized', 'Changing how to sell')
+SALUTATION: Yes, something usual (e.g. 'Hi' with the first name)
+GREETING: No (skip lines like 'I hope you are doing well')
+LENGTH OF MAIL: Medium (ideally up to 120-130 words)
+TONE OF WORDS: Confident, informational
+BULLET POINTS: Could use
+CLOSING LINE: Logically summarize, keep high energy
+COMPLIMENTARY CLOSE: Unique or standard (e.g. 'Looking forward!')
+OVERALL MESSAGING: Focused on generating excitement while staying objective
+
+NEGOTIATING & CLOSING
+The secret to closing: Proven value, strong testimonials are important to them, relationships will have some weightage.
+How fast will he move: They like to analyze well and can take their time to reach a
+
 **1. AI is making people work harder without making products better.** 2026-07-22:
 > "I do find it ironic that, you know, AI is what it is, yet everyone seems to be working harder and harder… I can sense it here occasionally that, you know, yeah, we're getting more done, but it weighs on people more because… you can be parallel working on with a bunch of different agents doing a bunch of different things. It's like to what end?… I don't think we've figured out what that all means yet still. And I'm not alone in that." https://www.tbpndigest.com/story/2026-07-22/jason-fried-on-ai-work-culture-products-arent-getting-better-at-the-rate-the-development-process-is-improving/transcript
 
@@ -91,4 +195,4 @@ For him the doors are not much easier than the man, because he publishes his own
 - https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=jasonfried.bsky.social
 - https://www.founderspodcast.com/
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

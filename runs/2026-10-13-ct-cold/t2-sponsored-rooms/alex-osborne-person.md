@@ -52,6 +52,33 @@ The article bylines read as firm content: PEO-buying topics, no first-person lin
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Alex Osborne — read 2026-10-18 ~7:56 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: /in/osbornealex/ (slug on file from the person read) · /details/experience/ · /recent-activity/all/ (15 items, all there is; 3w back to 9yr) · /recent-activity/comments/ (8, 1yr back to 9yr) · /recent-activity/reactions/ (20, 2d back to 1mo) · /details/interests/ (label click; no Top Voices tab) · /details/recommendations/ (Received and Given). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/osbornealex/ · 3rd · 2,342 followers · 500+ connections · **Sandy, Utah** (this settles the person read's "probably Utah-based") · University of Utah. Name on the profile: "Alex Osborne, PHR." Headline: "Vice President of Client Success." About: "I am an experienced individual with 20+ years of professional expertise in the areas of implementation, operations, quality assurance, client relations, client retention, client success, and executive management."
+- **Experience:** VP of Client Success, G&A Partners, Apr 2011–Present ("South Jordan, UT : Houston, TX"): "I am responsible for maintaining the business relationship, and assessing the needs and wants, of our existing clients… I am also a Certified Corporate Wellness Specialist and strive to make living a healthier lifestyle an enjoyable goal." Director, Quality Assurance and Implementation, Cardon Healthcare Network, Oct 2004–Apr 2011 (hospital self-pay; a Northeast region team of 19). Owner, Buehner & Osborne Investments, 2007–2009.
+- **Cadence:** QUIET, WEBINAR-ONLY. 15 items in all; in the last year, two posts of his own and five reposts of G&A webinar promos. Before 10mo the feed jumps to 3–9 years ago. Comments: 8 ever, the last a year ago. He reacts weekly.
+- **Themes, dated (all G&A webinars):** 3w: "Come hang out with me at this webinar! We'll learn a few things, have some fun, and I promise there won't be a quiz." (50 reactions, 10 reposts). 1mo, reposts: "60% of SMB leaders say they're using AI somewhere in their operations, but only 6% are seeing real returns from it. Is this you?… Tuesday, Sept. 29 at 2 p.m. CT… measure success beyond 'hours saved'"; "You don't need another AI strategy. You need a framework to tell if your AI idea for HR is actually worth it. Join G&A's AI leader (Nick) Nicholas Seewer and head of Client Success Alex Osborne, PHR…" 2mo, repost: G&A's 21st Inc. 5000 appearance. 6mo: "AI, accommodations, terminations — these complex topics are keeping leaders up at night" (with Alexis Knapp; "No hypotheticals, no fluff"). 10mo: "I'm hosting G&A Partners' upcoming webinar, 'The 2026 HR Forecast'… With more than 20 years of supporting clients through change, I know how valuable it is to have clear insight into what's coming."
+- **AI, verbatim:** 6mo, his own post: "AI is all the rage. But what are the real implications in your work environment? You'd be surprised. Save your seat." Co-host of the AI-in-HR webinar with Nick Seewer (reposts above); he also liked both of those G&A AI posts.
+- **The circle:** Kelianne Crapo (he likes her posts weekly: Peak Living awards 2d, the Yardi conference 1w, Colorado properties 3w, the Multifamily Women Summit, the Minnesota teams); G&A colleagues Stephen Calvert (new NAPEO board seat; he "celebrates" it), Nick Seewer, Aaron Call, PHR (tagged in two of his old posts), Jesse Butts, Olivia Curtis, Amy Turner, SPHR; Alexis Knapp (Littler); Erin Woerther, CBPA, CBPL; Jammie Hurst; Sarah Herlitz, CAPM; Jake Hiller; Archon PEO; Wang Electric Systems. Old comments: Dana Grunander, Michael D. Fox, Jed Salmon, Brandon Pugh, Brett Brown, Elisa Garn.
+- **Interests:** no Top Voices. Companies: American Academy of Dramatic Arts, INTELICOM, GrowthForce, TITAN 100, ProvenCFO, PEO Analysis, PEO Spectrum, ARC PEO Consultants, Million Air, IsoTalent. Groups: WGU Alumni; University of Utah Student Alumni; Salt Lake City Human Resource Professionals; Utah Business Magazine; Linked:HR; four corporate-wellness groups (Corporate Health & Wellness Association; Wellness is a Business Strategy; Utah Corporate Wellness Professionals; Corporate Well-being & Wellness). Newsletters: U Impact (University of Utah), The TPG Take, XM Monthly (Qualtrics), Nivati Wellness Newsletter, Venture Capital (Jon Bradshaw). **Schools: American Academy of Dramatic Arts; The New York Conservatory for Dramatic Arts;** University of Utah – David Eccles School of Business; University of Utah; Western Governors University.
+- **Recommendations:** received 9 (Kelly Albiston, Clark Watson, Barry Roberts, Christian Richards, CPA, William OBrien, Ligo T Progri, Royana Stewart, Becky Peters, Elizabeth Carroll; mostly 2013 and earlier). Albiston: "He is cool under pressure. He consistently delivers on promises." Watson (reported to him): "He has a great attitude about life and always has kind and uplifting words in challenging times." Given 2: McCoy Willey (2017: "creative, energetic, solutions oriented"), Jason Sumsion (2015: "Jason is a class act!… Any organization that Jason involves himself in is better because of his presence.").
+- **Register:** light and friendly, short; a joke to lower the stakes ("I promise there won't be a quiz"); upbeat one-line congratulations with double exclamation marks. He lets the company page do most of the talking.
+- **Read for the note:** his public voice is the webinar host. He has put AI in HR on air twice this year and frames it as practical, not hype ("measure success beyond 'hours saved'"). Drama-school training fits the host role. LinkedIn is thin for him, so a note should go to where he works: the G&A webinar series and its client questions.
+- **Humantic:** no read ("Can't open this profile"). The extension dropped once at ~7:56 PM ET; on reconnect the first try gave "Something went wrong… This page failed to load," and the retry gave "Can't open this profile." See humantic/alex-osborne.md.
+
+### 5b. Humantic
+
+# Humantic: Alex Osborne (attempted in Jefferson's Chrome, 2026-10-18 ~7:58 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/osbornealex/ (React-safe setter, submit, 30 s wait). First try (around a brief extension disconnect): "Something went wrong. This page failed to load." Retry: "Can't open this profile. Well, seems we do not have any information about this user."
+- He is 3rd-degree from the account. Register for the note comes from the LinkedIn read (t2-sponsored-rooms/linkedin-reads.md): light, friendly, short, a joke to lower the stakes; the webinar host is his public voice.
+
 **1. AI that saves admin time without adding risk (stated as his clients' top question).** 2026-09-15, at about 38:40, answering an audience question addressed to him:
 > "this question is starting to pop up more and more and more. I hear it, my team hears it. And I think the number one question that clients are asking is this. It's how can we use AI to save time, to reduce administrative work, but without creating security compliance or accuracy risks." https://www.gnapartners.com/resources/webinars/before-you-bring-ai-into-hr
 
@@ -111,4 +138,4 @@ Sources: each row's page (slugs in §8); 2024 to 2025 hosts come from the captio
 - https://www.littler.com/people/alexis-c-knapp · https://succeedasyourownboss.com/contact/
 - Search-only: https://secure.businesswire.com/news/home/20250226466928/en/GA-Partners-Celebrates-its-30th-Anniversary · https://www.wpcarey.com/about-us/transaction-teams/investments-team/alexander-osborne · https://allamericanspeakers.com/speakers/449796/Melinda-Emerson
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

@@ -51,6 +51,34 @@ Sources: https://legacysuccession.com/about · https://www.eventbrite.com/e/bbo-
 
 ## 5. What she has said she needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Madison Chaney — read 2026-10-18 ~8:01 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Madison Chaney Legacy & Succession"; first match, Stillwater, OK) · /in/madison-chaney93/ · /details/experience/ · /recent-activity/all/ (1 item, all there is) · /recent-activity/comments/ (3) · /recent-activity/reactions/ (20, 2d back to 1yr) · /details/interests/ (label click; no Top Voices tab) · /details/recommendations/ (none either way) · content search ("\"Breakfast for Business Owners\" Legacy Succession"; 6 results). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/madison-chaney93/ · 3rd · 450 followers · Stillwater, Oklahoma · Oklahoma State University (also Redlands Community College). Name on the profile: "Madison Chaney, CAP®, CEPA." Headline, verbatim (typo hers): "For Three Generations our mission has been the same: Unite Families, Preserve Values & Imapct the World by empowering entrepreneurs and the families around them." Contact in About: madison@legacysuccession.com, (405) 614-3106.
+- **About, her words:** "The value of your values is priceless… It's about more than just passing down your valuables—it's about handing down your values." "What do you think would happen if you gave ten million dollars to each of your kids right now? Would they lose touch with reality and blow it all on Ferraris, yachts, and partying?… Would they be disciplined enough not to destroy their life?" "Whether or not your family decides to work with mine, I am confident that our call will be full of insights and actionable steps." Featured: six "Explore the West" ranch videos on YouTube (Sitz Angus Ranch, The Storey Ranch, Chapman Ranch, Hoffman Ranch, Reproduction Enterprises).
+- **Experience:** Board Member and Investor, Novus Capital Holdings, Inc., Jan 2026–Present (part-time, remote, OKC). Legacy & Succession, 10 yrs 6 mos: **President, Jul 2025–Present**; Chief Financial Officer, May 2016–Present: "I was inspired by the unwavering dedication of my father and grandfather to join the financial industry… captivated by the concept of the Family Bank during client visits with my father." "I wholeheartedly understand the emotional weight that comes with exiting a business. Having grown up in a long line of entrepreneurs…" "Coming from a small town in Oklahoma called Perkins, I hold dear the values of community support and generosity. Supporting youth organizations and those who assist individuals and families in overcoming addiction are causes that resonate deeply with me." (HTK broker-dealer disclaimer follows.) Owner, Absolute Bovine Genetics, LLC, Jan 2012–Present, Stillwater.
+- **Cadence:** NEAR-SILENT. One post ever (3yr: "It was an honor and a privilege to be interviewed by Jay Judas and his team!"). Three comments ever: 2d, on David Ortiz's post, "Welcome to the team Joe Fronko! We are excited to see what the future holds for you."; 1yr, "Congrats Donny!" (Donny Driskill, TFS); 1yr, on a Dena Froiland post. Reacts a few times a month.
+- **The open question, the breakfast:** **She does not post about or host the "Breakfast for Business Owners" on LinkedIn.** No post or comment of hers mentions it. LinkedIn content search finds only the **Legacy & Succession company page** posting it (8mo, the Feb 20, 2026 breakfast with Hal Smith, "Oklahoma Hall of Fame inductee," which the person read did not have; 6mo and 5mo, Sean Kouplen, May 8; 2mo and 1mo, Sherri Coale, Sep 11, "We had a full house"), plus one guest firm, Reign Capital Holdings LLC (7mo: "We were grateful to attend… featuring Hal Smith"; his "5 F's — Faith, Family, Friends, Fitness, and Fun"). **No individual at the firm posts about it under their own name.** The company's Feb 2026 post tags the team: **Madison Chaney, CAP®, CEPA; David Ortiz, CFP®, CEPA®, EA; David Chaney, ChFC®, CLU®, CAP®; Teresa Howard; Koy Priddy; Rory Faherty; Nichole Bryant, FPQP®; Shawn Priddy.** She liked two Sean Kouplen posts (1w, 6d).
+- **AI, verbatim:** none.
+- **The circle:** David Ortiz, CFP®, CEPA®, EA (the firm's succession and tax lead; she reacts to his posts most, subscribes to his newsletter "The Medici Memo," and his 2d post names the firm's cold-call hook: "How do I get more cash from my business?… pay less in taxes?… preserve my legacy"); Joe Fronko (new sales development hire, 5d); Sean Kouplen (Regent Bank; May speaker); Richard J. Wolkowitz; Kendall King (newsletter "Living Abundantly"); Donny Driskill (TFS); Mitchell Carr (Charles Schwab); John Straus, Jr., CFP®; Brandon Franklin; Jake Davis; Matt Waits; Jennifer Kriger (Weaver; the Oklahoma Exit Planning Society happy hour); Melanie H.; Onsite Ready Mix.
+- **Interests:** no Top Voices. Companies: Novus Capital Holdings, Koehn Painting Co., M&A Catalyst, The CollabHub, Guardian Tax Consultants, LiveAg, Onsite Ready Mix, J&G Associates, Penn Mutual. Groups: Cattle Ranching Heritage, Cattle Ranchers, Intern World. Newsletters: The Medici Memo (David Ortiz), Living Abundantly (Kendall King), Arrow Investment Education (Jesse Carlucci, Ph.D., CFP®). Schools: Redlands Community College, Oklahoma State University.
+- **Recommendations:** none received, none given.
+- **Register:** plain and earnest in the About (rhetorical questions, family-first); short, formal congratulations in comments. Rural Oklahoma and ranching are part of how she presents herself.
+- **Read for the note:** LinkedIn will not reach her; the firm page and David Ortiz do the posting, and the email is in her About. What she has put on record is family, values handed down, Perkins, ranching, and "the emotional weight that comes with exiting a business."
+- **Humantic:** no read ("Can't open this profile"). See humantic/madison-chaney.md.
+
+### 5b. Humantic
+
+# Humantic: Madison Chaney (attempted in Jefferson's Chrome, 2026-10-18 ~8:01 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/madison-chaney93/ (React-safe setter, submit, 30 s wait): "Can't open this profile. Well, seems we do not have any information about this user."
+- She is 3rd-degree from the account and near-silent on LinkedIn (one post ever). Register for the note comes from the LinkedIn read (t2-sponsored-rooms/linkedin-reads.md): plain and earnest, family-first, rhetorical questions in the About.
+
 No first-person statement from Madison Chaney was found. The two closest, labeled:
 
 **1. Owners who do not plan their exit (co-authored, 2025).**
@@ -94,4 +122,4 @@ Full detail in `legacy-and-succession.md`. Short form:
 - https://davidmcglennen.podbean.com/e/s3-e26-dan-zugell-why-your-business-needs-esops/
 - Search-only: https://www.bizquest.com/business-broker/the-hughes-group-inc/larry-hughes/BW1932/ · https://www.getwarmer.com/advisors/david-ortiz · https://exit-planning-institute.org/events/epi-mahoning-shenango-valley-september-2025-chapter-event · https://www.eventbrite.fi/o/120816678887 (snippet: tickets "from $15")
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.

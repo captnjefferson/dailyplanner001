@@ -55,6 +55,33 @@ KSM's YouTube channel (72 videos) has none featuring him. https://www.youtube.co
 
 ## 5. What he has said he needs
 
+
+### 5a. LinkedIn read (lead's authenticated tab, read-only, logged 2026-10-18)
+
+## Jason Miller (KSM) — read 2026-10-18 ~8:12 PM ET (wave 3; lead's authenticated tab; read-only; attributable byproduct)
+Pages opened: people search ("Jason Miller Katz Sapper Miller transportation"; first match, Westfield, IN; not the Michigan State professor) · /in/jason-miller-74319a3/ · /details/experience/ · /recent-activity/all/ (1 item, all there is) · /recent-activity/comments/ ("Nothing to see for now") · /recent-activity/reactions/ ("Nothing to see for now") · /details/interests/ (label click; no Top Voices or Newsletters tabs) · /details/recommendations/ (none either way). No connection requests, follows, messages, reactions or saves made.
+
+- **Profile:** https://www.linkedin.com/in/jason-miller-74319a3/ · 3rd · 692 followers · 500+ connections · **Westfield, Indiana** · Indiana University Bloomington. Headline: "Partner - Assurance Services at Katz, Sapper & Miller, LLP." No About, no Featured.
+- **Experience:** Partner – Assurance Services, Katz, Sapper & Miller, LLP, Aug 2005–Present (21 yrs); Audit In-Charge, Plante & Moran, PLLC, Sep 2002–Aug 2005. No descriptions; the Transportation Services Group and IT Risk roles are not on the profile.
+- **Cadence:** SILENT. One post ever (2yr): "A big thank you to the TCA for honoring our friend Tim Almack today at Truckload 2024 in Nashville." (126 reactions, 4 reposts). TCA is the Truckload Carriers Association; Tim Almack is the Scaling Up coach and former KSM partner who spoke at KSM's 2023 Transportation Leaders Roundtable (ksm.md). No comments and no reactions on record.
+- **Themes:** trucking only, through what he follows: Coast To Coast Logistics, Trucksafe, DriverReach, Hoosier Logistics, 3BG Strategic Partners, PROJECT 61, Joybox.app, Financial Cent$; groups American Trucking Associations, AIRA (Association of Insolvency & Restructuring Advisors), American Bankruptcy Institute (also a company follow), Indiana University Alumni Network, Marvin Johnson and Associates.
+- **AI, verbatim:** none.
+- **The circle:** Tim Almack ("our friend"); the TCA. Nothing else is visible on LinkedIn.
+- **Interests:** as above. No Top Voices, no newsletters. School: Indiana University Bloomington.
+- **Recommendations:** none received, none given.
+- **Register:** not enough to judge; the one post is short, warm and plain, and gives credit to someone else.
+- **Read for the note:** LinkedIn is not his channel. What it adds: he lives in Westfield, Indiana, his one public moment was honoring Tim Almack at Truckload 2024, and his follows are trucking carriers, driver-safety and recruiting tools, and insolvency groups. Reach him by email or through the KSM roundtable.
+- **Humantic:** no read ("Can't open this profile"). See humantic/jason-miller-ksm.md.
+
+### 5b. Humantic
+
+# Humantic: Jason Miller, KSM (attempted in Jefferson's Chrome, 2026-10-18 ~8:12 PM ET; app.humantic.ai)
+
+**No read.**
+
+- LinkedIn URL search, https://www.linkedin.com/in/jason-miller-74319a3/ (React-safe setter, submit, 30 s wait): "Can't open this profile. Well, seems we do not have any information about this user."
+- He is 3rd-degree from the account and silent on LinkedIn (one post in two years, no comments, no reactions, no About). There is too little of his own writing to judge his register.
+
 **In his own words, one item, old:** 2017-09-27, on clients' lenders:
 > "it is important for stakeholders to understand the Update and begin to educate the users (management, lenders, customers, etc.) of their financial statements... be sure that your banks understand the FASB's intent of not classifying operating leases as debt." https://www.ksmcpa.com/insights/trucking-carriers-start-planning-for-the-new-lease-accounting-standard/
 
@@ -106,4 +133,4 @@ KSM Transportation Leaders Roundtable (named "Trucking Owners & Leaders Roundtab
 - https://www.youtube.com/@Ksmcpa
 - Collision sources: https://randallreilly.com/yard-jockeys-ep-1-guest-jason-miller/ · https://spotinc.com/news/more-than-a-broker-podcast-episode-3/ · https://msutoday.msu.edu/news/2020/03/jason-miller-covid-19-impacts-on-truckloads-of-freight
 
-LinkedIn and Humantic: PENDING — lead pulls in Chrome.
+LinkedIn and Humantic: done 2026-10-18; see 5a and 5b.
