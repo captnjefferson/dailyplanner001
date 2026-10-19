@@ -2,7 +2,7 @@
 
 **The shape.** One specific thing noticed in their public record, one clause of who you are and why you're asking, two questions only they can answer (their room for T1 and T2, their company for T3), and an offer to send back what the others say. No pitch, no credential paragraph, no ask for a call, no links, no attachments.
 
-**None sent.** These are thirteen of the 23 wave-3 direct notes (1 to 8, then 9 to 13 for the T1 peer rooms), for you to edit and send yourself. The "six small businesses" clause is in every draft; cut or reword it at edit time.
+**None sent.** These are all twenty-three wave-3 direct notes (1 to 8; 9 to 13 for the T1 peer rooms; 14 to 23, the last ten: three T1, six T2, one T3), for you to edit and send yourself. The "six small businesses" clause is in every draft; cut or reword it at edit time.
 
 **Before any send.** Read the cited source yourself. Three of the eight sit in Loren Feldman's 21 Hats circle (Downs and Levin are on its owner panel; Kassar writes its column), so their notes should not read alike if they compare them.
 
@@ -318,6 +318,244 @@ Glad to send you what the other learning chairs say.
 -Jefferson
 
 *Cited:* her LinkedIn post sharing Truck N' Hustle's clip "The Dark Side of Autonomous Trucks" (LinkedIn showed it as about a year old on Oct 18, 2026; the view cut off the last word, "skill se[ts]," so read it whole in your own tab). https://www.linkedin.com/in/christinalim-otr/recent-activity/all/ · "Scott Empringham AI Marketing Workshop," Wed Oct 28, 2026, 10:00 AM PT, Kiln, Las Vegas. https://member.eonetwork.org/lasvegas/upcoming-events/ · https://www.eolasvegas.com/events · "looks like the first": no AI-themed local event on the chapter's 2025-26 calendar (Wayback, Aug 15 and Dec 15, 2025, and Jun 11, 2026); members-only events can't be seen. https://web.archive.org/web/20251215151259/https://www.eolasvegas.com/events · her seat: https://www.eolasvegas.com/boardmembers and her LinkedIn headline, "EO Learning Chair."
+
+---
+
+## 14. Jeff Plakans · T1 · Learning Chair, EO Boston (third year); founder and president, Commonwealth Payroll & HR, Marblehead, MA
+
+**Register:** no Humantic ("Can't open this profile," though he is 2nd-degree). His LinkedIn: story first, lesson second, a dare to close; plain words, short paragraphs, asides in parentheses, the odd capital for force; about two long posts a week, and he answers commenters by name. "Hi Jeff," 110–130 words. He has already written the AI post a note would want to write (verify, "put a fence around it," "Be Pro-Human"), and he has been in AI cohorts since 2023, so explain nothing and meet him on verification. Avoid "fail fast" and speed talk: he wrote that it "is not fine when the stakes are somebody's paycheck." EO is the Entrepreneurs' Organization, a founders' peer network; the learning chair books the chapter's speakers. He credits "my friend Ethan King" for an AI session; King has his own door note (it reaches Luther), so this note leaves him out.
+**Send to:** no address printed; LinkedIn `jeffplakans` (2nd). Commonwealth's line is (978) 599-1500 (Cape Ann Chamber listing). He gave an email on air in 2022; the read didn't record it, so it isn't used. admin@eoboston.org is the chapter's inbox: a door, not his.
+
+Hi Jeff –
+
+An AI tool told you Massachusetts is one-party consent, then, when you corrected it, said "Good catch. You're right." Your post ended where I'd want every owner to: "Your job is to put a fence around it."
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved in CEO rooms. Two questions from the learning chair's seat:
+
+In EO Boston, are members building the fence, or where you said a lot of owners will be – sure they're compliant because a tool told them so?
+
+And your Oxford question, turned on the chapter: on AI, what are members asking for that nobody's delivering yet?
+
+Happy to send you what the other learning chairs say.
+
+-Jefferson
+
+*Cited:* his LinkedIn post on AI and compliance (LinkedIn showed it as 1w old on Oct 18, 2026): "An AI tool told me last week that Massachusetts is a one-party consent state for recording calls. It's not… It said, 'Good catch. You're right.'" "A lot of business owners are going to believe they're in compliance because an AI tool told them they were." "Your job is to put a fence around it." (read it in your own tab). https://www.linkedin.com/in/jeffplakans/recent-activity/all/ · his EO@Oxford post (about 1 month old, same feed): "what are our clients actually asking us for that nobody in our space is delivering yet?" · his seat: "Jeff Plakans / Learning Chair," https://www.eoboston.org/chapter-board
+
+---
+
+## 15. Cindy Free · T1 · Learning Chair, EO Portland (first year); CEO and owner, HR Annie Consulting, Portland
+
+**Register:** no Humantic (3rd-degree; "Can't open this profile," by URL and by name). Her LinkedIn: warm, exclamatory, team-first, stretched words and caps ("SO stressful," "love love love"), emoji used freely; invitations, not arguments. "Hi Cindy," 110–130 words, warm, one exclamation point. There's no AI on her LinkedIn, but she talked about it at length on a podcast, so the note opens there and leads with people, not tools. She handled AI by putting a named person on it (Elisa Gooding, now her Recruitment Channel Manager & Technology Manager), and her first learning lab as chair was members implementing AI. EO is the Entrepreneurs' Organization, a founders' peer network; the learning chair books the chapter's speakers.
+**Send to:** no address printed; HR Annie's team and contact pages show none (checked while drafting, Oct 18). LinkedIn `cindy-free-3046b561` (3rd, so InMail if you have it).
+
+Hi Cindy –
+
+On AI Bridges last November you said the hard part is "our ability to move as fast as we wish we could move," and that your best decision that year was pulling Elisa into a technology manager role.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved in CEO rooms. You opened your learning year with members who are implementing AI, so two questions:
+
+At the August lab, what did the panel say was slowing them down – the tools, or their people?
+
+And how many in the room have an Elisa yet – one person whose job it is – or is the owner still carrying it?
+
+I'd love to send you what other learning chairs say!
+
+-Jefferson
+
+*Cited:* AI Bridges podcast, "Cindy Free – Embracing AI: Myths and Realities" (Nov 6, 2025): "It's really just our ability to move as fast as we wish we could move" and "The best decision I made early this year … was to pull Elisa intentionally into a technology manager role." https://www.youtube.com/watch?v=fyoNx6eRN-U · "So You Want to Be an AI Revolutionary," Aug 25, 2026: "In Our First Quarterly Learning Lab, We'll Learn from EO Members Who Are Implementing AI" (panelists not named). https://www.eopdx.org/events and the chapter's public calendar, https://calendar.google.com/calendar/ical/kkitj7laov2olsbj0vlquj1s94%40group.calendar.google.com/public/basic.ics · her seat: "Cindy Free, Learning, HR Annie," https://www.eopdx.org/our-board
+
+---
+
+## 16. Michael McCarty · T1 · Learning Chair, EO Minnesota (since Apr 2026, first year); founder and president, EDGE Fall Protection, Eden Prairie, MN
+
+**Thin record.** His public words are a one-line take-away on the chapter's board page, his LinkedIn experience entry and weekly project posts. No interview, no talk, no AI line of his own (one like, on a post arguing staff should use AI). The note opens on the take-away and asks about the chapter.
+
+**Register:** no Humantic (3rd-degree). His LinkedIn: practical, plain, field-first; short declaratives, customer quotes, OSHA numbers, lessons carried down from the mountains (Denali, Rainier). "Hi Michael," 110–130 words, concrete, no flourishes. He judges a job by whether it works for the people who rely on it, so the second question uses his own test. His seat is settled: LinkedIn dates it "Apr 2026 - Present," and he posted "I'm starting a new position as Learning Chair." EO is the Entrepreneurs' Organization, a founders' peer network; the learning chair books the chapter's speakers.
+**Send to:** michael@edgefallprotection.com, in the founder block of the structured data on EDGE's own About page (https://edgefallprotection.com/about-us/; machine-readable markup, not the visible text; confirmed while drafting, Oct 18; not probed). LinkedIn `michael-mccarty-edge` (3rd, so InMail). sales@edgefallprotection.com is the company inbox.
+
+Hi Michael –
+
+Your take-away on the EO Minnesota board page is "You don't have to learn it the hard way - someone has already done that!" It's more or less why I'm writing.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved in CEO rooms. Two questions from the learning seat:
+
+With AI, has a member already learned it the hard way – someone the others go to – or is everyone still on their own?
+
+And you judge a system by whether it works for the people relying on it every day. When members bring AI in, does it hold up for their people, or just the owner?
+
+Glad to send back what other learning chairs tell me.
+
+-Jefferson
+
+*Cited:* EO Minnesota board page: "Michael McCarty - Learning Chair, Company: EDGE Fall Protection… Joined: 2019" and his take-away, "You don't have to learn it the hard way - someone has already done that!" (undated). https://www.eominnesota.org/board-members · his LinkedIn post (LinkedIn showed it as 4mo old on Oct 18, 2026): "what really matters is whether the solution works for the people installing it, maintaining it, and relying on it every day" (read it in your own tab). https://www.linkedin.com/in/michael-mccarty-edge/recent-activity/all/ · his seat: "Learning Chair · Entrepreneurs Organization Minnesota · Part-time · Apr 2026 - Present." https://www.linkedin.com/in/michael-mccarty-edge/details/experience/
+
+---
+
+## 17. Alex Osborne · T2 · VP, Client Success, and host of G&A Partners' owner webinars, Sandy, Utah
+
+**Register:** no Humantic (3rd-degree). His LinkedIn is quiet (two posts of his own in a year) and webinar-only; the host is his public voice: light, friendly, short, a joke to lower the stakes ("I promise there won't be a quiz"). Drama-school trained. "Hi Alex," 110–130 words. On AI he is a curious user who defers to the specialist (Nick Seewer, G&A's VP of AI), so the questions are about what he hears from clients and the room, not about tools. G&A Partners is a PEO (a professional employer organization: it runs HR, payroll and benefits for small employers); its free webinars are its owner room. The close borrows his quiz line; cut it if it reads as too familiar.
+**Send to:** no personal address printed; his G&A expert and leadership pages show only info@gnapartners.com, the company inbox (checked while drafting, Oct 18). LinkedIn `osbornealex` (3rd, so InMail if you have it).
+
+Hi Alex –
+
+On your September webinar you said the number one question G&A's clients ask is how to use AI to save time "without creating security compliance or accuracy risks." And you were honest about your own tries: "the answer sure sounds right. But is it 100% accurate?"
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. You hear from clients in every industry, so two questions:
+
+Of the three – security, compliance, accuracy – which one actually keeps owners from starting?
+
+And you close every session asking for the survey. After the AI one, what did people say they wanted next?
+
+Happy to send you what I hear from other hosts. No quiz, I promise.
+
+-Jefferson
+
+*Cited:* "Before You Bring AI Into HR: A Decision Framework" (Sep 15, 2026), at about 38:40: "the number one question that clients are asking is this. It's how can we use AI to save time, to reduce administrative work, but without creating security compliance or accuracy risks"; same session: "I've run things through an AI model before where, man, the answer sure sounds right. But is it 100% accurate?" and the survey "really helps us create future webinars and future content that really matters to you and your business." https://www.gnapartners.com/resources/webinars/before-you-bring-ai-into-hr · "I promise there won't be a quiz," his LinkedIn post (LinkedIn showed it as 3w old on Oct 18, 2026; read it in your own tab). https://www.linkedin.com/in/osbornealex/recent-activity/all/
+
+---
+
+## 18. Madison Chaney · T2 · President, Legacy & Succession, Oklahoma City
+
+**Opens on the firm's room.** She has never posted about the Breakfast for Business Owners; the firm's LinkedIn page posts it and tags her among eight staff, and no page names who books it. The note credits the breakfast to the firm and carries her own words (her LinkedIn experience entry) in the second line.
+
+**Register:** no Humantic (3rd-degree). Her LinkedIn is near-silent (one post ever), but the About and experience are hers: plain and earnest, family-first, rhetorical questions ("What do you think would happen if you gave ten million dollars to each of your kids right now?"), Perkins and ranching in how she presents herself. "Hi Madison," 110–130 words, plain. She is the third generation of her family's wealth-advisory firm and leads its exit planning, so the questions sit where AI meets succession. Faith is visible at the firm level (David Chaney's "faith-informed principles"; 2026 breakfast proceeds to Light Christian Academy and the Down Syndrome Association of Central Oklahoma), not in her own words.
+**Send to:** madison@legacysuccession.com and (405) 614-3106, both in her LinkedIn About (https://www.linkedin.com/in/madison-chaney93/); the firm's 2023 team page printed the same address. Firm inbox: info@legacysuccession.com.
+
+Hi Madison –
+
+Your firm's Breakfast for Business Owners had a full house for Sherri Coale in September. And on your own profile you wrote that you understand "the emotional weight that comes with exiting a business."
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. Two questions about the owners in that room and the families you advise:
+
+Does AI come up with them yet? When it does, is it about running the company today, or what it's worth to whoever takes it next?
+
+And in those families, who's pushing it – the founder, or the next generation?
+
+I'd be glad to send you what I hear from others who host owners.
+
+-Jefferson
+
+*Cited:* Legacy & Succession's LinkedIn posts on the Sep 11, 2026 breakfast with Sherri Coale, "We had a full house" (LinkedIn showed them as 1 to 2 months old on Oct 18, 2026; read them in your own tab), on the firm's page (slug `legacysuccesion`, sic, from the firm's site footer). https://www.linkedin.com/company/legacysuccesion/ · the listing: https://www.eventbrite.com/e/breakfast-for-business-owners-featuring-sherri-coale-tickets-1991735830485 · her LinkedIn experience: "I wholeheartedly understand the emotional weight that comes with exiting a business." https://www.linkedin.com/in/madison-chaney93/details/experience/
+
+---
+
+## 19. Angela Dotson · T2 · Partner, Aprio; co-chair and co-founder, Aprio's Black Business Forum, Atlanta
+
+**Register:** no Humantic (3rd-degree). Her LinkedIn: brief, gracious, civic; she shares others' work with a line of her own and lets the cause carry it (the Forum; United Way's work with families who work full time and still fall short). "Hi Angela," 100–125 words, nothing ornate. No AI of her own on record. She puts owners on stage, not her firm ("entrepreneurs like to hear from other entrepreneurs"), and a core group of about five picks topics by asking members what they want, so the second question goes there. Aprio is an Atlanta CPA and advisory firm; the Black Business Forum is its free evening gathering for Black business owners and executives (eleven since 2023). Her title differs by source (LinkedIn: Partner-in-Charge, Professional Services; Aprio's bio: Partner, Tax, Private Client); the note uses neither.
+**Send to:** angela.dotson@aprio.com and (404) 814-4981, on her Aprio bio (https://www.aprio.com/people/angela-dotson/). LinkedIn `angela-dotson-cpa-98a510` (3rd).
+
+Hi Angela –
+
+You told Aprio you know "where there's a financial literacy gap" from what you see in your role and what you saw in your family. And at the Forum's outlook roundtable in March, someone asked from the floor whether AI was affecting jobs.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. Two questions about the Forum:
+
+When AI comes up with your members, is it about growth – getting to the next stage – or the worry about jobs you heard in March?
+
+And when your core group asks members what they want to hear next, has AI come up yet?
+
+Glad to send you what other hosts tell me.
+
+-Jefferson
+
+*Cited:* "From Family Roots to Financial Empowerment: Angela Dotson's Journey to Uplift Black-Owned Businesses," Aprio (Jul 28, 2025): "Based on what I see in my role and what I saw in my family, I know the areas of struggle and where there's a financial literacy gap… help them scale to the next level… getting to the next stage." https://www.aprio.com/insights-events/from-family-roots-to-financial-empowerment-angela-dotsons-journey-to-uplift-black-owned-businesses-ins-article/ · "Navigating the Horizon: Economic Outlook Roundtable" (Mar 19, 2026, Seasons 52, Dunwoody), an attendee from the floor on jobs: "Is there any data that suggests that AI may be impacting that?" (recording). https://www.aprio.com/about/aprios-black-business-forum/navigating-the-horizon-economic-outlook-roundtable-for-2026/ · how topics are picked: "about five of us who meet on a regular basis… to determine what content… they would like to see," Atlanta Business Radio (Jul 17, 2024). https://businessradiox.com/podcast/atlantabusinessradio/aprio-black-business-forum/
+
+---
+
+## 20. Jeff Cunningham · T2 · Partner, Bradley; host, Bacon & Business, Atlanta
+
+**Register:** no Humantic (3rd-degree). His LinkedIn: plain, warm, a little old-school; invitations close on a light line ("Making great connections is up to you!"); the About runs on short contrasts ("Most attorneys wait for you to call. I'm already there."). "Hi Jeff," 110–130 words; a dry turn is welcome. He has said in public that law firms must leave "the selling time model," and his new book, *Close Enough*, is about owners and their counsel. Bradley (Bradley Arant Boult Cummings) is a large Southern business law firm; Bacon & Business is his quarterly owner breakfast at its Atlanta office, co-hosted with Cannon Carr (EP Wealth Advisors) and Michael Hopton (Southern First Bank). **Series status:** the person read calls it paused; his LinkedIn shows a Q2 session on Apr 22, 2026 (employee benefits) and nothing posted since, so the note asks about February's room and assumes nothing about Q3 or Q4. "AI makes a broken process break faster" is panelist Walt Carter's line; the note quotes Jeff's own question.
+**Send to:** jcunningham@bradley.com and 404.868.2065, on his Bradley bio (https://www.bradley.com/people/c/cunningham-jeff). LinkedIn `jeffcunninghamoutsidegc` (3rd).
+
+Hi Jeff –
+
+Your February Bacon & Business takeaway asked when AI helps "and when does it make a broken process break faster?" – then answered it: start with the humans, clarify the workflow, then apply the technology. In that order.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. You had a packed room of them on it, so two questions:
+
+Since February, have any of those owners come back to you having tried it? Did the order hold?
+
+And Close Enough is about owners and their lawyers. Are your clients asking you about AI yet – or asking AI instead of you?
+
+Happy to send you what other hosts tell me.
+
+-Jefferson
+
+*Cited:* "What If Everything You Think You Know About Productivity Is Wrong?" (Feb 25, 2026): "When does AI help — and when does it make a broken process break faster?" https://www.bradley.com/insights/publications/2026/02/what-if-everything-you-think-you-know-about-productivity-is-wrong · "The Productivity Playbook" (the Q1 takeaway PDF): "Start with the humans. Clarify the workflow. Then apply the technology. In that order."; "a packed room of Atlanta business owners." https://www.bradley.com/-/media/files/insights/publications/2026/02/bradley_q1-bacon-and-business-the-productivity-playbook.pdf · *Close Enough*: Shawn Vernimo's LinkedIn post recommending it, "a must-read for any business owner who wants a better relationship with their legal counsel," and Jeff's thanks (LinkedIn showed it as 1w old on Oct 18, 2026; read it in your own tab). https://www.linkedin.com/in/jeffcunninghamoutsidegc/recent-activity/all/ · the Q2 session: his LinkedIn event "Bacon & Business Q2: Employee Benefits," Apr 22, 2026 (same profile, Events tab).
+
+---
+
+## 21. Jason Miller · T2 · Partner, KSM; leader, Transportation Services Group; first contact, Transportation Leaders Roundtable, Indianapolis
+
+**Opens on the room.** No public words of his own on AI and almost none at all: one 2017 article on lease accounting, one LinkedIn post ever (honoring Tim Almack at Truckload 2024), no comments, no reactions. The note opens on the roundtable's agendas.
+
+**Register:** no Humantic (3rd-degree); too little writing to judge. The one post is short, warm and plain, and gives the credit away; the 2017 article is technical and lender-minded. "Hi Jason," 100–120 words, plain, no flourishes. In his own room he is the finance-and-lending host; Chris Henry of KSM Transport Advisors (KSM's trucking consultancy) moderated the AI panels, so the note credits the room with them, not Jason, and asks from the finance side. KSM (Katz, Sapper & Miller) is an Indianapolis CPA and advisory firm; the roundtable is its yearly day for trucking owners and executives, 14 to 17 speakers. Nothing here asks about a speaking slot.
+**Send to:** jmiller@ksmcpa.com and 317.580.2045, on his KSM bio (https://www.ksmcpa.com/people/jason-miller/) and the 2026 agenda. LinkedIn `jason-miller-74319a3` (3rd; silent there).
+
+Hi Jason –
+
+The Transportation Leaders Roundtable has put AI on the agenda twice, and both times the panel was carriers, not vendors: Hermann Services and Kivi Bros. in 2024, Keller Logistics and Nussbaum this May.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. Two questions, since you sit on the finance side of that room:
+
+When AI comes up with your carrier clients, is it in operations – dispatch, pricing – or in the back office, where your team sees the numbers?
+
+And you moderated the lending panel this year. Are banks asking carriers about AI yet?
+
+Glad to send back what I hear from other hosts.
+
+-Jefferson
+
+*Cited:* 2024 agenda, "Technology Strategy & AI in Trucking": Jeffrey Hermann (Chairman and CEO, Hermann Services) and Tyler Kivi (VP and COO, Kivi Bros. Trucking), moderated by Chris Henry. https://6242440.fs1.hubspotusercontent-na1.net/hubfs/6242440/Events/2024%20Trucking%20Roundtable%20Agenda%20-%20Indy.pdf · 2026 agenda (May 14, 2026): "AI in Action," JT Weinberg (CFO, Keller Logistics Group) and Jeremy Stickling (Chief Administrative Officer, Nussbaum Transportation Services); "The Road Ahead: Bank Lending Insights," "Moderator: Jason Miller." https://media.ksmcpa.com/wp-content/uploads/2026/05/12083851/2026-TLR-Agenda.pdf
+
+---
+
+## 22. Tim Mages · T2 · CEO, Expansion Capital Group, Sioux Falls
+
+**Register:** no Humantic ("Can't open this profile," though he is 2nd-degree). His LinkedIn: confident, clean, purposeful; short lines with a turn; a dare to his own town ("I challenge every serious operator in Sioux Falls to show up"); warm, quick comments. "Hi Tim," 100–120 words, no hype. He has put his own four-question test for AI on record and wants decisions argued "based on data, not emotions," so the note asks about his test, in his terms. Expansion Capital Group (ECG) is a Sioux Falls lender that funds established small businesses, $5,000 to $500,000; "Beyond the Hype" (May 7, 2026) was its first AI panel for owners, moderated by COO Herk Christie. He has promised a second ("It won't be our last"); the note leaves that line alone so nothing reads as a bid for the next one.
+**Send to:** no personal address printed; ECG's About page shows none (checked while drafting, Oct 18). LinkedIn `tim-m-1647775` (2nd; shows as "Tim M."; posts one to three times a month and comments weekly). Tamara Edwards (TE&Co.) is ECG's press contact: a door, not his inbox.
+
+Hi Tim –
+
+Before your May panel you challenged every serious operator in Sioux Falls to show up, and put four questions to them: where AI drives revenue, where it reduces risk, how teammates can use it, and where it's just a distraction.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved for owners. Two questions:
+
+Of your four, which one did the room have the hardest time answering?
+
+And in April, ECG said it was hearing "genuine but cautious interest" from owners. Since May, has the caution moved – and which way?
+
+If it's useful, I'll send you what other hosts say.
+
+-Jefferson
+
+*Cited:* his LinkedIn post before the panel (LinkedIn showed it as 5mo old on Oct 18, 2026): "I challenge every serious operator in Sioux Falls to show up… Where does AI drive revenue? Where does it reduce risk? How can teammates utilize it effectively? Where is it just a distraction?" (read it in your own tab). https://www.linkedin.com/in/tim-m-1647775/recent-activity/all/ · ECG "has been hearing genuine but cautious interest in AI from businesses," SiouxFalls.Business (Apr 9, 2026; sponsored by ECG). https://siouxfalls.business/upcoming-event-to-help-small-business-owners-go-beyond-the-hype-with-ai/ · the panel recording (66 minutes). https://www.youtube.com/watch?v=-cn-n0rNdMY
+
+---
+
+## 23. Jason Fried · T3 · co-founder and CEO, 37signals, Chicago
+
+**Shortened to one question, on purpose.** He answers short, plain notes (in August he emailed his own reply to an unknown founder's one-question note, REWORK Ep. 200), and he screens for formula. If you want a second question, the alternate is "When it weighs on someone there, what does it look like?" Expect one line back, or none; the read calls him the arm's long shot.
+
+**Register:** Humantic ic "The Observer," high confidence (100%): "Hi" with his first name, no greeting, up to 120–130 words, confident and informational. Ignore its bullets, social proof, superlatives and name-repeating; his own bar wins: "a personal letter… not a general purpose mail merge," and "Don't try to hook anyone with some method. Just talk like you would normally talk." LinkedIn: blunt, plain, contrarian, funny, numbers to make the point. He builds with AI himself and says so, so explain nothing. 37signals makes Basecamp and HEY, with about 60 people.
+**Send to:** jason@hey.com ("Email me at jason@hey.com," his LinkedIn About; also his X bio). Basecamp's About page, in his voice, gives jason@basecamp.com ("You can always contact me directly").
+
+Hi Jason –
+
+In July you told TBPN you can sense it at 37signals: more is getting done, but "it weighs on people more," and you don't think you've figured out what that all means yet.
+
+This month you built Write_On yourself, with Claude, in about four hours.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved.
+
+One question: what's the difference between your weekend with Write_On and the weight you sense on people there?
+
+If it's useful, I'll send you what other founders say.
+
+-Jefferson
+
+*Cited:* TBPN (Jul 22, 2026), full transcript: "I can sense it here occasionally that, you know, yeah, we're getting more done, but it weighs on people more… It's like to what end?… I don't think we've figured out what that all means yet still. And I'm not alone in that." https://www.tbpndigest.com/story/2026-07-22/jason-fried-on-ai-work-culture-products-arent-getting-better-at-the-rate-the-development-process-is-improving/transcript · his LinkedIn post on Write_On (LinkedIn showed it as 2w old on Oct 18, 2026): "So this weekend I just made it myself, with Claude's help," and his reply, "Just me. And Claude. About 4 hours work." (read it in your own tab). https://www.linkedin.com/in/jason-fried/recent-activity/all/ · the one-question reply: REWORK Ep. 200, "Competing with giants" (Aug 19, 2026). https://37signals.com/podcast/competing-with-giants/
 
 ---
 
