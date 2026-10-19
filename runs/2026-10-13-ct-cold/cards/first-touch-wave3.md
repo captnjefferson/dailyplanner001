@@ -2,7 +2,7 @@
 
 **The shape.** One specific thing noticed in their public record, one clause of who you are and why you're asking, two questions only they can answer (their room for T1 and T2, their company for T3), and an offer to send back what the others say. No pitch, no credential paragraph, no ask for a call, no links, no attachments.
 
-**None sent.** These are all twenty-three wave-3 direct notes (1 to 8; 9 to 13 for the T1 peer rooms; 14 to 23, the last ten: three T1, six T2, one T3), for you to edit and send yourself. The "six small businesses" clause is in every draft; cut or reword it at edit time.
+**None sent.** These are all twenty-four wave-3 direct notes (1 to 8; 9 to 13 for the T1 peer rooms; 14 to 23: three T1, six T2, one T3; 24, Angelo Sisco, T1, in Walter Paulsen's place while Paulsen is held), for you to edit and send yourself. The "six small businesses" clause is in every draft; cut or reword it at edit time.
 
 **Before any send.** Read the cited source yourself. Three of the eight sit in Loren Feldman's 21 Hats circle (Downs and Levin are on its owner panel; Kassar writes its column), so their notes should not read alike if they compare them.
 
@@ -556,6 +556,29 @@ If it's useful, I'll send you what other founders say.
 -Jefferson
 
 *Cited:* TBPN (Jul 22, 2026), full transcript: "I can sense it here occasionally that, you know, yeah, we're getting more done, but it weighs on people more… It's like to what end?… I don't think we've figured out what that all means yet still. And I'm not alone in that." https://www.tbpndigest.com/story/2026-07-22/jason-fried-on-ai-work-culture-products-arent-getting-better-at-the-rate-the-development-process-is-improving/transcript · his LinkedIn post on Write_On (LinkedIn showed it as 2w old on Oct 18, 2026): "So this weekend I just made it myself, with Claude's help," and his reply, "Just me. And Claude. About 4 hours work." (read it in your own tab). https://www.linkedin.com/in/jason-fried/recent-activity/all/ · the one-question reply: REWORK Ep. 200, "Competing with giants" (Aug 19, 2026). https://37signals.com/podcast/competing-with-giants/
+
+---
+
+## 24. Angelo Sisco · T1 · Vistage chair (one CE group; chair since Sep 2025), Chicago area; founder, Sisco Advisors
+
+**Register:** no Humantic ("Can't open this profile," though he is 2nd-degree). His LinkedIn: raw, personal, short lines and one-sentence paragraphs; a scene or a confession first, then the lesson; street-warm ("brother," "Better humans, baby."); spiritual words next to operator numbers. Very active: 20 posts in about five weeks, and he replies to nearly every commenter. "Hey Angelo," 110–130 words. He is not new to AI: he ran an AI Show and Tell for his group and posts his own view of where AI lands, so the note meets him on that view, not on tools. Faith and family are on his record and in bounds (raised by his grandmother Dorothy, "my guardian angel"; his son Santi, 7, and daughter Sofia; "what else did God give us this place for?"). This note stays on his AI view; his group's answer about what the room does ("becoming a better human") is there if you want a warmer line. Vistage is a paid CEO peer-advisory network; a chair runs a monthly group of owners and books its speakers. He takes Walter Paulsen's place in T1 while Paulsen is held. Ryan Hogan has a door note, and Sisco was on Hogan's show (E13), so the note leaves out the show and the group's name, "The Lighthouse," which is on record only there.
+**Send to:** info@siscoadvisors.com, printed on his own Contact page (https://siscoadvisors.com/contact/, beside a Franklin Park, IL address; checked while drafting, Oct 18): his practice's inbox, not a personal one. LinkedIn `angelosisco` (2nd), where he posts four to six times a week. Not angelo@ciscoadvisors.com, which the E13 page prints: likely a misspelling of his domain, never probed.
+
+Hey Angelo –
+
+Your AI Show and Tell skipped ChatGPT versus Claude and went straight to the org chart: "antiquated and it's done," companies built as workflows with AI in the middle, and the handbook and PTO questions in a system people can query at 10 o'clock at night.
+
+Last spring I took six small businesses through AI implementation, and I'm trying to work out what's still unsolved in CEO rooms. Two questions about your group:
+
+Since then, has anyone started moving that first layer into a machine, or is it still the flywheel on the board?
+
+And the group landed on heart-centered people officers as what's left. In your members' companies, is that someone they already have, or someone they'd have to find?
+
+Happy to send you what other chairs tell me.
+
+-Jefferson
+
+*Cited:* his LinkedIn post "Any business that depends on one person is fragile" (LinkedIn showed it as 1mo old on Oct 18, 2026): "We ran an AI Show and Tell at my group last month. Before anybody got into ChatGPT versus Claude… we drew a flywheel on the board and discussed how the hierarchy org chart is antiquated and it's done. We're going to start building companies as workflows instead, with AI sitting in the middle" (read it in your own tab). https://www.linkedin.com/in/angelosisco/recent-activity/all/ · his post on what the group concluded (3w old, same feed): "Policy and compliance. The handbook, the PTO rules, the withholding questions. All of that can live in a system your people can query at 10 o'clock at night… If the first one moves into a machine, what's left is the part they actually wanted… Heart-centered people officers." · his seat: "Vistage Chair · Full-time · Sep 2025 - Present," https://www.linkedin.com/in/angelosisco/details/experience/
 
 ---
 
