@@ -1,0 +1,28 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username shawnkerendian on:
+[+] YouTube: https://www.youtube.com/@shawnkerendian/about
+ ├─youtube_channel_id: UC5hsQ6swCp-GDqmqDkQ2EeA
+ ├─fullname: Shawn Kerendian
+ ├─image: https://yt3.googleusercontent.com/ytc/AIdro_meLtS1C8gl1i7ctdw977aqXq65ZlRYz3nJcpNHxhajLNpRpb2AVHlBghoDuIef2xu6gQ=s900-c-k-c0x00ffffff-no-rj
+ ├─channel_url: http://www.youtube.com/@shawnkerendian
+ └─is_family_safe: True
+[+] About.me: https://about.me/shawnkerendian
+[+] Flipboard: https://flipboard.com/@shawnkerendian
+[+] Mix: https://mix.com/shawnkerendian
+[+] fixya: https://www.fixya.com/users/shawnkerendian
+[+] joyreactor.cc: https://joyreactor.cc/user/shawnkerendian
+[+] Pling: https://www.pling.com/u/shawnkerendian/
+[!] Too many errors of type "Bot protection" (8.84%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] Extracted IDs: {}
+[-] JSON simple report for shawnkerendian saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t3-founder-direct/maigret/report_shawnkerendian_simple.json
+[*] Short text report:
+Search by username shawnkerendian returned 7 accounts.
+Extended info extracted from 1 accounts.
+Countries: nl, ru
+Interests (tags): social, blog, sharing, tech, art, streaming, video, news, links, forum, apps, coding, design
