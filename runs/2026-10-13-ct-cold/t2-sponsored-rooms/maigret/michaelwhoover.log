@@ -1,0 +1,38 @@
+[+] MAIGRET - collect a dossier by username from 3000+ sites
+[♥] Support Maigret — sites database & development
+[♥] Donate on Patreon: https://www.patreon.com/soxoj
+[+] Using sites database: /Users/jeffersonstovall/.maigret/data.json (8144 sites)
+[-] Starting a search on top 509 sites from the Maigret database...
+[!] You can run search by full list of sites with flag `-a`
+[*] Checking username michaelwhoover on:
+[+] Twitter: https://twitter.com/michaelwhoover
+ ├─uid: VXNlcjoyNzg4OTA2NDQ2
+ ├─fullname: The Mikinator
+ ├─bio: 74 year-old retired computer programmer
+ ├─created_at: 2014-09-04 01:37:30+00:00
+ ├─image: https://pbs.twimg.com/profile_images/507342985332142080/bCNEvaCn.jpeg
+ ├─is_protected: False
+ ├─follower_count: 8
+ ├─following_count: 39
+ └─favourites_count: 213
+[+] Facebook: https://www.facebook.com/michaelwhoover
+ ├─uid: 1264744005
+ ├─username: michael.w.hoover
+ ├─fullname: Michael W. Hoover
+ ├─description: Michael W. Hoover is on Facebook. Join Facebook to connect with Michael W. Hoover and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+ └─image: https://scontent-iad6-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s720x720&_nc_cat=1&ccb=1-7&_nc_sid=d00ff1&_nc_ohc=IZeZjuD71-MQ7kNvwHIJiEO&_nc_oc=AdqxDBjTsHeBzjtx0qJGlEx1XD2fsFBiojDoP5hjyGCB0RQXKmeKmlVRg8SXeK7DnSsJSXm8pce3zC9HrldFOZkH&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_ss=7020f&oh=00_AQORt20RyVOW4Uz9Z3gmkL5GnfmmpX6rMiXA3OoaKWiPcA&oe=6AFEB93A
+[+] LinkedIn: https://linkedin.com/in/michaelwhoover
+[+] fixya: https://www.fixya.com/users/michaelwhoover
+[+] Periscope: https://www.pscp.tv/michaelwhoover
+[+] smart-lab.ru: https://smart-lab.ru/profile/michaelwhoover/
+[+] Pling: https://www.pling.com/u/michaelwhoover/
+[+] joyreactor.cc: https://joyreactor.cc/user/michaelwhoover
+[!] Too many errors of type "Bot protection" (8.45%). Try to switch to another ip address
+[-] You can see detailed site check errors with a flag `--print-errors`
+[-] JSON simple report for michaelwhoover saved in /Users/jeffersonstovall/Sites/hm-outreach/runs/2026-10-13-ct-cold/t2-sponsored-rooms/maigret/./report_michaelwhoover_simple.json
+[*] Short text report:
+Search by username michaelwhoover returned 8 accounts.
+Found target's other IDs: michael.w.hoover.
+Extended info extracted from 2 accounts.
+Countries: ru, nl
+Interests (tags): social, art, messaging, business, networking, professional, forum, tech, streaming, video, finance, apps, coding, design
