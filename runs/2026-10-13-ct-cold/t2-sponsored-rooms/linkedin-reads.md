@@ -151,3 +151,9 @@ Pages opened: people search ("Tim Mages Expansion Capital Group"; one match, Sio
 Opened profile and Contact info panels to look for a printed email. Profile views are attributable to his account.
 - Jason McMurray (jason-m-99b2bb127): profile + Contact info; no email (profile link, birthday only).
 - Alex Osborne (osbornealex): profile + Contact info; no email.
+
+### 2026-10-20, wave 3b reads (lead, Jefferson's Chrome, read-only)
+Profile views are attributable to his account.
+- Pamela McQueen (pamela-mcqueen-03b6ba1): search, profile + Contact info, experience, activity, comments.
+- Judith Fouts (judith-fouts-a944622): search, profile + Contact info, experience, activity (summit contact; not a target).
+- Michael Hoover (michaelwhoover): search, profile + Contact info, experience, activity.

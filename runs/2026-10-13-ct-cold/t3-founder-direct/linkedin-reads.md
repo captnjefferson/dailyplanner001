@@ -173,3 +173,9 @@ Pages opened: people search ("Jason Fried 37signals"; one match) · /in/jason-fr
 Opened profile and Contact info panels to look for a printed email. Profile views are attributable to his account.
 - Rob Levin (robertslevin): profile + Contact info; no email (Substack, workbetternow.com only).
 - Lauren Kleinman (laurenkleinman): profile + Contact info; no email.
+
+### 2026-10-20, wave 3b reads (lead, Jefferson's Chrome, read-only)
+Profile views are attributable to his account.
+- Jonathan Merel (jonathanmerel): search, profile + Contact info, activity (20), comments.
+- Shawn Kerendian (shawn-kerendian-0b88ab16): search, profile + Contact info, activity (20).
+- Ben Feuer (benfeuer): search, profile + Contact info, activity (20).
