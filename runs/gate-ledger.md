@@ -286,3 +286,24 @@
 
 ## 2026-10-13 (/gate)
 (no new roles — all 13 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-14 (/gate)
+(no new roles — all 13 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-15 (/gate)
+(no new roles — all 13 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-16 (/gate)
+(no new roles — all 13 Inbox/Sourced/Review rows already scored)
+
+## 2026-10-17 (/gate)
+2026-10-17 | Blackbaud — Vice President, Change Management & Organization Design (Remote Flex) | https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers/job/Remote---Anywhere---USA/Vice-President--Change-Management---Organization-Design_R0014777 | PASS(C1:1 C2:1 C3:2 = 4/6; VP seat on the People & Culture Leadership Team + Transformation Office, mandate = "shape Blackbaud's transformation into a world-class AI-first company" — AI-enabled change strategy, capability-building, AI literacy/digital fluency frameworks, and PERSONALLY leading training sessions/leadership workshops/playbooks as a player-coach; the enablement lane by name. C1:1 not 2 because the org is a public SaaS vendor (NASDAQ: BLKB, ~2,700 staff) SERVING nonprofits/social good rather than a target-sector org itself, and roughly half the seat is enterprise org design / strategic workforce planning / HR-transformation he hasn't done. NOT health (social-impact software — Raiser's Edge, Financial Edge, JustGiving). 50%-RULE on 14 stated quals ≈ 8/14 (~57%): ✓ exec-stakeholder influence, AI-enabled transformation incl. GenAI adoption, translating emerging tech into capability strategy, building adoption frameworks, delivering large-scale training (PromptLab ~400+, DMAS keynote, lobbying-firm playbook), working through SMEs in matrixed orgs, strategist+practitioner who personally builds content, facilitation/exec presentation; partial on "10+ yrs spanning org design/workforce strategy/change/HR transformation"; ✗ on 5+ yrs VP-level transformation in complex GLOBAL orgs, org redesigns/operating-model/workforce-planning track record, workforce-analytics depth, talent-strategy/org-effectiveness depth, OD certifications (desirable only). Clears the rule narrowly — misses cluster on the HR/org-design half; flag for Jefferson's gut. C2:1 — HM inferred at M: seat "within the People & Culture Leadership Team" → Chief People & Culture Officer Maggie Driscoll (in seat since Jan 2020 per blackbaud.com newsroom; exec page undated — verify still current); Transformation Office leader not yet identified. C3:2 — public co: 10-K, earnings calls, "Intelligence for Good" AI vision, press on AI-first transformation + Hyderabad build-out (dozens of India reqs on the live board). COMP UNVERIFIED: no range in the Workday JD or on careers.blackbaud.com; card figure $167–317K is a comp aggregator, Ladders estimates $180–220K — VP at a ~$1.1B-revenue public co, no credible reading puts the max below $125K, so no pre-filter trip; keep flagging. Remote - Anywhere - USA; travel unstated; no eligibility issue. LIVENESS: LIVE — canonical Workday req R0014777 posted 2026-10-13 (Phenom dateCreated 10/07), returned by CXS search; the card's Jobgether/Lever URL is 404 + API "Document not found" (aggregator mirror pulled) — swap the card's Detail to the canonical URL above. No warm path in network.md/associations-map (grep clean). Side note for the run: JD includes leading the P&E shift "from today's many functional roles toward fewer, broader roles as AI reshapes how products are built" — i.e., this seat carries the workforce-consolidation change story; the note should not pretend otherwise.)
+
+## 2026-10-18 (/gate)
+(no new roles — all 14 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777)
+
+## 2026-10-19 (/gate)
+(no new roles — all 14 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777)
+
+## 2026-10-20 (/gate)
+(no new roles — all 14 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777. Job search and Catalyst paused per Jefferson 2026-10-19 — scoring only, nothing routed)
