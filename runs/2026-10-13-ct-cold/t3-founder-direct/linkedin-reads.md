@@ -168,3 +168,8 @@ Pages opened: people search ("Jason Fried 37signals"; one match) · /in/jason-fr
 - **Register:** blunt, plain, contrarian, funny; short declaratives, the occasional profanity for effect, and numbers to make the point ($24,000,000; 55 paid, 50 came). Replies are one line ("Go for it!", "Rules are more fun to break.").
 - **Read for the note:** he is building with AI himself and saying so in public: Write_On "with Claude's help… About 4 hours work," and his "first piece of software… made solo entirely with AI." He also holds the line that speed and "the number of people or agents" do not make a product better. A note in his register (short, concrete, no hype, an actual observation) is the only kind that fits.
 - **Humantic:** **read.** "ic · The Observer," D 53 · I 64 · S 46 · C 53, analysis confidence High (100%). See humantic/jason-fried.md.
+
+### 2026-10-20, contact-panel pass (lead, Jefferson's Chrome, read-only)
+Opened profile and Contact info panels to look for a printed email. Profile views are attributable to his account.
+- Rob Levin (robertslevin): profile + Contact info; no email (Substack, workbetternow.com only).
+- Lauren Kleinman (laurenkleinman): profile + Contact info; no email.

@@ -146,3 +146,8 @@ Pages opened: people search ("Tim Mages Expansion Capital Group"; one match, Sio
 - **Register:** confident, clean, purposeful; short lines with a turn ("Not just for business, but for job creation"); a dare to his own town ("I challenge every serious operator in Sioux Falls to show up"). Comments are warm and quick, double exclamation marks ("crush it!!").
 - **Read for the note:** he has already put his own four-question test for AI on record (revenue, risk, how teammates use it, where it is a distraction) and promised a second panel. A note that answers his questions in his order, with no hype, fits him. He is 2nd-degree on LinkedIn.
 - **Humantic:** no read ("Can't open this profile"), although he is 2nd-degree. See humantic/tim-mages.md.
+
+### 2026-10-20, contact-panel pass (lead, Jefferson's Chrome, read-only)
+Opened profile and Contact info panels to look for a printed email. Profile views are attributable to his account.
+- Jason McMurray (jason-m-99b2bb127): profile + Contact info; no email (profile link, birthday only).
+- Alex Osborne (osbornealex): profile + Contact info; no email.

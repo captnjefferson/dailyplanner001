@@ -214,3 +214,7 @@ Pages opened: people search ("Angelo Sisco Vistage"; one match, Chicago) · /in/
 - **Register:** raw, personal, short lines and one-sentence paragraphs; a confession or a scene first, then the lesson; street-warm sign-offs ("Better humans, baby."); spiritual vocabulary mixed with operator numbers ($3,000 / $2,000 a month; $8–9 million). Coached on LinkedIn voice (Doug Lawson).
 - **Read for the note:** he has already run an AI Show and Tell for his group and has a public view of where AI lands: policy and compliance into a machine, "heart-centered people officers" left, companies "as workflows… with AI sitting in the middle." He is new in the chair seat (Sep 2025) and posts his group's price, schedule and retreat in the open. A note that meets him on his own AI thesis and on "better humans," not on tools, fits.
 - **Humantic:** no read ("Can't open this profile"), although he is 2nd-degree. See humantic/angelo-sisco.md.
+
+### 2026-10-20, contact-panel pass (lead, Jefferson's Chrome, read-only)
+Opened profile and Contact info panels to look for a printed email. Profile views are attributable to his account.
+- Jason Potts (jason-potts-2711626): profile + Contact info; no email (profile link, blinkfs.com only).
