@@ -1,6 +1,6 @@
 # Everyone identified, by the ask (2026-10-21)
 
-**What this is.** Everyone identified for the cold-outreach test, grouped by what we eventually want from them, with the people who have an email address of their own (work or personal) first. "In test" = drafted and in the send window; "Reserve" = found by a search, not read or drafted. Reserve addresses come from the searches and have not all been rechecked. Nothing has been sent.
+**What this is.** Everyone identified for the cold-outreach test who has an email address of their own, work or personal, grouped by what we eventually want from them. Jefferson, 10/21: "If we don't have their work or personal email, that goes to them, that is disqualifying"; twelve people without one were removed. "In test" = drafted and in the send window; "Reserve" = found by a search, not read or drafted. Reserve addresses come from the searches and have not all been rechecked. Nothing has been sent.
 
 ## 1. Speak to their peer group (EO learning chairs, Vistage chairs)
 
@@ -18,9 +18,6 @@
 | Michael McCarty | EO Minnesota learning chair | michael@edgefallprotection.com | In test |
 | Angelo Sisco | Vistage chair, Chicago area | Angelo@siscoadvisors.com | In test |
 | Walter Paulsen | Vistage chair, Palo Alto | walter.paulsen@vistagechair.com | Held: his chair role may have ended |
-| John-Scott Dixon | EO Arizona | not searched | Out, your call 10/15 |
-| Rob DeVita | EO Dallas learning chair | not searched | Reserve |
-| Camille Healy | EO Cincinnati learning chair | not searched | Reserve |
 
 ## 2. Speak at their firm's owner event (hosts at banks, accounting, law and insurance firms)
 
@@ -43,8 +40,6 @@
 | Jon Nordin | Sterling Seacrest Pritchard risk summit (Atlanta) | jnordin@sspins.com | Reserve; no 2026 date found |
 | James Tuft | Horton Group webinars (Minneapolis) | james.tuft@thehortongroup.com | Reserve; firm now part of Marsh McLennan |
 | Judith Fouts | Bennett Thrasher summit contact | Judith.Fouts@btcpa.net | Not a target: marketing staff; Hoover took the slot |
-| Jason McMurray | Holmes Murphy construction webinar (Des Moines) | none | Dropped |
-| Alex Osborne | G&A Partners owner webinars | only info@ | Dropped |
 
 ## 3. Advise their company (founders of 25-to-100-person companies)
 
@@ -63,9 +58,6 @@
 | Vickie Martin | Martin Starnes CPAs (North Carolina) | vmartin@martinstarnes.com (archived, 2022) | Reserve |
 | Dennis Meador | The Legal Podcast Network | dennis@thelegalpodcastnetwork.com (on a third party's page) | Reserve |
 | Dan Garzella | Garzella Group insurance (Scottsdale) | dan@garzellagroup.com (archived, 2024) | Reserve |
-| Anna Singleton | Show My Property (Los Angeles) | none | Held |
-| Rob Levin | WorkBetterNow (New York) | only hello@ | Dropped |
-| William Vanderbloemen | Vanderbloemen Search Group (Houston) | not searched | Out, your call 10/15 |
 
 ## 4. A guest spot or a topic for their audience (doors; each reaches one target above)
 
@@ -95,11 +87,6 @@
 | Todd Michaud | CEO, HuLoop | Chediak | todd@huloop.ai | Reserve; weak tie |
 | Dean Jackson | Host, More Cheese Less Whiskers | Garrido | dean@deanjackson.com | Reserve |
 | David Rees | Editor, Pet Business World | Flanagan | david.rees@lewisbusinessmedia.co.uk | Reserve; weak tie |
-| Becky Boyd | Marketing director, Rea | Brickwood | only hello@ | Held |
-| Shawna Holley | Weintraub Tobin staff | Chediak | phone only | Held |
-| Noelle Cordeaux | Lumia Coach Training | Flanagan | only hey@ | Dropped |
-| Clayton Payne | Host, Pet Business Disruptors | Flanagan | shared show inbox only | Dropped |
 
-Not listed: candidates screened out for having no email of their own (14 doors, 5 hosts and the founders in the founder search). They are in the sweep files, sweeps/widen-2026-10-20-*.md.
 
 Drafted with Claude — directed, edited, and approved by Jefferson.
