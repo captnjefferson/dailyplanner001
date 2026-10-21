@@ -307,3 +307,6 @@
 
 ## 2026-10-20 (/gate)
 (no new roles — all 14 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777. Job search and Catalyst paused per Jefferson 2026-10-19 — scoring only, nothing routed)
+
+## 2026-10-21 (/gate)
+(no new roles — all 14 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777. Pause note carried from the 10/20 line — closest sourced record is the 10/19 Today-page rebuild with job search removed (project_state_of_play) and his 10/18 "trying not to make ANY calls during this period" (decisions-log); no verbatim "Catalyst paused" ruling found — scoring only, nothing routed)
