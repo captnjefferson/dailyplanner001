@@ -325,3 +325,6 @@
 
 ## 2026-10-26 (/gate)
 (no new roles — all 15 Inbox/Sourced/Review rows already scored; Blackbaud card still carries the dead Jobgether/Lever mirror URL, matched to the 10/17 entry under canonical Workday R0014777; Greenhouse VP Talent card matched to the 10/25 FAIL/dead-req entry. Job search and Catalyst paused per Jefferson 10/19 (rules-briefings: "leave them out of every briefing") — scoring only, nothing routed)
+
+## 2026-10-27 (/gate)
+(no new roles — all 16 Inbox/Sourced/Review rows already scored. The 16th row is a DUPLICATE CARD: "Blackbaud (via Jobgether) — VP, Change Management & Organization Design," Notion page 406164c1-810d-815a-b834-cf1cf11fd4f5, created 2026-10-27 by the overnight sweep with the SAME dead Jobgether/Lever mirror URL (c87932c1-4791-499f-b9ec-30ad79f9750b) as the 10/17 card 3fc164c1-810d-81a3-b826-f33287541250 — same role, already scored PASS 10/17 under canonical Workday R0014777; not re-scored. Sweep-tooling note: dedupe on Detail URL before creating a card — this mirror URL was already 404 on 10/17. Job search and Catalyst paused per Jefferson 10/19 (rules-briefings: "leave them out of every briefing") — scoring only, nothing routed)
