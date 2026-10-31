@@ -334,3 +334,9 @@
 
 ## 2026-10-29 (/gate)
 (no new roles — all 16 Inbox/Sourced/Review rows already scored; newest card is still the 10/27 Blackbaud duplicate 406164c1, open alongside the 10/17 card, both on the dead Jobgether/Lever mirror URL, matched to canonical Workday R0014777. Job search and Catalyst paused per Jefferson 10/19 (rules-briefings: "leave them out of every briefing") — scoring only, nothing routed)
+
+## 2026-10-30 (/gate)
+(no new roles — all 16 Inbox/Sourced/Review rows already scored; newest card is still the 10/27 Blackbaud duplicate 406164c1, open alongside the 10/17 card, both on the dead Jobgether/Lever mirror URL, matched to canonical Workday R0014777. Job search and Catalyst paused per Jefferson 10/19 (rules-briefings: "leave them out of every briefing") — scoring only, nothing routed)
+
+## 2026-10-31 (/gate)
+(no new roles — all 16 Inbox/Sourced/Review rows already scored; newest card is still the 10/27 Blackbaud duplicate 406164c1, open alongside the 10/17 card, both on the dead Jobgether/Lever mirror URL, matched to canonical Workday R0014777. Job search and Catalyst paused per Jefferson 10/19 (rules-briefings: "leave them out of every briefing") — scoring only, nothing routed)
